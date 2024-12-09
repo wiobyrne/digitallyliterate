@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/03-create/classes/dl-educator/digitally-literate-educator/","title":"Digitally Literate Educator","tags":["education","project-based-learning","digital-literacy"]}
 ---
 
+
 # Digitally Literate Educator 🌐
 
 Educational technology is transforming classroom instruction, moving beyond oral and print-based traditions to embrace online, electronic, and multimedia texts. The Internet and communication technologies (ICTs) create opportunities for reading, writing, and collaboration that extend beyond traditional classroom walls. However, these shifts raise questions about how to provide authentic and effective educative experiences for students.
@@ -32,11 +33,11 @@ Participants will leave with a detailed plan for a technology-infused PBL projec
 
 ### **Pedagogy**
 
-1. [[03 CREATE/Classes/DL Educator/LE1\|LE1]]
-2. [[03 CREATE/Classes/DL Educator/LE2 - Beginning with the end in mind\|LE2 - Beginning with the end in mind]]
-3. [[03 CREATE/Classes/DL Educator/LE3 - Breaking it down\|LE3 - Breaking it down]]
-4. [[03 CREATE/Classes/DL Educator/LE4 - Time is precious\|LE4 - Time is precious]]
-5. [[03 CREATE/Classes/DL Educator/LE5 - Keep it simple\|LE5 - Keep it simple]]
+1. [[03 CREATE/Classes/DL Educator/LE1\|LE1]] Why are we here?
+2. [[03 CREATE/Classes/DL Educator/LE2\|LE2]] Beginning with the end in mind
+3. [[03 CREATE/Classes/DL Educator/LE3\|LE3]] Breaking it down
+4. [[03 CREATE/Classes/DL Educator/LE4\|LE4]] Time is precious
+5. [[03 CREATE/Classes/DL Educator/LE5\|LE5]] Keep it simple
 
 ### **Engaging, Connecting, & Scaffolding**
 

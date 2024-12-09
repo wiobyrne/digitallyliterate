@@ -7,7 +7,7 @@
 
 ![DLE_LE1.jpg](/img/user/04%20META/Assets/DLE_LE1.jpg)
 
-## Welcome to Learning Event 1 (LE1) 🎯
+## Welcome to Learning Event 1 🎯
 
 ## Why Are We Here? 🌟
 
