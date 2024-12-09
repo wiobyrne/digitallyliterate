@@ -33,11 +33,11 @@ Participants will leave with a detailed plan for a technology-infused PBL projec
 
 ### **Pedagogy**
 
-1. [LE1 – What are we here for?](https://digitallyliterate.net/ele1/)
-2. [LE2 – Begin with the end in mind](https://digitallyliterate.net/ele2/)
-3. [LE3 – Breaking it down](https://digitallyliterate.net/ele3/)
-4. [LE4 – Time is precious…spend it wisely](https://digitallyliterate.net/ele4/)
-5. [LE5 – Keep it simple](https://digitallyliterate.net/ele5/)
+1. [[03 CREATE/Classes/Digitally Literate Educator/LE1 - Why are we here?\|LE1 - Why are we here?]]
+2. [[03 CREATE/Classes/Digitally Literate Educator/LE2 - Beginning with the end in mind\|LE2 - Beginning with the end in mind]]
+3. [[03 CREATE/Classes/Digitally Literate Educator/LE3 - Breaking it down\|LE3 - Breaking it down]]
+4. [[03 CREATE/Classes/Digitally Literate Educator/LE4 - Time is precious\|LE4 - Time is precious]]
+5. [[03 CREATE/Classes/Digitally Literate Educator/LE5 - Keep it simple\|LE5 - Keep it simple]]
 
 ### **Engaging, Connecting, & Scaffolding**
 
