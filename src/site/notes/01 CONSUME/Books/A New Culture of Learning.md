@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/a-new-culture-of-learning/","title":"A New Culture of Learning","tags":["education","learning culture","digital age","innovation","technology in education"]}
+{"dg-publish":true,"permalink":"/01-consume/books/a-new-culture-of-learning/","title":"A New Culture of Learning","tags":["education","learning","culture","digital","age","innovation","technology","in","education"]}
 ---
 
 
