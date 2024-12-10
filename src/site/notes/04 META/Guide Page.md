@@ -17,7 +17,7 @@ Welcome to the behind-the-scenes tour of my digital garden! Here's how I organiz
 - **Example**: Expanding a seed by linking related notes or adding key insights.
 - **Location**: [CREATE > Notes > Plants](#plants-inbox)
 
-## 🌳 Evergreen Notes
+## 🌲 Evergreen Notes
 - **Purpose**: Refined and complete thoughts, ready for long-term use.
 - **Example**: A well-developed essay or thoroughly explained concept.
 - **Location**: [CREATE > Notes > Evergreens](#evergreens-inbox)
