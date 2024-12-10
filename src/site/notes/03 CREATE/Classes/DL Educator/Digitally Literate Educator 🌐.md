@@ -49,4 +49,4 @@ Participants will leave with a detailed plan for a technology-infused PBL projec
 
 ### **Assessment & Evaluation**
 
-Coming Soon 🙂
+11. [[03 CREATE/Classes/DL Educator/LE11\|LE11]] Designing Authentic Assessments
