@@ -41,10 +41,11 @@ Participants will leave with a detailed plan for a technology-infused PBL projec
 
 ### **Engaging, Connecting, & Scaffolding**
 
-6. [LE6 – Moving Across Screens](https://digitallyliterate.net/ele6/)
-7. [LE7 – Show as Opposed to Tell](https://digitallyliterate.net/ele7/)
-8. [LE8 – Scaffolding Student Engagement](https://digitallyliterate.net/ele8/)
-9. [LE9 – Don’t Reinvent the Wheel](https://digitallyliterate.net/ele9/)
+6. [[03 CREATE/Classes/DL Educator/LE6\|LE6]] Moving Across Screens
+7. [[03 CREATE/Classes/DL Educator/LE7\|LE7]] Show as Opposed to Tell
+8. [[03 CREATE/Classes/DL Educator/LE8\|LE8]] Scaffolding Student Engagement
+9. [[03 CREATE/Classes/DL Educator/LE9\|LE9]] Don’t Reinvent the Wheel
+10. [[03 CREATE/Classes/DL Educator/LE10\|LE10]] Cultivate a Sense of Belonging
 
 ### **Assessment & Evaluation**
 
