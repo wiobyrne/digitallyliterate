@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌟 Welcome to My Digital Garden","tags":["overview","hub","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"🌟 Welcome to My Digital Garden","tags":["overview","hub","gardenEntry"]}
 ---
 
 
@@ -26,4 +26,4 @@ This garden grows as I:
 ## 🛠️ About This Garden
 This site is part of my personal knowledge management system. If you're curious about how I organize ideas or want to build your own, check out the **[[04 META/Guide Page\|Guide Page]]**.
 
-Happy exploring!
+Happy exploring! 🌟
