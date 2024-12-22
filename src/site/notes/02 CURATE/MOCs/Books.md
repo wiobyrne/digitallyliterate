@@ -6,15 +6,21 @@
 # Books
 
 ## 📚 Complete Library
-```dataview
-table 
-  ("![](" + cover + ")") as Cover,
-  title as Title,
-  pages as Pages,
-  author as Author,
-  rating as Rating,
-  status as Status,
-  tags as Tags
-from "01 CONSUME/Books"
-where cover != null
-sort title asc
+
+```dataviewjs
+dv.table(
+  ["Cover", "Title", "Pages", "Author", "Rating", "Status", "Tags"],
+  dv.pages('"01 CONSUME/Books"')
+    .where(b => b.cover)
+    .sort(b => b.title, 'asc')
+    .map(b => [
+      `![](${b.cover})`,
+      b.title,
+      b.pages,
+      b.author,
+      b.rating,
+      b.status,
+      b.tags
+    ])
+);
+
