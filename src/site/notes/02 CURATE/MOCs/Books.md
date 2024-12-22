@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-curate/mo-cs/books/","title":"Books Overview","tags":["books","library"]}
+{"dg-publish":true,"permalink":"/02-curate/mo-cs/books/","title":"Books Overview","contentClasses":"cards","tags":["books","library"]}
 ---
 
 
