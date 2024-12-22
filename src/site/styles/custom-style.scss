@@ -1,13 +1,61 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    /* Background and text styles */
+    background-color: #fff; /* Light theme background */
+    color: hsl(205, 20%, 32%); /* Default text color */
+    font-family: 'Inter', sans-serif; /* Default font for body text */
+    line-height: 1.6; /* Better readability */
+    margin: 0;
+    padding: 0;
+}
+
+/* Add custom styles for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Averia Serif Libre', serif; /* Stylish font for headers */
+    color: hsl(205, 30%, 27%); /* Slightly darker color for headers */
+    margin-bottom: 0.5em;
+}
+
+/* Dark mode styles */
+[data-theme='dark'], .theme-dark {
+    background-color: #11191f; /* Dark theme background */
+    color: hsl(205, 16%, 77%); /* Light text for dark theme */
+}
+
+/* Links */
+a {
+    color: hsl(195, 85%, 41%); /* Bright link color */
+    text-decoration: none; /* Remove underline by default */
+}
+
+a:hover {
+    color: hsl(195, 90%, 32%); /* Darker color on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Buttons */
+button {
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(195, 85%, 41%);
+    color: white;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: hsl(195, 90%, 32%);
+}
+
+/* Additional custom classes */
+.content {
+    font-size: 16px; /* Increase font size for better readability */
+    padding: 1em; /* Add padding to the content area */
+}
+
+/* Gradient background option */
+body.gradient-bg {
+    background: linear-gradient(180deg, #12b886 0%, #0ca678 100%);
+    color: white;
 }
