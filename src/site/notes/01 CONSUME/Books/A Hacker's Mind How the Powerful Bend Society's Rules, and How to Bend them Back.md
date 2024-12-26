@@ -53,7 +53,3 @@ Bruce Schneier is a renowned security technologist and author. His expertise cov
 - Related Books:
   - ["The Art of Invisibility" by Kevin Mitnick](https://www.goodreads.com/book/show/30646588-the-art-of-invisibility)
   - ["Future Crimes" by Marc Goodman](https://www.goodreads.com/book/show/22609656-future-crimes)
----
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]

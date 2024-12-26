@@ -45,7 +45,3 @@ Jeff VanderMeer is an acclaimed American author known for his contributions to t
 - [Jeff VanderMeer's Official Website](http://www.jeffvandermeer.com/)
 - Other works by Jeff VanderMeer: "Borne", "Dead Astronauts"
 - Related books: "The Road" by Cormac McCarthy, "The Left Hand of Darkness" by Ursula K Le Guin
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

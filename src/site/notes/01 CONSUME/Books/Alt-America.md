@@ -40,7 +40,3 @@ The major themes include extremism, racism, xenophobia, and conspiracy theories.
 ## About the Author
 David Neiwert is a journalist and author who specializes in American right-wing movements. He has written extensively on topics such as hate crimes, domestic terrorism, and extremism. Neiwert is known for his rigorous research and analytical approach.
 
----
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]

@@ -46,7 +46,3 @@ Jeff VanderMeer is an American author known for his contribution to the New Weir
 - [Jeff VanderMeer's Official Website](http://www.jeffvandermeer.com/)
 - Other works by Jeff VanderMeer: "Annihilation", "Authority", and "Borne"
 - Related books: “The Road” by Cormac McCarthy, "The Hunger Games" by Suzanne Collins
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

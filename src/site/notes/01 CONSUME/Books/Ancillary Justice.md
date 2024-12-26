@@ -53,6 +53,3 @@ Ann Leckie is an American author known for her science fiction works. Her debut 
 - Related Books:
   - ["The Left Hand of Darkness" by Ursula K. Le Guin](https://example.com)
   - ["Leviathan Wakes" by James S.A. Corey](https://example.com)
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]

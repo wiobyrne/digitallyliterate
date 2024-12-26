@@ -49,7 +49,3 @@ Krista Tippett is a renowned journalist, author, and radio host. She is best kno
 - ["Einstein's God" by Krista Tippett]
 - [Related: "The Wisdom of Sundays: Life-Changing Insights from Super Soul Conversations" by Oprah Winfrey]
 
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

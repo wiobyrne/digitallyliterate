@@ -48,7 +48,3 @@ Yuval Noah Harari is a renowned historian and author whose work focuses on broad
 - [Author's website or relevant resources](http://www.ynharari.com/)
 - Other works by the author: [[01 CONSUME/Books/Sapiens\|Sapiens]]: A Brief History of Humankind, "Homo Deus: A Brief History of Tomorrow"
 - Related books or articles: "The Age of Surveillance Capitalism" by Shoshana Zuboff, "The Second Machine Age" by Erik Brynjolfsson and Andrew McAfee
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

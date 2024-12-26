@@ -47,7 +47,3 @@ Andy Weir is a bestselling American novelist known for his debut novel "The Mart
 - Other works by Andy Weir: "The Martian", "Project Hail Mary"
 - Related books: "Red Mars" by Kim Stanley Robinson, "Moon Base" by Ben Bova
 
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

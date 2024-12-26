@@ -44,7 +44,3 @@ Richard K. Morgan is an English author best known for his cyberpunk novels featu
 - Other works by Richard Morgan: "Broken Angels," "Woken Furies," (Takeshi Kovacs series), "Market Forces," "Black Man/Thirteen."
 - Related books: "Neuromancer" by William Gibson, "Snow Crash" by Neal Stephenson.
 
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

@@ -59,9 +59,7 @@
 - [Other books by James Clear]
 - [Related articles on habit formation]
 
-## Readwise Highlights
-[Readwise will append synced highlights here.]<%* const bookTitle = tp.frontmatter.title || "Untitled Book"; await tp.file.rename(bookTitle); %>
-
+## Highlights
 
 Focus on Identity over Outcome: ie "I'm the guy who..." over thinking about the result I want...Every action you take is you casting a vote for your identity.
 

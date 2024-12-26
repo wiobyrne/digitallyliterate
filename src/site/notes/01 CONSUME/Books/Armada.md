@@ -46,7 +46,3 @@ Ernest Cline is an American novelist, screenwriter, and spoken word artist known
 - [Author's website](http://www.ErnestCline.com)
 - Other works by Ernest Cline: Ready Player One
 - Related books: Ender's Game by Orson Scott Card; Snow Crash by Neal Stephenson
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

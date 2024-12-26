@@ -31,6 +31,3 @@ Adrian Tchaikovsky is a British author best known for his work in fantasy and sc
 
 ## Further Reading
 - [Author's Website](https://adriantchaikovsky.com/)
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]

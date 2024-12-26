@@ -53,8 +53,3 @@ Andrew H. Knoll is a renowned paleontologist and professor of Natural History at
 - [Harvard University Faculty Page]
 - [Other Books by Andrew H. Knoll: "Life on a Young Planet", "The Proterozoic Biosphere"]
 - [Related Books: "The Story of Earth" by Robert M. Hazen, "The Ends of the World" by Peter Brannen]
----
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]---
-

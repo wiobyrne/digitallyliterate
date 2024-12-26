@@ -44,7 +44,3 @@ Tomi Adeyemi is a Nigerian-American novelist and creative writing coach. She is 
 - [Tomi Adeyemi's Website](https://www.tomiadeyemi.com/)
 - [Children of Virtue and Vengeance - Sequel to Children of Blood and Bone](https://www.goodreads.com/book/show/34728667-children-of-virtue-and-vengeance)
 - [Related: "The Gilded Wolves" by Roshani Chokshi](https://www.goodreads.com/book/show/39863498-the-gilded-wolves)
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

@@ -49,7 +49,3 @@ Kim Stanley Robinson is an American author known for his works of science fictio
 - [Kim Stanley Robinson's website](http://www.kimstanleyrobinson.info/)
 - Other works by Kim Stanley Robinson: Red Mars, Green Mars
 - Related books: The Expanse series by James S.A. Corey, The Martian by Andy Weir
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

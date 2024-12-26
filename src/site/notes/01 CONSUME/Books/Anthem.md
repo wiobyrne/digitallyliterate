@@ -53,7 +53,3 @@ Noah Hawley is an American author, screenwriter, and producer known for creating
 - [Other Books by Noah Hawley: "Before the Fall", "The Good Father", "A Conspiracy of Tall Men"]
 - [Related Books: "1984" by George Orwell, "Brave New World" by Aldous Huxley]
 
----
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]

@@ -48,7 +48,3 @@ Richard K. Morgan is a British science fiction and fantasy author. He is known f
 - ["Altered Carbon" by Richard K. Morgan]
 - ["Woken Furies" by Richard K. Morgan]
 
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

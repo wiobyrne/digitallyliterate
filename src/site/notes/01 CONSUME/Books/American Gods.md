@@ -49,7 +49,3 @@ Neil Gaiman is an award-winning British author known for his work in both novels
 - Other works by Neil Gaiman: "Coraline," "Stardust," "The Graveyard Book"
 - Related books: “Good Omens” by Terry Pratchett & Neil Gaiman; “The Sandman” series by Neil Gaiman.
 
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

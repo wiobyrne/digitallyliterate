@@ -49,11 +49,6 @@ Zaretta Hammond is a former writing teacher turned equity freedom fighter. She h
 
 ## Further Reading
 - [Zaretta Hammond's Website](http://www.ready4rigor.com/)
-- Other Books by Zaretta Hammond: N/A
 - Related Books or Articles:
   - "The Dreamkeepers: Successful Teachers of African American Children" by Gloria Ladson-Billings
   - "Multiplication Is for White People: Raising Expectations for Other People’s Children" by Lisa Delpit
----
-
-## Readwise Highlights
-> [Readwise will append synced highlights here.]

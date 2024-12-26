@@ -47,8 +47,3 @@ Adrian Tchaikovsky is a British author known for his extensive work in science f
 - [Author's website](http://shadowsoftheapt.com/)
 - Other works by Adrian Tchaikovsky: "Cage Of Souls," "The Doors Of Eden," "Shards Of Earth"
 - Related books: "Blindsight" by Peter Watts; "The Sparrow" by Mary Doria Russell
-
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]

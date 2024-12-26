@@ -48,7 +48,3 @@ James Comey is an American lawyer who served as the Director of the Federal Bure
 - "The Threat: How the FBI Protects America in the Age of Terror and Trump" by Andrew G. McCabe
 - "Fire and Fury: Inside the Trump White House" by Michael Wolff
 
----
-
-## Readwise Highlights
-[Readwise will append synced highlights here.]
