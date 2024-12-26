@@ -30,6 +30,9 @@ I’m currently focused on:
 - Digital garden: [digitallyliterate.net](https://digitallyliterate.net)  
 - LinkedIn: [linkedin.com/in/wiobyrne](https://linkedin.com/in/wiobyrne)  
 
+## Explore More
+- [[04 META/About Me/Curriculum Vitae\|Curriculum Vitae]]
+
 ---
 *This page will evolve as I continue to grow and explore new paths.*
 
