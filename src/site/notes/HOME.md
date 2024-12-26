@@ -7,6 +7,8 @@
 
 # 🌟 Welcome to My Digital Garden
 
+Hi, I’m **W. Ian O’Byrne** – an educator, researcher, and lifelong learner. I explore and share ideas about **digital literacy**, **creativity**, and **education** in this growing collection of thoughts. Learn more [[04 META/About Me/About Me\|About Me]].
+
 Welcome to my evolving collection of ideas, insights, and connections. This digital garden is where I explore and share concepts on **digital literacy**, **creativity**, **education**, and more.
 
 ## 🌐 Explore the Garden
