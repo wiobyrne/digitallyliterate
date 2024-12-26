@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"🌟 Welcome to My Digital Garden","tags":["overview","hub","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Digitally Literate","tags":["overview","hub","gardenEntry"]}
 ---
 
 
 # HOME
 
-# Welcome to My Digital Garden
+# 🌟 Welcome to My Digital Garden
 
 Welcome to my evolving collection of ideas, insights, and connections. This digital garden is where I explore and share concepts on **digital literacy**, **creativity**, **education**, and more.
 
