@@ -11,12 +11,6 @@
     {% endfor %}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
-    <!-- Unique Branding Element -->
-    <div class="site-header" style="text-align: center; margin-bottom: 20px;">
-      <img src="/site/img/user/04 META/Assets/DL-Logo.png" alt="Site Logo" style="height: 80px; margin-bottom: 10px;">
-      <h1 style="font-size: 2rem; margin: 0;">Welcome to Digitally Literate</h1>
-    </div>
-
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
