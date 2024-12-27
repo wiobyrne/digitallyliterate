@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Digitally Literate","tags":["overview","hub","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Digitally Literate","tags":["overview","hub","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -14,7 +14,7 @@ Welcome to my evolving collection of ideas, insights, and connections. This digi
 ## 🌐 Explore the Garden
 Dive into some of the latest updated content:
 - 📚 **[[02 CURATE/MOCs/Books\|Books]]** – Highlights and key insights of my readings
-- 🎓 **[[Digitally Literate Educator\|Digitally Literate Educator]]** – An open online course to help educators integrate technology meaningfully in their classrooms.
+- 🎓 **[[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]]** – An open online course to help educators integrate technology meaningfully in their classrooms.
 
 ## ✨ How This Garden Works
 This garden grows as I:
