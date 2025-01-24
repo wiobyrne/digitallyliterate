@@ -11,9 +11,11 @@ Hi, I’m **Ian O’Byrne** – an educator, researcher, and lifelong learner. I
 
 Welcome to my evolving collection of ideas, insights, and connections. This digital garden is where I explore and share concepts on **digital literacy**, **creativity**, **education**, and more.
 
-## 🌐 Explore the Garden
-Dive into some of the latest updated content:
-- 📚 **[[02 CURATE/MOCs/Books\|Books]]** – Highlights and key insights of my readings
+## 🌐 Explore the Garden 
+Dive into key areas of the garden: - 
+- 📰 **[[02 CURATE/MOCs/Newsletter Index\|Newsletter Index]]** – Explore my newsletters for curated thoughts and resources. 
+- 📝 **[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]** – Browse through my blog posts on various topics. 
+- 📚 **[[02 CURATE/MOCs/Books\|Books]]** – Highlights and key insights from my readings. 
 - 🎓 **[[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]]** – An open online course to help educators integrate technology meaningfully in their classrooms.
 
 ## ✨ How This Garden Works

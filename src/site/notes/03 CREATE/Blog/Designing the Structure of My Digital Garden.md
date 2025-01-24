@@ -71,3 +71,5 @@ This system isn’t static. As my needs evolve, so will my digital garden. I’m
 ---
 
 *Cover photo by Annie Spratt on Unsplash.*
+
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

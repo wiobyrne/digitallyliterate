@@ -67,4 +67,5 @@ The road ahead may be uncertain, but with proactive strategies and a commitment 
 
 ---
 
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 **What are your thoughts on navigating these challenges? Share your strategies in the comments or connect with me at [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net).**
