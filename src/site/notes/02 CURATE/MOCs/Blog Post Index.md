@@ -29,8 +29,8 @@ Use the search bar at the top right to quickly find specific content, or explore
 | [[03 CREATE/Blog/Beyond the Curriculum The Urgent Call for Mental Health Education\|Beyond the Curriculum The Urgent Call for Mental Health Education]] | <ul><li>education</li><li>mental-health</li></ul>                                              |
 | [[03 CREATE/Blog/The Isolation Generation\|The Isolation Generation]]                                                                                   | <ul><li>youth</li><li>speculative-fiction</li><li>creative-writing</li><li>isolation</li></ul> |
 | [[03 CREATE/Blog/The Power of Focusing on What You Have\|The Power of Focusing on What You Have]]                                                       | <ul><li>gratitude</li><li>mindfulness</li></ul>                                                |
+| [[03 CREATE/Blog/AI Coders\|AI Coders]]                                                                                                                 | <ul><li>ai</li><li>coding</li></ul>                                                            |
 | [[03 CREATE/Blog/Blog post re defining safety and play in a digital world\|Blog post re defining safety and play in a digital world]]                   | \-                                                                                             |
-| [[03 CREATE/Blog/Bots, Trolls, and the Future Why Kids Should Lead the Way\|Bots, Trolls, and the Future Why Kids Should Lead the Way]]                 | <ul><li>education</li><li>advocacy</li><li>youth</li></ul>                                     |
 
 { .block-language-dataview}
 ---
