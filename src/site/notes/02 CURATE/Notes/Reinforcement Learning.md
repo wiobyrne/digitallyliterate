@@ -4,24 +4,37 @@
 
 # Reinforcement Learning
 
-## Like I'm Five:
+## **Definition**  
+Reinforcement Learning (RL) is a branch of machine learning where an agent learns by interacting with its environment, receiving rewards for correct actions and penalties for incorrect ones, aiming to maximize its total reward.
 
-Imagine you're playing a video game for the first time. You don't know the rules or how to win, so you try different things. Sometimes you win points, sometimes you lose them. You start to understand that some actions lead to points and others lead to losses. So, you try to repeat what gives you points and avoid what makes you lose. That's pretty much how reinforcement learning works.
+## **Explain Like I'm 5**  
+Imagine you're playing a video game for the first time. You don’t know the rules, so you try different things. Sometimes you win points, sometimes you lose them. Over time, you learn which actions help you score more points. That’s how reinforcement learning works—by trial and error!
 
-## In-Depth Response:
+## **Visual Aid**  
+![reinforcement learning.png](/img/user/04%20META/Attachments%20/reinforcement%20learning.png)
 
+## **Digging Deeper**
 Reinforcement Learning (RL) is a branch of machine learning where an agent learns by interacting with its environment, receiving rewards for correct actions and penalties for incorrect ones, aiming at maximizing its total reward. 
 
 It involves exploring the environment initially without any knowledge and gradually improving its behavior based on the feedback received through rewards or penalties. This learning process is based on the concept of "reward hypothesis". According to this hypothesis, all goals can be described by the maximization of expected cumulative reward.
 
 In RL, an agent makes decisions by following a policy - a map from state to action that tells it what action to take under what circumstances.
 
-## Future Connections:
+## **Applications**  
+Reinforcement Learning is widely used in:  
+- **Robotics** – Training robots to interact with environments.  
+- **Gaming** – AI agents mastering games like chess and poker.  
+- **Recommendation Systems** – Learning user preferences over time.  
+- **Healthcare** – Designing personalized treatments based on patient responses.  
+- **Finance** – Algorithmic trading strategies.  
+- **Energy Efficiency** – Optimizing power usage in smart grids. 
 
-Reinforcement Learning has significant potential in many areas. It can be used in robotics for controlling autonomous vehicles or manipulation tasks, in game playing like chess or poker where the agent can learn strategies over time. 
+## **Learn More**  
+- [Wikipedia: Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning)  
+- [Beginner’s Guide to Reinforcement Learning (YouTube)](https://www.youtube.com/results?search_query=reinforcement+learning+for+beginners)  
+- [Introduction to Reinforcement Learning (Coursera)](https://www.coursera.org/learn/reinforcement-learning)  
 
-Also, it holds great promise in personalized recommendation systems where RL algorithms can learn user preferences over time and make recommendations accordingly.
-
-In healthcare, RL could potentially be used for personalized treatment designs where treatments are constantly adjusted based on patient's response.
-
-Furthermore, reinforcement learning has been shown to have potential applications in energy efficiency, finance (algorithmic trading), advertising (real-time bidding), and many other fields.
+## **Related Terms**  
+- [[02 CURATE/Notes/Deep Learning\|Deep Learning]]  
+- [[02 CURATE/Notes/Supervised Learning\|Supervised Learning]]  
+- [[02 CURATE/Notes/Unsupervised Learning\|Unsupervised Learning]]  
