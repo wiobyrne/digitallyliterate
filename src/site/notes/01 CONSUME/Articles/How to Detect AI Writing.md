@@ -20,7 +20,7 @@ Take this prompt: In 300 words or less, explain how this SWAT and brand audit wi
 
 This is ChatGPT's result:
 
-![How to Detect AI Writing.webp](/img/user/04%20META/Attachments%20/How%20to%20Detect%20AI%20Writing.webp)
+![How to Detect AI Writing.webp](/img/user/04%20META/Assets/How%20to%20Detect%20AI%20Writing.webp)
 
 I have received responses like this, or those very close to it, a few times in my tenure as a teacher, and one of the most recognizable red flags is the amount of instances in which key terms from the prompt are used in the final product. 
 

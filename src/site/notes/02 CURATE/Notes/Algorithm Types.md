@@ -19,7 +19,7 @@ There are several types of algorithms, all designed to accomplish different task
 - **Randomized algorithm.** This algorithm reduces running times and time-based complexities. It uses random elements as part of its logic.
 
 ## **Visualization**  
-![algorithm types.png](/img/user/04%20META/Attachments%20/algorithm%20types.png)
+![algorithm types.png](/img/user/04%20META/Assets/algorithm%20types.png)
 
 
 ## **Learn More**  

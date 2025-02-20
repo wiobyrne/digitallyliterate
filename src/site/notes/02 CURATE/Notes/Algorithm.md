@@ -11,7 +11,7 @@ An algorithm is a set of step-by-step instructions designed to perform a particu
 Think of an algorithm like a cooking recipe. It tells you what ingredients you need and the steps you have to follow in order to make a dish.
 
 ## **Visualization**  
-![Algorithm Flow.png](/img/user/04%20META/Attachments%20/Algorithm%20Flow.png)
+![Algorithm Flow.png](/img/user/04%20META/Assets/Algorithm%20Flow.png)
 
 Keep in mind, after completion, you need to go back and analyze whether the goal was accomplished and if you need to revise, iterate or [[debug\|debug]] the algorithm and start again.
 

@@ -103,7 +103,7 @@ For instance, educators can use smartphones to:
 - Implement interactive learning activities through apps and platforms.
 - Foster collaboration and communication in group projects.
 
-![Why Blanket Bans on Tech in Schools Don't Work.png](/img/user/04%20META/Attachments%20/Why%20Blanket%20Bans%20on%20Tech%20in%20Schools%20Don't%20Work.png)
+![Why Blanket Bans on Tech in Schools Don't Work.png](/img/user/04%20META/Assets/Why%20Blanket%20Bans%20on%20Tech%20in%20Schools%20Don't%20Work.png)
 #### Professional Development and Media Education
 
 To make this approach effective, schools must invest in the professional development of their teaching staff. Teachers need training on how to integrate technology into their curriculum effectively and safely. Simultaneously, students should receive media education to strengthen their digital literacy, enabling them to navigate digital environments responsibly and safely.

@@ -13,7 +13,7 @@ Imagine you have a toy robot that can follow instructions to clean your room. Th
 ## **Digging Deeper**  
 Each algorithm has certain characteristics that determine its suitability for a particular problem:
 
-![Algorithm Characteristics.png](/img/user/04%20META/Attachments%20/Algorithm%20Characteristics.png)
+![Algorithm Characteristics.png](/img/user/04%20META/Assets/Algorithm%20Characteristics.png)
 
 A **characteristic** of an algorithm refers to its inherent features or qualities that define its nature and functionality. These characteristics include:
 
@@ -47,7 +47,7 @@ A **characteristic** of an algorithm refers to its inherent features or qualit
 
 - *Modular* An algorithm must have a design that can be decomposed into reusable components that can act as sub-algorithms. The algorithm's modular nature helps with its reusability and maintenance. 
 
-![Algorithm Properties.png](/img/user/04%20META/Attachments%20/Algorithm%20Properties.png)
+![Algorithm Properties.png](/img/user/04%20META/Assets/Algorithm%20Properties.png)
 
 On the other hand, a **property** of an algorithm typically describes a specific attribute or behavior that can be observed or measured. Properties include:
 

@@ -4,7 +4,7 @@
 
 # LE2
 
-![DLE_LE2.png](/img/user/04%20META/Attachments%20/DLE_LE2.png)
+![DLE_LE2.png](/img/user/04%20META/Assets/DLE_LE2.png)
 
 ## Welcome to Learning Event 2 🎯
 

@@ -4,7 +4,7 @@
 
 # LE9
 
-![DLE_LE9.png](/img/user/04%20META/Attachments%20/DLE_LE9.png)
+![DLE_LE9.png](/img/user/04%20META/Assets/DLE_LE9.png)
 
 ## Welcome to Learning Event 9 🎯
 

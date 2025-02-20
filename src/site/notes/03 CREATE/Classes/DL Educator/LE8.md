@@ -5,7 +5,7 @@
 
 # LE8
 
-![DLE_LE8.jpg](/img/user/04%20META/Attachments%20/DLE_LE8.jpg)
+![DLE_LE8.jpg](/img/user/04%20META/Assets/DLE_LE8.jpg)
 
 ## Welcome to Learning Event 8 🎯
 

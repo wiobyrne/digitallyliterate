@@ -12,4 +12,4 @@ In his research, William bridges the gap between theory and practice, exploring 
 
 Would you like me to add anything specific to this description?
 
-![How Would You Describe Me.png](/img/user/04%20META/Attachments%20/How%20Would%20You%20Describe%20Me.png)
+![How Would You Describe Me.png](/img/user/04%20META/Assets/How%20Would%20You%20Describe%20Me.png)

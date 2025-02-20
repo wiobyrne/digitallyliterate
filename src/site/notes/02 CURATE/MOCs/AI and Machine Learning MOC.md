@@ -33,6 +33,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Large Language Model (LLM)\|Large Language Model (LLM)]] 🔹  
 
 ## Training and Optimization  
+- [[02 CURATE/Notes/Deterministic Quoting\|Deterministic Quoting]] 🔸
 - [[Training Data\|Training Data]] 🔹  
 - [[Test Data\|Test Data]] 🔹  
 - [[Feature Engineering\|Feature Engineering]] 🔹  
@@ -53,7 +54,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[ROC-AUC Curve\|ROC-AUC Curve]] 🔸  
 
 ## Ethics & Challenges  
-- [[Bias in AI\|Bias in AI]] 🔹  
+- [[02 CURATE/Notes/Bias in AI\|Bias in AI]] 🔹  
 - [[Explainable AI (XAI)\|Explainable AI (XAI)]] 🔸  
 - [[Fairness\|Fairness]] 🔹  
 - [[Hallucinations in AI\|Hallucinations in AI]] 🔹  

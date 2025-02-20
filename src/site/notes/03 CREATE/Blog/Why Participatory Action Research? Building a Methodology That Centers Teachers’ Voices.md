@@ -38,7 +38,7 @@ For my study on STEAM endorsement barriers, this meant teachers collaboratively 
 3. **Empowerment Through Collaboration**  
    By involving teachers in data analysis, we uncovered hidden accelerators, like peer mentorship networks, that quantitative surveys might miss [2][10]. PAR’s ethos of “research *with*, not *on*” [3] fostered ownership, with one participant reflecting, *“This isn’t just your study—it’s ours.”*  
    
-![PAR Aligns With My Values.png](/img/user/04%20META/Attachments%20/PAR%20Aligns%20With%20My%20Values.png)
+![PAR Aligns With My Values.png](/img/user/04%20META/Assets/PAR%20Aligns%20With%20My%20Values.png)
 ---
 
 ### **Navigating Challenges: Power, Time, and Rigor**  

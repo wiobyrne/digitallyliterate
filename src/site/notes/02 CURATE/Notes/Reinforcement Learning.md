@@ -11,7 +11,7 @@ Reinforcement Learning (RL) is a branch of machine learning where an agent learn
 Imagine you're playing a video game for the first time. You don’t know the rules, so you try different things. Sometimes you win points, sometimes you lose them. Over time, you learn which actions help you score more points. That’s how reinforcement learning works—by trial and error!
 
 ## **Visual Aid**  
-![reinforcement learning.png](/img/user/04%20META/Attachments%20/reinforcement%20learning.png)
+![reinforcement learning.png](/img/user/04%20META/Assets/reinforcement%20learning.png)
 
 ## **Digging Deeper**
 Reinforcement Learning (RL) is a branch of machine learning where an agent learns by interacting with its environment, receiving rewards for correct actions and penalties for incorrect ones, aiming at maximizing its total reward. 

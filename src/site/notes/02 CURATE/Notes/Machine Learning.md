@@ -11,16 +11,16 @@ Machine Learning (ML) is a type of artificial intelligence (AI) that allows a co
 Imagine if your toy car could learn how to avoid crashing into walls by itself after a few bumps and bruises. Machine learning is like that, but for computers. They learn from their mistakes and get better over time.
 
 ## **Visualization**  
-![Machine Learning.png](/img/user/04%20META/Attachments%20/Machine%20Learning.png)
+![Machine Learning.png](/img/user/04%20META/Assets/Machine%20Learning.png)
 
 ## **Digging Deeper**
 Machine learning involves the use of algorithms that can learn from and make decisions or predictions based on data. These algorithms operate by building a model from an example training set of input observations in order to make data-driven predictions or decisions, rather than strictly following static program instructions.
 
-![Machine Learning Worflow.png](/img/user/04%20META/Attachments%20/Machine%20Learning%20Worflow.png)
+![Machine Learning Worflow.png](/img/user/04%20META/Assets/Machine%20Learning%20Worflow.png)
 
 Machine learning is categorized mainly into three types: supervised learning, where the model learns from labeled data; unsupervised learning, where the model learns from unlabeled data; and reinforcement learning, where the model learns by interacting with its environment and receiving rewards or punishments based on its actions.
 
-![Machine Learning 2.png](/img/user/04%20META/Attachments%20/Machine%20Learning%202.png)
+![Machine Learning 2.png](/img/user/04%20META/Assets/Machine%20Learning%202.png)
 
 Examples of machine learning include email filtering, detection of network intruders, and computer vision, which allows computers to understand images in a similar way to humans.
 

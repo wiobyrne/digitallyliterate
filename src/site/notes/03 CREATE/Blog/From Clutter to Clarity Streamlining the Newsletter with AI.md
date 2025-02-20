@@ -62,7 +62,7 @@ To maintain clarity and differentiate between AI-generated content and my own wr
 
 The image below shows how this looks in my notes. 
 
-![From Clutter to Clarity Streamlining the Newsletter with AI.png](/img/user/04%20META/Attachments%20/From%20Clutter%20to%20Clarity%20Streamlining%20the%20Newsletter%20with%20AI.png)
+![From Clutter to Clarity Streamlining the Newsletter with AI.png](/img/user/04%20META/Assets/From%20Clutter%20to%20Clarity%20Streamlining%20the%20Newsletter%20with%20AI.png)
 This visual distinction allowed me to review AI contributions more critically and trace how they influenced the final content. Additionally, it provided a clear record of where connections, tags, or insights stemmed from my own analysis versus AI suggestions. This approach not only improved transparency in the process but also ensured that the final notes retained a balance of automation and personal creativity.
 
 ---
@@ -72,7 +72,7 @@ This visual distinction allowed me to review AI contributions more critically an
 2. **Iteration Matters**: The process of refining 400 issues highlighted the importance of iteration. AI helped accelerate the process, but the real magic happened in the review and revision stages.
 3. **A System for the Future**: Beyond cleaning up past issues, this project has set the stage for a more organized future. New newsletter issues are now created directly in markdown, with all the metadata and tags in place from the start.
 
-![From Clutter to Clarity Streamlining the Newsletter with AI-1.png](/img/user/04%20META/Attachments%20/From%20Clutter%20to%20Clarity%20Streamlining%20the%20Newsletter%20with%20AI-1.png)
+![From Clutter to Clarity Streamlining the Newsletter with AI-1.png](/img/user/04%20META/Assets/From%20Clutter%20to%20Clarity%20Streamlining%20the%20Newsletter%20with%20AI-1.png)
 
 ---
 

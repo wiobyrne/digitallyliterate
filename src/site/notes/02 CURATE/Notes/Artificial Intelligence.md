@@ -11,7 +11,7 @@ Artificial Intelligence, often referred to as AI, is the simulation of human int
 Imagine if you had a toy robot that could learn to clean up your room all by itself – that’s pretty much what artificial intelligence is. It's teaching machines to learn and make decisions like humans do.
 
 ## **Visual Aid**  
-![AI tasks.png](/img/user/04%20META/Attachments%20/AI%20tasks.png)
+![AI tasks.png](/img/user/04%20META/Assets/AI%20tasks.png)
 
 |Intelligence Level / Task Scope|Narrow Task Performance|Broad Task Performance|
 |---|---|---|

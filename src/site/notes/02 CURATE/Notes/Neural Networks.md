@@ -11,13 +11,13 @@ A neural network is a type of artificial intelligence model that mimics the func
 Imagine you're trying to make a really complicated decision, like what you want for your birthday. You might ask all your friends and family for their suggestions. Each friend is like a neuron in a neural network - they take in information (your question), process it (think about what you might like), and give an output (their suggestion). Just like how you consider all your friends' suggestions to make your final decision, a neural network considers all its neurons' outputs to make its final decision.
 
 ## **Visualization**  
-![neural network.webp](/img/user/04%20META/Attachments%20/neural%20network.webp)
-![neural network 2.webp](/img/user/04%20META/Attachments%20/neural%20network%202.webp)
+![neural network.webp](/img/user/04%20META/Assets/neural%20network.webp)
+![neural network 2.webp](/img/user/04%20META/Assets/neural%20network%202.webp)
 Graphic Source: [[01 CONSUME/Articles/Understanding the Structure of Neural Networks\|Understanding the Structure of Neural Networks]]
 ## **Digging Deeper**
 Neural networks are inspired by the biological function of neurons in the human brain. They consist of layers: an input layer where data is fed into the network, one or multiple hidden layers where computations are performed, and an output layer where results are produced.
 
-![Artificial-Neural-Networks.webp](/img/user/04%20META/Attachments%20/Artificial-Neural-Networks.webp)
+![Artificial-Neural-Networks.webp](/img/user/04%20META/Assets/Artificial-Neural-Networks.webp)
 The image illustrates the analogy between a biological neuron and an artificial neuron, showing how inputs are received and processed to produce outputs in both systems.
 
 Each neuron takes inputs, multiplies them by weights (which signify the importance of that particular input), adds them up, applies an activation function (which decides whether that neuron should be activated or not based on the input it received), and passes this output forward.

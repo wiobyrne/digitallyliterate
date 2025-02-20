@@ -32,7 +32,7 @@ Neural networks are capable of learning and identifying patterns directly from d
 - Parameters such as weights and biases are updated in response to new data or conditions.
 - With each adjustment, the network’s response evolves, allowing it to adapt effectively to different tasks or environments.
 
-![Artificial-Neural-Networks.webp](/img/user/04%20META/Attachments%20/Artificial-Neural-Networks.webp)
+![Artificial-Neural-Networks.webp](/img/user/04%20META/Assets/Artificial-Neural-Networks.webp)
 
 The image illustrates the analogy between a biological neuron and an artificial neuron, showing how inputs are received and processed to produce outputs in both systems.
 
