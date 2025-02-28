@@ -66,3 +66,39 @@
     transform: rotate(0);
   }
 </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const themeToggle = document.getElementById('theme-toggle');
+  const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+  
+  if (!themeToggle) return;
+  
+  // Check for saved theme preference or use the system preference
+  const savedTheme = localStorage.getItem('theme');
+  const currentTheme = savedTheme || 
+                     (prefersDarkScheme.matches ? 'dark' : 'light');
+  
+  // Set initial theme
+  if (savedTheme) {
+    document.body.classList.remove('theme-light', 'theme-dark');
+    document.body.classList.add(`theme-${currentTheme}`);
+  }
+  
+  // Toggle theme when button is clicked
+  themeToggle.addEventListener('click', function() {
+    let theme;
+    
+    if (document.body.classList.contains('theme-dark')) {
+      document.body.classList.replace('theme-dark', 'theme-light');
+      theme = 'light';
+    } else {
+      document.body.classList.replace('theme-light', 'theme-dark');
+      theme = 'dark';
+    }
+    
+    // Save the preference
+    localStorage.setItem('theme', theme);
+  });
+});
+</script>
