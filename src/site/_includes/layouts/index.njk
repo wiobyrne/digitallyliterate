@@ -2,13 +2,7 @@
 <html lang="{{ meta.mainLanguage }}">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
-    {% include "components/pageheader.njk" %}
-    
-    <!-- Include custom Obsidian CSS -->
-    <link rel="stylesheet" href="/styles/obsidian-custom-styles.css">
-    <!-- Include Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Source+Code+Pro&display=swap" rel="stylesheet">
-    
+    {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
     {% endfor %}
@@ -17,28 +11,28 @@
     {% endfor %}
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
-    {% include "components/notegrowthhistory.njk" %}
+    {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
-      {% include "components/navbar.njk" %}
-    {% else %}
-      {% include "components/filetree.njk" %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
     {% endif %}
     {% if settings.dgEnableSearch === true %}
-      {% include "components/searchContainer.njk" %}
+      {%include "components/searchContainer.njk"%}
     {% endif %}
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
       {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle }}</h1>
+        <h1>{{ noteTitle  }}</h1>
       {% endif %}
 
       <div class="header-meta">
         {% if settings.dgShowTags === true and tags %}
           <div class="header-tags">
             {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag != 'note' %}
+              {% if tag != 'gardenEntry' and tag !='note' %}
                 <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{ tag }}
+                  #{{tag}}
                 </a>
               {% endif %}
             {% endfor %}
@@ -58,7 +52,7 @@
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | safe }}
+      {{ content | hideDataview | taggify | link | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
@@ -67,12 +61,12 @@
       {% endfor %}
     </main>
 
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true %}
-      {% include "components/sidebar.njk" %}
-    {% endif %}
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
+      {%include "components/sidebar.njk" %}
+    {%endif%}
 
     {% if settings.dgLinkPreview === true %}
-      {% include "components/linkPreview.njk" %}
+      {%include "components/linkPreview.njk"%}
     {% endif %}
     {% for imp in dynamics.common.footer %}
       {% include imp %}
@@ -80,6 +74,6 @@
     {% for imp in dynamics.index.footer %}
       {% include imp %}
     {% endfor %}
-    {% include "components/lucideIcons.njk" %}
-  </body>
-</html>
+    {%include "components/lucideIcons.njk"%}
+    </body>
+  </html>
