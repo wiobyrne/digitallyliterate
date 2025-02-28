@@ -1,0 +1,97 @@
+<!-- Theme Switcher Component -->
+<div class="theme-toggle">
+  <button id="theme-toggle" aria-label="Toggle Theme" class="theme-toggle-button">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="sun-icon">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="moon-icon">
+      <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+    </svg>
+  </button>
+</div>
+
+<style>
+  .theme-toggle {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+  }
+  
+  .theme-toggle-button {
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  .theme-toggle-button:hover {
+    background: var(--background-modifier-hover);
+  }
+  
+  .sun-icon, .moon-icon {
+    position: absolute;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+  
+  .moon-icon {
+    opacity: 0;
+    transform: rotate(-90deg);
+  }
+  
+  .theme-dark .sun-icon {
+    opacity: 0;
+    transform: rotate(90deg);
+  }
+  
+  .theme-dark .moon-icon {
+    opacity: 1;
+    transform: rotate(0);
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const themeToggle = document.getElementById('theme-toggle');
+    const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    
+    // Check for saved theme preference or use the system preference
+    const currentTheme = localStorage.getItem('theme') || 
+                         (prefersDarkScheme.matches ? 'dark' : 'light');
+    
+    // Set initial theme
+    document.documentElement.classList.toggle('theme-dark', currentTheme === 'dark');
+    document.documentElement.classList.toggle('theme-light', currentTheme === 'light');
+    
+    // Toggle theme when button is clicked
+    themeToggle.addEventListener('click', function() {
+      let theme;
+      
+      if (document.documentElement.classList.contains('theme-dark')) {
+        document.documentElement.classList.replace('theme-dark', 'theme-light');
+        theme = 'light';
+      } else {
+        document.documentElement.classList.replace('theme-light', 'theme-dark');
+        theme = 'dark';
+      }
+      
+      // Save the preference
+      localStorage.setItem('theme', theme);
+    });
+  });
+</script>
