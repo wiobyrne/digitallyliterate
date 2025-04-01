@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digitally-literate/","title":"Home","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digitally-literate/","title":"Digitally Literate","tags":["gardenEntry"]}
 ---
 
 
