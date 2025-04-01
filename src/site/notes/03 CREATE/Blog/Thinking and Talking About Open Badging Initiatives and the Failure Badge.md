@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/03-create/blog/thinking-and-talking-about-open-badging-initiatives-and-the-failure-badge/","title":"Thinking and Talking About Open Badging Initiatives...and the Failure Badge","tags":["badges","connected-learning","learning"]}
+---
+
+# Thinking and Talking About Open Badging Initiatives and the Failure Badge
+
+Yesterday I had the privilege of attending a Hangout on Air with [Verena Roberts](https://twitter.com/verenanz). The purpose of the talk was to get a couple of people together to talk about the work Verena has been conducting in developing her open badge initiative, and questions that she has had along the way. You can (and should) read more about this work at [Verena's blog](http://www.openclassroomonline.com/how-to-create-open-badge-criteria-using-competencies/).
+
+In trying to get feedback about some of the issues that she was having, I suggested that she post a comment to the [Open Badges Google Group](https://groups.google.com/forum/#!topic/openbadges/sNR__pInwDg) and that we possibly set up a Hangout on Air to discuss some of these issues in real-time. The Hangout is available below for your perusal. The end result of the use of the Hangout on Air was a serendipitous moment in which we started with [Fred Mindlin](https://plus.google.com/u/0/+fmindlin/posts), [Greg McVerry](https://plus.google.com/u/0/105650915574780317406/posts),  [John Duhring](https://plus.google.com/u/0/103322788718686431241/posts), and [Verena](https://plus.google.com/u/0/108390509469829218014/posts). About halfway through our time Per who works for Pandora (the jewelry company) joined the discussion. He indicated that we saw the tweet about the event, was intrigued, and decided to join us. Per brought in an great new voice on the complexities of badging systems in education and training systems in business. It helped us think about real-world rationale for open badges. http://www.youtube.com/watch?v=NWoBFkMwDr4
+
+I had a couple of takeaways from the discussion about open badges.
+
+First, as a community we need to further open up communication and support one another. I've detailed my own successes and challenges with open badges on this blog. I've also received a ton of support from the [Open Badges Google Group](https://groups.google.com/forum/#!forum/openbadges) and community calls. There is a heavily devoted, very supportive group of individuals globally that are all wrestling with issues involved with open badging initiatives. Even with this level of support, I think we could be a bit more open and inclusive to all. I'm thrilled that Verena decided to take the leap of faith and add materials to the Google Group. However, there are online discussion forums that are not inviting or inclusive at all. As a community we have to understand and proactively address this shortcoming of online info. To address that I move to point #2...
+
+Second, as a community we need to collaboratively build a one-stop shop for "everything you need to know about developing badges." I'm beginning to see that I've entered the open badging discussion as part of a "second wave" of people interested in developing, awarding, and researching badges. I've been reading up, lurking in community calls, and developing badges for a little under two years. Now that I'm a bit more vocal on this blog and in the communities, friends and colleagues of mine are coming to me for advice (on what not to do). I see this as being the next wave of people into the discussion. From having gone through the experience myself, we need to develop a simple, concise guide to everything you need to know about digital badges. This document need to be online and instantly editable by the community. We need a place that identifies best practices associated with open digital badges and the infrastructure. And that brings us to point #3...
+
+Third, we need a Failure badge. Actually, the Failure badge is not the correct name for this. Let me contextualize this a bit. There is a great deal that you can learn from others. There is also a great deal that you learn when you (or others) try and fail. There is also a lot you can learn by failing, fixing what went wrong...and trying again. In the last Connected Learning [webinar](http://connectedlearning.tv/recognizing-and-assessing-out-school-learning) the chat thread continually played with the idea of a Fail badge. This would be a documentation of something that you tried..and went wrong in your badging infrastructure. Alex Halavais sort of addressed this near the end of the webinar...after you release your open badges out into the wild, sometimes they take on a life of their own. What if you could learn (and laugh a bit) about the misfortunes of others as they revise and iterate on badge design to address challenges or "failures" that they had. I think there is a lot that we can collectively learn from this...and so I think we need a "Failure" badge, or the "Persistence" badge, or the "Learning" badge...or the \[insert your title here\] badge. In the chat for the Connected Learning webinar I made the following comment, and it was re-tweeted a bit on Twitter.
+
+What are your thoughts?
+
+[![Mozilla_Open_Badges__OpenBadges__on_Twitter](images/Mozilla_Open_Badges__OpenBadges__on_Twitter.jpg)](http://wiobyrne.com/wp-content/uploads/2013/09/Mozilla_Open_Badges__OpenBadges__on_Twitter.jpg)
+
+ 
+
+Image CC by [hondanews](http://www.flickr.com/photos/hondanews/3673026351/)
+
+[[Blog Post Index\|Blog Post Index]]

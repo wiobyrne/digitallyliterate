@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/03-create/blog/tech-talk-003-twitter-vine-instagram-and-the-walkmyworld-project/","title":"TechTalk 003 - Twitter, Vine, Instagram, & the #WALKMYWORLD Project","tags":["instagram","techtalk","twitter","vine","walkmyworld"]}
+---
+
+# TechTalk 003 - Twitter Vine Instagram & the WALKMYWORLD Project
+
+Yesterday we held our third TechTalk of the year. TechTalk is a monthly show that focuses on specific digital texts or tools that should be used in your classroom. We view "classrooms" broadly as stretching from Pre-K up through 12th grade and into higher education. The show is meant to provide an easy, approachable overview of a tools, or series of tools, and then some dialogue about the use of these digital texts and tools in the classroom. We try to focus on the specific affordances, opportunities, and challenges of the digital text or tools.
+
+This third episode focused on the [#WALKMYWORLD project](http://wiobyrne.com/tag/walkmyworld/), and the specific tools needed to engage in this project. We focused on [Twitter](https://twitter.com/), [Vine](https://vine.co/), and [Instagram](http://instagram.com/). We also previewed the use of tools like [Tweetdeck](https://about.twitter.com/products/tweetdeck) and [Hootsuite](https://hootsuite.com/) to keep track of the information on Twitter, and follow along with the #WALKMYWORLD project. We talked a bit about etiquette and how to get started on Twitter. We also discussed some of our favorite parts so far of the project and watching people share content online.
+
+What motivated me the most from yesterday's show was the guidance and urging of [Molly Shields](https://twitter.com/ShieldsMolly) to really push my expectations of my students...but probably more importantly my expectations of what I should be creating and sharing online. I've toyed with digital and multimodal storytelling in fits and drabs over the years...but perhaps I should make it a more concerted effort. _As an aside...I'm feeling a need to focus this year on my online digital presence. That means spending time and money looking at "best principles" for video, audio, and web design. This is also motivated by the fact that the video for this episode is horrendous. :)_
+
+Nevertheless, I hope you take a chance to review the materials for this episode. I also suggest reading [Molly's blog](http://technoliteracy.org/)...if you don't have it added to your repertoire already. For some more Twitter support, please review the materials on "Why Twitter in Education" that Verena Roberts is pulling together. I already added some new tools to my repertoire. Finally, please be sure to review some of the earlier TechTalks of the year...at least the ones that we started doing completely on Google Hangouts. https://www.youtube.com/watch?v=qPeyDG5Uypo Image CC by [yj-twitter dump](http://www.deviantart.com/art/yj-twitter-dump-202273264)
+
+[[Blog Post Index\|Blog Post Index]]
