@@ -20,4 +20,4 @@ We also will be looking to videotape as many sessions as we have hands...and pos
 
 If you're a teacher in MA, and would love to learn new ways to use your iPads, computers, and Web 2.0 tools in your classroom...we still have seats available. Please visit the [registration page](http://mnli12.wikispaces.com/Registration) if you're interested in attending.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

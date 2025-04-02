@@ -120,15 +120,15 @@ Blanket bans might seem like an easy solution, but they miss the opportunity to 
 
 For more insights into implementing technology in education responsibly and teaching digital citizenship, check out these resources:
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [Trends in U.S. Adolescents’ Media Use, 1976 –2016: The Rise of Digital Media, the Decline of TV, and the (Near) Demise of Print](https://www.apa.org/pubs/journals/releases/ppm-ppm0000203.pdf)
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [There is no evidence that associations between adolescents’ digital technology engagement and mental health problems have increased](https://pmc.ncbi.nlm.nih.gov/articles/PMC7614449/)
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [Take Away Their Cellphones - So we can rewire schools for belonging and achievement](https://www.educationnext.org/take-away-their-cellphones-rewire-schools-belonging-achievement/)
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [Why America Has a Youth Mental Health Crisis, and How Schools Can Help](https://www.edweek.org/leadership/why-america-has-a-youth-mental-health-crisis-and-how-schools-can-help/2023/10)
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [Educational Intimidation - How “Parents’ Rights” Legislation Undermines the Freedom to Learn](https://pen.org/report/educational-intimidation/)
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [Technology and Teaching: Finding a Balance](https://www.edutopia.org/blog/technology-and-teaching-finding-balance-andrew-marcinek)

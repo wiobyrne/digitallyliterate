@@ -40,4 +40,4 @@ Middle image CC BY-NC-ND 2.0 [Neil Slorance](https://www.flickr.com/photos/osm_a
 
 Bottom image CC BY-NC-ND 2.0 [Neil Slorance](https://www.flickr.com/photos/osm_art/5020868265/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

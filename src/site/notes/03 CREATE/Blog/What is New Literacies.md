@@ -26,4 +26,4 @@ Is important to recognize that this is one viewpoint that strives to understand 
 
 So, once again I ask you dear reader. You're in the middle of this change in literacy, technology, communication, socialization...I ask you...What is New Literacies?
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

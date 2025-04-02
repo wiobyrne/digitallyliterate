@@ -87,4 +87,4 @@ In conclusion, simplicity on the other side of complexity is a powerful concept 
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

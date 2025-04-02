@@ -22,4 +22,4 @@ The second of these is the physical orientation of the classroom and section mee
 
 As technological use in education and society becomes more pervasive we may quickly start using online learning and mobile tools to extend our learning beyond the classroom walls.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

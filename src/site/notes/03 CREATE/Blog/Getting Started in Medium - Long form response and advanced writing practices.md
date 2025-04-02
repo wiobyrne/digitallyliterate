@@ -52,4 +52,4 @@ For now...get out there and find something to respond to. Find something to writ
 
 flickr photo by Thomas Hawk http://flickr.com/photos/thomashawk/93821899 shared under a Creative Commons (BY-NC) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -57,4 +57,4 @@ This journey is as much about sharing knowledge as it is about learning from oth
 Join me as I repurpose the past into a vibrant, interconnected future. Let’s grow something meaningful together.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -28,4 +28,4 @@ This paper was presented at LRA 2014 and re-submitted for publication in LR:TMP.
 
 Image CC by [Paxson Woelber](https://www.flickr.com/photos/paxson_woelber/5434541912/in/photolist-cpXDeL-cpXB5J-C7s2D-9herYu-3sVHoc-2N66DT-2N678i-2N66xH-2N66Te-2Navzh-2NavtY-2N66rz-2NavJW-2NavGA-2N66Av-2Nav3w-2NavBE-2Navbo-2N66ig-2N66Jp-8fShWc-a4tSdo-cCzuML-8AhEjU-5CxPkY-48txdK-5xH6Ev-41Fcd-kMGmwV-2nC9K9-nVpZor-nVpZDg-2N669T-2Nav8u-2Nav15-2N66uK-2N675z-2NavN7-6iiEyS-8Eb2Ry-7CEG7U-42NPYe-42NNtP-42SWUQ-42NN3B-42NPzk-42NNQr-6VTn42-8dbtnj-6zPvsy)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

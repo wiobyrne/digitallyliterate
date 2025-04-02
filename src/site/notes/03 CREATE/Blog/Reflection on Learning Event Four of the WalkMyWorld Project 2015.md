@@ -52,4 +52,4 @@ Cover Image CC BY-ND 2.0 [US Embassy The Hague](https://www.flickr.com/photos/us
 
 Image CC BY-SA 2.0 [Howard Lake](https://www.flickr.com/photos/howardlake/5540462170/in/photolist-9rAjnQ-6mNhr4-n4EUBV-4TBbPp-q2QLCB-aicst9-fsGQem-bD1QSv-n9XvQT-6mSt5d-4beQPj-9Si1Vw-5w93dS-NyQKP-4uvGoR-6VAEm8-8fjEHB-ckFZVG-fbNGJf-6F6cUn-tbeS-m13254-6zs3id-6mSsXJ-7aHwwT-e74oua-55ET8f-8kaJvB-hUWG5e-fsGQLL-7CiKDX-7wgMan-79Miz1-8viWMJ-jR9G2o-derXPc-jbxEv7-cgMyWW-7EoK6X-derXTP-apS8D-5CFbd-5t3dPH-bjsocc-edPwNY-6TajXy-n9ameM-apScM-7stvRv-5kscyQ)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

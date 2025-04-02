@@ -12,4 +12,4 @@ You can review the video from our Hangout below. https://www.youtube.com/watch?v
 
 \[google-drive-embed url="https://docs.google.com/document/d/1tNTOJ582IAgQPAOuTPpT\_OdZ4EXpyEOoyWc7szfCv5g/preview" title="WalkMyWorld planning meeting 2014-12-29" icon="https://ssl.gstatic.com/docs/doclist/images/icon\_11\_document\_list.png" width="100%" height="400" style="embed"\]
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

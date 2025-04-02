@@ -38,4 +38,4 @@ Cover image CC BY-NC-SA 2.0 [Penn State Special Collection](https://www.flickr.c
 
 Top image CC BY-NC-ND 2.0 [Jef Safi](https://www.flickr.com/photos/jef_safi/324146472/in/photolist-52sD2h-5t2yNG-kVnxd-gAYro-5AMd4f-7qa25N-57LDXo-9UgZfN-uDksh-9nW27K-aTJnGi-5ymv7A-dUnFR-q9yTSV-5XXsfW-5ymv7y-6hJzym-bc5g7X-93PsrC-nWogf1-6tWDy1-9UgZgf-CU4fs-4sGtGj-3beDrC-6xQb1u-5dD4pu-7qa25Y-5t2yNs-4S7pin-8jxm1s-a3Zncd-LFAN4-8vNCPH-8RaUau-6NwxoZ-sATrK-b3V8ur-8iwTEb-561BJy-eyM2a-5rkjjC-8DCg3h-6Nwxoa-6jJUGi-2ZHVq-5AMd4w-o6XNsp-4EvBZB-5pw3gx)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

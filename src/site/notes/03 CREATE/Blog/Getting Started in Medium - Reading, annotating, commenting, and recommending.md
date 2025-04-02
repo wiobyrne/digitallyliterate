@@ -30,4 +30,4 @@ In our next post, we'll take a look at starting to write, publish, and collabora
 
 Cover photo by michael pollak http://flickr.com/photos/michaelpollak/8186250124 shared under a Creative Commons (BY) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

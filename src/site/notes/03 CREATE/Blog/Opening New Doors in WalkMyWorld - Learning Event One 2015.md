@@ -46,4 +46,4 @@ Have fun. Think deeply. I look forward to seeing what you all create. See you ou
 
 Image CC BY-NC-SA 2.0 [Freedom Project Now](https://www.flickr.com/photos/freedom_now_project/12464363965/in/photolist-jZr89Z-8KWbeR-4cCc92-oUTxzx-patsAj-8ys8WJ-8AKAmu-54vfpj-ps8dC2-8KWcHi-dJxuwu-8ysbcJ-8ysd2A-8ype7F-p1XW9k-pXxLzX-pjpxwV-dvnvw4-9NAsCc-8KZhcy-8KZggh-9M2DZZ-9NGKrb-9NEtYQ-aJfsxi-dkJ3dX-aobMGi-8KWbKM-an3HAz-6xCnBy-pc7gUp-6wdJx5-8ZeB5E-dJybeh-dkJ4Zh-3igNze-pFmdgn-9NFhVS-9NFVNX-jnFVWq-6C5r7a-q8PATt-ehR2ek-my2DtZ-oXkHdN-jnvxgK-2V2uSq-pcwXE2-8vZVR6-9NEwpU)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

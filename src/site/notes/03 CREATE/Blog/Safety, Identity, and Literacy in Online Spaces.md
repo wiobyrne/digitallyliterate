@@ -54,4 +54,4 @@ All of us need to up our game when it comes to the [digital literacies](http://
 
 Image CC by [wikimedia](http://commons.wikimedia.org/wiki/File:Spider_web_with_dew_drops04.jpg)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

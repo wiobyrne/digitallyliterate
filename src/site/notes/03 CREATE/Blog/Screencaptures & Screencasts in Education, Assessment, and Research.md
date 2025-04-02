@@ -68,4 +68,4 @@ If you really want to jumpstart your way to screencaster stardom, I recommend ch
 
 [Image Credit](https://www.flickr.com/photos/clearhop/1542582009/in/photolist-3mj8Tx-bXnqxv-8MHFhz-8MHFhT-ceJTJW-7CmTVt-a59b-7UKU5S-yN2tN-ceJKGf-5oPx9Z-b99W3k-53F2SH-nHQQTD-FXpTBZ-64mVmP-9jdnuU-4ZdZxv-TPbFuS-oGCKHL-Cm4mo-dDV57g-93yntA-6wVmHE-6zx1HP-7NwUwx-4twP5m-nXmGr7-4eHzu7-3V2Q7Z-5VKqGi-6zB7sj-egAmX-5BPViK-kY7Az4-6KXKUD-bvXGWq-81koob-REiDh-9hyTNq-9qSDYC-q15SV-55fYy2-8fGKZY-9zZd42-71fLpA-6k7mpo-bhrFUc-2ANC8-astm4K)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -38,4 +38,4 @@ To apply for the badge, please click [here](http://badges.p2pu.org/en/badge/view
 
 Image with permission by [viewfound](http://www.viewfound.ca/2011-05-11/dont-stop-walking/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

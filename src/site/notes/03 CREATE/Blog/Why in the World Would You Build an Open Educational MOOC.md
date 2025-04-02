@@ -30,4 +30,4 @@ For me it's a simple answer to the question. I think the ideas we present in the
 
 Image CC by [wikimedia](http://commons.wikimedia.org/wiki/File:Cool_Globes-Why.jpg)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -30,4 +30,4 @@ It's equally important to remember that everyone experiences shame and that itâ€
 In conclusion, if weâ€™re willing to confront and understand our feelings of shame rather than running from them, we can transform this potentially destructive emotion into an opportunity for profound personal evolution.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

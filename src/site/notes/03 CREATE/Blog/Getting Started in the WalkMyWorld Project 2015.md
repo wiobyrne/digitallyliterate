@@ -46,4 +46,4 @@ Welcome to your new personal learning network. :)
 
 Image CC BY-NC-SA 2.0 [Penn State Special Collection](https://www.flickr.com/photos/pennstatespecial/8470227149/in/photolist-4Rpopg-7fwSy4-39mwr9-bacYRF-dV2aF7-dV2aFU-dUsyPZ-dS9vir-dUu8qt-dUu8r8-d2CRcW-dUsyKT-dUyaZL-a2yV4o-dUyaZ5-cdZyKj-61JiYR-a2yU6b-dUVA9V-dSfAT3-dUsyMP-dUzJVN-dUzJWq-dUsyKg-dUzJZ7-8w3XMj-bad7n6-94SnX6-dUMwDc-dUMvxc-dUMw7i-dUT6R5-dUMvoT-dUMvjX-dUMvAZ-dUTbh5-dUMvtH-dUMvPv-7xJi3Y-bad9w6-baegP8-iyvDJK-jmjHm2-badUVH-jmmjUx-bad5Zx-jmjEnB-jmmW3Q-bad1Ct-93vYdr)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -55,4 +55,4 @@ Remember: Enjoy screens but not too much and mostly together!
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

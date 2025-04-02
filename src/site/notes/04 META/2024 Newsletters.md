@@ -14,6 +14,6 @@ Below are all newsletter issues from 2024, automatically sorted by date.
 
 ## Static Example for Testing
 
-- [[DL 396\|DL 396]] - December 13, 2024
-- [[DL 395\|DL 395]] - December 6, 2024
+- [[03 CREATE/Newsletter/DL 396\|DL 396]] - December 13, 2024
+- [[03 CREATE/Newsletter/DL 395\|DL 395]] - December 6, 2024
 

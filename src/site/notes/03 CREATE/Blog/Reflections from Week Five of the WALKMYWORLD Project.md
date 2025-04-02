@@ -27,4 +27,4 @@ Finally, we'd still love to see more sharing, creating, and connecting using mul
 
 Image CC by [Esperimenti](http://www.deviantart.com/art/Walking-in-mystery-land-146217026)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

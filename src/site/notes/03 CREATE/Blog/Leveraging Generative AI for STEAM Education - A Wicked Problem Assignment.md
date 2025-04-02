@@ -80,4 +80,4 @@ So, let's embrace the challenge and harness the power of AI to create a more eng
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -24,4 +24,4 @@ Please also find a way to record and share your version of the _ABC Song_ and se
 
 Image CC BY-ND 2.0 [Tor Khum](https://www.flickr.com/photos/torkhum/2179296751/in/photolist-aaNJh-euDX5-n1HZSC-pizKcf-6z8iaL-abf4A-96253y-8w4FKU-6v7UrJ-d5Uex-JVJT9-dyVFdS-5kaacS-5JziCn-7fEJ5d-euCXw-euD7n-4jzsZV-euD55-euDan-bDgC2w-8eqYn-bBFxov-bSbkSn-vTVyU-aNVKAM-5U8cku-ekahtd-5gXwdd-8bCAKU-z8GaE-6eryYs-8v4Rb3-5hpTTb-bD8UcH-4E42hF-bD8Uy8-bD8Vsr-de8vnA-961JaE-boLGVJ-avebkW-5U8ckq-5U8cks-5U8z21-5U8z1G-5U8z23-DqRr7-8XvDx-8bCJec)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

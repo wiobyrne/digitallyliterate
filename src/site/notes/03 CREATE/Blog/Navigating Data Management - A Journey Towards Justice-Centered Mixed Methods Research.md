@@ -118,4 +118,4 @@ Navigating this tension requires a praxis rooted in justice - a willingness to c
 In the realm of educational research, navigating the complexities of data management often leads to unexpected discoveries and ethical dilemmas. Our journey began with a curious exploration into the digital landscape, fueled by a passion for justice-centered research. Little did we know, our quest would unravel the enigmatic world of metadata and its profound implications for both our research and the privacy of students.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -20,4 +20,4 @@ The next step is to find your instructor, and add them to a [circle](https://www
 
 Hopefully that helps. Please leave comment below if you believe some of these directions should be clarified. Please also feel free to ask me questions on G+, or Twitter (@wiobyrne).
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

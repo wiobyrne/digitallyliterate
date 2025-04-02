@@ -94,4 +94,4 @@ Whether you’re an educator, a learner, or simply someone curious about the ide
   - [Learn In Public](https://www.swyx.io/learn-in-public) by Shawn Wang
   - [A Brief History & Ethos of the Digital Garden - Maggie Appleton](https://maggieappleton.com/garden-history) by Maggie Appleton
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

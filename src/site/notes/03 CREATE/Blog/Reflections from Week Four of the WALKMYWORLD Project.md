@@ -18,4 +18,4 @@ Once again, thank you for everything. Keep up the great work.
 
 Image CC by [DilekGenc](http://www.deviantart.com/art/WaLKinG-72010558)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

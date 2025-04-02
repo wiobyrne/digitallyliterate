@@ -16,4 +16,4 @@ At the conclusion of this week I am beginning to recognize the fact that it is n
 
 I'm still thinking through the effects of this on my work with teachers and educational technologies, but certain shifts have begun to take hold in my thinking. In future posts I will discuss the responsibility of teachers...and then finally the responsibility of students as we address these changes in our classrooms. I may try and unpack what responsibilities I see for administrators and parents/community...but that remains to be seen.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -16,4 +16,4 @@ The subject of this first episode is on Disciplinary Literacies. Our panel inclu
 
 Image CC by [TheContinuum](http://www.thecontinuum.co.uk/wp-content/uploads/2013/08/iStock_000015125403_Small.jpg)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

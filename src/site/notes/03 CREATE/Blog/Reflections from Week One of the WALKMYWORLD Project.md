@@ -34,4 +34,4 @@ Once again, thank you for sharing this first week. It's awesome to create, play,
 
 Image CC by [Djoe](http://www.deviantart.com/art/--78400236)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

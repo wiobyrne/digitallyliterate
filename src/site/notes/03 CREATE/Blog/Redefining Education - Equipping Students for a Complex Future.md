@@ -66,11 +66,11 @@ Detail of Each Step: Detailed steps are not explicitly outlined in this blog pos
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 # Conclusion
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 * Reminder of How Helpful the Guide Is: The conclusion re-emphasizes the importance of redefining education to prepare students for a complex future.
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 * Reiteration of Importance: The post reiterates the importance of staying relevant and updated in the realm of education.
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 * Call-to-action: The call-to-action encourages educators to incorporate assignments that reflect real-world issues and require comprehensive problem-solving skills.

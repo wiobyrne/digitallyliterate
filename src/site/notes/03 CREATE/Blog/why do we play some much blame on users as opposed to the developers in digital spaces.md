@@ -48,5 +48,5 @@ For further reading on this topic, check out:
 - [The Art of Blaming the User: Locating the Problem Between the Keyboard and the Chair](https://www.amazon.com/Art-Blaming-User-Locating-Keyboard/dp/B0C2S59PZ2) by James Henager
 - [Preventing User Errors: Avoiding Unconscious Slips](https://www.nngroup.com/articles/slips/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 Remember, knowledge is power – stay informed, stay safe!

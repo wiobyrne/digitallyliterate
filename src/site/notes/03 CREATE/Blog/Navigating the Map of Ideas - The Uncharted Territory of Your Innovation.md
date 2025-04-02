@@ -78,4 +78,4 @@ So how do we plot this journey? Let's break it down:
 The map of ideas is vast and complex, filled with unexplored territories waiting for bold explorers like you. So don’t hesitate – pick up that compass of creativity, chart your course, and set sail towards the unique coordinates of your innovative concept. Because who knows? The next groundbreaking innovation could just be waiting in that uncharted territory of the map that only you have the courage to explore.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

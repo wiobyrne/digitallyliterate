@@ -46,4 +46,4 @@ Once again....thank you. :)
 
 Image CC BY-NC 2.0 [Winston Vargas](https://www.flickr.com/photos/winston_vargas/11525978123/in/photolist-iyvDJK-jmjHm2-8w3XMj-bad7n6-94SnX6-dUMwDc-dUMvxc-dUMw7i-dUT6R5-dUMvoT-dUMvjX-dUMvAZ-dUTbh5-dUMvtH-bad9w6-baegP8-badUVH-jmmjUx-bad5Zx-jmjEnB-jmmW3Q-bad1Ct-93vYdr-bacTFt-bad4va-bacYVT-badgQM-bad7Mk-bacUi2-bad46K-badcqn-badVqi-bad28p-bad6ST-badbk2-bad8gV-badW2K-bacVAi-badg9P-bad9eB-bad4Tc-jmjAtK-bacZCt-bad8rB-bacZfn-bacZnD-bad6nR-bacXci-bad1Tr-badfFx)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

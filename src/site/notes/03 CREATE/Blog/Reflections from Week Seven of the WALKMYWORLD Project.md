@@ -36,4 +36,4 @@ Thanks again for all that you share in the #WALKMYWORLD project. We've got some 
 
 Image CC by [boyishhistory](http://boyishstory.pixnet.net/blog/category/675401)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

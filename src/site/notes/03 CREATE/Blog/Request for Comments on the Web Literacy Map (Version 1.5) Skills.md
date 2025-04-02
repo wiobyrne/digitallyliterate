@@ -38,4 +38,4 @@ Image CC BY-NC-ND 2.0 [pierofix](https://www.flickr.com/photos/pierofix/35475501
 
 Image in text CC BY-ND 2.0 [Bryan Mathers](https://www.flickr.com/photos/122135325@N06/13579418444/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

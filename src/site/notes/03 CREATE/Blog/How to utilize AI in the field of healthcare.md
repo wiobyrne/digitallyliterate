@@ -45,4 +45,4 @@ Check out these resources for more insights:
 - [Harvard Business Review's Insights on AI in Healthcare](https://hbr.org/2018/11/how-ai-is-transforming-the-health-care-industry)
 - [AI in Healthcare: Anticipating Challenges and Opportunities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6566525/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

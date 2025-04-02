@@ -86,4 +86,4 @@ The Isolation Generation refused to be isolated any longer; they tore down walls
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

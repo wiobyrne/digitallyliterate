@@ -24,4 +24,4 @@ For the materials used in research presentations discussing this piece, please r
 
 \[google-drive-embed url="https://docs.google.com/presentation/d/1eEhlnyCQQBYaQE9VGc59782fpYmB07Qb2yREPfanrI8/preview" title="Multicultural Education and Multiliteracies" icon="https://ssl.gstatic.com/docs/doclist/images/icon\_11\_presentation\_list.png" width="100%" height="400" style="embed"\]
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

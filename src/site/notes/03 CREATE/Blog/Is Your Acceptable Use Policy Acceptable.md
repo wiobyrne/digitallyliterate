@@ -32,4 +32,4 @@ In the end, while written AUP’s are necessary, their physical implementation i
 
 \-Scott
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

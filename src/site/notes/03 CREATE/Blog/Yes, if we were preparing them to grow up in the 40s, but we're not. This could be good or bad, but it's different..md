@@ -35,4 +35,4 @@ can you write a blog post about the content below and add in the information in 
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

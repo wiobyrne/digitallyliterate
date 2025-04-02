@@ -22,4 +22,4 @@ To build the Popcorn video, I used Wikispaces to first review the tracks on the 
 
 Image CC by [walkercleaveland](http://www.flickr.com/photos/walkercleaveland/391063563/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

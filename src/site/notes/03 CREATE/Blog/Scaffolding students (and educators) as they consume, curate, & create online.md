@@ -18,4 +18,4 @@ We will use [Kahoot](https://kahoot.it/) as a backchannel for the session. The K
 
 Cover photo by Mr  Tickle - Wachoo Wachoo Tribe Congressman http://flickr.com/photos/jacockshaw/5009255051 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

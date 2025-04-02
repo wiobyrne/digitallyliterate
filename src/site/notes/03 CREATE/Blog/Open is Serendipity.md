@@ -46,4 +46,4 @@ I appreciate your feedback and response to my opinion about serendipitous nature
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/8297629922/in/photostream/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

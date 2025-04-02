@@ -20,4 +20,4 @@ It is an open-source project, meaning that it can be sustained and forked withou
 
 flickr photo by o palsson http://flickr.com/photos/opalsson/3774079603 shared under a Creative Commons (BY) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

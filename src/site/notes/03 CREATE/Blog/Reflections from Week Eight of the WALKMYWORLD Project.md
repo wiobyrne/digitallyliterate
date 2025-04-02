@@ -30,4 +30,4 @@ Please feel free to respond, kick back, write an angry twaiku, etc. My viewpoint
 
 Image CC by [vocus](http://www.vocus.com/blog/bridging-the-gap-between-the-walk-and-the-talk/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

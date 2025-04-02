@@ -26,4 +26,4 @@ So what is the first step? How do I start authentically and effectively folding 
 
 Google Hangouts has always been a favorite tool of mine. I've been really excited over the past week at how much it has taken off in usage among the colleagues that I work with. I'm invigorated that students have been also singing the praises of this tool in their own work process and product. I've also been investigating ways to develop a "network" of colleagues globally that are using Google Hangouts and discussing ways to improve teaching and learning in our classrooms.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -22,4 +22,4 @@ One of the other common threads in the discussion asked for guidance as to apps,
 
 Image CC by [jrcougarnews](http://jrcougarnews.wordpress.com/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

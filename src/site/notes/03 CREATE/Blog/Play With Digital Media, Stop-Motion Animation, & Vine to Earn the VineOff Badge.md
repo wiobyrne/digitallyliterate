@@ -47,4 +47,4 @@ After you receive feedback and have been awarded your badge...share it out with 
 
 Cover photo by Glen's Pics http://flickr.com/photos/tejedoro\_de\_luz/3197796436 shared under a Creative Commons (BY-NC) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

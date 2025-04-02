@@ -20,4 +20,4 @@ I have embedded the two chapter proposals which were submitted...and accepted fo
 
 <iframe id="doc_54967" src="http://www.scribd.com/embeds/110319743/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-h1mh1ue0aw0a4qf56sr" height="600" width="100%" frameborder="0" data-blogger-escaped-data-aspect-ratio="0.772727272727273" data-blogger-escaped-data-auto-height="true" data-blogger-escaped-scrolling="no"></iframe>
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

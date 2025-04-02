@@ -6,7 +6,7 @@
 
 Hi, I’m **W. Ian O’Byrne**, an educator, researcher, and lifelong learner exploring the intersections of literacy, technology, and humanity.  
 
-![04 META/Attachments /point.jpg](/img/user/04%20META/Attachments%20/point.jpg)
+![point 1.jpg](/img/user/04%20META/Assets/point%201.jpg)
 ## In a Nutshell  
 I’m a problem-solver who loves turning ideas into action. My work focuses on how people read, write, and communicate in online spaces. I’ve tackled projects ranging from open pedagogy and integrating technology into classrooms to supporting marginalized students and studying digital literacy practices.  
 

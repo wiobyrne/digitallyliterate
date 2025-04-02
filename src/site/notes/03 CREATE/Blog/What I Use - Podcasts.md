@@ -40,4 +40,4 @@ What podcasts do you watch/listen to?
 
 Image CC by [wikimedia](http://commons.wikimedia.org/wiki/File:Podcast-icon.svg)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

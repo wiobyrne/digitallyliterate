@@ -47,4 +47,4 @@ Check out these resources for more insights:
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

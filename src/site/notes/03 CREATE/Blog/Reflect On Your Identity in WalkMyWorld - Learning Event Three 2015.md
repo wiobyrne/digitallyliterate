@@ -60,4 +60,4 @@ Middle image CC-BY 2.0 [Enerva](https://www.flickr.com/photos/enerva/14847803628
 
 Bottom image CC BY-NC 2.0 [Meesho](https://www.flickr.com/photos/meesho/21368516/in/photolist-2Tw7G-8fVuv8-kiCybR-hWT6qi-6FQrjK-51i1ZU-6rACD1-6iZaMo-eA1opH-67npN4-6eMzZS-6sQvEp-5C1zH6-7Ntgf7-bHZtpi-75ETDZ-5jcMKP-6qa5d1-6wgK1L-3KZeRK-6bQyde-67X53M-6k5mYx-6b2AtV-63Cjh1-6iumac-cqyA4q-67nr66-5LFdXp-naigmS-7twV57-4Sxs3y-9tqHzc-7XTExQ-bqcVUM-9bGs6P-67sD3J-67CmXA-6nqedF-8MHFmb-6rL7Cc-6q8DjZ-6xYDeS-6xH795-6c8KL3-oeKizM-bqcJHT-bviNSC-6bFxYE-74SgWj)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

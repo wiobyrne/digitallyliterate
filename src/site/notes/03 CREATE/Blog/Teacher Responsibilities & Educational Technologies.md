@@ -14,4 +14,4 @@ In my dissertation I take a look at how this impacts on the classroom, and the k
 
 This requires more flexibility on the part of the instructor as they develop methods of instruction and deal with classroom management issues.  Given the lack of traditional classroom structure that might be experienced while working in this instructional model, instructors should be more flexible and tolerant as students become actively engaged in the learning process.  An appreciation is required for the complexities, pitfalls, advantages, and limitations inherent when using online information in an instructional model.  Given the deictic nature of the Internet, a constant reconsideration must occur to account for the continual development of new concepts, processes, and approaches.  In effect, technology and literacy intertwined in instruction allows instructors and students to work collaboratively and continually define what it means to be able to read, write, and communicate effectively within the current milieu.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

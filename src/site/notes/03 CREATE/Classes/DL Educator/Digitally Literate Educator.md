@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/03-create/classes/dl-educator/digitally-literate-educator/","title":"Digitally Literate Educator","tags":["education","project-based-learning","digital-literacy"]}
 ---
 
-
 # Digitally Literate Educator
 
 Welcome to **Digitally Literate**, a hub for anyone looking to integrate technology in meaningful ways—or teach others to do the same. Whether you're an educator striving to enhance your teaching or someone passionate about digital literacy, you’ve come to the right place.

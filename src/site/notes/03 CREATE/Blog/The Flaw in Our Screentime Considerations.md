@@ -20,5 +20,5 @@ Screen shifting is not just about switching between devices but also about chang
 In conclusion, just as TV's understanding has evolved through consideration of practices like time-shifting, so too should our understanding of screentime evolve by taking into account practices like screen shifting. Our technology-driven world demands not blanket judgments but nuanced insights that recognize diverse patterns and purposes in our interactions with screens.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 
