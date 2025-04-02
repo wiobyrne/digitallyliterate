@@ -16,4 +16,4 @@ Without further ado...here is the Presentation for today's session.
 
 Image CC by [gypsyscholarship](http://gypsyscholarship.blogspot.com/2010_03_01_archive.html)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

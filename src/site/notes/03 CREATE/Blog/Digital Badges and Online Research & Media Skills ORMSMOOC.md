@@ -33,4 +33,4 @@ After you share your work to the Google Group, your work will be reviewed by a m
 
 Cover photo by Ben K Adams http://flickr.com/photos/schtumple/5187446637 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

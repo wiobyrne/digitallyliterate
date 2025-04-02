@@ -34,4 +34,4 @@ Please feel free to leave comments below...and share widely.
 
 Image CC by [wikipedia](http://upload.wikimedia.org/wikipedia/commons/e/ec/Seagate_ST33232A_hard_disk_head_and_platters_detail.jpg)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

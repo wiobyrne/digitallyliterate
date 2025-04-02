@@ -44,4 +44,4 @@ Remember, knowledge is power – the power to understand ourselves better and ma
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

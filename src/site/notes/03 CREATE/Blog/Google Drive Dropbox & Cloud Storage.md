@@ -16,4 +16,4 @@ There are a couple other really exciting uses for education, but you have enou
 
 I'll be back in a couple of days to discuss why you should be using Google Drive, Chrome...and some of the new apps for Chrome.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -54,4 +54,4 @@ Middle Bottom image CC BY-NC-ND 2.0 [Bill Lile](https://www.flickr.com/photos/bl
 
 Bottom image CC BY-NC-ND 2.0 [Bill Lile](https://www.flickr.com/photos/blile59/4953467482)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

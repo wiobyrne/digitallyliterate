@@ -34,4 +34,4 @@ Over the next month the [NLC main website](http://networkedlearningcollaborative
 
 Image CC by [ultimatesensfan](http://ultimatesensfan.deviantart.com/art/Hive-Mind-38115550)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

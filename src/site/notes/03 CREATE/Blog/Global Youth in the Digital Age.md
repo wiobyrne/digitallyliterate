@@ -18,4 +18,4 @@ The PPT for this session is available below:
 
 Image CC by [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Global_Digital_Elevation_Model.jpg).
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

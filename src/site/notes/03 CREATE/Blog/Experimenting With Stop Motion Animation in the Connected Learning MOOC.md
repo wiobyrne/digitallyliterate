@@ -40,4 +40,4 @@ In summation, creating a stop motion movie was a fun exercise, but I was glad th
 
 Image CC by [Andrew Davidhazy](http://people.rit.edu/andpph/exhibit-11.html)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

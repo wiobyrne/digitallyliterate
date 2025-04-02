@@ -12,4 +12,4 @@ If this is your first time using Google+, or Communities, please [follow this gu
 
 Once again, the Community for the collaborative summer read is available here. The summer read is an open discussion...please join us.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

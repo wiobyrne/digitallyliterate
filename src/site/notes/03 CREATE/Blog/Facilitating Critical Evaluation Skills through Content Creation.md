@@ -32,4 +32,4 @@ The final, approved, revised, dissertation proposal is available on [Academia.e
 
 \[google-drive-embed url="https://docs.google.com/document/d/1Qsq75wVh4MxGZoHhqEY3QC1mP1bG6BozEo2SczgdEe0/preview" title="O'Byrne Dissertation Proposal Final" icon="https://ssl.gstatic.com/docs/doclist/images/icon\_11\_document\_list.png" width="100%" height="400" style="embed"\]
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -41,5 +41,5 @@ Looking ahead, do you see yourself changing or improving the way you use generat
 These reflection questions allow us as students to evaluate our usage habits, perceptions, and growth with respect to generative AI in a structured format. They provide valuable insights into our own learning processes and show us where we stand in this rapidly evolving digital landscape.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 [[02 CURATE/Notes/Generative AI Reflection Questions\|Generative AI Reflection Questions]]

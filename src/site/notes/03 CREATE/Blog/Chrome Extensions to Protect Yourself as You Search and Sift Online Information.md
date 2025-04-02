@@ -26,4 +26,4 @@ REVISED June 20, 2016 - Please note that PrivacyFix has been discontinued. You c
 
 flickr photo by perspec\_photo88 https://flickr.com/photos/111692634@N04/11406964665 shared under a Creative Commons (BY-SA) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

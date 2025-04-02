@@ -52,4 +52,4 @@ Please feel free to leave comments below…and share widely.
 
 [Image CC BY-NC-SA 2.0 by Paco CT](https://www.flickr.com/photos/paco_calvino/1428982589/in/photolist-5dxb2D-dZ1UoQ-oX6yLX-3bgUJR-5t1d4F-zRm1a-iiauZJ-6MKQz9-4tvFbe-aApLun-6V7UHx-5aw9TX-q9YK8S-5aA17S-7ByDBs-DSFd3-aHYKCM-gMiyXf-7r74eE-5R9FKR-q8NNgx-jsympD-pGFaVL-edLav9-pQnzdQ-pQC7hz-6K9uGD-p1xsm5-q7h5qq-pJdNQ9-psJyNZ-pUBcoS-5GoNLA-PxCF2-bHcoCn-cGMqMs-nX8y75-c1cVo9-bV2xXf-aF3VRL-5aAgpf-qj72W8-eFqSrZ-5awrtp-pTYSMX-9p5WJA-pFqJzF-p5uw3L-edEzFg-djxn9X)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

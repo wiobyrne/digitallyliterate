@@ -18,4 +18,4 @@ Please also get involved with the chat on Twitter using the hashtag #LRAShow.
 
 The video for the episode is available below. http://www.youtube.com/watch?v=0XzZdQ8TNDk Image CC by [everRiviere](www.deviantart.com/art/Writing-on-Windows-77253620)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

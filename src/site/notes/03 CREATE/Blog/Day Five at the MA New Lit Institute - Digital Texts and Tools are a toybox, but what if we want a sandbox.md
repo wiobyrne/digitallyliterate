@@ -22,4 +22,4 @@ There are a multitude of educational technologies available as we work with digi
 
 The key is remaining flexible as future events warrant. This also means that we move away from a constant search for the perfect app for a teaching solution. I often work with schools or individual educators that are looking for that perfect app for a unit. As Tom commented in his talk, "We can't use the iPad in our history class because there isn't a decent Oregon Trail app, or Renaissance History app." The key is empowering and enabling our teachers to create, curate, and share on their own teaching materials that they know will work based on their expertise in their content area and grade level.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

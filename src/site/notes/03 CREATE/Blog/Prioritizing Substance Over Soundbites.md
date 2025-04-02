@@ -101,4 +101,4 @@ In conclusion, while soundbites may offer short-term gains in terms of attention
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

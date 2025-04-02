@@ -49,5 +49,5 @@ Let's take this conversation beyond this blog post. Advocate for change in your 
 - For resources on how to implement change in your local schools or universities, visit [Mental Health America](https://www.mhanational.org/)
 - To learn more about advocating for better policies, check out [National Alliance on Mental Illness](https://www.nami.org/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 Advocacy begins with awareness. Let's not remain silent about the importance of mental health in our classrooms – because every child deserves a chance at not just academic success but overall wellbeing.

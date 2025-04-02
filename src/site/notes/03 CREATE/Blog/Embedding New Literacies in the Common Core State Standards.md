@@ -18,4 +18,4 @@ The PPT for the Breakout Session:
 
 Image CC by [opensourceway](http://www.flickr.com/photos/opensourceway/8296581995/sizes/o/in/photostream/).
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

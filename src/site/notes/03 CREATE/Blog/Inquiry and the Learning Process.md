@@ -10,4 +10,4 @@ I have been a part of discussions much like this for the better part of a decade
 
 In terms of advocating for teachers and their access to technology, I made several points in the talk to support the use of Chromebooks, open-ed resources, and Google Apps for Educators. I think we live in wonderful times in which teachers have the opportunity to engage their students in powerful, inquiry-based learning using (for the most part) free, Web 2.0 tools. That being said, it really is inexcusable, and for the most part embarrassing that teachers in the U. S. need to lobby and petition for technology access using websites such as DonorsChoose. I'm thoroughly impressed, and in many ways humbled by some of these incredible teachers that do utilize tools in order to "kickstart" tech-access in their classroom. I just think that as a society we should provide more opportunities for our students to engage and succeed with these digital texts and tools.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

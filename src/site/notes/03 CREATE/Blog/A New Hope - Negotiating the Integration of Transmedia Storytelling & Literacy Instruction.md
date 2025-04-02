@@ -22,4 +22,4 @@ To go directly to the Google Doc, please [click here](https://docs.google.com/do
 
 Cover photo by Pandiyan http://flickr.com/photos/pandiyan/110413900 shared under a Creative Commons (BY-NC) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

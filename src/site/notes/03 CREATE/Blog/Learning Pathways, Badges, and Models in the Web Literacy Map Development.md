@@ -54,4 +54,4 @@ I was on the open badges community call last week to discuss this work, and the 
 
 Image CC BY 1.0 [Wikipedia](http://en.wikipedia.org/wiki/Interactome#mediaviewer/File:The_protein_interaction_network_of_Treponema_pallidum.png)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

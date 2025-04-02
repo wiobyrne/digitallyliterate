@@ -40,4 +40,4 @@ I might also re-post the link to a specific community in Google+ that I want to 
 
 Once these links are posted to Google+, Twitter, and Facebook, I monitor responses, +1's, favorites, replies, RTs, etc. I recognize some difference in what each community will latch on to, but most of this is anecdotal at this point. I do believe that it is beneficial to me to post on all three networks. I also steadily post content to all three spaces and focus on the same type of content...mostly Education/EdTech/Tech with some Star Wars mixed in for good measure. I'm beginning to let my "hair down" and share some of my personality in the content that I post online...but I try not to editorialize. My longer form content, my opinion, lessons learned, and teaching examples all come from this blog...and I post these links out to the various social networks...thereby repeating the process anew.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

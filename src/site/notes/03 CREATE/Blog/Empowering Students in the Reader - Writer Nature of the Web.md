@@ -24,4 +24,4 @@ Once again, it is fun to remix and play with construction of online content. I w
 
 Image attributed to [http://www.flickr.com/photos/lisovy/](http://www.flickr.com/photos/lisovy/4849229334/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

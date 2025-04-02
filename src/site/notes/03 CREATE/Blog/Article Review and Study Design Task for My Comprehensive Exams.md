@@ -20,4 +20,4 @@ Identify the most important research question(s) in the area of media constructi
 
 <iframe class="scribd_iframe_embed" src="http://www.scribd.com/embeds/130234540/content?start_page=1&amp;view_mode=scroll" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_97186" width="100%" height="600" frameborder="0"></iframe>
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

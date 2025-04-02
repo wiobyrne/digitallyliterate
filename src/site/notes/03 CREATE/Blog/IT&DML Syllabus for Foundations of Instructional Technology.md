@@ -42,4 +42,4 @@ The full version of the syllabus is embedded below. This version of the syllabus
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4370250237/in/set-72157623343003349)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

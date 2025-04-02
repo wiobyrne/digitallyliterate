@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=B64yyzedgbM
 
 Cover image flickr photo by criana [http://flickr.com/photos/criana/160471361](http://flickr.com/photos/criana/160471361) shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

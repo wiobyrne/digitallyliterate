@@ -22,4 +22,4 @@ What is the first step...and what ages are appropriate...for incorporating a "ma
 
 Image CC by kanobu
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

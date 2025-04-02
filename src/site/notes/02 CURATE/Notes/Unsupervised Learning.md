@@ -39,4 +39,4 @@ Unlike supervised learning that predicts a label, unsupervised learning identifi
 - [[02 CURATE/Notes/Deep Learning\|Deep Learning]]
 
 
-[[AI and Machine Learning MOC\|AI and Machine Learning MOC]]
+[[02 CURATE/MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]]

@@ -20,4 +20,4 @@ The entire ORMS class is built in Google Sites, and utilizes as many Google Apps
 
 Image CC by [opensourceway](http://www.flickr.com/photos/opensourceway/8288335386/sizes/o/in/photostream/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

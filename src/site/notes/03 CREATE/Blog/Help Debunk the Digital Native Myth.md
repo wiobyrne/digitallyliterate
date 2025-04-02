@@ -16,4 +16,4 @@ Read [“Debunk the Digital Native Myth” by Doug Holton](http://news.rapgenius
 
 Image CC by [alterpensiero](http://alterpensiero.altervista.org/attualita/5567/digital-divide-tra-digitale-terrestre-berlusconi-monti-e-telecom-italia/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

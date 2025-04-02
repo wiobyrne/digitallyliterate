@@ -54,4 +54,4 @@ Until then, please feel free to poke around and leave feedback. Be sure to [subs
 
 Cover photo by stavos http://flickr.com/photos/stavos52093/8576281319 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

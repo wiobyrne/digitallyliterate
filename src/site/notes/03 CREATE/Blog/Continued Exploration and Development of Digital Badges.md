@@ -36,4 +36,4 @@ After you complete all five of the badges, you can earn the Mentor badge. The Me
 
 - [ORMS Community Mentor Badge](https://badges.mozilla.org/en-US/badges/badge/ORMS-Community-Mentor-Badge)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

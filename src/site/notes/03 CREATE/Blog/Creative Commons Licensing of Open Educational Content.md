@@ -64,4 +64,4 @@ Cover Image CC by [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Tyl
 
 Like what you see here? [Sign up for my newsletter](http://wiobyrne.com/tldr/) to stay on top of weekly events in literacy, technology, & education.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

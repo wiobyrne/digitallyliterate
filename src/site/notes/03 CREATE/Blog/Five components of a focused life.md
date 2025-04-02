@@ -89,4 +89,4 @@ The components for achieving a focused life include: a Life Vision, which serves
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -16,4 +16,4 @@ I'm often overwhelmed with the amount of information that I need to search and s
 
 Image CC by [blackwind](http://www.flickr.com/photos/blackwind/4046364319/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

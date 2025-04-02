@@ -62,5 +62,5 @@ Reshaping education is no simple task. By continuing to study the synergy of exp
 - [Kolb’s Learning Styles And Experiential Learning Cycle](https://www.simplypsychology.org/learning-kolb.html)
 - [Swiecki, Z., Khosravi, H., Chen, G., Maldonado, R.M., Lodge, J.M., Milligan, S., Selwyn, N., & Gašević, D. (2022). Assessment in the age of artificial intelligence. _Comput. Educ. Artif. Intell., 3_, 100075.](https://www.sciencedirect.com/science/article/pii/S2666920X22000303)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 Photo by [Google DeepMind](https://unsplash.com/@googledeepmind?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-hands-reaching-for-a-cell-phone-NJzatVoy-U8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

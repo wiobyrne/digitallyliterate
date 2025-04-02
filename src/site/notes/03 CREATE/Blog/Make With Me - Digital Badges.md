@@ -30,4 +30,4 @@ The video from the _Make With Me_ Hangout on Digital Badges is available below.
 
 http://www.youtube.com/watch?v=B\_5n4z9AM-U&feature=youtu.be Image CC by [Threadless](http://www.threadless.com/info/blog/862889/make_make_and_well_make_somethin_with_it__extended).
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

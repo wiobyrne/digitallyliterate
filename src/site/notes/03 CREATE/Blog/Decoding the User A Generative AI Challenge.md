@@ -52,4 +52,4 @@ Fast-forward five years into the future; Sarah is now a renowned environmental j
 This speculative story underscores the potential future of generative AI models like GPT-5. As these systems learn from continuous user interaction and feedback, they will inevitably become more user-centric. The users, in turn, will transition from being mere end-users to collaborators in this exciting journey of artificial intelligence evolution.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

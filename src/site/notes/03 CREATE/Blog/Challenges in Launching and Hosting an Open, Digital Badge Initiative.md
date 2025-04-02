@@ -20,4 +20,4 @@ Still thinking. I'll post my thoughts and decisions here as always...
 
 Image CC by [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:USS_Independence_(LCS_2)_building.jpg)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

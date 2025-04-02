@@ -55,4 +55,4 @@ Check out these resources to learn more about centralized and decentralized educ
 Also, don't forget to subscribe to our blog for more insightful content on education systems and strategies!
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

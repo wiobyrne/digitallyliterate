@@ -42,4 +42,4 @@ After you complete all five of the badges, you can earn the Mentor badge. The Me
 
 Come and join us. Lurk, share, connect, communicate...or just borrow ideas. If you want the badges...you'll need to share your ideas. The ORMS MOOC is available [here](https://sites.google.com/site/ormsmodel/). The Community where the discussions and connections will be held is [here](https://plus.google.com/communities/109374663190019101967?utm_source=chrome_ntp_icon&utm_medium=chrome_app&utm_campaign=chrome). The Google Group is where people will share their work after they earn badges...and that is located [here](https://groups.google.com/forum/#!forum/ormsclass). Come join us as we all learn together.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

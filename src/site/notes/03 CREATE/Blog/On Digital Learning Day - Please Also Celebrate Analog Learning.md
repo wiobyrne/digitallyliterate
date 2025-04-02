@@ -10,4 +10,4 @@ I want us all to remember that one of the most important elements in our classro
 
 This point about the power of the "analog" side of teaching also hit home recently in a series of conversations. I read the recent post on [Scientific American](http://www.scientificamerican.com/article.cfm?id=neural-networking-site&WT.mc_id=SA_DD_20130125) discussing research that indicated that "online social content" tended to be easier for people to remember than facts from a book. I have argued that the reason for this is the reader of online content most likely attributes some more value, or authority to the online social content only because they know or recognize the person. As they state in the article, people tend to remember and recognize something because it is something that "my friend Emily would post." The power and instant credibility of that "real" person makes learning "sticky" for our students. As stated in a recent piece on [Edudemic](http://edudemic.com/2013/01/time-to-focus-on-skills/)...it's time to focus on skills...not just "cool tools."
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

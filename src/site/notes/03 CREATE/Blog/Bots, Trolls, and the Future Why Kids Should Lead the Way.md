@@ -31,4 +31,4 @@ Moreover, it is important to bridge the digital divide by ensuring equal access 
 
 As we move further into the 21st century, let us remember that our children are not just passive consumers of technology but active creators who hold the key to our digital future. We must provide them with the opportunities they need to thrive in this new reality.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

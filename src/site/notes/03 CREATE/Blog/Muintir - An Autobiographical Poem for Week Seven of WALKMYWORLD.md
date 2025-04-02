@@ -42,4 +42,4 @@ Family letters worth metal become thin. It is not just blood that binds us.
 
 Image CC BY-NC-ND 2.0 [soilse](https://www.flickr.com/photos/an_solas/7024752069/in/photolist-bGKG3Z-bKjPsH-bB49yk-nQdgzL-9zJU2G-72PWRr-768xy1-8Liu3R-9snf4n-7YDT7S-a4znGg-qBnLLf-qDuriB-qDA7uU-qDDZyV-pGEfKf-qBnJcC-qndsfH-qDA8Yq-5MtNuQ-qDDX5r-5Mpn9B-5MpoNc-5Mz4Bs-5Mz4tb-qneKGH-qn6XsL-4wosny)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

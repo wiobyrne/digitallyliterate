@@ -24,4 +24,4 @@ Like what you see here? [Sign up for my newsletter](http://wiobyrne.com/tldr/) t
 
 Cover photo by Stinging Eyes [http://flickr.com/photos/martinlatter/3770011850](http://flickr.com/photos/martinlatter/3770011850) shared under a Creative Commons (BY-SA) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

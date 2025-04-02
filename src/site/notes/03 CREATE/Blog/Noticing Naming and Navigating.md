@@ -59,4 +59,4 @@ Throughout this process the teacher would focus on the skills and strategies "go
 
 Leu, D.J., Everett-Cacopardo, H., Zawilinski, L., McVerry, J. G., & O’Byrne, W.I. (2011). "New Literacies of Online Reading Comprehension." The Encyclopedia of AppliedLinguistics, ed. Chapelle, C.A.  Oxford, UK: Wiley-Blackwell.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

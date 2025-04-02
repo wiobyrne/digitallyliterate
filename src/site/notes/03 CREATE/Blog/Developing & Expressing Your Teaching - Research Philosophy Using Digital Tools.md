@@ -42,4 +42,4 @@ https://vine.co/v/bLbt9WTIzzv
 
 Cover image creative commons licensed (BY-SA) flickr photo by TheAlieness GiselaGiardino²³: http://flickr.com/photos/gi/47664852
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

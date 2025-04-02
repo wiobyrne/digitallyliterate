@@ -22,4 +22,4 @@ http://www.youtube.com/watch?v=5xRwTUAOWS8
 
 There is one more teaching moment in this work. This video was made and shared on YouTube about three years ago. Because I added the Jack Johnson track I received a "take down notice" in Germany. At first, it was blocked on mobile devices here in the U.S. Now, YouTube monetizes my inclusion of the song by placing ads on it. I was going to revise the video to take out the offending Jack Johnson clip, but then decided to leave it alone as a lesson of copyright and policy.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

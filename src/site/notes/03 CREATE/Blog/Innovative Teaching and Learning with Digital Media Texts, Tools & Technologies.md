@@ -16,4 +16,4 @@ To extend on that initial work, I will present two "cool tools" sessions on the 
 
 Image CC by [HASTAC](http://hastac.org/forums/hastac-scholars-discussions/teaching-technologies).
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

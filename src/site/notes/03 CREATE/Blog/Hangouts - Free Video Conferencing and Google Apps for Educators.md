@@ -36,4 +36,4 @@ I'll share another post discussing possible instructional uses for Hangouts. For
 
 flickr photo by George Papaconstantinou http://flickr.com/photos/george-papaconstantinou/6963132698 shared under a Creative Commons (BY-SA) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

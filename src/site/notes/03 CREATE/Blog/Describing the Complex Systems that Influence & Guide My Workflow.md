@@ -52,4 +52,4 @@ Cover photo by orcmid http://flickr.com/photos/orcmid/3879260297 shared under a 
 
 <script src="//cdn.thinglink.me/jse/embed.js" async charset="utf-8"></script>
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

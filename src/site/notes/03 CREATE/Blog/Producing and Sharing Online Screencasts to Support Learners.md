@@ -14,4 +14,4 @@ I then detailed the use of [Skitch](https://sites.google.com/site/wiobyrne/Skit
 
 The session wrapped up with some discussion about how I use [Google Presentation](https://sites.google.com/site/wiobyrne/google-presentation) to share powerpoint presentations with students by embedding them in an online classroom. We also discussed using [Explain Everything](http://www.explaineverything.com/) to record screencasts on the iPad. In future sessions, we'll focus on the use of Google Presentation, Forms, Docs...and using the iPad to record discussions for students.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

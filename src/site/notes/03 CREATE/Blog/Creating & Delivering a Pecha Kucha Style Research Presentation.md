@@ -24,4 +24,4 @@ https://www.youtube.com/watch?v=8V1txujOE68
 
 Image CC by [mattwileyart](http://www.deviantart.com/art/Pecha-Kucha-316325130)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

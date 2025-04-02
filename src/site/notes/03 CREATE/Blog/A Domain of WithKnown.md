@@ -44,4 +44,4 @@ Thanks again. Feel free to head on over and connect with me there.
 
 [![Capture](images/Capture-1024x379.png)](http://wiobyrne.com/wp-content/uploads/2014/11/Capture.png)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -16,4 +16,4 @@ Please feel free to watch the first episode of Digitally Literate below. Please 
 
 Image CC by [Wikipedia](http://en.wikipedia.org/wiki/File:Univac_bit_bucket.JPG)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

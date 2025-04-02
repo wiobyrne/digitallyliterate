@@ -46,4 +46,4 @@ I think there are many possibilities for meditation, and finding time for focusi
 
 Cover photo by mindfulness http://flickr.com/photos/mindfulness/276102076 shared under a Creative Commons (BY) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

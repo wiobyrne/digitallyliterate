@@ -30,4 +30,4 @@ Finally, I recommend embedding the Storify stories in your website or classroom 
 
 Cover creative commons licensed (BY) flickr photo by psd: [http://flickr.com/photos/psd/2731067095](http://flickr.com/photos/psd/2731067095)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

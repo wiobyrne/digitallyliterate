@@ -65,4 +65,4 @@ Stay informed and stay connected!
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

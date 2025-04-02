@@ -24,4 +24,4 @@ The PPT for today's session is available below.
 
 Image CC by [gforsythe](http://www.flickr.com/photos/gforsythe/7704609288/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

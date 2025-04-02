@@ -25,4 +25,4 @@ Then go to your Google Site, click on the gear in the top right corner, go down 
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/5537457437/in/set-72157625612605617)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

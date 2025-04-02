@@ -14,4 +14,4 @@ We will also use as many free Web 2.0 tools for teaching and learning as possibl
 
 I think that is a good start for now. I'll have much more to say in coming weeks about different issues we've had to consider such as the use of Creative Commons, copyright issues and iTunesU, and protecting our students and instructors as we increasingly move our classrooms and the IT&DML program open and online.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

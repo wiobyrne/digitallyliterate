@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=Q\_AME7wP1dI
 
 Cover image [creative commons licensed ( BY-NC-SA )](http://creativecommons.org/licenses/by-nc-sa/2.0/) [flickr photo](http://flickr.com/photos/lwr/13421955434 "Question Mark") shared by [Leo Reynolds](http://flickr.com/people/lwr)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

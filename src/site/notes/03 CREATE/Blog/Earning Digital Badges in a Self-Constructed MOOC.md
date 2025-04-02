@@ -48,4 +48,4 @@ Once again, the badges in the ORMS MOOC are a way to signify achievement in the 
 
 Cover image by /\\/\\ichael Patric|{ http://flickr.com/photos/michaelpatrick/2830818372 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

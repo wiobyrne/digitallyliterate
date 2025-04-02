@@ -16,4 +16,4 @@ You can take the survey [here](http://goo.gl/forms/LKNSNrXCnu).
 
 Image CC by [Johnson Cameraface](https://www.flickr.com/photos/54459164@N00/8122512655/in/photolist-dnL12D-mdhTEV-5LPHjj-6TzK1u-5onT3-6PajS9-8iLqBZ-aMgCV-2t9ya9-6TArcu-2t4SHt-e38eA4-fz7s14-oKmXrf-cSHdES-6XyVty-aZSEin-aYTKU-nntbf-7cJ6fU-aSC7pT-8LbUUh-d2Ew6m-8XAy16-bc3Ude-8Jn2UP-6Ppn7P-2t4SAR-6TvQW6-aDpQQF-ea3RKz-8AHcxQ-4t67No-8XSY7u-diwCLs-jyjogz-8z3VSh-jymkPu-4DWDA7-hR3v6n-dnyn4k-a55wUx-dn8qhg-bA817K-egWvEW-oZPkMQ-79EUFb-6pMYkS-6HobTd-buF4H)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

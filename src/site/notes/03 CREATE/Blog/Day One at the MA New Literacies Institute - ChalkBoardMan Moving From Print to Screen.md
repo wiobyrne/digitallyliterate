@@ -20,4 +20,4 @@ On a more serious note, in a session in the early morning we all spent time desc
 
 Image CC by [marketingwithmarcos](http://marketingwithmarcos.com/page/2/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

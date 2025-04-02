@@ -30,4 +30,4 @@ Construction also brings in the role of groups of learners in the process of lea
 
 It may be a small designation to make, but I see a great deal of difference between the act of creation, and the sustained, informed, evaluative elements embedded in construction.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

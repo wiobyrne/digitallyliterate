@@ -16,4 +16,4 @@ Enjoy. https://www.youtube.com/watch?v=oGN11Ja7DJk
 
 <iframe src="https://app.box.com/embed_widget/oqghd4mifyuu/s/ymn59n01l9v01ysc6xsg?view=list&amp;sort=name&amp;direction=ASC&amp;theme=gray" width="330" height="400" frameborder="0" allowfullscreen webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

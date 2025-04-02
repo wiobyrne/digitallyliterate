@@ -50,4 +50,4 @@ This special issue of Tapestry also contains a review by Joe Terantino and Susa
 
 Image CC BY-NC-SA 2.0 [Reidab](https://www.flickr.com/photos/reidab/369052099/in/photolist-yBuke-j3cTX-j3cTZ-gmKjm8-5zw53T-pFYj5x-6ZN5FZ-fForLD-fFF1AW-fFor2p-fFEZES-fFF3mf-fFotAx-fFF455-9zyywc-72P18S-j3cTY-65qpGA-fFotNK-fFF2T7-fFEZrs-fFF1XG-fFF1Jo-fFouoP-fFooL4-fFF1Rj-fFF4cu-fFotVZ-fFopst-fFF6b5-fFEZdb-fFF2x3-fFF6EJ-fFormz-fFopFK-fFottx-fFouWt-fFF6xd-fFF2Zj-fFF25E-fFouPn-fFot1k-fFooCg-fFosTg-fFosb8-fFouAB-fFEZxs-fFF3Pm-fFotfZ-fFougB)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

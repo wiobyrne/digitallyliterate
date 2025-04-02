@@ -44,4 +44,4 @@ https://www.youtube.com/watch?v=Dwuay7PFxEc
 
 Cover photo by David\_Bekaert http://flickr.com/photos/david\_bekaert/15362877914 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

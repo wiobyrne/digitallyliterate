@@ -48,4 +48,4 @@ The results look pretty stellar. I hope to join in this year with my son Jax who
 
 We'll be sure to document whatever we do.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

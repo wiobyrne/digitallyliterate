@@ -26,4 +26,4 @@ As the developers start working with Chrome and gDrive...I'm sure we'll see more
 
 Because gDrive at this point is only a week old, some of the functionality is slow, or buggy...but I would hope that this gets better over time. I would love to be able to continue using Google Docs as I have been for years...while I have access to all of my files in gDrive. Finally, having a "swiss army knife" of tools available within the browser makes my life a lot easier.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

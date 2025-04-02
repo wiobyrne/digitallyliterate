@@ -89,4 +89,4 @@ In conclusion, while both collaboration and cooperation are valuable ways of wor
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

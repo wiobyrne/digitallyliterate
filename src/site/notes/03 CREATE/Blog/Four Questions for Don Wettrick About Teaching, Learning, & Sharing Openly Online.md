@@ -27,4 +27,4 @@ https://www.youtube.com/watch?v=L\_8JJV3WxaQ
 
 Image CC by [Leo Reynolds](https://www.flickr.com/photos/lwr/13421955434/in/photolist-ms42JJ-9ksxQa-b769vZ-HMUG1-5q3kuz-7x9bYE-8k8pgk-58vQCQ-cBFFBS-mtSxtz-6mLhjb-625FMD-pi9pQ3-2FNUzm-8ChFDT-nh56ww-4mzmoq-qJ8iU-dYwzsm-tS1tw-fGyo6Q-dHUxPF-5GLFEo-5Y5kW-pzZZC-9ESmzs-93aPCq-wTgzo-7mp3wi-f1ptJi-2eVMS6-bAd4AH-gh9ghW-26nEG-hoMcw-ubFWa-bpxrqs-4ms8ZA-5DeuzB-7xN3UW-5uf2Ue-cJ4Gnh-7ssZNn-8JkcMH-57gbdz-8p2AtP-3pHNnz-5mp14-bwjggh-bhyT8B)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

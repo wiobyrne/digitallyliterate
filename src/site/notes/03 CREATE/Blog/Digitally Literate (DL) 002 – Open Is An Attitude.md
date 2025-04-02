@@ -26,4 +26,4 @@ This episode of Digitally Literate will tackle these issues as we try to better 
 
 Image CC by [wikipedia](http://en.wikipedia.org/wiki/Portal:Computer_science/Featured_article/4)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

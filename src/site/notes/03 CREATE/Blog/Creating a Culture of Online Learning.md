@@ -12,4 +12,4 @@ I began to read online to identify sources of inspiration in how to build cultur
 
 If creating "real" culture in your classroom is all about providing experiences for authentic and effective use of technology in instruction, then perhaps as teacher educators we need to provide opportunities for our students to practice this in the assignments they submit. There is merit to working with students to learn and identify digital texts and tools that can be used in the learning activity, but really what we need to do is provide opportunities for our teachers to "test drive" these texts and tools and see how they would work in instruction. In the end, this is a case of considering the learning objectives and instructional goals, finding digital texts and tools that can enhance this learning, and then providing teacher educators with the knowledge, skills, and dispositions needed to bring them into instruction. Perhaps then we can begin to create a "real" culture of online learning.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

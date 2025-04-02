@@ -36,4 +36,4 @@ The official brochure for the program is available below.
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/5752085178/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

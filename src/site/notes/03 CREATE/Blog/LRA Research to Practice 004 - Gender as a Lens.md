@@ -18,4 +18,4 @@ The video for the episode is available below. https://www.youtube.com/watch?v=lW
 
 Image CC by [offoxesandhedgehogs](http://offoxesandhedgehogs.wordpress.com/2012-04-18/all-made-up-performance-theory-and-the-new-anthropology-of-sex-and-gender/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -47,11 +47,11 @@ The marriage of experiential learning and AI is a promising frontier in educatio
 
 For further reading, check out:
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - David Kolb’s “[Experiential Learning: Experience as the Source of Learning and Development](https://www.amazon.com/Experiential-Learning-Experience-Source-Development-dp-0133892409/dp/0133892409/ref=dp_ob_title_bk)”
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - [What is Experiential Learning and how does it work?](https://www.futurelearn.com/info/blog/what-is-experiential-learning) – Future Learn
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - For an in-depth understanding of AI, see [Stuart Russell & Peter Norvig’s “Artificial Intelligence: A Modern Approach”](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach)
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 - Watch this engaging [TED talk by Richard Culatta on how AI can revolutionize education](https://www.ted.com/talks/richard_culatta_education_in_an_evolving_digital_world)

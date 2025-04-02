@@ -40,4 +40,4 @@ I'll definitely have teachers and students complete this type of project in the 
 
 Cover photo by eaubscene http://flickr.com/photos/eaubscene/4403124926 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

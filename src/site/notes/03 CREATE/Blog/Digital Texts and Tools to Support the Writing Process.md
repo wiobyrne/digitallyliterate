@@ -54,4 +54,4 @@ With all of these digital texts and tools there are various affordances that pro
 
 Image CC by [ashleyrosex](http://www.flickr.com/photos/ashleyrosex/2773178361/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

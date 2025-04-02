@@ -16,4 +16,4 @@ The complete folder of documents can be viewed at this [link](https://drive.goog
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/7496803526/in/set-72157628737085119)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
