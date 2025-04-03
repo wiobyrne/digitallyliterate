@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["overview","hub","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","title":"Home","tags":["overview","hub"]}
 ---
 
 
-# Digital
+# Home
 
 **Ian O’Byrne** is an educator, researcher, and lifelong learner. Learn more [[04 META/About Me/About Me\|About Me]].
 
