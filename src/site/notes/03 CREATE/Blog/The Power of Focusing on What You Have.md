@@ -91,4 +91,4 @@ Remember, the key to gaining more in life is appreciating what you already have 
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

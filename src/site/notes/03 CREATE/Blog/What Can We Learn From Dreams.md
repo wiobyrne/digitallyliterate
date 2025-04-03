@@ -58,4 +58,4 @@ Middle image CC BY-NC-ND 2.0 [Masha](https://www.flickr.com/photos/masha_k_sh/43
 
 Bottom image CC BY-NC-ND 2.0 [Masha](https://www.flickr.com/photos/masha_k_sh/438578236/in/set-72157600032208397)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

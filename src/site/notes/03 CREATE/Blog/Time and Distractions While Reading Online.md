@@ -12,4 +12,4 @@ Bringing these thoughts together...at least up until now it makes me think about
 
 Still trying to unpack these ideas...
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

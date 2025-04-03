@@ -110,4 +110,4 @@ The items on the SLIDE are listed below.
 - Open Response - How did this project change your consideration of the use of the Internet as a text in teaching and learning?
 - Open Response - Is there anything else you would like to share about your experience with the #WALKMYWORLD project?
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

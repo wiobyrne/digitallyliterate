@@ -45,4 +45,4 @@ The Digital Texts and Tools Online Repository is an attempt to build an open edu
 
 Image CC by [opensourceway](http://www.flickr.com/photos/opensourceway/6555466127/sizes/o/in/photostream/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

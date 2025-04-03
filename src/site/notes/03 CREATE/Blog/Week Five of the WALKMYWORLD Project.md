@@ -48,4 +48,4 @@ As an extra layer of support, and to entice you all to examine, and annotate poe
 
 Image CC by [PoetryFoundation](http://www.poetryfoundation.org/article/180531)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

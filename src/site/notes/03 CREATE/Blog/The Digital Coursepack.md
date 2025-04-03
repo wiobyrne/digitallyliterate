@@ -24,4 +24,4 @@ As far as content is concerned, I think the more the better. This is key. Teache
 
 So dear reader, we ask you...what features would you like to see in a proposed digital coursepack? What effects would this have on the traditional classroom environment?
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

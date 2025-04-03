@@ -30,4 +30,4 @@ After identifying the initial purpose and audience of the work product, I engage
 
 Image attributed to http://www.flickr.com/photos/opensourceway/
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

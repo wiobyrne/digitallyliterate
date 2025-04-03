@@ -28,4 +28,4 @@ Please review the following video from Kristen at Edcamp Philly. It does a great
 
 Image CC by [Reid Beels](http://www.flickr.com/photos/reidab/5882033075/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -35,4 +35,4 @@ There are many other factors associated with the development and awarding of our
 
 Image CC by [Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Trivial_pursuits_colors.jpg)[](http://classhack.com/post/45364649211/open-badge-anatomy-updated)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

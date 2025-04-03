@@ -70,4 +70,4 @@ Bottom middle image CC BY 2.0 [yaketyyakyak](https://www.flickr.com/photos/yaket
 
 Bottom image CC BY 2.0 [yaketyyakyak](https://www.flickr.com/photos/yaketyyakyak/6906994842)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

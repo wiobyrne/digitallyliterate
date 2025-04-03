@@ -13,9 +13,9 @@ Welcome to my evolving collection of ideas, insights, and connections. This digi
 
 ## 🌐 Explore the Garden 
 Dive into key areas of the garden: - 
-- 📰 **[[Newsletter Index\|Newsletter Index]]** – Explore my newsletters for curated thoughts and resources. 
-- 📝 **[[Blog Post Index\|Blog Post Index]]** – Browse through my blog posts on various topics. 
-- 📚 **[[Books\|Books]]** – Highlights and key insights from my readings. 
+- 📰 **[[02 CURATE/MOCs/Newsletter Index\|Newsletter Index]]** – Explore my newsletters for curated thoughts and resources. 
+- 📝 **[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]** – Browse through my blog posts on various topics. 
+- 📚 **[[02 CURATE/MOCs/Books\|Books]]** – Highlights and key insights from my readings. 
 - 🎓 **[[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]]** – An open online course to help educators integrate technology meaningfully in their classrooms.
 
 ## ✨ How This Garden Works

@@ -46,4 +46,4 @@ One thing to keep in mind is that I'm always tinkering and trying to improve my 
 
 Image CC BY-SA 2.0 [opensourceway](https://www.flickr.com/photos/opensourceway/4929153543/in/set-72157623343013541)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

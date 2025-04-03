@@ -32,4 +32,4 @@ In your reflection, either in prose or poetry, we ask you to return to the origi
 
 Image CC by [uniquexme](http://uniquexme.deviantart.com/art/Walking-125540549)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

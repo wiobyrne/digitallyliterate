@@ -43,4 +43,4 @@ Good work all. This week we'll wrap up Module 1, and move on to Module 2. As det
 
 Cover image by an untrained eye [http://flickr.com/photos/an\_untrained\_eye/1185704829](http://flickr.com/photos/an_untrained_eye/1185704829) shared under a Creative Commons (BY-NC) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

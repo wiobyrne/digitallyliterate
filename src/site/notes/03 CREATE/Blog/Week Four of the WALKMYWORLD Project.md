@@ -22,4 +22,4 @@ By all means, these questions, and the above quote are not meant to fence you in
 
 Image CC by [Exeter Academy](http://www.exeter.edu/libraries/553_11403.aspx)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

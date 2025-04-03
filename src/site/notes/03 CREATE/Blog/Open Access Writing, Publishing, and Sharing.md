@@ -22,4 +22,4 @@ Once again, I believe that we're in-between two models right now. At some point 
 
 Image CC by [opensourceway](http://www.flickr.com/photos/opensourceway/5041738449/sizes/o/in/photostream/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

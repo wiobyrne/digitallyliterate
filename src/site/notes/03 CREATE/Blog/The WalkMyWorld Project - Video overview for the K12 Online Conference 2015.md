@@ -34,4 +34,4 @@ I also used the CC-licensed audio track titled “[Classik Electro](https://soun
 
 Cover photo by Still Moments http://flickr.com/photos/vasfak/5597785262 shared under a Creative Commons (BY) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

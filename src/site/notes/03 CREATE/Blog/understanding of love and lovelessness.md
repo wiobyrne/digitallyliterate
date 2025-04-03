@@ -17,4 +17,4 @@ hooks explains that we can only awaken to love if we let go of our obsession wit
 By embracing empathy and rejecting domination, we can begin to build a society where love is not just an aspiration but a lived reality. This is the heart of turning towards each other—choosing connection, understanding, and love over division, judgment, and power. It is a radical, transformative act that can reshape our world.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

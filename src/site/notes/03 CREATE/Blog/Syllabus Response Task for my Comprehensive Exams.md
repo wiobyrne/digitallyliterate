@@ -26,4 +26,4 @@ _·     Selected readings beyond the textbook, if you choose to use one. · 
 
 <iframe id="doc_24837" src="http://www.scribd.com/embeds/130233519/content?start_page=1&amp;view_mode=scroll" height="600" width="100%" frameborder="0" scrolling="no" data-auto-height="false" data-aspect-ratio="undefined"></iframe>
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

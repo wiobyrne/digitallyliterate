@@ -65,4 +65,4 @@ Next time you find yourself trusting a piece of information, pause and consider 
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

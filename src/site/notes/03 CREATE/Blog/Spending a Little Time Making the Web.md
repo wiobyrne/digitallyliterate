@@ -19,4 +19,4 @@ I'm looking forward to getting started. Feel free to [join](http://hivenyc.org/t
 
 Image attributed to [www.flickr.com/photos/opensourceway/](http://www.flickr.com/photos/opensourceway/8250688924/in/photostream/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

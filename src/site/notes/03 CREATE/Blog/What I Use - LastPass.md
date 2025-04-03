@@ -36,4 +36,4 @@ Recent events like [Heartbleed](https://www.schneier.com/blog/archives/2014/04/h
 1. _How transparent are the websites that I use to log in when security breaches happen?_ In the days after Heartbleed I immediately was contacted by [LastPass](http://blog.lastpass.com/2014/04/lastpass-and-heartbleed-bug.html), [Tumblr](http://timesofindia.indiatimes.com/tech/tech-news/Tumblr-asks-users-to-change-passwords-to-protect-against-Heartbleed-bug/articleshow/33617214.cms), [IFTTT](http://www.lifehacker.com.au/2014/04/ifttt-says-it-is-no-longer-vulnerable-to-heartbleed/), and [Draft](http://ninjasandrobots.com/drafts-heartbleed-reponse) (among others). My question is now, what about all of my other online spaces? Especially places where I spend money...like my bank, Verizon, Bank of America, Amazon, TurboTax, etc.? As of this date, we haven't heard anything yet. :(
 2. _How can I quickly audit and change my passwords to make sure I am protected?_ My assumption is that using tools like LastPass, you can quickly and easily remedy these challenges.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

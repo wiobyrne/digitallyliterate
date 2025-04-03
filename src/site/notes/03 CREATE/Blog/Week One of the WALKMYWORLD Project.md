@@ -34,4 +34,4 @@ _Go out there and PLAY. Play with digital texts and tools. Play with what it mea
 
 Image CC by [xRedRockerx](http://www.deviantart.com/art/Walking-251779655)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

@@ -54,4 +54,4 @@ Middle image CC BY-NC 2.0 [Jenn and Tony Bot](https://www.flickr.com/photos/itty
 
 Bottom image CC BY-NC 2.0 [Jenn and Tony Bot](https://www.flickr.com/photos/ittybittiesforyou/5075843831)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

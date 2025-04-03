@@ -74,4 +74,4 @@ I hope that helps you get up and running with Chrome. In future posts, I'll disc
 
 Cover photo by stshank http://flickr.com/photos/shankrad/6996250771 shared under a Creative Commons (BY-SA) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

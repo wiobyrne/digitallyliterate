@@ -34,4 +34,4 @@ If needed, I am available to help guide you in this process. [**Subscribe to my 
 
 Image CC by [wili](http://www.flickr.com/photos/wili/242265276/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

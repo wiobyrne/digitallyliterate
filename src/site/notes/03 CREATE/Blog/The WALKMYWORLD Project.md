@@ -38,4 +38,4 @@ We'll share more as people begin to join us. Enjoy!
 
 Image CC by [gilad](http://www.deviantart.com/art/A-walk-on-the-other-side-45062357)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

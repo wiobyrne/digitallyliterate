@@ -48,4 +48,4 @@ flickr photo by quinn.anya https://flickr.com/photos/quinnanya/6799193106 shared
 
 If you like this…[sign up for my newsletter](http://wiobyrne.com/tldr/) to stay on top of weekly events in literacy, technology, & education.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

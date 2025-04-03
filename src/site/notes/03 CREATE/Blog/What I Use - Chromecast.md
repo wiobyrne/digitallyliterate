@@ -54,4 +54,4 @@ Finally, I'd love to see Chromecast take more of a hold in our classrooms. I wan
 
 Image CC by [iannnnn](https://www.flickr.com/photos/iannnnn/11419198663/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

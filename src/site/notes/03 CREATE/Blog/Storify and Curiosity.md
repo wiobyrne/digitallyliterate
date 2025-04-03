@@ -12,4 +12,4 @@ The final project can be viewed here: [http://storify.com/wiobyrne/the-nature-o
 
 As of yet I can't get the embed code working...for now. I think Storify could be a cool online reading and writing activity with a nice critical literacy appeal to it. In a sense you're skimming through online information to see what others view to be the "truth" about a current issue. I'll continue to play with it and share more later. I'll also do a write-up on IFTTT for everyone later.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

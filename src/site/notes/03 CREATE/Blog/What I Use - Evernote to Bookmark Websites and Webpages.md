@@ -16,4 +16,4 @@ To combat this I started using Evernote and the Web Clipper or Clearly extension
 
 Image CC by [blackwind](http://www.flickr.com/photos/blackwind/4046364319/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

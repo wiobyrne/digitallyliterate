@@ -42,4 +42,4 @@ Please feel free to leave comments below...and share widely.
 
 Image CC BY-SA 2.0 [opensourceway](https://www.flickr.com/photos/opensourceway/4424154829/in/set-72157625612673573)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

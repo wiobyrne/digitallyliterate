@@ -42,5 +42,5 @@ Check out these resources to learn more about SEL:
 3. [“Promoting Social and Emotional Learning: Guidelines for Educators” by Elias et al](https://www.amazon.com/Promoting-Social-Emotional-Learning-Guidelines-Educators/dp/0871202883)
 4. Podcast: [The Importance of Teaching Social-Emotional Learning in Schools](http://kut.org/post/importance-teaching-social-emotional-learning-schools)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 Remember - every step we take towards fostering social-emotional learning is a step towards creating a kinder, empathetic world!

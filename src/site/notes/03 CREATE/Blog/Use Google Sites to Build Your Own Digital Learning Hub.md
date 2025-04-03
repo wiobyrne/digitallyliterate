@@ -48,4 +48,4 @@ To continue your learning about using Google Sites as your digital learning hub,
 
 Image CC by [Wikimedia](http://commons.wikimedia.org/wiki/File:The_Hub_logo.png)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

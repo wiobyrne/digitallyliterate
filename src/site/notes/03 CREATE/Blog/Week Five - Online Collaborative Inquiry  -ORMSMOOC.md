@@ -30,4 +30,4 @@ At the conclusion of Module 1, you are to complete materials and pledge/apply fo
 
 Cover photo by enshahdi [http://flickr.com/photos/shahdi/5210439036](http://flickr.com/photos/shahdi/5210439036) shared under a Creative Commons (BY-NC) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

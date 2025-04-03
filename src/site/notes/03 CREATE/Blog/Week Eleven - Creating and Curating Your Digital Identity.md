@@ -34,4 +34,4 @@ At the conclusion of Module 5, you are to complete materials and pledge/apply fo
 
 Cover photo by ssoosay http://flickr.com/photos/ssoosay/6804065790 shared under a Creative Commons (BY) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

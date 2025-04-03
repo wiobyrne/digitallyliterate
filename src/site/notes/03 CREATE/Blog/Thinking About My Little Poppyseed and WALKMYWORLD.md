@@ -18,4 +18,4 @@ Now, he's a healthy, happy 3 1/2 year old. In thinking about, and planning for w
 
 For the #WALKMYWORLD project, I'll continue to document my life. In this process I'll identify specific times in my life, or events that I think help develop my identity.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

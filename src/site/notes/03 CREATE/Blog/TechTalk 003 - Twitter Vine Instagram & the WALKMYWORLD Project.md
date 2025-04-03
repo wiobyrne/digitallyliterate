@@ -12,4 +12,4 @@ What motivated me the most from yesterday's show was the guidance and urging of 
 
 Nevertheless, I hope you take a chance to review the materials for this episode. I also suggest reading [Molly's blog](http://technoliteracy.org/)...if you don't have it added to your repertoire already. For some more Twitter support, please review the materials on "Why Twitter in Education" that Verena Roberts is pulling together. I already added some new tools to my repertoire. Finally, please be sure to review some of the earlier TechTalks of the year...at least the ones that we started doing completely on Google Hangouts. https://www.youtube.com/watch?v=qPeyDG5Uypo Image CC by [yj-twitter dump](http://www.deviantart.com/art/yj-twitter-dump-202273264)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

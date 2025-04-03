@@ -22,4 +22,4 @@ Once again, despite these challenges, great work still happens. I believe that t
 
 Image CC by [Maxwelb](http://www.deviantart.com/art/Technology-153470148)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

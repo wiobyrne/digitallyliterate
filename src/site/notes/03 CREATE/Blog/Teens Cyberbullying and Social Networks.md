@@ -10,4 +10,4 @@ We see a lot of the same "hyper personalized", almost too nice discursive elemen
 
 It is interesting to note initially in the study that they showcase that students are "mostly kind" to each other online. I think this may be more of a societal, or cultural way that we view how our actions, interactions, and dialogue should be framed as we communicate online.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

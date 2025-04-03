@@ -20,4 +20,4 @@ Over the coming weeks I'll give you an inside tour of the materials, syllabi, an
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/7496800772/in/photostream/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

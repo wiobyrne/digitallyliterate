@@ -24,4 +24,4 @@ To wrap up all of these elements I held our first TechTalk of the year focusing 
 
 Image CC by [wikimedia commons](http://commons.wikimedia.org/wiki/File:Google%2B_Sticker_Icon.png)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

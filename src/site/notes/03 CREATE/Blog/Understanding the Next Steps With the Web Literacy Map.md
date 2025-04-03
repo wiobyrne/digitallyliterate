@@ -20,4 +20,4 @@ I'm excited that the web literacy initiative seems to be moving forward. Once ag
 
 Cover flickr photo by Astro Guy http://flickr.com/photos/astroguy/3931250442 shared under a Creative Commons (BY-NC-ND) license
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

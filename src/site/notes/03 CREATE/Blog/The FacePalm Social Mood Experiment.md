@@ -16,4 +16,4 @@ Ladies and gentlemen...I give you the FacePalm social mood experiment.
 
 To remix this Google Form...please click [here](http://goo.gl/esUCmF).
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

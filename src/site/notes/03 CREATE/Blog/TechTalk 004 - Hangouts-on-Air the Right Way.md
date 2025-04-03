@@ -18,4 +18,4 @@ The event page is available [here](https://plus.google.com/u/0/events/cnco0otfkf
 
 Image CC by [Film Junk](http://filmjunk.com/2009-08-23/the-official-film-junk-podcast-equipment-guide-and-tips-for-podcasting/)
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

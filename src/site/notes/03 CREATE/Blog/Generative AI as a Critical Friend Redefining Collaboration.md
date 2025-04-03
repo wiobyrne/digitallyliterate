@@ -104,5 +104,5 @@ These prompts became part of the “Reflect and Engage” section in many of my 
 
 This experiment with ChatGPT as a critical friend has reshaped how I view collaboration. It’s not a replacement for human insight but a complementary tool that can enhance productivity and creativity when used thoughtfully. In upcoming posts, I’ll dive deeper into the strengths and weaknesses of generative AI in projects like this, exploring how to balance its contributions with the irreplaceable value of human collaboration.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
 For now, I’d love to hear from you: How do you approach collaboration with AI? Have you ever treated an AI as a critical friend? Let’s discuss in the comments or connect directly. Together, we can redefine what collaboration looks like in the digital age.

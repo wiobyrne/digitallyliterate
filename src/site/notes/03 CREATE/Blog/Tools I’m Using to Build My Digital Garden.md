@@ -140,4 +140,4 @@ In the next blog post, I’ll dive into how I’m designing the structure of my 
 Let’s keep cultivating ideas together—one note at a time.
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

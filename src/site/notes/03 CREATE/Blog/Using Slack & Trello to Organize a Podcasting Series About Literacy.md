@@ -49,5 +49,5 @@ Our Trello board is integrated into the Slack channel for the R2P episodes. This
 
 Using Slack as an alternative to chats, Hangouts, and emails provides a way for us to stay in touch as a loose team without burdening our email inboxes. Trello allows us to have a virtual "white board" that we can use to stay organized as we plan. Trello provides the extra functionality of being public to allow anyone to view what we're up to as we're planning. Finally...bringing these two together allows us to stay in touch as we organize this initiative.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
  

@@ -46,4 +46,4 @@ Remember: Every stroke matters. Every piece tells a story. Every artist has the 
 
 
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]

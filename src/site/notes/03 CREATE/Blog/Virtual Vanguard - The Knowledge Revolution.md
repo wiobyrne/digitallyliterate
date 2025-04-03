@@ -66,4 +66,4 @@ The transition from traditional schooling wasn't easy, but in the face of advers
 
 In the face of terror, humanity found a way to prevail. Schools were no longer buildings made of bricks and mortar; they were safe havens built on bytes and data. And in these virtual classrooms, a new generation was getting ready to inherit the Earth - a generation that was not just educated but also safe.
 
-[[Blog Post Index\|Blog Post Index]]
+[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
