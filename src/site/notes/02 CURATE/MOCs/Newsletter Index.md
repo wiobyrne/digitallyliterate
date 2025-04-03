@@ -11,13 +11,13 @@ Welcome to the _Digitally Literate_ Newsletter Index. Here you'll find all past 
 Use the search bar at the top right to quickly find specific content, or explore through the sitemap on the left for detailed navigation.
 
 ## Last 5 Issues
-| Issue                                      | Title                                                        | Tags                                                                                                                                                           |
-| ------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[03 CREATE/Newsletter/DL 300\|DL 300]] | A Digital Master Key                                         | <ul><li>amazon</li><li>big-data</li><li>breathing</li><li>consciousness</li><li>deepfake</li><li>facebook</li><li>facial-recognition</li><li>privacy</li></ul> |
-| [[03 CREATE/Newsletter/DL 301\|DL 301]] | Watching Robots                                              | <ul><li>culture</li><li>parenting</li><li>propaganda</li><li>robots</li></ul>                                                                                  |
-| [[03 CREATE/Newsletter/DL 302\|DL 302]] | Tolerance for Discomfort                                     | <ul><li>cancel-culture</li></ul>                                                                                                                               |
-| [[03 CREATE/Newsletter/DL 303\|DL 303]] | Ecological Harmonization of Humans With Everything Non-Human | <ul><li>learning</li><li>udl</li></ul>                                                                                                                         |
-| [[03 CREATE/Newsletter/DL 304\|DL 304]] | A Better Way to Count                                        | <ul><li>disinformation</li><li>education</li><li>facebook</li><li>futures</li><li>identity</li><li>privacy</li><li>security</li><li>social-media</li></ul>     |
+| Issue                                      | Title                      | Tags                                                                                                                                                           |
+| ------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[03 CREATE/Newsletter/DL 273\|DL 273]] | Shocked, but not surprised | <ul><li>technology</li><li>social-media</li><li>education</li><li>misinformation</li><li>politics</li></ul>                                                    |
+| [[03 CREATE/Newsletter/DL 299\|DL 299]] | Digital Robber Barons      | <ul><li>bodycams</li><li>education</li><li>feedback</li><li>pandemic</li><li>spyware</li><li>surveillance</li><li>tech</li></ul>                               |
+| [[03 CREATE/Newsletter/DL 300\|DL 300]] | A Digital Master Key       | <ul><li>amazon</li><li>big-data</li><li>breathing</li><li>consciousness</li><li>deepfake</li><li>facebook</li><li>facial-recognition</li><li>privacy</li></ul> |
+| [[03 CREATE/Newsletter/DL 301\|DL 301]] | Watching Robots            | <ul><li>culture</li><li>parenting</li><li>propaganda</li><li>robots</li></ul>                                                                                  |
+| [[03 CREATE/Newsletter/DL 302\|DL 302]] | Tolerance for Discomfort   | <ul><li>cancel-culture</li></ul>                                                                                                                               |
 
 { .block-language-dataview}
 
