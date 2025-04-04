@@ -3,6 +3,25 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+    
+    /* Hide the text header if needed */
+    .site-header-text {
+      display: none;
+    }
+
+    /* Style for the logo header */
+    .site-header-logo {
+      display: flex;
+      justify-content: center;
+      padding: 1.5rem 0;
+      
+      img {
+        max-height: 80px; /* Adjust based on your logo size */
+        width: auto;
+      }
+    }
+    
+    /* You can keep your commented examples for reference */
     //  background-color: white;
     //  .content {
     //   font-size: 14px;
