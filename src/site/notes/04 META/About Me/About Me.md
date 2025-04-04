@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/04-meta/about-me/about-me/","title":"About Me","tags":["about","profile"]}
 ---
 
-# About Me  
+# About Me
 
 Hi, I’m **W. Ian O’Byrne**, an educator, researcher, and lifelong learner exploring the intersections of literacy, technology, and humanity.  
 

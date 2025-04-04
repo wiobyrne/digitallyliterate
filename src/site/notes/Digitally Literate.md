@@ -1,34 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/digitally-literate/","title":"Digitally Literate","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"]}
 ---
 
 
 # Digitally Literate
 
-**Ian O’Byrne** is an educator, researcher, and lifelong learner. Learn more [[04 META/About Me/About Me\|About Me]].
+ 🌟 **Welcome!** I'm **Ian O’Byrne** – an educator, researcher, and lifelong learner focused on digital literacy, creativity, and education. While [my main blog lives here](https://wiobyrne.com/), this site (`digitallyliterate.net`) is my **digital garden**.
 
-# 🌟 Welcome to My Digital Garden
+This space evolved from my newsletter into a public notebook where I share and connect ideas in progress. It's less about polished articles and more about cultivating thoughts on topics I care about. 
 
-Welcome to my evolving collection of ideas, insights, and connections. This digital garden is where I explore and share concepts on **digital literacy**, **creativity**, **education**, and more. 
+If you're interested, you can see what I'm up to [[Now\|Now]].
 
-## 🌐 Explore the Garden 
-Dive into key areas of the garden: - 
-- 📰 **[[02 CURATE/MOCs/Newsletter Index\|Newsletter Index]]** – Explore my newsletters for curated thoughts and resources. 
-- 📝 **[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]** – Browse through my blog posts on various topics. 
-- 📚 **[[02 CURATE/MOCs/Books\|Books]]** – Highlights and key insights from my readings. 
-- 🎓 **[[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]]** – An open online course to help educators integrate technology meaningfully in their classrooms.
+## 🧭 Exploring the Garden
+
+Think of this as a network of interconnected notes rather than a linear publication. Here's how you can navigate:
+
+* **Start Here:** Check out these key areas:
+    * 📰 [[02 CURATE/MOCs/Newsletter Index\|Newsletter Index]] – Past thoughts and curated resources.
+    * 📝 [[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]] – Longer reflections within the garden.
+    * 📚 [[02 CURATE/MOCs/Books\|Books]] – Highlights from my reading.
+    * 🎓 [[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]] – Course resources.
+
 
 ## ✨ How This Garden Works
-This garden grows as I:
-1. Capture raw ideas. 🌱 **Seeds** are initial thoughts and inspirations.
-2. Develop connections. 🌿 **Plants** are developed ideas with context and connections.
-3. Refine and synthesize into insights. 🌲 **Evergreens** are polished insights that are fully developed and refined thoughts.
+
+ **Understand the Growth:** Notes mature over time:
+- 🌱 **Seeds:** Raw ideas. initial thoughts and inspirations.
+- 🌿 **Plants:** Developing concepts. Developed ideas with context and connections.
+- 🌲 **Evergreens:** More refined insights. Polished insights that are fully developed and refined thoughts.
+
+**Discover:** Use search or the graph view (if available) to find your own path.
+
+**Follow Connections:** Click on `[[wikilinks]]` within notes to jump between related ideas.
 
 💡 **Start exploring and see where the paths lead you.**
 
----
+## 🛠️ About This Site
 
-## 🛠️ About This Garden
-This site is part of my personal knowledge management system. If you're curious about how I organize ideas or want to build your own, check out the **[[04 META/Guide Page\|Guide Page]]**.
+This garden is tended using [Obsidian](https://obsidian.md/) for personal knowledge management and published via the Digital Garden plugin, GitHub, and Netlify. Curious about the setup? See the [[04 META/Guide Page\|Guide Page]].
 
-Happy exploring! 🌟
+Feel free to wander and explore! You can learn more [[04 META/About Me/About Me\|About Me]] as well.

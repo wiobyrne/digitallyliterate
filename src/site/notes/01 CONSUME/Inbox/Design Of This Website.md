@@ -3,7 +3,7 @@
 ---
 
 
-# Gwern Branwen Digit
+# Design Of This Website
 
 ## Key Points:
 Meta page describing Gwern.net, the self-documenting website’s implementation and experiments for better ‘semantic zoom’ of hypertext; technical decisions using Markdown and static hosting.
