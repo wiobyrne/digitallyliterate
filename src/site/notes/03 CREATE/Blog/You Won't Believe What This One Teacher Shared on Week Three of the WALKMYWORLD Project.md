@@ -14,4 +14,4 @@ So, with that I dare/urge you to go out on Twitter, search for the #WALKMYWORLD 
 
 Image CC by [NightAndWind](http://www.deviantart.com/art/Walking-312551070)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

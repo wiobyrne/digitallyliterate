@@ -63,4 +63,4 @@ If you like posts like this, you should subscribe to my weekly newsletter and be
 
 Cover image Creative Commons licensed (BY-SA) flickr photo by [tedeytan](https://www.flickr.com/photos/taedc/5686750571/in/photolist-9Ew5PD-eGmjcd-mRdoZx-9VLCkS-ni3GbW-bNtBQn-9VLze3-a5AmSp-8u4ubn-wSDtb-wSDpS-wSDqD-wSDrV-8BZCvh-nK58or-BRvhG-ohnH9-5Jnkqs-9Ew5JD-egrN6f-emVdH8-egrNnq-5zPm5u-dMxdhX-nFXNmr-gfTav-dMxeAT-52kaqt-6EryDL-7w564c-9F32ya-kWCCLT-kWCwee-kWDb4F-kWDZSN-MiJ28-aUnJn8-fEznQK-2iQ7Wu-6AUcBr-5KzsAp-egm4P4-gARitQ-6AYnTQ-7ZdXuB-48a6CC-c1ypxj-Bjhid-nqYiRg-BDbsD)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

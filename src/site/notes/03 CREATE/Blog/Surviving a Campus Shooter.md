@@ -22,4 +22,4 @@ For more information, you may take the following [simulation](http://emilms.fema
 
 Once again, I applaud my university for providing this information to the campus community. I applaud my colleagues for attending what I assume to be packed presentations. These materials are shared for informational purposes...and with the hope that they help at least one person. If you want more information, or you believe your school is at risk, I urge you to talk to the authorities, talk to each other. Gather information, promote discussion, and develop plans in an attempt to create a positive and safe learning setting.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

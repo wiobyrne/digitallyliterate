@@ -64,4 +64,4 @@ For further reading on effective communication techniques, check out [this artic
 evocative questions are like tuning in the music and turning up the volume
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

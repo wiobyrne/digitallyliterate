@@ -60,4 +60,4 @@ Middle lower image CC BY-SA 2.0 [vividscribe](http://www.vividscribe.com/wp-cont
 
 Bottom image CC BY-Sa 2.0 [aintitcool](http://media.aintitcool.com/coolproduction/ckeditor_assets/pictures/3344/original/4-Artwork-Ready_Player_One-The_Distracted_Globe.jpg?1315527693)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

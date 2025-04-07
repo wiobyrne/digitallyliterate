@@ -28,4 +28,4 @@ Last night I was re-reading Jim Gee’s piece “A Sociocultural Perspective on 
 
 In thinking about Gee’s analogy, I thought of my own son and the direct, and indirect ways in which I have already expressed to him how “people like us” read. With the television shows we watch, books we read...and even the times he sees me on the computer. During the six months he has been alive, he has seen me in front of the computer screen more often than I’d like to admit. And each time I’m feverishly reading, writing, and communicating using various ICT tools. At some point in his life (and it probably has already begun) I will sit with him at a computer screen and ask him to read to me, ask him to think aloud and express to me what he thinks about what he is reading. I will show him that “people like us are readers like this,” especially when reading and writing online.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

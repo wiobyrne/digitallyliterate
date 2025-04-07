@@ -66,5 +66,5 @@ With these strategies in place, the digital playground can be just as fun and en
 
 ## Want more?
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 For further reading on this topic, check out "[Keeping Children Safe Online](https://www.unicef.org/end-violence/how-keep-your-child-safe-online)" by UNICEF and "[Parent’s Guide to Protecting Kids Online](https://www.connectsafely.org/guides-2/)" by ConnectSafely. For a more detailed look at how to create healthy screen time habits, consider viewing "[Screen Time and Children](https://www.med.umich.edu/yourchild/topics/screentime.htm)" from the University of Michigan Health System.

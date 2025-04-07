@@ -34,4 +34,4 @@ In supervised learning, we have an algorithm that learns from input data and its
 - [[Semi-Supervised Learning\|Semi-Supervised Learning]]
 
 
-[[02 CURATE/MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]]
+[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]

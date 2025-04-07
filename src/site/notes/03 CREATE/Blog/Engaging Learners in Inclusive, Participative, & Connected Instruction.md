@@ -20,4 +20,4 @@ Opportunities to Engage Learners in Inclusive, Participative, & Connected Instru
 
 Image CC by [KQED](http://blogs.kqed.org/mindshift/2013/01/how-can-teachers-prepare-kids-for-a-connected-world/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

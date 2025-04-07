@@ -32,4 +32,4 @@ This first week is our "slow start." This is meant to get everyone on to Twitter
 
 Image CC BY-NC-SA 2.0 [Penn State Special Collection](https://www.flickr.com/photos/pennstatespecial/8471322506/in/photolist-dUzK3A-dUzJZL-i8uDzR-dUu8xt-5T2gq5-bwiKCN-4nWEh6-mhj2Cv-a8sYsj-5sVpFo-dUsyPv-7XV86N-5sVpSA-5gbuTo-bkBnpo-5gbuyw-4nWEb2-asQDTi-5gbuuC-a2ygH1-a2yH8o-d3T4a3-9sS8TY-aRT9-8j1AcY-8j1AA1-8j1Ahj-9aXm2g-odagfw-cF7VW-5C8GiT-asQDSF-e5PwXt-e5Pxd4-8DrTwR-5g7ajD-buyEs4-5gbuvN-oeLc4c-od1JQ7-oeZzsq-nXzu98-nXzmZ8-od1S7m-nXyqFu-oeL4Ep-nXy7sY-nXymJm-nXyku9-od1GNS)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

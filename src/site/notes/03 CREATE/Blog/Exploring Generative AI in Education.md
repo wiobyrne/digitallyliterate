@@ -68,6 +68,6 @@ Your feedback is invaluable to this research, and I am grateful for your time an
 
 Thank you for your participation in shaping the future of AI in education!
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 [[02 CURATE/Notes/Generative AI Reflection Questions\|Generative AI Reflection Questions]]
 [[03 CREATE/Blog/Reflecting on Generative AI in Education\|Reflecting on Generative AI in Education]]

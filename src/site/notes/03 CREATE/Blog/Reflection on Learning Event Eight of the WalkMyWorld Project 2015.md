@@ -36,4 +36,4 @@ Middle image CC BY-NC-SA 2.0 [Lunar New Year](https://www.flickr.com/photos/lnyl
 
 Bottom image CC BY-NC-SA 2.0 [Lunar New Year](https://www.flickr.com/photos/lnylnylny/9450122327/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

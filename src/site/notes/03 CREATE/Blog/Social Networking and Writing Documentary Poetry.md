@@ -34,4 +34,4 @@ http://youtu.be/9doR4nLwL1M
 
 Image CC by [xetobyte](http://xetobyte.deviantart.com/art/A-Silent-Poetry-283312093)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

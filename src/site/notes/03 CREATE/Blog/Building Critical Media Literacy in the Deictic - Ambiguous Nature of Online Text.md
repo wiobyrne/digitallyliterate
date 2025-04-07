@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=iLF3wnP0gi8
 
 Cover photo http://flickr.com/photos/cdm/54973638by darkmatter shared under a CC BY-NC-ND license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

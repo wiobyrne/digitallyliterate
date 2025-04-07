@@ -19,4 +19,4 @@ The haiku, or twaiku is available below.
 > 
 > The aftermath of dreams
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -16,4 +16,4 @@ The last thing to keep in mind is that...yes, there are big things that are diff
 
 What do you think about this bit of advice?
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

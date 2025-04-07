@@ -12,4 +12,4 @@ This episode examines the opportunities and challenges that exist as we write, p
 
 The video for this episode is embedded below. The show notes for this episode are available by clicking [here](https://docs.google.com/document/d/1p16ux9rUJLE8cc-EYOI-pCsqsVg65dBWF24SriTZS14/edit). https://www.youtube.com/watch?v=qTxBZaqwIu4 Image CC by [wikipedia](http://en.wikipedia.org/wiki/Portal:Computer_science/Featured_article/4)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

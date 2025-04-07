@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=ZEF1cw6i9Ys
 
 Image CC by [Mashable](http://mashable.com/2012-10-20/twitter-students-writers/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

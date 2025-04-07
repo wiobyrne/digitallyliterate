@@ -28,4 +28,4 @@ Looking at the themes, I agree with much of what has been presented. I think the
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4371000846/in/set-72157623343017387)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

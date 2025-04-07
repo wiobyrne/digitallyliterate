@@ -44,4 +44,4 @@ As teachers (and students) detail their ideas on the Vee diagram they should als
 
 Image CC by [wikimedia](http://commons.wikimedia.org/wiki/File:India_-_Kolkata_bamboo_scaffolding_-_3574.jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -38,4 +38,4 @@ As I [posted yesterday](http://wiobyrne.com/come-join-us-for-the-online-research
 
 Image CC by [Michelle](https://www.flickr.com/photos/shell24_7/14678684844/in/photolist-on76Bb-bn57Hy-njx3NE-bzYZdp-9QZrrj-545Jmh-nqjYVf-51pffA-bn58HS-5bayG3-8DhD1D-5S37yc-5a4AFg-5edEmH-53acWm-3ePA8J-auG5LM-3sWyHk-8ggwko-c2mro1-MueG-bMmyke-6pWRDM-3sWygx-PsVR-9QZk6j-57gnZ7-oEEj3Q-bn599U-akrQAS-nbfQxB-bzYYoM-ay7UGC-jAe41-Fwxoc-9QZgob-e3sFCi-5HRmf6-fK5VHx-6q21BJ-5ZuTjJ-e3sGfX-e3yoeu-e3sGAH-8y6NFA-8y3MPv-8y6N2Q-8y6R9m-8y6QyJ-6pWQTV)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

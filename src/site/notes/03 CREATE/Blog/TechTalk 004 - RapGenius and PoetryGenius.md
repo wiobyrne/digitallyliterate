@@ -16,4 +16,4 @@ You can view the video from our meeting this week. I'll upload the audio later a
 
 Enjoy. http://www.youtube.com/watch?v=mB6ycLfqIYw Image CC by [stashed](http://thestashed.com/rap-genius-releases-iphone-app-with-new-music-discovery-feature/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

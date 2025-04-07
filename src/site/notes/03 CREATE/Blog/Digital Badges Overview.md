@@ -66,4 +66,4 @@ Cover image CC BY-NC-ND 2.0 [Takaogi](https://www.flickr.com/photos/takaogi/1454
 
 Top image CC BY [Kyle Bowen](http://40.media.tumblr.com/823ea32cb9bfb4845b60918893bb68a0/tumblr_mjo47aWfbA1qfzgweo1_r1_1280.png)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

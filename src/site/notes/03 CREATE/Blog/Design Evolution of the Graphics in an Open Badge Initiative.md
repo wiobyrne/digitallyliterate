@@ -82,4 +82,4 @@ The final steps will include edits and revisions of the ORMS MOOC to add in the 
 
 [![Badges Final](images/BadgeFinalAll-300x254.png)](http://wiobyrne.com/wp-content/uploads/2013/07/BadgeFinalAll.png)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

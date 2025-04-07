@@ -18,4 +18,4 @@ I asked Doug what process he uses to prepare and share audio recordings to make 
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4586670271/in/gallery-29779499@N03-72157633320285566/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

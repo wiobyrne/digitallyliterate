@@ -16,4 +16,4 @@ After reviewing several podcast, and audio recording apps on the iPad, I settled
 
 For a detailed description on this process...please visit the materials I pulled together on the MA NLI Wiki by clicking [here](http://mnli12.wikispaces.com/Tune%20Out%20the%20Visual%20Data%20-%20Audio%20podcasts%20and%20experiencing%20poetry).
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

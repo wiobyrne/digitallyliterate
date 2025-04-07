@@ -12,4 +12,4 @@ Students have an equal responsibility to undertake the discipline, responsibilit
 
 Additionally, students have to reconsider their concept of “school” as they assume an active role in the learning process.  In the technologized classroom environment, students are not only guided through online learning activities by the instructor, but in some cases they took a leadership role in the development and application of learning. In many cases, this is not the normal practice of "doing school." We're asking students to be leaders, co-construct knowledge and content with peers and the teacher, and in some cases lead the class. These are all helpful, powerful skills they will need as they move out into the real world and the global marketplace. Teachers have to provide these opportunities, and allow students to try (and perhaps fail) at fully utilizing them. Students need to be thoughtful, flexible, sensitive...and mature enough to accept them.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

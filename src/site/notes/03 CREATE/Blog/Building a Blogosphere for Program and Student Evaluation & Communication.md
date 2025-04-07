@@ -21,4 +21,4 @@ We are sharing and working publicly for a reason. We invite you to add, review, 
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/5364620846/in/set-72157628499533033)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

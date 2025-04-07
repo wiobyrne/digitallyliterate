@@ -64,4 +64,4 @@ Lower middle image CC BY-NC 2.0 [Lainie Pub Company](https://www.flickr.com/phot
 
 Bottom image CC BY-NC 2.0 [Lainie Pub Company](https://www.flickr.com/photos/123910541@N04/15757495778)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

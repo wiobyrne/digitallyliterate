@@ -44,4 +44,4 @@ I also believe that others in the open badge community also are learning from th
 
 Image CC by [alanstanton](http://www.flickr.com/photos/alanstanton/5100108229/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

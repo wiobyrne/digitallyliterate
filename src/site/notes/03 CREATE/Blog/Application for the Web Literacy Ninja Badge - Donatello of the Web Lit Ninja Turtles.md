@@ -58,4 +58,4 @@ EDIT>>>Good news...the badge was awarded. Feel free to review the badge, and eva
 
 Image CC by [Inked Alpha](http://www.deviantart.com/art/Donatello-359936024)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

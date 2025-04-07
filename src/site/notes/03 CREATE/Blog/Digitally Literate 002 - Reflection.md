@@ -16,4 +16,4 @@ https://www.youtube.com/watch?v=dNuC2L\_T4K8
 
 Image CC by [Wikipedia](http://en.wikipedia.org/wiki/File:Univac_bit_bucket.JPG)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

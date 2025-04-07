@@ -108,4 +108,4 @@ In essence, describing systemic racism as a bird in a Birdcage helps shed light 
 
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

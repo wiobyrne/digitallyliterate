@@ -30,4 +30,4 @@ Additionally, registering a domain name is a great way to be proactive and build
 
 Whatever choices you make about your online brand, they are CHOICES. You should understand what each tool or social environment can do...and more importantly what do you want it to do. For most ICT tools there really are no rules for how they must be used. So, if you want to go nuts...and add avatars for all of your online accounts...feel free. The real key is to understand that your online brand is constantly evolving, even now as you're reading this. The question is whether or not you're informing that evolution or not. I would rather be proactive and create online content that people will be directed to when they search online for information about me.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -52,4 +52,4 @@ Middle image CC BY-NC-SA 2.0 [hexholden](https://www.flickr.com/photos/hexholden
 
 Bottom image CC BY-NC 2.0 [wired for sound](https://www.flickr.com/photos/wiredforsound23/16248894130/in/photolist-qKRQ85-a43kJD-4ZBXTj-hosB8Q-nepJwP-99ekCN-4dJpNj-pDpto6-pe3cUt-7Mhtjx-mwQkvS-guqnae-8kNzF8-fuQHS8-7aWZAi-s2YjL-dozR4Y-4hUFCw-nEkqZ-oHRABK-dS2TKo-bQTspK-p15XiV-9sKcvF-p16aKt-oYjF8N-dA2Fiz-auFBhm-auCWE4-bpke44-6VgKyY-56kXPq-fHueZ7-bK5E5i-9zEets-9vPykE-bK75Ca-oHSadA-6xTqsn-auFMGm-6Ts9cD-oEkeBy-a1wpQx-oHRQtU-6zuD6q-5rxtX6-7VvuYY-a1w6cn-auFpro-dCGyk8)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

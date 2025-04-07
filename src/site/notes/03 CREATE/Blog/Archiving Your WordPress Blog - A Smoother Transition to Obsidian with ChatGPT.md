@@ -37,4 +37,4 @@ Archiving Your WordPress Blog: A Smoother Transition to Obsidian with ChatGPT
 
 <p>Photo by <a href="https://unsplash.com/@fernandovenzano?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Fernando Venzano</a> on <a href="https://unsplash.com/photos/help-sign-on-building-MYTyXb7fgG0?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash">Unsplash</a></p>
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

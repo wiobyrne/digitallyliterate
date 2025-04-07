@@ -16,4 +16,4 @@ We need to identify more ways to authentically and effectively embed play with d
 
 Image CC by [affordableworldsecurity](http://affordableworldsecurity.org/sites/affordableworldsecurity.org/files/blog/day2.jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

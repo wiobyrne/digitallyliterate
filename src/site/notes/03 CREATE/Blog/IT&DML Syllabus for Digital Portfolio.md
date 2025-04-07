@@ -33,4 +33,4 @@ The full version of the syllabus is embedded below. This version of the syllabus
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4586670229/in/set-72157625612673573)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

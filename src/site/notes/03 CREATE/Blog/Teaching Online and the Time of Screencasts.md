@@ -28,4 +28,4 @@ _Prof. Reis ties this study into the world of online video. He discusses how, af
 
 These findings support my hypothesis about how students utilize online video in their learning habits. I think that online video can be a powerful learning tool...but it is important to pay attention to student learning objectives...and target your use of video.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

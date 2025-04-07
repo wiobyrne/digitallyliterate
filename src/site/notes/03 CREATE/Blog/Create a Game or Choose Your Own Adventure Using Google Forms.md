@@ -38,4 +38,4 @@ I followed the steps detailed in the provided guide. The end result is the [Face
 
 Image CC by [wikipedia](http://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

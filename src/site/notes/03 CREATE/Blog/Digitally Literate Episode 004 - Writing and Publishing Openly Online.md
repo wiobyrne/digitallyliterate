@@ -14,4 +14,4 @@ The video for the episode is available below. The show notes for this episode (w
 
 Image CC by [wikipedia](http://en.wikipedia.org/wiki/Portal:Computer_science/Featured_article/4)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

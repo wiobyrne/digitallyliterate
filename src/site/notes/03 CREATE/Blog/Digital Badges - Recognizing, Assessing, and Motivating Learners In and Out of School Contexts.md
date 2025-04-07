@@ -46,4 +46,4 @@ Please feel free to leave comments below…and share widely.
 
 Image CC BY-NC-SA 2.0 [Ignotus](https://www.flickr.com/photos/ignotus/8470984053/in/set-72157629445337238)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

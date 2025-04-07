@@ -64,4 +64,4 @@ https://www.youtube.com/watch?v=QhNcld3FfH4
 
 Cover photo by Joseph.Morris http://flickr.com/photos/josephmorris/9509182343 shared under a Creative Commons (BY-ND) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -48,4 +48,4 @@ Remember, knowledge is power. The more we know, the more we can do to ensure fai
 
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -37,4 +37,4 @@ If you have a different way to work, or different tools...and it works for you..
 
 Image CC by [fer1972](http://fer1972.tumblr.com/post/31347053030/human-motions-peter-jansen)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -34,4 +34,4 @@ To dig in deeper...and play with Thimble, check out the [following materials](ht
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4750075326/in/set-72157625612631107)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

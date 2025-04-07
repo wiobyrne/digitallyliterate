@@ -24,4 +24,4 @@ The third question, or area of concern is protection for students as they comple
 
 All in all, it seems that the more questions I ask, the less I receive in terms of answers. As we continue to unpack these questions and come up with short and long term solutions...I'll continue to document them here.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
