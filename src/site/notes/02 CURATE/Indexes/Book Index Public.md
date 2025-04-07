@@ -4,18 +4,15 @@
 
 # Book Index Public
 ## 📚 Complete Library
-```dataviewjs
-dv.table(
-  ["Cover", "Title", "Pages", "Author", "Rating", "Status", "Tags"],
-  dv.pages('"01 CONSUME/Books"')
-    .sort(b => b.title, 'asc')
-    .map(b => [
-      "![](" + b.cover + ")",
-      b.title,
-      b.pages,
-      b.author,
-      b.rating,
-      b.status,
-      b.tags
-    ])
-)
+
+```dataview
+TABLE 
+  ("![](" + cover + ")") as Cover,
+  title as Title,
+  pages as Pages,
+  author as Author,
+  rating as Rating,
+  status as Status,
+  tags as Tags
+FROM "01 CONSUME/Books"
+SORT title ASC
