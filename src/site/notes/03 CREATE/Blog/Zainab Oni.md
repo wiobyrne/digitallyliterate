@@ -40,4 +40,4 @@ Top image used with permission from [MOUSE Squad](https://www.flickr.com/photos/
 
 Bottom image used with permission from [MOUSE Squad](https://www.flickr.com/photos/chase_0704/13317542043/in/set-72157642712432133)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

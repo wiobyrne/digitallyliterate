@@ -46,4 +46,4 @@ Please allow let me know if anything on this page helped you out...or if there a
 
 Cover photo by josef.stuefer http://flickr.com/photos/josefstuefer/5137407 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

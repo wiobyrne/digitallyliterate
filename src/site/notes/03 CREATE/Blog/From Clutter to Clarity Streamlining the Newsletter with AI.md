@@ -80,5 +80,5 @@ This visual distinction allowed me to review AI contributions more critically an
 
 Today, my newsletter lives on as part of a dynamic, interconnected system. Each issue is not just a standalone artifact but part of a larger narrative. By leveraging tools like ChatGPT, I’ve turned what felt like an overwhelming project into an opportunity to reflect, organize, and grow.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 For anyone considering a similar journey, my advice is simple: embrace the tools at your disposal, but don’t lose sight of your creative vision. The right balance of automation and personal touch can transform even the most daunting tasks into meaningful work.

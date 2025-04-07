@@ -60,4 +60,4 @@ Middle image CC BY-NC 2.0 [Rachel](https://www.flickr.com/photos/rachelpasch/540
 
 Bottom image CC BY 2.0 [Bill Ward](https://www.flickr.com/photos/billward/4900883678)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

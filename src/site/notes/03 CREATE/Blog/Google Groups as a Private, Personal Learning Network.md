@@ -22,4 +22,4 @@ To learn more about how to use Google Groups, please review the following multim
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4457466994/in/set-72157628737045569)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

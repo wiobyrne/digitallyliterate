@@ -24,4 +24,4 @@ This wiki is private however. I made this wiki private as it contains the work p
 
 The two wikis that were described in this blog post both use wikispaces as a LMS, but different greatly on the use of public as opposed to private access to the content of the wiki. The rationale for this decision is all based on my expected student learning objectives for the course. There are of course many other discussions and instructional routines I have included in the course to prepare students to safely post their work online. After using these free online tools as the LMS for the course, as opposed to Blackboard I do have to say that it appears to be beneficial for students as they work together on course objectives.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

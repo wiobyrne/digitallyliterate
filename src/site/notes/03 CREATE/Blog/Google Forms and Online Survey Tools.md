@@ -14,4 +14,4 @@ Here is the screencast from our class to use as a resource. Sadly the first chun
 
 Here is a quick tutorial I put together for the Digital Sandbox: http://www.youtube.com/watch?v=AeiDxeLVvuQ
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

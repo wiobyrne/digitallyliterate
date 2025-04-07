@@ -24,4 +24,4 @@ I've used 8tracks several times to create alternative forms of [identity constru
 
 Enjoy.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

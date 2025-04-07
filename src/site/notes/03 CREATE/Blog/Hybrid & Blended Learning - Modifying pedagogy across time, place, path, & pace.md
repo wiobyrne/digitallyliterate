@@ -54,4 +54,4 @@ https://www.youtube.com/watch?v=1M5wG-8DS8s
 
 Cover image by smkybear [http://flickr.com/photos/smkybear/5825157185](http://flickr.com/photos/smkybear/5825157185) shared under a Creative Commons (BY-SA) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

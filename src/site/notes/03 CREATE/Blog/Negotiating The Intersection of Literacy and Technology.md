@@ -22,4 +22,4 @@ http://www.youtube.com/watch?v=eh\_u5-Jk4Kk
 
 How would you envision the goals established in the ORMS model working in your classroom?
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

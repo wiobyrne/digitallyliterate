@@ -48,4 +48,4 @@ Top image CC BY-NC 2.0 [Thomas Hawk](https://www.flickr.com/photos/thomashawk/10
 
 Bottom image CC BY-NC 2.0 [Thomas Hawk](https://www.flickr.com/photos/thomashawk/7903078234/in/photolist-d3nkPy-4x6a9q-nRHXaw-bApkP2-zc6V3-aG4cbp-3bSby8-g28YAw-wjPLA-Ki1tM-3aeLWs-nRNxmV-4aeTmb-aczEeg-dpX7bx-ME3Yx-a6TZGW-48dWZU-ei6tx1-JQBap-eHpDwk-8KNc1z-GcZNf-a8kPo2-kYtGSe-4JVgTS-6wAjAj-86ygiZ-bpeQXx-kWkot6-oU4HMG-giEUFu-dTnJxU-7jZNqG-8hBx6J-6PKbS-7pePtD-EDxpr-a7Gtce-8iPSFS-6n11kZ-boHbwY-8QVhXx-q3BhxU-pfp4AB-bAATrJ-ejS2jt-k8bVG-m9mukV-cJ9KVN)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -24,4 +24,4 @@ _We worked hard on the paper, just like you worked hard gathering all the inform
 
 _The more thought we put into incorporating open badges as part of a teacher certification program, the more excited we are about the potential benefits, especially at UNH. We are arguing for a program that places quantifiable value on your experiences as an intern that you can carry with you after you leave the program among other things. The paper is cutting edge in its concept and we are looking forward to helping develop a badge system. We have a long road ahead of us but what we have accomplished so far together shows great progress. Thank you for all you have invested into this paper and project. Keep up the hard work and keep the creative juices flowing._
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

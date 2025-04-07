@@ -62,4 +62,4 @@ Want to get involved? We encourage you to become a mentor in the community. Use 
 
 Cover photo by A.Currell http://flickr.com/photos/23748404@N00/5965467905 shared under a Creative Commons (BY-NC) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

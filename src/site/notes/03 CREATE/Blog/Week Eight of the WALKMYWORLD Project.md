@@ -76,4 +76,4 @@ Whatever text you write and share, please try to say everything about your walk 
 
 Image CC by [KQED](http://www.kqed.org/a/forum/R201401291000)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

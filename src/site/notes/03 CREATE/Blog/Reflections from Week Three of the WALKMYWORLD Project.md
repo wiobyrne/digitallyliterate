@@ -30,4 +30,4 @@ _I believe we need a more informed use of these literacies that are focused on t
 
 Image CC by [Ericana](http://www.deviantart.com/art/Walking-On-Sunshine-61394620)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -18,4 +18,4 @@ Once again, thank you for your time during the #WALKMYWORLD project.
 
 Image CC by [MrCharltonRaims](http://www.deviantart.com/art/Gone-for-a-Walk-445075078)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

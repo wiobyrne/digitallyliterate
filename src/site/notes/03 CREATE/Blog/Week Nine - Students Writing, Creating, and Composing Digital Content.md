@@ -32,4 +32,4 @@ At the conclusion of Module 4, you are to complete materials and pledge/apply fo
 
 [![](images/3408649524_74f5257e0c.jpg)](http://flickr.com/photos/jdhancock/3408649524 "Playing REAL Miniature Golf")[flickr photo](http://flickr.com/photos/jdhancock/3408649524 "Playing REAL Miniature Golf") shared by [JD Hancock](http://flickr.com/people/jdhancock) under a [Creative Commons ( BY ) license](http://creativecommons.org/licenses/by/2.0/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

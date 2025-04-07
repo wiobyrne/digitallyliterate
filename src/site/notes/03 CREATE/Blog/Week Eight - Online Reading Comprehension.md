@@ -44,4 +44,4 @@ To receive the badge you must complete the following:
 
 Cover image used with permission by David Hocking [https://www.flickr.com/photos/crapgame/8430434155/in/album-72157652280579678/](https://www.flickr.com/photos/crapgame/8430434155/in/album-72157652280579678/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

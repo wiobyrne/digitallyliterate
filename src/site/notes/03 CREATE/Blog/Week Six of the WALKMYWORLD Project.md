@@ -28,4 +28,4 @@ In your responses this week, please explore some, all, or none of these prompts:
 
 Image CC by [Scarriet](http://scarriet.wordpress.com/category/march-madness/page/2/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

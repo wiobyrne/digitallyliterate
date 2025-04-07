@@ -46,4 +46,4 @@ For those interested in learning more about generative AI, these resources provi
 - Podcast: [AI Alignment Podcast: On Becoming a Moral Realist with Peter Singer](https://futureoflife.org/2019-03-04/on-becoming-a-moral-realist-with-peter-singer/)
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

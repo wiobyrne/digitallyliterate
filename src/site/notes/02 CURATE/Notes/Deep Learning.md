@@ -37,4 +37,4 @@ In-depth technical resource: [Deep Learning Book](http://www.deeplearningbook.or
 - [[02 CURATE/Notes/Machine Learning\|Machine Learning]]
 - [[02 CURATE/Notes/Artificial Intelligence\|Artificial Intelligence]]
 
-[[02 CURATE/MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]]
+[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]

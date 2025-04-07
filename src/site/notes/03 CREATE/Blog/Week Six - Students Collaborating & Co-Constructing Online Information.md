@@ -42,4 +42,4 @@ To receive the badge you must complete the following:
 
 Cover photo by See-ming Lee 李思明 SML http://flickr.com/photos/seeminglee/3973726394 shared under a Creative Commons (BY-SA) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

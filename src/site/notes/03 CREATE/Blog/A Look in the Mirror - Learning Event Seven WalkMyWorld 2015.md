@@ -54,4 +54,4 @@ Middle image CC BY-NC 2.0 [Felix Nine](https://www.flickr.com/photos/gulliverar
 
 Bottom image CC BY-NC 2.0 [Felix Nine](https://www.flickr.com/photos/gulliverarkham/15312323360/in/photostream/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

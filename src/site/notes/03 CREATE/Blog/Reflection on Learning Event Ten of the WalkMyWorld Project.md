@@ -40,4 +40,4 @@ It's been a joy to work collectively with all of you over the last couple of mon
 
 Cover image creative commons licensed (BY-NC) flickr photo by [Σταύρος](https://www.flickr.com/photos/lifes__too_short__to__drink__cheap__wine/16133510250/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

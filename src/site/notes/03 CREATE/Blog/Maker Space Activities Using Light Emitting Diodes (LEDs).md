@@ -53,4 +53,4 @@ All in all the LED makes were a great experience. At #print2pixel there is nothi
 
 I definitely recommend this activity to all ages and groups.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

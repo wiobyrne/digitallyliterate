@@ -48,4 +48,4 @@ This was a highly structured, learning challenge that was developed to test the 
 
 Image CC by [SawyerAFK](http://www.deviantart.com/art/Magnifying-glass-photo-277762178)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

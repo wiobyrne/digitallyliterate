@@ -14,4 +14,4 @@ Below you will find the elements that I saved in Storify and the final segment w
 
 \[<a href="//storify.com/wiobyrne/my-walkmyworld-shared-content" target="\_blank">View the story "A Walk in My World - #WALKMYWORLD curated content" on Storify\]
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

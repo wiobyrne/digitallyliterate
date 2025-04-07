@@ -30,4 +30,4 @@ To determine how authentic and effective the use of badges can be in affecting m
 
 _Originally posted on the Literacy Beat website._
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

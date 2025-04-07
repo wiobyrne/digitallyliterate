@@ -20,4 +20,4 @@ I'll continue to add the links as I see them pop up. Thanks again for curating..
 
 Image CC by [gilad](http://www.deviantart.com/art/Walking-on-Clouds-42921568)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

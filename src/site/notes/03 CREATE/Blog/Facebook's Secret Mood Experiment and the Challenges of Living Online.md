@@ -63,4 +63,4 @@ Thank you Facebook for (hopefully) providing us with a common example to discuss
 
 Image CC by [pookstar](http://pookstar.deviantart.com/art/Fedora-Neon-Graffiti-89584166)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

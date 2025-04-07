@@ -54,4 +54,4 @@ O: Gum, Burt's Beeswax, Clif Bars
 
 That's what I will be carrying this week. Many of the items are similar to the gear that I [previously brought](http://wiobyrne.com/whats-in-my-bag/). What do you carry in your bag everyday?
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

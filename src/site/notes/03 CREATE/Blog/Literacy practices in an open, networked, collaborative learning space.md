@@ -22,4 +22,4 @@ The Google Doc we're using for the back channel of this session is embedded belo
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/4371001268/in/set-72157628736893483)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

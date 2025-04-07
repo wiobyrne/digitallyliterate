@@ -29,4 +29,4 @@ Children give us an opportunity to truly face life - with all its ups and downs.
 
 In conclusion, having children may throw you into the deep end of responsibilities and challenges but it also opens up a world of love, learning and personal growth that nothing else can offer. So embrace this journey of parenthood - for every hard day there will be countless moments of joy; for every challenge faced there will be immense growth. After all, through our children we get an opportunity to face life in its rawest form - beautiful yet challenging; exhausting yet fulfilling.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

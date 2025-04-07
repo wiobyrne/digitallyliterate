@@ -30,4 +30,4 @@ Once again, this is all about community. We're motivated by one last thought fro
 
 Image CC by [Poets House](http://www.poetshouse.org/programs-and-events/readings-and-conversations)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

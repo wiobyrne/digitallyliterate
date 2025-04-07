@@ -36,4 +36,4 @@ This is only a primer and _lessons learned_ as I reflect on the latest round of
 
 Like what you see here? [Sign up for my newsletter](http://wiobyrne.com/tldr/) to stay on top of weekly events in literacy, technology, & education.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

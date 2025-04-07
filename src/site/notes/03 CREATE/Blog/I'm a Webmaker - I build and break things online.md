@@ -64,4 +64,4 @@ Cover image CC BY-NC-ND 2.0 [LaughingSquid](https://www.flickr.com/photos/laughi
 
 Apple image CC BY-SA 3.0 [Wikipedia](http://en.wikipedia.org/wiki/Apple_IIe#mediaviewer/File:Apple_iie.jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

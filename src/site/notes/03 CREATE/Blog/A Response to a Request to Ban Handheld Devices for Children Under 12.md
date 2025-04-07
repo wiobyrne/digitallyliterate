@@ -41,4 +41,4 @@ Wearing my researcher hat, I think we need to conduct more research, and identif
 
 In closing, I think it is important to try and strike a balance with these digital texts and tools in our lives, and the lives of our children. I think that we must understand that we really don't know the eventual effects of these interactions. In many ways we are experimenting with our children when we allow them to use these devices. I would only urge balance and caution as we do so. I don't think bans, or feeding in to a technological panic is the best response.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

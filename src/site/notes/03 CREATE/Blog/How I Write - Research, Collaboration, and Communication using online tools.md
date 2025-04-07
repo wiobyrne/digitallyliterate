@@ -14,4 +14,4 @@ If I have to write something collaboratively with others, or will need to submit
 
 As you can see my work flow and process is built around the cloud, and having access to my work from any one of the tools that I use daily. As time progresses, I may investigate moving the writing portion of my work in Evernote over to Google Docs...but trying to organize all of those "dead end" written pieces that will go no where would drive me nuts.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

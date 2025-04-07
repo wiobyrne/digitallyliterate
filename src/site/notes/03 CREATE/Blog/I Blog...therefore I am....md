@@ -32,4 +32,4 @@ Blogging allows me to reflect on these questions, and get them all out in one pl
 
 [Image Credit](https://www.flickr.com/photos/sullen_snowflakes/16361457381/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

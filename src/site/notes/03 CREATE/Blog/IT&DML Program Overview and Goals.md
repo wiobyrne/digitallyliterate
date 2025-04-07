@@ -42,4 +42,4 @@ J.     Are confident and willing to use instructional technologies and new 
 
 The IT&DML program consists of a planned sequence of 36 credits.  30 of these credits are required of all candidates; the final 6 credits are a Digital or Online Portfolio, designed to be an exit requirement.  There is little flexibility in students’ choices for coursework for two reasons: 1) the length of the program (one calendar year) necessitates that candidates follow a planned program that they know the University can deliver; and 2) the specialized nature of the knowledge bases to which the students will be exposed and that they will be expected to execute demands that they develop a highly-structured, sequential knowledge base in a short amount of time.  The program is designed, if taken in sequence, to do just this.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -16,4 +16,4 @@ _The title of the Breakout Session: Empowering students in the reader/writer nat
 
 This session will take a closer look at ways to effectively integrate skills and strategies needed to support all literacies when working with Internet and Communication Technologies (ICT) in classrooms. The session will focus on the planning, implementation and assessment of an inquiry-based lesson. The lesson will involve objectives deemed appropriate by Common Core Standards, but accelerated through the use of ICTs. Participants will leave with effective ways to embed literacy and research skills in the technologically equipped classroom.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

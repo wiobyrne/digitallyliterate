@@ -68,4 +68,4 @@ No, there will always be a future challenge to your privacy and security online.
 
 Cover photo by Thomas Hawk [http://flickr.com/photos/thomashawk/11907163503](http://flickr.com/photos/thomashawk/11907163503) shared under a Creative Commons (BY-NC) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -20,4 +20,4 @@ The Google Hangout-on-Air for the session is available below. https://www.youtub
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/8296581995/in/set-72157626295143856)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

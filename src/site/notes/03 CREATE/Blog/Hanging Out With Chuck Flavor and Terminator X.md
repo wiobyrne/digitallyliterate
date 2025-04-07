@@ -36,4 +36,4 @@ Many of the themes and messages behind the album appealed to my nature, and in s
 
 Image CC by [2or3 lines](http://2or3lines.blogspot.com/2011/07/public-enemy-fight-power-1990.html), [Overlook Hotel](http://jacktorrance-overlookhotel.blogspot.com/2012/12/fear-of-black-planet.html),
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

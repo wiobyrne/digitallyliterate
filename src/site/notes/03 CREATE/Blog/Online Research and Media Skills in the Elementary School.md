@@ -28,4 +28,4 @@ __I would also suggest printing out a webpage and teaching students how to skim 
 
 http://www.youtube.com/watch?v=6jBE\_GXeyc0
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

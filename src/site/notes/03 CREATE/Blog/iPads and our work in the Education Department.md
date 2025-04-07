@@ -18,4 +18,4 @@ So…a month into using our iPads we have everyone carrying them around, install
 
 When we get there…we’ll let you know. We’re on our way.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -38,4 +38,4 @@ I also anticipate Google iterating quickly not only on Chromecast, but the idea 
 
 The initial launch of Chromecast has been stellar. I think that because of the price-point, the rapid sellout of the device...and the fact that it is an open source device built on Linux...we should see some incredible things soon from the technology behind Chromecast. For the average user that wants to just plug it into their TV and stream Netflix movies from their iPad, or Android phone...it'll be great. For those of us that want to hack it...and repurpose it...it'll also be great. Awesome things are coming.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

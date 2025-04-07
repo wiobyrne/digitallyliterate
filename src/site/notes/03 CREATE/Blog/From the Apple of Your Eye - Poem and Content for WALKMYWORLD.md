@@ -20,4 +20,4 @@ I uploaded the poem [_From the Apple of Your Eye_](http://poetry.rapgenius.com/
 
 Image CC by [Nishanth Jois](http://www.flickr.com/photos/nishanthjois/6850429481/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

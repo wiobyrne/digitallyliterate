@@ -24,4 +24,4 @@ The second piece that we'd like you to consider is the poem _Happiness_ by Hass
 
 Image CC by [Slate](http://www.slate.com/articles/arts/culturebox/2013/06/mark_edmundson_s_harper_s_poetry_takedown_it_s_wrong_contemporary_american.html)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

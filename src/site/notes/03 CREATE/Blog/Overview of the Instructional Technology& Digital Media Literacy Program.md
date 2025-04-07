@@ -22,4 +22,4 @@ For more info, please review the following presentation and video of the slides 
 
 Image CC by [opensourceway](https://www.flickr.com/photos/opensourceway/6555465931/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

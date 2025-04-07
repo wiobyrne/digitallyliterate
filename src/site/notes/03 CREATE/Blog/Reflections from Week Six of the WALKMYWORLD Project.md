@@ -27,4 +27,4 @@ Once again, thanks for all of the sharing. Be sure to go to Twitter, or use Twee
 
 Image CC by [DariaKuzetsova](http://www.deviantart.com/art/Walking-403036892)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -56,4 +56,4 @@ Inbox Zero may seem like a trick, but it is a great way to GTD and serve as my "
 
 Image CC by [Andrew Forgrave](http://www.flickr.com/photos/aforgrave/5593360287/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

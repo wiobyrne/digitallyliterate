@@ -52,4 +52,4 @@ Please keep in mind that this examination of "writing" as it applies to digital 
 
 Image CC by [raphis](http://www.deviantart.com/art/Mr-Photographer-276872945)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

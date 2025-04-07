@@ -30,4 +30,4 @@ We hope to be "launching" our badges and re-launching the ORMS MOOC in the next 
 
 Image CC by [grantpotter](http://www.flickr.com/photos/grantpotter/4508364291/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

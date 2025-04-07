@@ -24,4 +24,4 @@ Straight from [Mozilla's page](https://wiki.mozilla.org/Learning/WebLiteracyStan
 
 To drill down into the standards, feel free to review the competencies on this [page](https://wiki.mozilla.org/Learning/WebLiteracyStandard/Strands). Once again, we thank you for your involvement. Please do not review these materials and think "my voice doesn't matter", or "I'm not that web savvy." We need everyone to stand up and let us know what it means to be a web literate individual. Standards and competencies like this will help us educate future generations of digital tiny tykes.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

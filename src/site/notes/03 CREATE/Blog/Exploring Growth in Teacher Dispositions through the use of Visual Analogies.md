@@ -22,4 +22,4 @@ Overall, this examination of the NLI model, and the use of visual imagery as a m
 
 http://www.youtube.com/watch?v=K9OEaEpQr5Y
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

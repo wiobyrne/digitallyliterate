@@ -18,4 +18,4 @@ The work being conducted by Mozilla and the Web Literacies standards is very muc
 
 _Cross-posted to http://mnli.org/_
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -44,4 +44,4 @@ As I prepare for the upcoming conferences in the fall I'll only pack my Chromebo
 
 Image CC by [wikipedia](https://en.m.wikipedia.org/wiki/File:Chromebook.jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

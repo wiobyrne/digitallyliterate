@@ -12,4 +12,4 @@ The video below shares all of the information I have been sharing over [these th
 
 You can learn more about the [MOOC here](http://wiobyrne.com/join-the-orms-mooc/)...and access [the actual MOOC here](https://sites.google.com/site/ormsmodel/). Enjoy. https://www.youtube.com/watch?v=HQW3mOz6Yno Cover flickr photo by Spin Creative, LLC http://flickr.com/photos/spincreativellc/6941526577 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -46,4 +46,4 @@ Please also feel free to add/edit/revise content on the site. Have a better vers
 
 Like what you see here? [Sign up for my newsletter](http://wiobyrne.com/tldr/) to stay on top of weekly events in literacy, technology, & education.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

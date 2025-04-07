@@ -18,4 +18,4 @@ Without further ado...here is our [literature review](https://docs.google.com/do
 
 Image CC by [Krissy.Venosdale](http://www.flickr.com/photos/venosdale/4376443940/sizes/o/in/photostream/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

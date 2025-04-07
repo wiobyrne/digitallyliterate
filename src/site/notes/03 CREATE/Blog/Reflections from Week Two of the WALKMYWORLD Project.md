@@ -56,4 +56,4 @@ I think what I'm saying is that I'm urging all of you in the project to continue
 
 Image CC by [rtil](http://www.deviantart.com/art/walking-99512008)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

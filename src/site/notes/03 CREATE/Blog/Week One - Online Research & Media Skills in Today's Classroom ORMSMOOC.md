@@ -49,4 +49,4 @@ Thanks again. I'm looking forward to learning together with you all.
 
 Cover image creative commons licensed (BY-SA) flickr photo by opensourceway: http://flickr.com/photos/opensourceway/5393579026
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

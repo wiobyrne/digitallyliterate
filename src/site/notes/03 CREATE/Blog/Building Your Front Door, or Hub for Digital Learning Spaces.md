@@ -53,4 +53,4 @@ Finally, Creative Commons [license your content](http://wiobyrne.com/apply-a-cre
 
 Image CC BY-ND 2.0 [Nathan Larkin](https://www.flickr.com/photos/fixiedouche/8360291988/in/photolist-gdVuhX-fLmgxa-cU8ozy-cxtYD3-qS1UBH-dJLFxj-csAMzm-BjXBi-bmC8SD-cqnwmY-ab3vts-obeRc1-csANhb-qjjUdR-5ZebCz-okZarU-cT1AAY-cqXHC3-9ditnm-auXyTz-fcaM4k-aoUHac-62ACmM-9nnb9E-awXEmU-oaNDFx-iBV8rL-bNWL6x-dX3fb7-9HsYRU-gdUSoo-a4ui38-5nwcg7-66fjgT-33gTSA-2DPxNG-bAFhh1-98rrk9-cjiY7d-jQLJvq-5kAV8i-iez1xg-cxsXAU-dmXNMN-dPbYVM-dKG12h-mAB565-jjHtiY-cCXNg3-dTzAGj)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

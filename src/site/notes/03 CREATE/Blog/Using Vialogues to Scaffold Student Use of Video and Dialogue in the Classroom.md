@@ -38,4 +38,4 @@ Once you're logged in, and you visit the vialogue you want to comment on, click 
 
 Cover photo by pedrosek http://flickr.com/photos/pedrosek/16844437580 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

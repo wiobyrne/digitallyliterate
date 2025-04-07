@@ -32,4 +32,4 @@ To view the powerpoint from the NCTE 2010 session, please visit: [http://www.scr
 
 To view the YouTube videos, please visit: [http://www.youtube.com/watch?v=Cg1dksjT4Wg](http://www.youtube.com/watch?v=Cg1dksjT4Wg) [http://www.youtube.com/watch?v=kHkVqjKTgoU](http://www.youtube.com/watch?v=kHkVqjKTgoU)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

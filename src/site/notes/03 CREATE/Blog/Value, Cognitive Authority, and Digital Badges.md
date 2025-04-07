@@ -38,4 +38,4 @@ Taylor, R. S. (1986). Value-added processes in information systems. Norwood, NJ
 
 Wilson, P. (1983). Second-hand knowledge: An inquiry into cognitive authority (p. 15). Westport, CT: Greenwood Press. Chicago
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

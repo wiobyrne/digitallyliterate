@@ -21,4 +21,4 @@ _d) your ability to hypothesize about the impact of your philosophical views for
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTIE1ptCs9py7CMUOuuVKBsqG5IzYmYa5R4yX1fR62ZjKnauvon0qf-vqhdS1VZCiJ3mE-0UNqR8jd5/pub?embedded=true"></iframe>
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

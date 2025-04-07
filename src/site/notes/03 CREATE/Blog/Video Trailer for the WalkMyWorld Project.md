@@ -32,4 +32,4 @@ https://www.youtube.com/watch?v=B6YQzgnatJA
 
 Cover photo by Nicolas Alejandro Street Photography http://flickr.com/photos/nalejandro/15175225229 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

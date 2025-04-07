@@ -56,4 +56,4 @@ Finally, I wanted to expand this post beyond an examination of transparency in a
 
 Cover photo by FUMIGRAPHIK-Photographist http://flickr.com/photos/fumigraphik/14737322377 shared under a CC BY-NC-ND license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

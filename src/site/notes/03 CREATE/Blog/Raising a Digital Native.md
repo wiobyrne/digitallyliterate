@@ -16,4 +16,4 @@ I have no way of even beginning to imagine the digital or literate landscape tha
 
 As I play, learn, and communicate with my son, I am struck by how much he wants to learn and interact with the discourse systems and community of our family. At some point, this will gradually expand to a classroom in which I am sure his first teachers will continue this interaction and inspection of literacy, technology, and expression. In thinking about the future that he will live, read, and work in...I have to say that I am particularly envious. The work now comes as we prepare all of our students for the futures that they each will encounter.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

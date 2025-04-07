@@ -52,4 +52,4 @@ N. VGA adaptors (dongles) for the MBP and iPad. USB adaptors for the Flip Camera
 
 That's all I will be bringing with me as I hit the road. What do you carry with you in your bag?
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

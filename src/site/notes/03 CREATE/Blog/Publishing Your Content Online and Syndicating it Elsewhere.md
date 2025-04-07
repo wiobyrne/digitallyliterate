@@ -55,4 +55,4 @@ Cover photo by Sean MacEntee [http://flickr.com/photos/smemon/4420336383](http:/
 
 Like what you see here? [Sign up for my newsletter](http://wiobyrne.com/tldr/) to stay on top of weekly events in literacy, technology, & education.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

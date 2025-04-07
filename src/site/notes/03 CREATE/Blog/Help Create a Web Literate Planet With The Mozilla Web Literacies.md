@@ -24,4 +24,4 @@ Please join us in developing, revising, and using these literacies of new and di
 
 Image CC by [Mozilla](https://wiki.mozilla.org/Learning/WebLiteracyStandard/CompetencyGrid)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

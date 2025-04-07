@@ -46,4 +46,4 @@ To receive the badge you must complete the following:
 
 Cover photo by glasseyes view http://flickr.com/photos/axelhartmann/17597842449 shared under a Creative Commons (BY-SA) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

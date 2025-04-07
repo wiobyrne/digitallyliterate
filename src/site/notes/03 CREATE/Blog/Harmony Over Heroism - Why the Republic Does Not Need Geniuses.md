@@ -34,9 +34,9 @@ Understanding why geniuses are not necessarily needed for a republic can help us
 
 For those interested in exploring this topic further, I recommend checking out:
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 - [_Democracy and Knowledge: Innovation and Learning in Classical Athens_ by Josiah Ober](https://www.amazon.com/Democracy-Knowledge-Innovation-Learning-Classical/dp/0691146241)
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 - [_The Wisdom of Crowds_ by James Surowiecki](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds)
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 - Ian Goldin’s TED talk on [_Navigating our Global Future_](https://www.ted.com/talks/ian_goldin_navigating_our_global_future?language=en)
