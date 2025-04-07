@@ -43,5 +43,5 @@ For those interested in learning more or getting involved, here are some valuabl
   - Coursera's "Media Literacy and Representation" course
   - EdX's "Ethical Leadership Through Giving Voice to Values" course
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 By taking these steps, educators, researchers, and individuals alike can contribute to dismantling harmful narratives and fostering a society rooted in empathy, understanding, and trust.

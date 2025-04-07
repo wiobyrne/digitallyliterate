@@ -32,4 +32,4 @@ Good luck. Let me know what challenges you dream up.
 
 Cover photo by dimnikolov http://flickr.com/photos/dimnikolov/3451608745 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

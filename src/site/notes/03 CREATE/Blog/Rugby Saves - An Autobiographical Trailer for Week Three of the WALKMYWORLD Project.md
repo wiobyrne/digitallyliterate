@@ -12,4 +12,4 @@ Despite these trials and tribulations, I gained a lot from playing. I gained a s
 
 Below you'll find the video for this week. https://www.youtube.com/watch?v=djUiLdj17nQ&feature=youtu.be
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

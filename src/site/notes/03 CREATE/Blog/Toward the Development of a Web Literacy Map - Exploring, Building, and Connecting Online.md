@@ -48,4 +48,4 @@ https://www.youtube.com/watch?v=wegrOC\_Xl-U
 
 Image CC BY-NC-SA 2.0 [Xavier Zaldua](https://www.flickr.com/photos/zaldu34/7705544122/in/photolist-cJUVP1-3bgUJR-oHfqf6-mGXww5-aEXcfT-6L2FF9-6MKQz9-8JX9FG-aWmDJ6-4FDRrZ-6L2Ksq-oX5vx2-6KsQsf-5BRgQr-7ZSb2d-nen85w-6pu83V-aKcob2-6nLWVi-bUxgSR-5vX8Av-bFb7kQ-6Kv9nZ-nuahkk-gPPWoC-fyh3T1-7jFo6f-hcQUfr-dNWeNL-c4Yjo3-c3SYoW-owJK7U-9aoRYz-pomQxF-cbUwKb-a1tPe6-cZd1g3-ovk8m1-asy5XU-3bcw58-nLXJKz-bFTd3-dNE2A6-cm8Sn-2SvPH-pKUVvY-2NgXKD-5HuK7k-59Fqaw-eKsmzL)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

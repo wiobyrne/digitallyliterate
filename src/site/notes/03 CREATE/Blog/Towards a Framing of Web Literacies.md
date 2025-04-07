@@ -18,4 +18,4 @@ I believe these two heuristics may be the model that help us understand how thes
 
 I should indicate that two things may change from the heuristic and description I've provided above. First, I don't think "explore" is the correct term for this consideration of web literacies. I'll explore that thinking a bit more in a subsequent blog post. Second, in the last [Community Call](http://weblitstd.tumblr.com/), there was a lot of dialogue about possibly changing, or removing the protecting "strand." Much of this dialogue focused on the changing contexts of identity, situation, purpose, and terminology that would affect inclusion of this factor. I believe that moving to a model such as the one I present in this post would allow for the removal of the protection "strand" as it would be addressed in the full 3D model in other areas.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

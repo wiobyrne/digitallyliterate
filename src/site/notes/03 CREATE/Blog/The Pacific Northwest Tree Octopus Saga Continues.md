@@ -22,4 +22,4 @@ Finally, video of Dr. Leu's appearance on CNN discussing the recent debate can b
 
 <iframe src="http://www.cnn.com/video/api/embed.html#/video/bestoftv/2011-02-04/exp.nr.tree.octopus.professor.cnn" width="416" height="234" frameborder="0"></iframe>
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

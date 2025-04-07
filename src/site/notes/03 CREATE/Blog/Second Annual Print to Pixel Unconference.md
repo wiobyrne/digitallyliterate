@@ -30,4 +30,4 @@ Educators, teachers, students, family, and friends are all welcome. To learn mor
 
 Image CC by [wikimedia](http://commons.wikimedia.org/wiki/File:Ignite!_at_UX_Camp_CPH_(8750435520).jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

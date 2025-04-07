@@ -48,4 +48,4 @@ Once all of your files are uploaded to Google Drive you can now access them from
 
 Now that your files are online, you may chose to only work in Google Apps from now on. I made the decision to stop using Microsoft Office and I haven't looked back. I have Google Drive installed on my Mac at work, my PC at home, and all of my devices. I can sign in on any of these and access my work. I love being able to start up a Google Doc at home and work on an article. Share the link to collaborators. Drive in to work and finish working on the document. Finally, I can also share the link for the documents online to allow others to review and comment on my work. Google Apps and Google Drive allows me to work across devices and platforms, all while ensuring that I always have access to my files.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

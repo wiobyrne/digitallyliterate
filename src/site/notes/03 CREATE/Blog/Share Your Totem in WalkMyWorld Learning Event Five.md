@@ -64,4 +64,4 @@ Middle image CC BY-NC-ND 2.0 [BrookeNovak](https://www.flickr.com/photos/brooken
 
 Bottom image CC BY-NC-ND 2.0 [BrookeNovak](https://www.flickr.com/photos/brookenovak/111625445)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

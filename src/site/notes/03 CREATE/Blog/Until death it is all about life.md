@@ -71,4 +71,4 @@ In conclusion, the essence of life until death is an intricate tapestry woven wi
 
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -54,4 +54,4 @@ Middle image CC BY 2.0 [Brian Metcalfe](https://www.flickr.com/photos/life-long-
 
 Bottom image CC BY 2.0 [Brian Metcalfe](https://www.flickr.com/photos/life-long-learners/6884789914/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

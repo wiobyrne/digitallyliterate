@@ -61,5 +61,5 @@ There are several resources that provide more detailed strategies for mastering 
 - Apps like 'Forest', 'Freedom', and 'RescueTime' can help you stay focused by blocking distractions and tracking your productivity.
 - Websites like MindTools and Lifehack provide numerous articles, tips, and strategies on improving focus and productivity.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 Remember, mastering serial focusing is a gradual process. It requires practice and patience, but the benefits are well worth it.

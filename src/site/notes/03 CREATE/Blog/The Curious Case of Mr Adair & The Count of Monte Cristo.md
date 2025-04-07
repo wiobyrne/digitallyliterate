@@ -50,4 +50,4 @@ I've watched all of the movie versions. I also bought an exact copy of the versi
 
 Images CC by [Mira-Jade](http://www.deviantart.com/art/The-Count-of-Monte-Cristo-85954797), [David Bowler](http://www.flickr.com/photos/dbowler78/3454512682/), [RebelScum](http://www.rebelscum.com/swsaga/sw02wmcantinawave1.jpg), [JokerusLaughis](http://i151.photobucket.com/albums/s144/JokerusLaughis/GIF/bth_thfotoprincipal.gif), [MakeZineBlog](http://makezineblog.files.wordpress.com/2010/04/maker-faire-kids-led.jpg%3Fw%3D600%26h%3D400), [akademifantasia](http://www.akademifantasia.org/wp-content/uploads/2010/07/Giant-Book-Austria.jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

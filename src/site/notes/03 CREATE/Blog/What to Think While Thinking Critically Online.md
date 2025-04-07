@@ -12,4 +12,4 @@ In a fascinating recent piece by Michael Hirschorn in The Atlantic, he discusses
 
 Please read the article in its entirety at: [http://www.theatlantic.com/magazine/archive/2010/11/truth-lies-here...](http://www.theatlantic.com/magazine/archive/2010/11/truth-lies-here/8246/ "http://www.theatlantic.com/magazine/archive/2010/11/truth-lies-here/8246/")
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

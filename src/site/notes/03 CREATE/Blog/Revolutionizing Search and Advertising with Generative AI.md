@@ -79,4 +79,4 @@ Embracing generative AI technology wisely and responsibly will enable us to shap
 
 For more insights into how generative AI is revolutionizing various sectors, check out [DeepArt.io](https://deepart.io/), read the [MIT Tech Review](https://www.technologyreview.com/2018-11-01/139609/generative-artificial-intelligence-defines-a-new-market/), or tune in to the [Data Science at Home](https://datascienceathome.com/) podcast.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

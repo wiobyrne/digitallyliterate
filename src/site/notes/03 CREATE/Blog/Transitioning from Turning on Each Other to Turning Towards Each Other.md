@@ -39,4 +39,4 @@ By embracing this shift, we can foster deeper connections, build stronger commun
 7. Article on the importance of validating emotions from Psychology Today: https://www.psychologytoday.com/us/blog/pieces-mind/201204/understanding-validation-way-communicate-acceptance
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -22,7 +22,7 @@ I'm primarily working on:
 - **Recently Finished:** [[01 CONSUME/Books/King - A Life\|King - A Life]]. This serves as a powerful reminder that our current struggles for justice and humanity are part of a much longer historical continuum of resistance and hope.
 - **Up Next**: [Book Title]
 
-_See my [[02 CURATE/MOCs/Books\|Books]] index for more detailed reading notes._
+_See my [[02 CURATE/Indexes/Book Index\|02 CURATE/Indexes/Book Index]] index for more detailed reading notes._
 
 ## 🌱 Learning
 
@@ -35,7 +35,7 @@ Right now I'm learning about:
 ## 📝 Projects
 
 - **Digital Garden**: Continuing to refine this space, recently adding this "Now" page
-- **Newsletter**: Curating resources for the next issue of [[02 CURATE/MOCs/Newsletter Index\|my newsletter]]
+- **Newsletter**: Curating resources for the next issue of [[02 CURATE/Indexes/Newsletter Index\|my newsletter]]
 - **[Other Project]**: Brief description...
 
 ## 💭 Current Thoughts

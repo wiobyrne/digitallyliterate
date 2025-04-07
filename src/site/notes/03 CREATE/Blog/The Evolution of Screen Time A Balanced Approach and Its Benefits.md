@@ -31,4 +31,4 @@ Remember, the key is not to eliminate screen time but to use it wisely and produ
 ## Want more?
 If you want more information about screen time management, [check out this article](https://www.psychologytoday.com/us/blog/mental-wealth/201402/gray-matters-too-much-screen-time-damages-the-brain) which goes into detail about the effects of excessive screen time. For tips on how to find balance with technology, [this podcast episode](https://www.npr.org/podcasts/510343/indistractable-with-nir-eyal) provides some valuable insights.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -44,4 +44,4 @@ All of the materials and reflections as we developed the course are available [h
 
 Cover photo by Frank Wittig http://flickr.com/photos/frankwittig/17421814826 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

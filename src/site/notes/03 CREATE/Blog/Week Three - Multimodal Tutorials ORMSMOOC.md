@@ -37,4 +37,4 @@ So for now...just start reading the materials for Module 1. Start to put your ma
 
 Cover photo by davebloggs007 [http://flickr.com/photos/davebloggs007/15473470662](http://flickr.com/photos/davebloggs007/15473470662) shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

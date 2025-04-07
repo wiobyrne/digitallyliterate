@@ -63,4 +63,4 @@ But the journey didn't end there. Empowered by the transformative capabilities o
 
 As I stand at the precipice of this digital frontier, I am filled with a sense of anticipation and excitement, knowing that with ChatGPT by my side, the possibilities are limitless. Together, we will chart new territories, explore uncharted realms, and unleash the full potential of AI to transform the way we create, collaborate, and innovate.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

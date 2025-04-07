@@ -68,4 +68,4 @@ As I close, I routinely blog and consider myself to be an open scholar and propo
 
  This post was also shared on the [AdvocatED Publication](https://medium.com/advocat-ed) at [Medium.com](https://medium.com/advocat-ed/the-challenge-of-open-online-scholarship-in-academia-37d12b30fc43#.9b50zrezl).
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

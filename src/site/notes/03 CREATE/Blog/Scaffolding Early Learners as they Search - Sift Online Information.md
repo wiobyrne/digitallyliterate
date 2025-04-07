@@ -16,4 +16,4 @@ In response to the teachers we spent the remainder of the session discussing thr
 
 There are numerous other ways in which you can scaffold early online learners, in any content...the challenge is to take the first step.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

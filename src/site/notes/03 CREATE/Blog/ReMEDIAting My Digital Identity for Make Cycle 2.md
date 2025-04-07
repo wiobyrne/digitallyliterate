@@ -54,4 +54,4 @@ In working across the different tools, it was a challenge to select a tool that 
 
 Cover photo by Keoni Cabral http://flickr.com/photos/keoni101/8397359784 shared under a Creative Commons (BY) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

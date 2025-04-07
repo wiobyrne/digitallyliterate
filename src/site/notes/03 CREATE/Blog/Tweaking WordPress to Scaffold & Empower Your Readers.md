@@ -44,4 +44,4 @@ At this point, I want to wrap up so I don't contradict everything I've said up t
 
 Cover photo by █ Slices of Light █▀ ▀ ▀ http://flickr.com/photos/justaslice/1237061197 shared under a Creative Commons (BY-NC-ND) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

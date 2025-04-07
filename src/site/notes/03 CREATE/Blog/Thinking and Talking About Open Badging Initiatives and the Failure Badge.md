@@ -24,4 +24,4 @@ What are your thoughts?
 
 Image CC by [hondanews](http://www.flickr.com/photos/hondanews/3673026351/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -42,4 +42,4 @@ I used to think I lived alone yet soon will share my skin. I try to write while 
 
 Image CC BY-NC-SA 2.0 [adustyfairytale](https://www.flickr.com/photos/adustyfairytale/900190916/in/photolist-2nxHp3-66MpAR-9o9tu1-dhVMp1-kMxt1-7Jxfvm-DWqcM-4n6SZf-7dAsss-8w5ywj-8fBGtx-4aDLo-cEy2U9-DWqbo-8edKrc-atMLeP-nQaZRv-2jaK5-DWqgN-9t7Fe-8TGQiU-4YvHgy-psoFfY-6RXYp9-coFpEj-8365AT-cuCnNo-KtB8F-4tGFfz-nr2LKb-dkTye6-uyJJ5-dxUuJ-5G4Prw-pGi2uG-8okijG-DWqfX-dVVWV9-akk7sP-71SSnR-6mo8TP-81Tm56-oUuqhX-5B6LHY-qfMdoB-frjce-4ftGtL-7mtivN-fcjVB2-4zMrq)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

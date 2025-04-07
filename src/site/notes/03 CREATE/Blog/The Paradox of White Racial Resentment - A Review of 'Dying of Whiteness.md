@@ -62,9 +62,9 @@ Additional information regarding his work can be found on his website or through
   
 ## Related Books 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 - "Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present" by Harriet A Washington
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 - "The Color of Law: A Forgotten History of How Our Government Segregated America" by Richard Rothstein
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 - "Stamped from the Beginning: The Definitive History of Racist Ideas in America" by Ibram X Kendi

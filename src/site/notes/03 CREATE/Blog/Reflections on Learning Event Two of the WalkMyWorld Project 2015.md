@@ -48,4 +48,4 @@ Thanks again all. See you in Learning Event Three. :)
 
 [Image No Known Copyright Restrictions](https://www.flickr.com/photos/mississippi-dept-of-archives-and-history/8498415514/in/gallery-horngyih-72157644742046979/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

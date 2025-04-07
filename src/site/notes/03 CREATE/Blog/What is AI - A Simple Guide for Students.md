@@ -44,5 +44,5 @@ But with great power comes great responsibility. This brings us to some importan
 
 AI is a powerful tool that's reshaping our world in exciting ways. From helping us solve complex problems to making our lives more convenient, AI has the potential to do a lot of good. However, it's crucial to understand how it works and to ask critical questions about its impact.
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 As you continue to learn about AI, remember to think critically about how it's used and what it means for our future. After all, you are the next generation of thinkers who will help shape how AI is developed and applied in the years to come!

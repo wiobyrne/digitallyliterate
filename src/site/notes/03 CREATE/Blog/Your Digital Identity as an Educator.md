@@ -39,4 +39,4 @@ To receive the badge you must complete the following:
 
 Cover photo by Bubba's Bag of Photos http://flickr.com/photos/carrubbam/8705837534 shared under a Creative Commons (BY-NC-ND) license
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

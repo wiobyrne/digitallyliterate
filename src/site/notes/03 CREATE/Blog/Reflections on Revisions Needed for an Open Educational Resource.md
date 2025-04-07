@@ -27,4 +27,4 @@ As I continue to work on this...I'll be sure to share here.
 
 Image CC by [Rob](http://www.flickr.com/photos/wildvanilla/4144225626/sizes/o/in/photostream/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

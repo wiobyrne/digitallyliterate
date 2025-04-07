@@ -24,4 +24,4 @@ _What do you all think?_
 
 Image CC by [coffeedude02](http://www.deviantart.com/art/The-Love-Machine-146948766)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

@@ -76,4 +76,4 @@ Remember, the user isn't a problem anymore - you're a collaborator in this journ
 For more insights into GPT-5 and how it's revolutionizing the AI landscape, check out [OpenAI’s research](https://openai.com/research/). You might find some interesting reads at [MIT Technology Review](https://www.technologyreview.com/) or podcasts like [AI Today](https://www.cognilytica.com/podcast/) for broader discussions on artificial intelligence advancements.
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

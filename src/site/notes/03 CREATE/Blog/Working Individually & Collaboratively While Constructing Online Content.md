@@ -24,4 +24,4 @@ Once again, as I've moved on from my dissertation I've been thinking deeply abou
 
 [Image CC by www.esri.com](http://www.esri.com/news/arcuser/1012/many-hands-make-light-work.html)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

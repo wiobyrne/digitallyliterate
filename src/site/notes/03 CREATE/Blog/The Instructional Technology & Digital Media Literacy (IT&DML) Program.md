@@ -24,4 +24,4 @@ There is a lot of nuance behind the scenes in terms of the infrastructure we use
 
 Image CC by [worldbank](http://www.flickr.com/photos/worldbank/1128192883/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

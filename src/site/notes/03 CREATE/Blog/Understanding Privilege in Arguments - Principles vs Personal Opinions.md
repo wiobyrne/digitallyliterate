@@ -53,11 +53,11 @@ Newsletter:
 1. [Understanding White Privilege - Cynthia Silva Parker](https://interactioninstitute.org/understanding-white-privilege/)
 2. [The Distinctions Between Personal and Structural Violence - Everyday Feminism](https://everydayfeminism.com/2016/02/personal-vs-structural-violence/)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 Books:
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 1. ["White Fragility: Why It's So Hard for White People to Talk About Racism" by Robin DiAngelo](https://www.amazon.com/White-Fragility-People-About-Racism/dp/0807047414)
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 2. ["The New Jim Crow: Mass Incarceration in the Age of Colorblindness" by Michelle Alexander](https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431)
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
 3. ["So You Want to Talk About Race" by Ijeoma Oluo](https://www.amazon.com/Want-Talk-About-Race/dp/B07H43R5MD)

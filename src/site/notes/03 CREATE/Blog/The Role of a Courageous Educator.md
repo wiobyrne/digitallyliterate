@@ -73,4 +73,4 @@ I’ve learned that real change is a team effort. Collaborating with like-minded
 Ultimately, being part of a courageous community means pushing for change, while also caring for myself and others. It’s about using my privilege to uplift others, speaking out for justice, and always striving to do better—for my students, my community, and myself.
 
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]

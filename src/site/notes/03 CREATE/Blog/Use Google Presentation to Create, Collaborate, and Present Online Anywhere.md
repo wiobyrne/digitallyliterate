@@ -54,4 +54,4 @@ Google Presentation has proven to be a killer app for me. I cannot live without 
 
 To view a screencast tutorial of this post, please view below. http://www.youtube.com/watch?v=0m2mVIyoRBA Image CC by [powtoon](http://powtoon-blog.s3.amazonaws.com/uploads/2013/02/Untitled-presentation-Google-Drive-2013-02-03-11-53-32.jpg)
 
-[[02 CURATE/MOCs/Blog Post Index\|Blog Post Index]]
+[[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]]
