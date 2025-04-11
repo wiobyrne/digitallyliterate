@@ -4,7 +4,7 @@
 
 # About Me
 
-Hi, I’m **W. Ian O’Byrne**, an educator, researcher, and lifelong learner exploring the intersections of literacy, technology, and humanity.  
+Hi, I’m **Ian O’Byrne**, an educator, researcher, and lifelong learner exploring the intersections of literacy, technology, and humanity.  
 
 ![point 1.jpg](/img/user/04%20META/Assets/point%201.jpg)
 ## In a Nutshell  
@@ -26,6 +26,7 @@ I’m currently focused on:
 - **Culturally Responsive Pedagogy**: Building inclusive learning environments  
 - **Connected Learning**: Empowering learners to thrive in a digital world  
 
+For more info, check out what I'm working on [[04 META/Now\|Now]].
 ## Connect with Me  
 - Personal blog: [wiobyrne.com](https://wiobyrne.com)  
 - Digital garden: [digitallyliterate.net](https://digitallyliterate.net)  

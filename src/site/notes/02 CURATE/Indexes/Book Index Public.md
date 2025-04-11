@@ -12,122 +12,122 @@ Author names may also be linked when I've created dedicated pages about them and
 
 This collection represents my ongoing journey through various topics and genres. I hope my notes and reflections might be helpful or interesting to fellow readers!
 
-|Title|Author|Rating|
-|---|---|---|
-|[[01 CONSUME/Books/21 Lessons for the 21st Century\|21 Lessons for the 21st Century]]|[[Yuval Noah Harari\|Yuval Noah Harari]]|★★★★☆|
-|[[01 CONSUME/Books/A Brief History of Earth\|A Brief History of Earth]]|[[Andrew H. Knoll\|Andrew H. Knoll]]|★★★★☆|
-|[[01 CONSUME/Books/A Hacker's Mind How the Powerful Bend Society's Rules, and How to Bend them Back\|A Hacker's Mind How the Powerful Bend Society's Rules, and How to Bend them Back]]|[[Bruce Schneier\|Bruce Schneier]]|★★★★☆|
-|[[01 CONSUME/Books/A Higher Loyalty\|A Higher Loyalty]]|[[James Comey\|James Comey]]|★★★☆☆|
-|[[01 CONSUME/Books/A New Culture of Learning\|A New Culture of Learning]]|[[Douglas Thomas\|Douglas Thomas]], [[John Seely Brown\|John Seely Brown]]|-|
-|[[01 CONSUME/Books/Acceptance\|Acceptance]]|[[Jeff VanderMeer\|Jeff VanderMeer]]|★★★☆☆|
-|[[01 CONSUME/Books/Alt-America\|Alt-America]]|[[David Neiwert\|David Neiwert]]|★★★★☆|
-|[[01 CONSUME/Books/Altered Carbon\|Altered Carbon]]|[[Richard K. Morgan\|Richard K. Morgan]]|★★★★☆|
-|[[01 CONSUME/Books/American Gods\|American Gods]]|[[Neil Gaiman\|Neil Gaiman]]|-|
-|[[01 CONSUME/Books/Ancillary Justice\|Ancillary Justice]]|[[Ann Leckie\|Ann Leckie]]|★★★☆☆|
-|[[01 CONSUME/Books/Annihilation\|Annihilation]]|[[Jeff VanderMeer\|Jeff VanderMeer]]|★★★☆☆|
-|[[01 CONSUME/Books/Anthem\|Anthem]]|[[Noah Hawley\|Noah Hawley]]|★★★★★|
-|[[01 CONSUME/Books/Armada\|Armada]]|[[01 CONSUME/People/Ernest Cline\|Ernest Cline]]|★★★☆☆|
-|[[01 CONSUME/Books/Artemis\|Artemis]]|[[Andy Weir\|Andy Weir]]|★★★★☆|
-|[[01 CONSUME/Books/Atomic Habits\|Atomic Habits]]|[[James Clear\|James Clear]]|★★★☆☆|
-|[[01 CONSUME/Books/Authority\|Authority]]|[[Jeff VanderMeer\|Jeff VanderMeer]]|★★★☆☆|
-|[[01 CONSUME/Books/Barracoon\|Barracoon]]|[[Zora Neale Hurston\|Zora Neale Hurston]]|-|
-|[[01 CONSUME/Books/Becoming Wise\|Becoming Wise]]|[[Krista Tippett\|Krista Tippett]]|-|
-|[[01 CONSUME/Books/Between the World and Me\|Between the World and Me]]|[[Ta-Nehisi Coates\|Ta-Nehisi Coates]]|★★★★☆|
-|[[01 CONSUME/Books/Blue Mars\|Blue Mars]]|[[Kim Stanley Robinson\|Kim Stanley Robinson]]|-|
-|[[01 CONSUME/Books/Broken Angels\|Broken Angels]]|[[Richard K. Morgan\|Richard K. Morgan]]|★★★★☆|
-|[[01 CONSUME/Books/Children of Blood and Bone\|Children of Blood and Bone]]|[[Tomi Adeyemi\|Tomi Adeyemi]]|★★★☆☆|
-|[[01 CONSUME/Books/Children of Ruin\|Children of Ruin]]|[[Adrian Tchaikovsky\|Adrian Tchaikovsky]]|★★★★★|
-|[[01 CONSUME/Books/Children of Time\|Children of Time]]|[[Adrian Tchaikovsky\|Adrian Tchaikovsky]]|★★★★★|
-|[[01 CONSUME/Books/Creative Quest\|Creative Quest]]|[[01 CONSUME/People/Questlove\|Questlove]]|-|
-|[[01 CONSUME/Books/Cultivating Genius\|Cultivating Genius]]|[[Gholdy Muhammad\|Gholdy Muhammad]]|★★★★☆|
-|[[01 CONSUME/Books/Culturally Responsive Teaching and The Brain\|Culturally Responsive Teaching and The Brain]]|[[Zaretta Hammond\|Zaretta Hammond]]|★★★★☆|
-|[[01 CONSUME/Books/Daring Greatly\|Daring Greatly]]|[[Brené Brown\|Brené Brown]]|★★★★☆|
-|[[01 CONSUME/Books/Dark Matter and the Dinosaurs\|Dark Matter and the Dinosaurs]]|[[Lisa Randall\|Lisa Randall]]|★★★☆☆|
-|[[01 CONSUME/Books/DEI Deconstructed\|DEI Deconstructed]]|[[Lily Zheng\|Lily Zheng]]|-|
-|[[01 CONSUME/Books/Dune\|Dune]]|[[Frank Herbert\|Frank Herbert]]|★★★★★|
-|[[01 CONSUME/Books/Dune Messiah\|Dune Messiah]]|[[Frank Herbert\|Frank Herbert]]|-|
-|[[01 CONSUME/Books/Ender's Game\|Ender's Game]]|[[Orson Scott Card\|Orson Scott Card]]|★★★★☆|
-|[[01 CONSUME/Books/Fear - Trump in the White House\|Fear - Trump in the White House]]|[[Bob Woodward\|Bob Woodward]]|★★★☆☆|
-|[[01 CONSUME/Books/Flash Boys\|Flash Boys]]|[[Michael Lewis\|Michael Lewis]]|★★★★☆|
-|[[01 CONSUME/Books/Fugitive Pedagogy\|Fugitive Pedagogy]]|[[01 CONSUME/People/Jarvis R. Givens\|Jarvis R. Givens]]|★★★★☆|
-|[[01 CONSUME/Books/Green Mars\|Green Mars]]|[[Kim Stanley Robinson\|Kim Stanley Robinson]]|-|
-|[[01 CONSUME/Books/Hatching Twitter\|Hatching Twitter]]|[[Nick Bilton\|Nick Bilton]]|★★★☆☆|
-|[[01 CONSUME/Books/Head On\|Head On]]|[[John Scalzi\|John Scalzi]]|★★★☆☆|
-|[[01 CONSUME/Books/Hello World\|Hello World]]|[[Hannah Fry\|Hannah Fry]]|★★★☆☆|
-|[[01 CONSUME/Books/How the Word Is Passed\|How the Word Is Passed]]|[[Clint Smith\|Clint Smith]]|★★★★☆|
-|[[01 CONSUME/Books/How to Stop Worrying & Start Living\|How to Stop Worrying & Start Living]]|[[Dale Carnegie\|Dale Carnegie]]|★★☆☆☆|
-|[[01 CONSUME/Books/In the Plex\|In the Plex]]|[[Steven Levy\|Steven Levy]]|★★★☆☆|
-|[[01 CONSUME/Books/In The Wake\|In the Wake]]|[[Christina Sharpe\|Christina Sharpe]]|★★★★☆|
-|[[01 CONSUME/Books/Kindred\|Kindred]]|[[Octavia E. Butler\|Octavia E. Butler]]|★★★★☆|
-|[[King: A Life\|King: A Life]]|[[Jonathan Eig\|Jonathan Eig]]|★★★★☆|
-|[[01 CONSUME/Books/Leaders - Myth and Reality\|Leaders - Myth and Reality]]|[[General Stanley McChrystal\|General Stanley McChrystal]], [[Jeff Eggers\|Jeff Eggers]], [[Jay Mangone\|Jay Mangone]]|★★★☆☆|
-|[[01 CONSUME/Books/Leonardo da Vinci\|Leonardo da Vinci]]|[[Walter Isaacson\|Walter Isaacson]]|★★★☆☆|
-|[[01 CONSUME/Books/Leviathan Wakes\|Leviathan Wakes]]|[[James S. A. Corey\|James S. A. Corey]]|-|
-|[[01 CONSUME/Books/Lock In\|Lock In]]|[[John Scalzi\|John Scalzi]]|★★★☆☆|
-|[[01 CONSUME/Books/Mr. Watson's Chickens\|Mr. Watson's Chickens]]|[[Jarrett Dapier\|Jarrett Dapier]]|-|
-|[[01 CONSUME/Books/New York 2140\|New York 2140]]|[[Kim Stanley Robinson\|Kim Stanley Robinson]]|-|
-|[[01 CONSUME/Books/Nexus\|Nexus]]|[[Yuval Noah Harari\|Yuval Noah Harari]]|★★★★☆|
-|[[01 CONSUME/Books/Nineteen Eighty-four\|Nineteen Eighty-four]]|[[George Orwell\|George Orwell]]|★★★★☆|
-|[[01 CONSUME/Books/Old Man's War\|Old Man's War]]|[[John Scalzi\|John Scalzi]]|-|
-|[[01 CONSUME/Books/Otherland - City of Golden Shadow\|Otherland - City of Golden Shadow]]|[[Tad Williams\|Tad Williams]]|-|
-|[[01 CONSUME/Books/Project Hail Mary\|Project Hail Mary]]|[[Andy Weir\|Andy Weir]]|-|
-|[[01 CONSUME/Books/Radical Technologies\|Radical Technologies]]|[[Adam Greenfield\|Adam Greenfield]]|★★★★☆|
-|[[01 CONSUME/Books/Ratchetdemic\|Ratchetdemic]]|[[Christopher Emdin\|Christopher Emdin]]|-|
-|[[01 CONSUME/Books/Ready Player One\|Ready Player One]]|[[01 CONSUME/People/Ernest Cline\|Ernest Cline]]|★★★★☆|
-|[[01 CONSUME/Books/Ready Player Two\|Ready Player Two]]|[[01 CONSUME/People/Ernest Cline\|Ernest Cline]]|-|
-|[[01 CONSUME/Books/Red Mars\|Red Mars]]|[[Kim Stanley Robinson\|Kim Stanley Robinson]]|-|
-|[[Redshirts\|Redshirts]]|[[John Scalzi\|John Scalzi]]|-|
-|[[01 CONSUME/Books/Risk Forward\|Risk Forward]]|[[Victoria Labalme\|Victoria Labalme]]|★★★☆☆|
-|[[01 CONSUME/Books/Rogue Code\|Rogue Code]]|[[Mark Russinovich\|Mark Russinovich]]|-|
-|[[01 CONSUME/Books/Sapiens\|Sapiens]]|[[Yuval Noah Harari\|Yuval Noah Harari]]|★★★★★|
-|[[01 CONSUME/Books/Seveneves\|Seveneves]]|[[Neal Stephenson\|Neal Stephenson]]|★★★★★|
-|[[01 CONSUME/Books/Shop Class as Soulcraft\|Shop Class as Soulcraft]]|[[Matthew B. Crawford\|Matthew B. Crawford]]|★★★★☆|
-|[[01 CONSUME/Books/Start Here, Start Now\|Start Here, Start Now]]|[[Liz Kleinrock\|Liz Kleinrock]]|★★★★☆|
-|[[01 CONSUME/Books/Superbetter\|SuperBetter]]|[[Jane McGonigal\|Jane McGonigal]]|★★★☆☆|
-|[[01 CONSUME/Books/Switch\|Switch]]|[[Chip Heath\|Chip Heath]], [[Dan Heath\|Dan Heath]]|★★★☆☆|
-|[[01 CONSUME/Books/Thank You for Being Late\|Thank You for Being Late]]|[[Thomas L. Friedman\|Thomas L. Friedman]]|★★★★☆|
-|[[01 CONSUME/Books/The 4-Hour Work Week\|The 4-Hour Work Week]]|[[Timothy Ferriss\|Timothy Ferriss]]|★★★★☆|
-|[[01 CONSUME/Books/The Almagest\|The Almagest]]|[[Claudius Ptolemy\|Claudius Ptolemy]]|-|
-|[[01 CONSUME/Books/The Anxious Generation\|The Anxious Generation]]|[[Jonathan Haidt\|Jonathan Haidt]]|★★★☆☆|
-|[[01 CONSUME/Books/The Art of Screen Time\|The Art of Screen Time]]|[[Anya Kamenetz\|Anya Kamenetz]]|★★★★☆|
-|[[01 CONSUME/Books/The Atlas of AI\|The Atlas of AI]]|[[01 CONSUME/People/Kate Crawford\|Kate Crawford]]|★★★★☆|
-|[[01 CONSUME/Books/The Blade Itself\|The Blade Itself]]|[[Joe Abercrombie\|Joe Abercrombie]]|-|
-|[[01 CONSUME/Books/The Cambridge Concise History of Astronomy\|The Cambridge Concise History of Astronomy]]|[[Michael Hoskin\|Michael Hoskin]]|-|
-|[[01 CONSUME/Books/The Civically Engaged Classroom\|The Civically Engaged Classroom]]|[[Mary Ehrenworth\|Mary Ehrenworth]], [[Pablo Wolfe\|Pablo Wolfe]], [[Marc Todd\|Marc Todd]]|-|
-|[[01 CONSUME/Books/The Count of Monte Cristo\|The Count of Monte Cristo]]|[[01 CONSUME/People/Alexandre Dumas\|Alexandre Dumas]]|★★★★☆|
-|[[01 CONSUME/Books/The Creative Act\|The Creative Act]]|[[Rick Rubin\|Rick Rubin]]|★★★★☆|
-|[[01 CONSUME/Books/The End of All Things\|The End of All Things]]|[[John Scalzi\|John Scalzi]]|-|
-|[[01 CONSUME/Books/The Fifth Season\|The Fifth Season]]|[[N. K. Jemisin\|N. K. Jemisin]]|★★★☆☆|
-|[[01 CONSUME/Books/The Ghost Brigades\|The Ghost Brigades]]|[[John Scalzi\|John Scalzi]]|-|
-|[[01 CONSUME/Books/The Gifts of Imperfection\|The Gifts of Imperfection]]|[[Brené Brown\|Brené Brown]]|★★★☆☆|
-|[[01 CONSUME/Books/The Graveyard Book\|The Graveyard Book]]|[[Neil Gaiman\|Neil Gaiman]]|-|
-|[[01 CONSUME/Books/The Handmaid's Tale\|The Handmaid's Tale]]|[[Margaret Atwood\|Margaret Atwood]]|★★★★☆|
-|[[01 CONSUME/Books/The Human Division\|The Human Division]]|[[John Scalzi\|John Scalzi]]|-|
-|[[01 CONSUME/Books/The Hunger Games\|The Hunger Games]]|[[Suzanne Collins\|Suzanne Collins]]|★★★★☆|
-|[[01 CONSUME/Books/The Information\|The Information]]|[[James Gleick\|James Gleick]]|★★★☆☆|
-|[[01 CONSUME/Books/The Innovators\|The Innovators]]|[[Walter Isaacson\|Walter Isaacson]]|★★★★☆|
-|[[01 CONSUME/Books/The Jungle Book\|The Jungle Book]]|[[Rudyard Kipling\|Rudyard Kipling]]|★★★★☆|
-|[[01 CONSUME/Books/The Martian\|The Martian]]|[[Andy Weir\|Andy Weir]]|★★★★☆|
-|[[01 CONSUME/Books/The Obstacle Is the Way\|The Obstacle Is the Way]]|[[Ryan Holiday\|Ryan Holiday]]|★★★★☆|
-|[[01 CONSUME/Books/The Peripheral\|The Peripheral]]|[[William Gibson\|William Gibson]]|★★★☆☆|
-|[[01 CONSUME/Books/The Road\|The Road]]|[[Cormac McCarthy\|Cormac McCarthy]]|★★★★☆|
-|[[01 CONSUME/Books/The Self-Driven Child\|The Self-Driven Child]]|[[William Stixrud\|William Stixrud]], [[Ned Johnson\|Ned Johnson]]|★★★☆☆|
-|[[01 CONSUME/Books/The Signal and the Noise\|The Signal and the Noise]]|[[Nate Silver\|Nate Silver]]|★★★★☆|
-|[[01 CONSUME/Books/The Source of Self-Regard\|The Source of Self-Regard]]|[[Toni Morrison\|Toni Morrison]]|-|
-|[[01 CONSUME/Books/The Sum of Us\|The Sum of Us]]|[[Heather McGhee\|Heather McGhee]]|★★★★☆|
-|[[01 CONSUME/Books/The Three-Body Problem\|The Three-Body Problem]]|[[Cixin Liu\|Cixin Liu]]|★★★★★|
-|[[01 CONSUME/Books/They Want to Kill Americans\|They Want to Kill Americans]]|[[Malcolm Nance\|Malcolm Nance]]|★★★★☆|
-|[[01 CONSUME/Books/Thinking, Fast and Slow\|Thinking, Fast and Slow]]|[[Daniel Kahneman\|Daniel Kahneman]]|★★★☆☆|
-|[[01 CONSUME/Books/Time Travel\|Time Travel]]|[[James Gleick\|James Gleick]]|★★★★☆|
-|[[01 CONSUME/Books/Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]|[[Gabrielle Zevin\|Gabrielle Zevin]]|★★★☆☆|
-|[[01 CONSUME/Books/Tribe\|Tribe]]|[[Sebastian Junger\|Sebastian Junger]]|★★★★☆|
-|[[01 CONSUME/Books/Twitter and Tear Gas\|Twitter and Tear Gas]]|[[Zeynep Tufekci\|Zeynep Tufekci]]|★★★★☆|
-|[[01 CONSUME/Books/Unearthing Joy\|Unearthing Joy]]|[[Gholdy Muhammad\|Gholdy Muhammad]]|★★★★☆|
-|[[01 CONSUME/Books/Unfu%k Yourself\|Unfu%k Yourself]]|[[Gary John Bishop\|Gary John Bishop]]|★★★★☆|
-|[[01 CONSUME/Books/We Got This\|We Got This]]|[[Cornelius Minor|-|
-|[[01 CONSUME/Books/Weapons of Math Destruction\|Weapons of Math Destruction]]|[[Cathy O'Neil\|Cathy O'Neil]]|★★★★☆|
-|[[01 CONSUME/Books/When Violence is the Answer\|When Violence is the Answer]]|[[Tim Larkin\|Tim Larkin]]|★★★★☆|
-|[[01 CONSUME/Books/Whiskey Tango Foxtrot\|Whiskey Tango Foxtrot]]|[[David Shafer\|David Shafer]]|★★★☆☆|
-|[[01 CONSUME/Books/White Fragility\|White Fragility]]|[[Robin DiAngelo\|Robin DiAngelo]]|★★★★☆|
-|[[01 CONSUME/Books/Why Don't Students Like School\|Why Don't Students Like School]]|[[Daniel T. Willingham\|Daniel T. Willingham]]|★★★☆☆|
-|[[01 CONSUME/Books/Woken Furies\|Woken Furies]]|[[Richard K. Morgan\|Richard K. Morgan]]|★★☆☆☆|
+| Title                                                                                | Author                                                           | Rating |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ------ |
+| [[01 CONSUME/Books/21 Lessons for the 21st Century\|21 Lessons for the 21st Century]]                                                  | [[Yuval Noah Harari\|Yuval Noah Harari]]                                            | ★★★★☆  |
+| [[01 CONSUME/Books/A Brief History of Earth\|A Brief History of Earth]]                                                         | [[Andrew H. Knoll\|Andrew H. Knoll]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/A Hacker's Mind How the Powerful Bend Society's Rules, and How to Bend them Back\|A Hacker's Mind How the Powerful Bend Society's Rules, and How to Bend them Back]] | [[Bruce Schneier\|Bruce Schneier]]                                               | ★★★★☆  |
+| [[01 CONSUME/Books/A Higher Loyalty\|A Higher Loyalty]]                                                                 | [[James Comey\|James Comey]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/A New Culture of Learning\|A New Culture of Learning]]                                                        | [[Douglas Thomas\|Douglas Thomas]], [[John Seely Brown\|John Seely Brown]]                         | -      |
+| [[01 CONSUME/Books/Acceptance\|Acceptance]]                                                                       | [[Jeff VanderMeer\|Jeff VanderMeer]]                                              | ★★★☆☆  |
+| [[01 CONSUME/Books/Alt-America\|Alt-America]]                                                                      | [[David Neiwert\|David Neiwert]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/Altered Carbon\|Altered Carbon]]                                                                   | [[Richard K. Morgan\|Richard K. Morgan]]                                            | ★★★★☆  |
+| [[01 CONSUME/Books/American Gods\|American Gods]]                                                                    | [[Neil Gaiman\|Neil Gaiman]]                                                  | -      |
+| [[01 CONSUME/Books/Ancillary Justice\|Ancillary Justice]]                                                                | [[Ann Leckie\|Ann Leckie]]                                                   | ★★★☆☆  |
+| [[01 CONSUME/Books/Annihilation\|Annihilation]]                                                                     | [[Jeff VanderMeer\|Jeff VanderMeer]]                                              | ★★★☆☆  |
+| [[01 CONSUME/Books/Anthem\|Anthem]]                                                                           | [[Noah Hawley\|Noah Hawley]]                                                  | ★★★★★  |
+| [[01 CONSUME/Books/Armada\|Armada]]                                                                           | [[01 CONSUME/People/Ernest Cline\|Ernest Cline]]                                                 | ★★★☆☆  |
+| [[01 CONSUME/Books/Artemis\|Artemis]]                                                                          | [[Andy Weir\|Andy Weir]]                                                    | ★★★★☆  |
+| [[01 CONSUME/Books/Atomic Habits\|Atomic Habits]]                                                                    | [[James Clear\|James Clear]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/Authority\|Authority]]                                                                        | [[Jeff VanderMeer\|Jeff VanderMeer]]                                              | ★★★☆☆  |
+| [[01 CONSUME/Books/Barracoon\|Barracoon]]                                                                        | [[Zora Neale Hurston\|Zora Neale Hurston]]                                           | -      |
+| [[01 CONSUME/Books/Becoming Wise\|Becoming Wise]]                                                                    | [[Krista Tippett\|Krista Tippett]]                                               | -      |
+| [[01 CONSUME/Books/Between the World and Me\|Between the World and Me]]                                                         | [[Ta-Nehisi Coates\|Ta-Nehisi Coates]]                                             | ★★★★☆  |
+| [[01 CONSUME/Books/Blue Mars\|Blue Mars]]                                                                        | [[Kim Stanley Robinson\|Kim Stanley Robinson]]                                         | -      |
+| [[01 CONSUME/Books/Broken Angels\|Broken Angels]]                                                                    | [[Richard K. Morgan\|Richard K. Morgan]]                                            | ★★★★☆  |
+| [[01 CONSUME/Books/Children of Blood and Bone\|Children of Blood and Bone]]                                                       | [[Tomi Adeyemi\|Tomi Adeyemi]]                                                 | ★★★☆☆  |
+| [[01 CONSUME/Books/Children of Ruin\|Children of Ruin]]                                                                 | [[Adrian Tchaikovsky\|Adrian Tchaikovsky]]                                           | ★★★★★  |
+| [[01 CONSUME/Books/Children of Time\|Children of Time]]                                                                 | [[Adrian Tchaikovsky\|Adrian Tchaikovsky]]                                           | ★★★★★  |
+| [[01 CONSUME/Books/Creative Quest\|Creative Quest]]                                                                   | [[01 CONSUME/People/Questlove\|Questlove]]                                                    | -      |
+| [[01 CONSUME/Books/Cultivating Genius\|Cultivating Genius]]                                                               | [[Gholdy Muhammad\|Gholdy Muhammad]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/Culturally Responsive Teaching and The Brain\|Culturally Responsive Teaching and The Brain]]                                     | [[Zaretta Hammond\|Zaretta Hammond]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/Daring Greatly\|Daring Greatly]]                                                                   | [[Brené Brown\|Brené Brown]]                                                  | ★★★★☆  |
+| [[01 CONSUME/Books/Dark Matter and the Dinosaurs\|Dark Matter and the Dinosaurs]]                                                    | [[Lisa Randall\|Lisa Randall]]                                                 | ★★★☆☆  |
+| [[01 CONSUME/Books/DEI Deconstructed\|DEI Deconstructed]]                                                                | [[Lily Zheng\|Lily Zheng]]                                                   | -      |
+| [[01 CONSUME/Books/Dune\|Dune]]                                                                             | [[Frank Herbert\|Frank Herbert]]                                                | ★★★★★  |
+| [[01 CONSUME/Books/Dune Messiah\|Dune Messiah]]                                                                     | [[Frank Herbert\|Frank Herbert]]                                                | -      |
+| [[01 CONSUME/Books/Ender's Game\|Ender's Game]]                                                                     | [[Orson Scott Card\|Orson Scott Card]]                                             | ★★★★☆  |
+| [[01 CONSUME/Books/Fear - Trump in the White House\|Fear - Trump in the White House]]                                                  | [[Bob Woodward\|Bob Woodward]]                                                 | ★★★☆☆  |
+| [[01 CONSUME/Books/Flash Boys\|Flash Boys]]                                                                       | [[Michael Lewis\|Michael Lewis]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/Fugitive Pedagogy\|Fugitive Pedagogy]]                                                                | [[01 CONSUME/People/Jarvis R. Givens\|Jarvis R. Givens]]                                             | ★★★★☆  |
+| [[01 CONSUME/Books/Green Mars\|Green Mars]]                                                                       | [[Kim Stanley Robinson\|Kim Stanley Robinson]]                                         | -      |
+| [[01 CONSUME/Books/Hatching Twitter\|Hatching Twitter]]                                                                 | [[Nick Bilton\|Nick Bilton]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/Head On\|Head On]]                                                                          | [[John Scalzi\|John Scalzi]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/Hello World\|Hello World]]                                                                      | [[Hannah Fry\|Hannah Fry]]                                                   | ★★★☆☆  |
+| [[01 CONSUME/Books/How the Word Is Passed\|How the Word Is Passed]]                                                           | [[Clint Smith\|Clint Smith]]                                                  | ★★★★☆  |
+| [[01 CONSUME/Books/How to Stop Worrying & Start Living\|How to Stop Worrying & Start Living]]                                              | [[Dale Carnegie\|Dale Carnegie]]                                                | ★★☆☆☆  |
+| [[01 CONSUME/Books/In the Plex\|In the Plex]]                                                                      | [[Steven Levy\|Steven Levy]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/In The Wake\|In the Wake]]                                                                      | [[Christina Sharpe\|Christina Sharpe]]                                             | ★★★★☆  |
+| [[01 CONSUME/Books/Kindred\|Kindred]]                                                                          | [[Octavia E. Butler\|Octavia E. Butler]]                                            | ★★★★☆  |
+| [[01 CONSUME/Books/King - A Life\|King - A Life]]                                                                    | [[Jonathan Eig\|Jonathan Eig]]                                                 | ★★★★☆  |
+| [[01 CONSUME/Books/Leaders - Myth and Reality\|Leaders - Myth and Reality]]                                                       | [[General Stanley McChrystal\|General Stanley McChrystal]], [[Jeff Eggers\|Jeff Eggers]], [[Jay Mangone\|Jay Mangone]] | ★★★☆☆  |
+| [[01 CONSUME/Books/Leonardo da Vinci\|Leonardo da Vinci]]                                                                | [[Walter Isaacson\|Walter Isaacson]]                                              | ★★★☆☆  |
+| [[01 CONSUME/Books/Leviathan Wakes\|Leviathan Wakes]]                                                                  | [[James S. A. Corey\|James S. A. Corey]]                                            | -      |
+| [[01 CONSUME/Books/Lock In\|Lock In]]                                                                          | [[John Scalzi\|John Scalzi]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/Mr. Watson's Chickens\|Mr. Watson's Chickens]]                                                            | [[Jarrett Dapier\|Jarrett Dapier]]                                               | -      |
+| [[01 CONSUME/Books/New York 2140\|New York 2140]]                                                                    | [[Kim Stanley Robinson\|Kim Stanley Robinson]]                                         | -      |
+| [[01 CONSUME/Books/Nexus\|Nexus]]                                                                            | [[Yuval Noah Harari\|Yuval Noah Harari]]                                            | ★★★★☆  |
+| [[01 CONSUME/Books/Nineteen Eighty-four\|Nineteen Eighty-four]]                                                             | [[George Orwell\|George Orwell]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/Old Man's War\|Old Man's War]]                                                                    | [[John Scalzi\|John Scalzi]]                                                  | -      |
+| [[01 CONSUME/Books/Otherland - City of Golden Shadow\|Otherland - City of Golden Shadow]]                                                | [[Tad Williams\|Tad Williams]]                                                 | -      |
+| [[01 CONSUME/Books/Project Hail Mary\|Project Hail Mary]]                                                                | [[Andy Weir\|Andy Weir]]                                                    | -      |
+| [[01 CONSUME/Books/Radical Technologies\|Radical Technologies]]                                                             | [[Adam Greenfield\|Adam Greenfield]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/Ratchetdemic\|Ratchetdemic]]                                                                     | [[Christopher Emdin\|Christopher Emdin]]                                            | -      |
+| [[01 CONSUME/Books/Ready Player One\|Ready Player One]]                                                                 | [[01 CONSUME/People/Ernest Cline\|Ernest Cline]]                                                 | ★★★★☆  |
+| [[01 CONSUME/Books/Ready Player Two\|Ready Player Two]]                                                                 | [[01 CONSUME/People/Ernest Cline\|Ernest Cline]]                                                 | -      |
+| [[01 CONSUME/Books/Red Mars\|Red Mars]]                                                                         | [[Kim Stanley Robinson\|Kim Stanley Robinson]]                                         | -      |
+| [[01 CONSUME/Books/Red Shirts\|Red Shirts]]                                                                       | [[John Scalzi\|John Scalzi]]                                                  | -      |
+| [[01 CONSUME/Books/Risk Forward\|Risk Forward]]                                                                     | [[Victoria Labalme\|Victoria Labalme]]                                             | ★★★☆☆  |
+| [[01 CONSUME/Books/Rogue Code\|Rogue Code]]                                                                       | [[Mark Russinovich\|Mark Russinovich]]                                             | -      |
+| [[01 CONSUME/Books/Sapiens\|Sapiens]]                                                                          | [[Yuval Noah Harari\|Yuval Noah Harari]]                                            | ★★★★★  |
+| [[01 CONSUME/Books/Seveneves\|Seveneves]]                                                                        | [[Neal Stephenson\|Neal Stephenson]]                                              | ★★★★★  |
+| [[01 CONSUME/Books/Shop Class as Soulcraft\|Shop Class as Soulcraft]]                                                          | [[Matthew B. Crawford\|Matthew B. Crawford]]                                          | ★★★★☆  |
+| [[01 CONSUME/Books/Start Here, Start Now\|Start Here, Start Now]]                                                            | [[Liz Kleinrock\|Liz Kleinrock]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/Superbetter\|SuperBetter]]                                                                      | [[Jane McGonigal\|Jane McGonigal]]                                               | ★★★☆☆  |
+| [[01 CONSUME/Books/Switch\|Switch]]                                                                           | [[Chip Heath\|Chip Heath]], [[Dan Heath\|Dan Heath]]                                    | ★★★☆☆  |
+| [[01 CONSUME/Books/Thank You for Being Late\|Thank You for Being Late]]                                                         | [[Thomas L. Friedman\|Thomas L. Friedman]]                                           | ★★★★☆  |
+| [[01 CONSUME/Books/The 4-Hour Work Week\|The 4-Hour Work Week]]                                                             | [[Timothy Ferriss\|Timothy Ferriss]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Almagest\|The Almagest]]                                                                     | [[Claudius Ptolemy\|Claudius Ptolemy]]                                             | -      |
+| [[01 CONSUME/Books/The Anxious Generation\|The Anxious Generation]]                                                           | [[Jonathan Haidt\|Jonathan Haidt]]                                               | ★★★☆☆  |
+| [[01 CONSUME/Books/The Art of Screen Time\|The Art of Screen Time]]                                                           | [[Anya Kamenetz\|Anya Kamenetz]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/The Atlas of AI\|The Atlas of AI]]                                                                  | [[01 CONSUME/People/Kate Crawford\|Kate Crawford]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/The Blade Itself\|The Blade Itself]]                                                                 | [[Joe Abercrombie\|Joe Abercrombie]]                                              | -      |
+| [[01 CONSUME/Books/The Cambridge Concise History of Astronomy\|The Cambridge Concise History of Astronomy]]                                       | [[Michael Hoskin\|Michael Hoskin]]                                               | -      |
+| [[01 CONSUME/Books/The Civically Engaged Classroom\|The Civically Engaged Classroom]]                                                  | [[Mary Ehrenworth\|Mary Ehrenworth]], [[Pablo Wolfe\|Pablo Wolfe]], [[Marc Todd\|Marc Todd]]              | -      |
+| [[01 CONSUME/Books/The Count of Monte Cristo\|The Count of Monte Cristo]]                                                        | [[01 CONSUME/People/Alexandre Dumas\|Alexandre Dumas]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Creative Act\|The Creative Act]]                                                                 | [[Rick Rubin\|Rick Rubin]]                                                   | ★★★★☆  |
+| [[01 CONSUME/Books/The End of All Things\|The End of All Things]]                                                            | [[John Scalzi\|John Scalzi]]                                                  | -      |
+| [[01 CONSUME/Books/The Fifth Season\|The Fifth Season]]                                                                 | [[N. K. Jemisin\|N. K. Jemisin]]                                                | ★★★☆☆  |
+| [[01 CONSUME/Books/The Ghost Brigades\|The Ghost Brigades]]                                                               | [[John Scalzi\|John Scalzi]]                                                  | -      |
+| [[01 CONSUME/Books/The Gifts of Imperfection\|The Gifts of Imperfection]]                                                        | [[Brené Brown\|Brené Brown]]                                                  | ★★★☆☆  |
+| [[01 CONSUME/Books/The Graveyard Book\|The Graveyard Book]]                                                               | [[Neil Gaiman\|Neil Gaiman]]                                                  | -      |
+| [[01 CONSUME/Books/The Handmaid's Tale\|The Handmaid's Tale]]                                                              | [[Margaret Atwood\|Margaret Atwood]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Human Division\|The Human Division]]                                                               | [[John Scalzi\|John Scalzi]]                                                  | -      |
+| [[01 CONSUME/Books/The Hunger Games\|The Hunger Games]]                                                                 | [[Suzanne Collins\|Suzanne Collins]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Information\|The Information]]                                                                  | [[James Gleick\|James Gleick]]                                                 | ★★★☆☆  |
+| [[01 CONSUME/Books/The Innovators\|The Innovators]]                                                                   | [[Walter Isaacson\|Walter Isaacson]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Jungle Book\|The Jungle Book]]                                                                  | [[Rudyard Kipling\|Rudyard Kipling]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Martian\|The Martian]]                                                                      | [[Andy Weir\|Andy Weir]]                                                    | ★★★★☆  |
+| [[01 CONSUME/Books/The Obstacle Is the Way\|The Obstacle Is the Way]]                                                          | [[Ryan Holiday\|Ryan Holiday]]                                                 | ★★★★☆  |
+| [[01 CONSUME/Books/The Peripheral\|The Peripheral]]                                                                   | [[William Gibson\|William Gibson]]                                               | ★★★☆☆  |
+| [[01 CONSUME/Books/The Road\|The Road]]                                                                         | [[Cormac McCarthy\|Cormac McCarthy]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/The Self-Driven Child\|The Self-Driven Child]]                                                            | [[William Stixrud\|William Stixrud]], [[Ned Johnson\|Ned Johnson]]                             | ★★★☆☆  |
+| [[01 CONSUME/Books/The Signal and the Noise\|The Signal and the Noise]]                                                         | [[Nate Silver\|Nate Silver]]                                                  | ★★★★☆  |
+| [[01 CONSUME/Books/The Source of Self-Regard\|The Source of Self-Regard]]                                                        | [[Toni Morrison\|Toni Morrison]]                                                | -      |
+| [[01 CONSUME/Books/The Sum of Us\|The Sum of Us]]                                                                    | [[Heather McGhee\|Heather McGhee]]                                               | ★★★★☆  |
+| [[01 CONSUME/Books/The Three-Body Problem\|The Three-Body Problem]]                                                           | [[Cixin Liu\|Cixin Liu]]                                                    | ★★★★★  |
+| [[01 CONSUME/Books/They Want to Kill Americans\|They Want to Kill Americans]]                                                      | [[Malcolm Nance\|Malcolm Nance]]                                                | ★★★★☆  |
+| [[01 CONSUME/Books/Thinking, Fast and Slow\|Thinking, Fast and Slow]]                                                          | [[Daniel Kahneman\|Daniel Kahneman]]                                              | ★★★☆☆  |
+| [[01 CONSUME/Books/Time Travel\|Time Travel]]                                                                      | [[James Gleick\|James Gleick]]                                                 | ★★★★☆  |
+| [[01 CONSUME/Books/Tomorrow, and Tomorrow, and Tomorrow\|Tomorrow, and Tomorrow, and Tomorrow]]                                             | [[Gabrielle Zevin\|Gabrielle Zevin]]                                              | ★★★☆☆  |
+| [[01 CONSUME/Books/Tribe\|Tribe]]                                                                            | [[Sebastian Junger\|Sebastian Junger]]                                             | ★★★★☆  |
+| [[01 CONSUME/Books/Twitter and Tear Gas\|Twitter and Tear Gas]]                                                             | [[Zeynep Tufekci\|Zeynep Tufekci]]                                               | ★★★★☆  |
+| [[01 CONSUME/Books/Unearthing Joy\|Unearthing Joy]]                                                                   | [[Gholdy Muhammad\|Gholdy Muhammad]]                                              | ★★★★☆  |
+| [[01 CONSUME/Books/Unfu%k Yourself\|Unfu%k Yourself]]                                                                  | [[Gary John Bishop\|Gary John Bishop]]                                             | ★★★★☆  |
+| [[01 CONSUME/Books/We Got This\|We Got This]]                                                                      | [[Cornelius Minor                                                | -      |
+| [[01 CONSUME/Books/Weapons of Math Destruction\|Weapons of Math Destruction]]                                                      | [[Cathy O'Neil\|Cathy O'Neil]]                                                 | ★★★★☆  |
+| [[01 CONSUME/Books/When Violence is the Answer\|When Violence is the Answer]]                                                      | [[Tim Larkin\|Tim Larkin]]                                                   | ★★★★☆  |
+| [[01 CONSUME/Books/Whiskey Tango Foxtrot\|Whiskey Tango Foxtrot]]                                                            | [[David Shafer\|David Shafer]]                                                 | ★★★☆☆  |
+| [[01 CONSUME/Books/White Fragility\|White Fragility]]                                                                  | [[Robin DiAngelo\|Robin DiAngelo]]                                               | ★★★★☆  |
+| [[01 CONSUME/Books/Why Don't Students Like School\|Why Don't Students Like School]]                                                   | [[Daniel T. Willingham\|Daniel T. Willingham]]                                         | ★★★☆☆  |
+| [[01 CONSUME/Books/Woken Furies\|Woken Furies]]                                                                     | [[Richard K. Morgan\|Richard K. Morgan]]                                            | ★★☆☆☆  |
