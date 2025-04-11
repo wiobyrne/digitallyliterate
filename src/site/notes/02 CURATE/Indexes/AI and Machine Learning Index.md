@@ -30,7 +30,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Clustering\|Clustering]] 🔹  
 - [[Generative Adversarial Network (GAN)\|Generative Adversarial Network (GAN)]] 🔸  
 - [[Transformer Model\|Transformer Model]] 🔹  
-- [[Large Language Model (LLM)\|Large Language Model (LLM)]] 🔹  
+- [[02 CURATE/Notes/Large Language Model (LLM)\|Large Language Model (LLM)]] 🔹  
 
 ## Training and Optimization  
 - [[02 CURATE/Notes/Deterministic Quoting\|Deterministic Quoting]] 🔸
@@ -39,7 +39,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Feature Engineering\|Feature Engineering]] 🔹  
 - [[Overfitting and Underfitting\|Overfitting and Underfitting]] 🔹  
 - [[Bias and Variance Tradeoff\|Bias and Variance Tradeoff]] 🔹  
-- [[Bias\|Bias]] 🔹  
+- [[02 CURATE/Notes/Bias\|Bias]] 🔹  
 - [[Loss Function\|Loss Function]] 🔸  
 - [[Backpropagation\|Backpropagation]] 🔸  
 - [[Gradient Descent\|Gradient Descent]] 🔸  
@@ -66,6 +66,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 
 ## Advanced Topics  
 - [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] 🔹  
+- [[02 CURATE/Notes/Multimodal Omnimodel Model\|Multimodal Omnimodel Model]] 🔸
 - [[Computer Vision\|Computer Vision]] 🔹  
 - [[Transfer Learning\|Transfer Learning]] 🔸  
 - [[Diffusion Models\|Diffusion Models]] 🔸  
