@@ -26,7 +26,6 @@ This collection represents my ongoing journey through various topics and genres.
 | [[01 CONSUME/Books/Ancillary Justice\|Ancillary Justice]]                                                                | [[Ann Leckie\|Ann Leckie]]                                                   | ★★★☆☆  |
 | [[01 CONSUME/Books/Annihilation\|Annihilation]]                                                                     | [[Jeff VanderMeer\|Jeff VanderMeer]]                                              | ★★★☆☆  |
 | [[01 CONSUME/Books/Anthem\|Anthem]]                                                                           | [[Noah Hawley\|Noah Hawley]]                                                  | ★★★★★  |
-| [[01 CONSUME/Books/Anthem\|Anthem]]                                                                           | [[Noah Hawley\|Noah Hawley]]                                                  | ★★★★★  |
 | [[01 CONSUME/Books/Anxiety\|Anxiety]]                                                                          | [[Samir Chopra\|Samir Chopra]]                                                 | ★★★☆☆  |
 | [[01 CONSUME/Books/Armada\|Armada]]                                                                           | [[01 CONSUME/People/Ernest Cline\|Ernest Cline]]                                                 | ★★★☆☆  |
 | [[01 CONSUME/Books/Aristotle's Nicomachean Ethics\|Aristotle's Nicomachean Ethics]]                                                   | [[Aristotle\|Aristotle]]                                                    | ★★★★☆  |
