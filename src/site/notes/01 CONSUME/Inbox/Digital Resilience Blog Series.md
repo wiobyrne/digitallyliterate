@@ -10,27 +10,6 @@ This proposal outlines a comprehensive 20-week blog series on digital resilience
 
 The series is designed with beginners in mind, gradually building their knowledge and skills through a mix of theoretical understanding and practical how-to guides. Drawing inspiration from Michael Bazzell's "Extreme Privacy" concepts but adapting them to be more accessible, this series will empower your readers to take control of their digital lives.
 
-## Key Terms and Concepts
-
-To ensure clarity throughout the series, we've defined several foundational terms that will be explored in depth:
-
-### Privacy
-Privacy refers to an individual's right to control their personal information and determine how it is collected, used, and shared. In the digital context, privacy involves the ability to navigate online spaces without unwanted surveillance, data collection, or exposure of personal details.
-
-### Security
-Security refers to the protection of digital systems, networks, and data from unauthorized access, damage, or theft. While privacy is about control over information sharing, security is about safeguarding that information from threats.
-
-### Encryption
-Encryption is a process that converts readable data (plaintext) into a scrambled format (ciphertext) that can only be decoded and read by someone with the correct decryption key. It's a fundamental security technique that protects information from being understood if intercepted.
-
-### Digital Resilience
-Digital resilience is the ability to anticipate, withstand, recover from, and adapt to adverse digital events, ranging from technical failures to deliberate attacks. It encompasses both technical capabilities and human behaviors that enable continued functioning in the face of digital challenges.
-
-### Threat Model
-A threat model is a personalized assessment of the potential risks to your privacy and security based on your specific situation, vulnerabilities, and the value of your information to potential adversaries.
-
-*Additional terms defined in the full key_terms.md document include Digital Footprint, Data Broker, End-to-End Encryption (E2EE), and Two-Factor Authentication (2FA).*
-
 ## Blog Series Outline
 
 ### Part 1: Foundations of Digital Resilience (Already Published)
