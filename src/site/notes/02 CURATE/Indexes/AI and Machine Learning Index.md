@@ -28,7 +28,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Support Vector Machine (SVM)\|Support Vector Machine (SVM)]] 🔸  
 - [[K-Means Clustering\|K-Means Clustering]] 🔹  
 - [[Clustering\|Clustering]] 🔹  
-- [[Generative Adversarial Network (GAN)\|Generative Adversarial Network (GAN)]] 🔸  
+- [[Generative Adversarial Network (GAN)\|Generative Adversarial Network (GAN)]]   
 - [[Transformer Model\|Transformer Model]] 🔹  
 - [[02 CURATE/Notes/Large Language Model (LLM)\|Large Language Model (LLM)]] 🔹  
 
@@ -45,6 +45,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Gradient Descent\|Gradient Descent]] 🔸  
 - [[Hyperparameters\|Hyperparameters]] 🔸  
 - [[Activation Function\|Activation Function]] 🔸  
+- [[02 CURATE/Notes/Chain of Thought Prompting\|Chain of Thought Prompting]]🔸
 
 ## Evaluation & Metrics  
 - [[Accuracy\|Accuracy]] 🔹  
@@ -67,8 +68,14 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 ## Advanced Topics  
 - [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] 🔹  
 - [[02 CURATE/Notes/Multimodal Omnimodel Model\|Multimodal Omnimodel Model]] 🔸
+- [[02 CURATE/Notes/Agentic AI\|Agentic AI]] 🔸
 - [[Computer Vision\|Computer Vision]] 🔹  
 - [[Transfer Learning\|Transfer Learning]] 🔸  
 - [[Diffusion Models\|Diffusion Models]] 🔸  
+- [[AutoGPT / AI Agents\|AutoGPT / AI Agents]] 🔸
+- [[Retrieval-Augmented Generation (RAG)\|Retrieval-Augmented Generation (RAG)]] 🔸
+- [[Memory in AI Systems\|Memory in AI Systems]] 🔸
+- [[Embodied AI\|Embodied AI]] 🔸
+- [[Open-ended Learning\|Open-ended Learning]] 🔸
 
 
