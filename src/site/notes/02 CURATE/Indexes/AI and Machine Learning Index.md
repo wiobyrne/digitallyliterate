@@ -58,6 +58,7 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[02 CURATE/Notes/Bias in AI\|Bias in AI]] 🔹  
 - [[Explainable AI (XAI)\|Explainable AI (XAI)]] 🔸  
 - [[Fairness\|Fairness]] 🔹  
+- [[02 CURATE/Notes/Interpretability\|Interpretability]]🔹
 - [[Hallucinations in AI\|Hallucinations in AI]] 🔹  
 
 ## Tools & Frameworks  
