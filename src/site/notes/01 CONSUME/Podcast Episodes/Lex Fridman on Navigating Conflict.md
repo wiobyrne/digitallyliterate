@@ -8,7 +8,7 @@
 
 [[Huberman Lab\|Huberman Lab]] hosted by [[Andrew Huberman\|Andrew Huberman]] - [[02 CURATE/Indexes/Podcast Index\|Podcast Index]]
 
-[[Lex Fridman\|Lex Fridman]], a renowned MIT research scientist and host of the [[Lex Fridman Podcast\|Lex Fridman Podcast]], shares his insights on navigating complex conversations in today's world. He discusses his experiences in war-torn Ukraine, emphasizing the shared human experience amidst conflict. They explore the evolving role of [[social media\|social media]] in science communication, capitalism, and purpose. Fridman also reflects on AI's potential, the challenges of [[peer review in academia\|peer review in academia]], and the dynamics of [[masculinity\|masculinity]] in public discourse, highlighting the importance of [[02 CURATE/Notes/Empathy\|empathy]] and [[constructive dialogue\|constructive dialogue]].
+[[Lex Fridman\|Lex Fridman]], a renowned MIT research scientist and host of the [[Lex Fridman Podcast\|Lex Fridman Podcast]], shares his insights on navigating complex conversations in today's world. He discusses his experiences in war-torn Ukraine, emphasizing the shared human experience amidst conflict. They explore the evolving role of [[02 CURATE/Notes/Social Media Visibility\|Social Media Visibility]] in science communication, capitalism, and purpose. Fridman also reflects on AI's potential, the challenges of [[peer review in academia\|peer review in academia]], and the dynamics of [[masculinity\|masculinity]] in public discourse, highlighting the importance of [[02 CURATE/Notes/Empathy\|empathy]] and [[constructive dialogue\|constructive dialogue]].
 
 
 ## Snips

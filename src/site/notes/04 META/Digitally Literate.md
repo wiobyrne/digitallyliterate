@@ -5,7 +5,7 @@
 
 # Digitally Literate
 
- 🌟 **Welcome!** I'm **Ian O’Byrne** – an educator, researcher, and lifelong learner focused on digital literacy, creativity, and education. While [my main blog lives here](https://wiobyrne.com/), this site (`digitallyliterate.net`) is my **digital garden**.
+ 🌟 **Welcome!** I'm **Ian O’Byrne** – an educator, researcher, and lifelong learner focused on digital literacy, creativity, and education. While [my main blog lives here](https://wiobyrne.com/), this site is my **digital garden**.
 
 This space evolved from my newsletter into a public notebook where I share and connect ideas in progress. It's less about polished articles and more about cultivating thoughts on topics I care about. 
 
@@ -26,11 +26,11 @@ Think of this as a network of interconnected notes rather than a linear publicat
 ## ✨ How This Garden Works
 
  **Understand the Growth:** Notes mature over time:
-- 🌱 **Seeds:** Raw ideas. initial thoughts and inspirations.
+- 🌱 **Seeds:** Raw ideas. Initial thoughts and inspirations.
 - 🌿 **Plants:** Developing concepts. Developed ideas with context and connections.
 - 🌲 **Evergreens:** More refined insights. Polished insights that are fully developed and refined thoughts.
 
-**Discover:** Use search or the graph view (if available) to find your own path.
+**Discover:** Use search or the graph view to find your own path.
 
 **Follow Connections:** Click on `[[wikilinks]]` within notes to jump between related ideas.
 

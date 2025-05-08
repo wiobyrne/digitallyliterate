@@ -25,7 +25,7 @@ Use the search bar at the top right to quickly find specific content, or explore
 
 ## Explore by Year
 
-- [[04 META/2024 Newsletters\|2024 Newsletters]]
+- [[2024 Newsletters\|2024 Newsletters]]
 - [[2023 Newsletters\|2023 Newsletters]]
 
 ---

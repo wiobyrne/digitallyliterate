@@ -8,7 +8,7 @@
 
 [[The Good Fight\|The Good Fight]] hosted by [[Yascha Mounk\|Yascha Mounk]] - [[02 CURATE/Indexes/Podcast Index\|Podcast Index]]
 
-In this enlightening discussion, [[Jonathan Haidt\|Jonathan Haidt]], a renowned Professor of ethical leadership at NYU's Stern School of Business and co-author of influential works on [[moral psychology\|moral psychology]], explores the troubling decline of [[public discourse\|public discourse]]. He highlights the toxic influence of [[social media\|social media]] and the rise of '[[structural stupidity\|structural stupidity]]' in American debate. Haidt advocates for systemic reforms to improve online interactions and empower moderates. He emphasizes [[personal responsibility\|personal responsibility]] and [[02 CURATE/Notes/Empathy\|empathy]] as crucial elements for nurturing [[constructive dialogue\|constructive dialogue]] in a [[fragmented society\|fragmented society]].
+In this enlightening discussion, [[Jonathan Haidt\|Jonathan Haidt]], a renowned Professor of ethical leadership at NYU's Stern School of Business and co-author of influential works on [[moral psychology\|moral psychology]], explores the troubling decline of [[public discourse\|public discourse]]. He highlights the toxic influence of [[02 CURATE/Notes/Social Media Visibility\|Social Media Visibility]] and the rise of '[[structural stupidity\|structural stupidity]]' in American debate. Haidt advocates for systemic reforms to improve online interactions and empower moderates. He emphasizes [[personal responsibility\|personal responsibility]] and [[02 CURATE/Notes/Empathy\|empathy]] as crucial elements for nurturing [[constructive dialogue\|constructive dialogue]] in a [[fragmented society\|fragmented society]].
 
 
 ## Snips

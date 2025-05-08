@@ -8,7 +8,7 @@
  
  [[02 CURATE/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[02 CURATE/Indexes/Podcast Index\|Podcast Index]]
  
- In this engaging conversation, [[Jonathan Haidt\|Jonathan Haidt]], a social psychologist from NYU, dives into the nuances of [[morality\|morality]] and the influence of [[social media\|social media]] on [[adolescent\|adolescent]] [[mental health\|mental health]]. He shares personal anecdotes illustrating his transformative experiences studying cultural morality in India. Haidt critiques ideologies in [[academia\|academia]] and promotes the idea of [[intellectual anti-fragility\|intellectual anti-fragility]]. The discussion also explores the importance of [[resilience\|resilience]] for Generation Z and the interplay of [[happiness\|happiness]] and religious engagement, providing valuable insights for navigating today's complex social landscape.
+ In this engaging conversation, [[Jonathan Haidt\|Jonathan Haidt]], a social psychologist from NYU, dives into the nuances of [[morality\|morality]] and the influence of [[02 CURATE/Notes/Social Media Visibility\|Social Media Visibility]] on [[adolescent\|adolescent]] [[mental health\|mental health]]. He shares personal anecdotes illustrating his transformative experiences studying cultural morality in India. Haidt critiques ideologies in [[academia\|academia]] and promotes the idea of [[intellectual anti-fragility\|intellectual anti-fragility]]. The discussion also explores the importance of [[resilience\|resilience]] for Generation Z and the interplay of [[happiness\|happiness]] and religious engagement, providing valuable insights for navigating today's complex social landscape.
 
 
 

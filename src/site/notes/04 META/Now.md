@@ -20,9 +20,8 @@ I'm primarily working on:
 - **Currently:** [[01 CONSUME/Books/Nexus\|Nexus]]. This is a really interesting deep dive into information, storytelling, AI, and narratives. Makes me think about [[01 CONSUME/Books/The Information\|The Information]].
 - **Recently Finished**: [[01 CONSUME/Books/The Anxious Generation\|The Anxious Generation]]. It raises valid concerns about overprotective parenting and lack of free play, but the research isn't particularly strong. While some use it to demonize technology, that's a superficial interpretation. 
 - **Recently Finished:** [[01 CONSUME/Books/King - A Life\|King - A Life]]. This serves as a powerful reminder that our current struggles for justice and humanity are part of a much longer historical continuum of resistance and hope.
-- **Up Next**: [Book Title]
 
-_See my [[02 CURATE/Indexes/Book Index\|02 CURATE/Indexes/Book Index]] index for more detailed reading notes._
+_See my [[02 CURATE/Indexes/Book Index Public\|Book Index Public]] index for more detailed reading notes._
 
 ## 🌱 Learning
 
@@ -30,13 +29,11 @@ Right now I'm learning about:
 
 - **Knowledge Management Systems**: Experimenting with new plugins and workflows in Obsidian
 - **Digital Garden Approaches**: Exploring different ways to organize and present interconnected ideas
-- **[Another Learning Area]**: Brief description...
 
 ## 📝 Projects
 
 - **Digital Garden**: Continuing to refine this space, recently adding this "Now" page
 - **Newsletter**: Curating resources for the next issue of [[02 CURATE/Indexes/Newsletter Index\|my newsletter]]
-- **[Other Project]**: Brief description...
 
 ## 💭 Current Thoughts
 
@@ -44,13 +41,12 @@ A few things on my mind lately:
 
 - How might we better scaffold digital literacy development across educational contexts?
 - The relationship between creativity and structured knowledge management
-- [Another thought area]
 
 ## 🔄 Routine
 
 - Writing each morning
-- Teaching [courses/workshops]
-- Weekly research sessions on [topic]
+- Teaching STEAM Courses
+- Weekly research sessions on [[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
 - Building connections between ideas in this digital garden
 
 ---
