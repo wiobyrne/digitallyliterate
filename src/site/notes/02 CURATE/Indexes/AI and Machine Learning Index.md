@@ -5,9 +5,33 @@
 
 # AI and Machine Learning Index
 
-Here’s an AI and Machine Learning Glossary formatted in Markdown, with 🔹 for beginner (need to know) and 🔸 for advanced (nice to know) terms.
+Welcome! This is a living, evolving glossary of key terms and concepts in Artificial Intelligence (AI) and Machine Learning (ML), designed to support accessible learning and deeper exploration.
 
-This glossary aims to explain the concepts below in a simple, easy-to-understand way, even for someone new to the field. Each term includes a definition, an "Explain Like I'm Five" section, and links for further learning.
+Each entry includes:
+
+- A clear, beginner-friendly definition
+    
+- An “Explain Like I’m Five” (ELI5) explanation
+    
+- Links for further learning and context (when available)
+    
+
+> **🔹** = Essential / beginner-friendly  
+> **🔸** = Advanced / nice-to-know
+
+---
+
+### 📚 How this Index is Organized
+
+Rather than listing terms alphabetically, this glossary is organized **by conceptual flow** to support progressive learning. Terms are grouped into sections like _Core Concepts_, _Training & Optimization_, and _Ethics & Challenges_, and arranged to build understanding step-by-step from foundational ideas to more advanced or emerging topics.
+
+You’re encouraged to explore based on your needs, interests, or learning goals.
+
+---
+
+### 🔄 This is a Living Document
+
+This index is updated regularly as new tools, models, and ideas emerge in the rapidly changing world of AI. Check back often for new entries, refinements, and improved explanations.
 
 ## Core Concepts  
 - [[02 CURATE/Notes/Artificial Intelligence\|Artificial Intelligence]] 🔹  
@@ -18,6 +42,10 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[02 CURATE/Notes/Deep Learning\|Deep Learning]] 🔹  
 - [[02 CURATE/Notes/Neural Networks\|Neural Networks]] 🔹  
 - [[02 CURATE/Notes/Algorithm\|Algorithm]] 🔹  
+- [[Autonomous Systems\|Autonomous Systems]] 🔸
+- [[Generative AI (GenAI)\|Generative AI (GenAI)]] 🔹
+- [[Inference\|Inference]] 🔸
+- [[Model Fine-tuning\|Model Fine-tuning]] 🔸
 
 ## Common Algorithms & Models  
 - [[Linear Regression\|Linear Regression]] 🔹  
@@ -31,6 +59,8 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Generative Adversarial Network (GAN)\|Generative Adversarial Network (GAN)]]   
 - [[Transformer Model\|Transformer Model]] 🔹  
 - [[02 CURATE/Notes/Large Language Model (LLM)\|Large Language Model (LLM)]] 🔹  
+- [[Convolutional Neural Network (CNN)\|Convolutional Neural Network (CNN)]] 🔸
+- [[Generative Pre-trained Transformer (GPT)\|Generative Pre-trained Transformer (GPT)]] 🔹
 
 ## Training and Optimization  
 - [[02 CURATE/Notes/Deterministic Quoting\|Deterministic Quoting]] 🔸
@@ -46,10 +76,15 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Hyperparameters\|Hyperparameters]] 🔸  
 - [[Activation Function\|Activation Function]] 🔸  
 - [[02 CURATE/Notes/Chain of Thought Prompting\|Chain of Thought Prompting]]🔸
+- [[Feature Extraction\|Feature Extraction]] 🔸
+- [[Regularization\|Regularization]] 🔸
+- [[Latent Variables\|Latent Variables]] 🔸
+- [[Heuristics\|Heuristics]] 🔸
 
 ## Evaluation & Metrics  
 - [[Accuracy\|Accuracy]] 🔹  
 - [[Precision & Recall\|Precision & Recall]] 🔹  
+- [[Recall\|Recall]] 🔹
 - [[F1 Score\|F1 Score]] 🔹  
 - [[Confusion Matrix\|Confusion Matrix]] 🔸  
 - [[ROC-AUC Curve\|ROC-AUC Curve]] 🔸  
@@ -60,10 +95,12 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Fairness\|Fairness]] 🔹  
 - [[02 CURATE/Notes/Interpretability\|Interpretability]]🔹
 - [[Hallucinations in AI\|Hallucinations in AI]] 🔹  
+- [[Ethics in AI\|Ethics in AI]] 🔹
 
 ## Tools & Frameworks  
 - [[TensorFlow\|TensorFlow]] 🔸  
 - [[PyTorch\|PyTorch]] 🔸  
+- [[Ethics in AI\|Ethics in AI]] 🔹
 - [[Scikit-learn\|Scikit-learn]] 🔸  
 
 ## Advanced Topics  
@@ -79,4 +116,9 @@ This glossary aims to explain the concepts below in a simple, easy-to-understand
 - [[Embodied AI\|Embodied AI]] 🔸
 - [[Open-ended Learning\|Open-ended Learning]] 🔸
 
+## Applications
 
+- [[Chatbot\|Chatbot]] 🔹
+- [[Data Mining\|Data Mining]] 🔸
+- [[Chatbot\|Chatbot]] 🔹
+- [[Computer Vision\|Computer Vision]] 🔹

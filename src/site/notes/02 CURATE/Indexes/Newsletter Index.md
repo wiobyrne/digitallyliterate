@@ -14,10 +14,10 @@ Use the search bar at the top right to quickly find specific content, or explore
 | Issue                                      | Title                      | Tags                                                                                                                                                           |
 | ------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[03 CREATE/Newsletter/DL 273\|DL 273]] | Shocked, but not surprised | <ul><li>technology</li><li>social-media</li><li>education</li><li>misinformation</li><li>politics</li></ul>                                                    |
-| [[03 CREATE/Newsletter/DL 299\|DL 299]] | Digital Robber Barons      | <ul><li>bodycams</li><li>education</li><li>feedback</li><li>pandemic</li><li>spyware</li><li>surveillance</li><li>tech</li></ul>                               |
 | [[03 CREATE/Newsletter/DL 300\|DL 300]] | A Digital Master Key       | <ul><li>amazon</li><li>big-data</li><li>breathing</li><li>consciousness</li><li>deepfake</li><li>facebook</li><li>facial-recognition</li><li>privacy</li></ul> |
-| [[03 CREATE/Newsletter/DL 301\|DL 301]] | Watching Robots            | <ul><li>culture</li><li>parenting</li><li>propaganda</li><li>robots</li></ul>                                                                                  |
+| [[03 CREATE/Newsletter/DL 299\|DL 299]] | Digital Robber Barons      | <ul><li>bodycams</li><li>education</li><li>feedback</li><li>pandemic</li><li>spyware</li><li>surveillance</li><li>tech</li></ul>                               |
 | [[03 CREATE/Newsletter/DL 302\|DL 302]] | Tolerance for Discomfort   | <ul><li>cancel-culture</li></ul>                                                                                                                               |
+| [[03 CREATE/Newsletter/DL 301\|DL 301]] | Watching Robots            | <ul><li>culture</li><li>parenting</li><li>propaganda</li><li>robots</li></ul>                                                                                  |
 
 { .block-language-dataview}
 
