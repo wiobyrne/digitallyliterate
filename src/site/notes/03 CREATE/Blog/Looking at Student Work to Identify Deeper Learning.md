@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/looking-at-student-work-to-identify-deeper-learning/","title":"Looking at Student Work to Identify Deeper Learning","tags":["deeper-learning"]}
+{"dg-publish":true,"permalink":"/03-create/blog/looking-at-student-work-to-identify-deeper-learning/","title":"Looking at Student Work to Identify Deeper Learning","tags":["deep-learning"]}
 ---
 
 # Looking at Student Work to Identify Deeper Learning

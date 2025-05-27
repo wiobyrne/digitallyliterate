@@ -43,5 +43,5 @@ These models are at the cutting edge of AI research, aiming to create systems th
 ## **Related Terms**  
 - "[[02 CURATE/Notes/Deep Learning\|Deep Learning]]"
 - "[[Multimodal Learning\|Multimodal Learning]]"
-- "[[02 CURATE/Notes/Artificial Intelligence\|Artificial Intelligence]]"
+- "[[02 CURATE/Notes/Artificial Intelligence\|02 CURATE/Notes/Artificial Intelligence]]"
 - [[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]

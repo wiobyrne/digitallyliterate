@@ -35,6 +35,6 @@ In-depth technical resource: [Deep Learning Book](http://www.deeplearningbook.or
 ## **Related Terms**  
 - [[Artificial Neural Networks\|Artificial Neural Networks]]
 - [[02 CURATE/Notes/Machine Learning\|Machine Learning]]
-- [[02 CURATE/Notes/Artificial Intelligence\|Artificial Intelligence]]
+- [[02 CURATE/Notes/Artificial Intelligence\|02 CURATE/Notes/Artificial Intelligence]]
 
 [[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]

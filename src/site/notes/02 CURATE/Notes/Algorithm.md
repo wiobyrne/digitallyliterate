@@ -34,7 +34,7 @@ In computing and mathematics, an algorithm is like a recipe that precisely defin
 
 ## **Related Terms**  
 - [[02 CURATE/Notes/Machine Learning\|Machine Learning]]
-- [[02 CURATE/Notes/Artificial Intelligence\|Artificial Intelligence]]
+- [[02 CURATE/Notes/Artificial Intelligence\|02 CURATE/Notes/Artificial Intelligence]]
 - [[Data Analysis\|Data Analysis]]
 - [[Coding\|Coding]]
 - [[Computational Thinking\|Computational Thinking]]

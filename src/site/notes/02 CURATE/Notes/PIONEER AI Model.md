@@ -24,5 +24,5 @@ The PIONEER acronym summarizes the initial lessons learned during the implementa
 These seven PIONEER lessons learned from the Edo State pilot offer valuable insights into the future of AI in education, particularly in resource-constrained environment. As we consider scaling this approach, generative AI shows promise in democratizing personalized learning. However, success depends on active educator involvement, supportive infrastructure, continuous monitoring, and evaluation. The program's low cost and tailored design make it easier to scale than subscription-based software, but measuring its impact is crucial first. Stay tuned for the next blog to see the results!
 
 
-[[01 CONSUME/Articles/From chalkboards to chatbots in Nigeria\|From chalkboards to chatbots in Nigeria]]
-[[01 CONSUME/Articles/From chalkboards to chatbots in Nigeria 7 lessons to pioneer generative AI for education 1\|From chalkboards to chatbots in Nigeria 7 lessons to pioneer generative AI for education 1]]
+[[01 CONSUME/Web Clippings/From chalkboards to chatbots in Nigeria\|From chalkboards to chatbots in Nigeria]]
+[[01 CONSUME/Web Clippings/From chalkboards to chatbots in Nigeria 7 lessons to pioneer generative AI for education 1\|From chalkboards to chatbots in Nigeria 7 lessons to pioneer generative AI for education 1]]

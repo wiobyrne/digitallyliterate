@@ -27,10 +27,10 @@ Use the search bar at the top right to quickly find specific content, or explore
 | Title                                                                                                                                                      | Tags                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [[03 CREATE/Blog/AI Coders\|AI Coders]]                                                                                                                 | <ul><li>ai</li><li>coding</li></ul>                        |
+| [[03 CREATE/Blog/Balancing the Scale\|Balancing the Scale]]                                                                                             | <ul><li>ai</li><li>risk</li><li>benefit</li></ul>          |
 | [[03 CREATE/Blog/Beyond the Curriculum The Urgent Call for Mental Health Education\|Beyond the Curriculum The Urgent Call for Mental Health Education]] | <ul><li>education</li><li>mental-health</li></ul>          |
 | [[03 CREATE/Blog/Blog post re defining safety and play in a digital world\|Blog post re defining safety and play in a digital world]]                   | \-                                                         |
 | [[03 CREATE/Blog/Bots, Trolls, and the Future Why Kids Should Lead the Way\|Bots, Trolls, and the Future Why Kids Should Lead the Way]]                 | <ul><li>education</li><li>advocacy</li><li>youth</li></ul> |
-| [[03 CREATE/Blog/Collaboration vs. Cooperation\|Collaboration vs. Cooperation]]                                                                         | <ul><li>collaboration</li><li>cooperation</li></ul>        |
 
 { .block-language-dataview}
 ---

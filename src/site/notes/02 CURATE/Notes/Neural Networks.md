@@ -13,7 +13,7 @@ Imagine you're trying to make a really complicated decision, like what you want 
 ## **Visualization**  
 ![neural network.webp](/img/user/04%20META/Assets/neural%20network.webp)
 ![neural network 2.webp](/img/user/04%20META/Assets/neural%20network%202.webp)
-Graphic Source: [[01 CONSUME/Articles/Understanding the Structure of Neural Networks\|Understanding the Structure of Neural Networks]]
+Graphic Source: [[01 CONSUME/Web Clippings/Understanding the Structure of Neural Networks\|Understanding the Structure of Neural Networks]]
 ## **Digging Deeper**
 Neural networks are inspired by the biological function of neurons in the human brain. They consist of layers: an input layer where data is fed into the network, one or multiple hidden layers where computations are performed, and an output layer where results are produced.
 
@@ -38,7 +38,7 @@ Training a neural network involves adjusting these weights based on error rates 
 
 ## **Related Terms**  
 - [[02 CURATE/Notes/Deep Learning\|Deep Learning]]
-- [[02 CURATE/Notes/Artificial Intelligence\|Artificial Intelligence]]
+- [[02 CURATE/Notes/Artificial Intelligence\|02 CURATE/Notes/Artificial Intelligence]]
 - [[02 CURATE/Notes/Machine Learning\|Machine Learning]] 
 
 [[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]

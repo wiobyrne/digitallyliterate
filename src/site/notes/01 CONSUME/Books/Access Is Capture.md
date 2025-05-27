@@ -47,4 +47,4 @@ Roderic N Crooks is a renowned scholar in the field of technology ethics and inf
   - ["Dataclysm: Who We Are (When We Think No One's Looking)" by Christian Rudder](https://www.goodreads.com/book/show/20821616-dataclysm)
 
 
-- [[01 CONSUME/Articles/Executive Disorder\|Executive Disorder]]
+- [[01 CONSUME/Web Clippings/Executive Disorder\|Executive Disorder]]

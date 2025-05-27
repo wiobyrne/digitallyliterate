@@ -18,11 +18,11 @@ _(Three-stage diagram showing: 1) Happy users on a quality platform, 2) Platform
 
 ChatGPT struggling to knock this one out. :) 
 
-![Enshittification.png](/img/user/04%20META/Attachments%20/Enshittification.png)
+![Enshittification.png](/img/user/04%20META/Assets/Enshittification.png)
 
 Here's the final output:
 
-![Enshittification-1.png](/img/user/04%20META/Attachments%20/Enshittification-1.png)
+![Enshittification-1.png](/img/user/04%20META/Assets/Enshittification-1.png)
 ## **Digging Deeper**
 
 Coined by writer Cory Doctorow in 2022, enshittification describes a three-phase process:

@@ -7,7 +7,7 @@
 This idea is taken from the link below:
 *Modern AI occupies a middle ground – systems that process information in ways that are neither simple mimicry nor human-like understanding. They've developed internal representations and processing capabilities that allow them to break down complex problems into logical steps, generate coherent extended narratives spanning thousands of words, simulate physical systems with reasonable fidelity, learn from just a few examples, plan multiple steps ahead toward specific goals and even verify their own reasoning through various self-checking mechanisms.*
 
-[[01 CONSUME/Articles/More than "Just a Next-Token Predictor"\|More than "Just a Next-Token Predictor"]]
+[[01 CONSUME/Web Clippings/More than "Just a Next-Token Predictor"\|More than "Just a Next-Token Predictor"]]
 
 
 ## Overview

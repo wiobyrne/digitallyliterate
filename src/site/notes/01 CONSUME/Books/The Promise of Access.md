@@ -42,4 +42,4 @@ Daniel Greene is a renowned scholar specializing in technology studies with a fo
 
 ## Further Reading
 
-[[01 CONSUME/Articles/Executive Disorder\|Executive Disorder]]
+[[01 CONSUME/Web Clippings/Executive Disorder\|Executive Disorder]]
