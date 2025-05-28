@@ -35,5 +35,5 @@ Everyone has bias. That’s not the problem — unexamined bias is. The goal her
 - [[Fairness\|Fairness]]
 - [[Ethical AI\|Ethical AI]]
 - [[Data Preprocessing\|Data Preprocessing]]
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]
 

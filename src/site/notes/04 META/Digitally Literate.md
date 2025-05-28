@@ -18,7 +18,7 @@ Think of this as a network of interconnected notes rather than a linear publicat
 * **Start Here:** Check out these key areas:
     * 📰 [[02 CURATE/Indexes/Newsletter Index\|Newsletter Index]] – Past thoughts and curated resources.
     * 📝 [[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]] – Longer reflections within the garden.
-    * 🤖 [[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]] - A simple AI/ML Glossary
+    * 🤖 [[02 CURATE/Indexes/AI Index\|AI Index]] - A simple AI/ML Glossary
     * 📚 [[02 CURATE/Indexes/Book Index Public\|Book Index Public]] – Highlights from my reading.
     * 🎓 [[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]] – Course resources.
 

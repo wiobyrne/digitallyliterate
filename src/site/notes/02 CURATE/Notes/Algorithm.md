@@ -42,4 +42,4 @@ In computing and mathematics, an algorithm is like a recipe that precisely defin
 - [[02 CURATE/Notes/Algorithm Characteristics and Properties\|Algorithm Characteristics and Properties]]
 
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

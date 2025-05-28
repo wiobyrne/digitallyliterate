@@ -68,4 +68,4 @@ On the other hand, a **property** of an algorithm typically describes a speci
 - [[02 CURATE/Notes/Algorithm\|Algorithm]]
 - [[02 CURATE/Notes/Algorithm Types\|Algorithm Types]]
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

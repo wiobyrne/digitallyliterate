@@ -41,4 +41,4 @@ Examples of machine learning include email filtering, detection of network intru
 - [[02 CURATE/Notes/Supervised Learning\|Supervised Learning]]
 - [[02 CURATE/Notes/Unsupervised Learning\|Unsupervised Learning]]
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

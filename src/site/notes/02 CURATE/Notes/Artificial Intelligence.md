@@ -39,4 +39,4 @@ Artificial Intelligence (AI) involves programming computers to perform tasks usu
 - [[02 CURATE/Notes/Deep Learning\|Deep Learning]]
 - [[02 CURATE/Notes/Neural Networks\|Neural Networks]]
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

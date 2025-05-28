@@ -31,4 +31,4 @@ that is, in understanding the inner workings of AI systems— *before* models re
 - [[Feature Importance\|Feature Importance]]
 - [[Attention Mechanisms\|Attention Mechanisms]]
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

@@ -34,4 +34,4 @@ Agentic AI is built on the concept of autonomy, where machines are programmed to
 - [[Intelligent Agents\|Intelligent Agents]]
 
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

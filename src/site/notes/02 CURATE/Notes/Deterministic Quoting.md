@@ -36,4 +36,4 @@ In-depth technical resource: [A Primer on Neural Network Models for Natural Lang
 - [[02 CURATE/Notes/Machine Learning\|Machine Learning]]
 - [[Text Generation\|Text Generation]]
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

@@ -39,4 +39,4 @@ Chain of thought prompting is used in AI systems to guide their decision-making 
 - "[[Decision Trees\|Decision Trees]]"
 - "[[Machine Learning Algorithms\|Machine Learning Algorithms]]"
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]

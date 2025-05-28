@@ -41,6 +41,6 @@ Training a neural network involves adjusting these weights based on error rates 
 - [[02 CURATE/Notes/Artificial Intelligence\|02 CURATE/Notes/Artificial Intelligence]]
 - [[02 CURATE/Notes/Machine Learning\|Machine Learning]] 
 
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]
 
 

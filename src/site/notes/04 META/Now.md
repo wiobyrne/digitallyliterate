@@ -46,7 +46,7 @@ A few things on my mind lately:
 
 - Writing each morning
 - Teaching STEAM Courses
-- Weekly research sessions on [[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+- Weekly research sessions on [[02 CURATE/Indexes/AI Index\|AI Index]]
 - Building connections between ideas in this digital garden
 
 ---

@@ -44,4 +44,4 @@ Even if an LLM says it’s “neutral,” it’s still operating within a framew
 - [[02 CURATE/Notes/Deep Learning\|Deep Learning]]
 - [[Natural Language Processing\|Natural Language Processing]]
 - [[Chatbot\|Chatbot]]
-[[02 CURATE/Indexes/AI and Machine Learning Index\|AI and Machine Learning Index]]
+[[02 CURATE/Indexes/AI Index\|AI Index]]
