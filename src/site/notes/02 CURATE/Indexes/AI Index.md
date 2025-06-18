@@ -42,8 +42,8 @@ This index is updated regularly as new tools, models, and ideas emerge in the ra
 - [[02 CURATE/Notes/Deep Learning\|Deep Learning]] 🔹  
 - [[02 CURATE/Notes/Neural Networks\|Neural Networks]] 🔹  
 - [[02 CURATE/Notes/Algorithm\|Algorithm]] 🔹  
-- [[Autonomous Systems\|Autonomous Systems]] 🔸
-- [[Generative AI (GenAI)\|Generative AI (GenAI)]] 🔹
+- [[02 CURATE/Notes/Autonomous Systems\|Autonomous Systems]] 🔸
+- [[02 CURATE/Notes/Generative AI\|Generative AI]] 🔹
 - [[Inference\|Inference]] 🔸
 - [[Model Fine-tuning\|Model Fine-tuning]] 🔸
 
@@ -70,6 +70,7 @@ This index is updated regularly as new tools, models, and ideas emerge in the ra
 - [[Overfitting and Underfitting\|Overfitting and Underfitting]] 🔹  
 - [[Bias and Variance Tradeoff\|Bias and Variance Tradeoff]] 🔹  
 - [[02 CURATE/Notes/Bias\|Bias]] 🔹  
+- [[02 CURATE/Notes/Knowledge Cutoffs\|Knowledge Cutoffs]] 🔹
 - [[Loss Function\|Loss Function]] 🔸  
 - [[Backpropagation\|Backpropagation]] 🔸  
 - [[Gradient Descent\|Gradient Descent]] 🔸  

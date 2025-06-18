@@ -30,7 +30,7 @@ Agentic AI is built on the concept of autonomy, where machines are programmed to
 
 ## **Related Terms**  
 - [[02 CURATE/Notes/Reinforcement Learning\|Reinforcement Learning]]
-- [[Autonomous Systems\|Autonomous Systems]]
+- [[02 CURATE/Notes/Autonomous Systems\|Autonomous Systems]]
 - [[Intelligent Agents\|Intelligent Agents]]
 
 
