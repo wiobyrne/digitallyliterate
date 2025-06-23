@@ -112,7 +112,7 @@ This index is updated regularly as new tools, models, and ideas emerge in the ra
 - [[Transfer Learning\|Transfer Learning]] 🔸  
 - [[Diffusion Models\|Diffusion Models]] 🔸  
 - [[AutoGPT / AI Agents\|AutoGPT / AI Agents]] 🔸
-- [[Retrieval-Augmented Generation (RAG)\|Retrieval-Augmented Generation (RAG)]] 🔸
+- [[02 CURATE/Notes/Retrieval-Augmented Generation (RAG)\|Retrieval-Augmented Generation (RAG)]] 🔸
 - [[Memory in AI Systems\|Memory in AI Systems]] 🔸
 - [[Embodied AI\|Embodied AI]] 🔸
 - [[Open-ended Learning\|Open-ended Learning]] 🔸
