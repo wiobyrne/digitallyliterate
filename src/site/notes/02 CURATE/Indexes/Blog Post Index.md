@@ -13,13 +13,13 @@ Use the search bar at the top right to quickly find specific content, or explore
 ## Recent Blog Posts
 
 ### Last 5 Published Posts
-| Title                                                                                                                                                                                                        | Tags                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| [[03 CREATE/Blog/A Device Agnostic Policy that Allows for Ubiquitous Access to My Content\|A Device Agnostic Policy that Allows for Ubiquitous Access to My Content]]                                     | <ul><li>workflow</li><li>google-apps</li><li>evernote</li></ul>                                    |
-| [[03 CREATE/Blog/A Domain of WithKnown\|A Domain of WithKnown]]                                                                                                                                           | <ul><li>domain-of-ones-own</li><li>social-networking</li><li>blog-post</li><li>education</li></ul> |
-| [[03 CREATE/Blog/A Haiku for Week Eight of the WALKMYWORLD Project\|A Haiku for Week Eight of the WALKMYWORLD Project]]                                                                                   | <ul><li>walkmyworld</li><li>blog-post</li><li>education</li></ul>                                  |
-| [[03 CREATE/Blog/A Look in the Mirror - Learning Event Seven WalkMyWorld 2015\|A Look in the Mirror - Learning Event Seven WalkMyWorld 2015]]                                                             | <ul><li>walkmyworld</li><li>blog-post</li><li>education</li></ul>                                  |
-| [[03 CREATE/Blog/A New Hope - Negotiating the Integration of Transmedia Storytelling & Literacy Instruction\|A New Hope - Negotiating the Integration of Transmedia Storytelling & Literacy Instruction]] | <ul><li>jaal</li><li>online-content-construction</li><li>blog-post</li></ul>                       |
+| Title                                                                                                                                                                    | Tags                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [[03 CREATE/Blog/A Device Agnostic Policy that Allows for Ubiquitous Access to My Content\|A Device Agnostic Policy that Allows for Ubiquitous Access to My Content]] | <ul><li>workflow</li><li>google-apps</li><li>evernote</li></ul>                                    |
+| [[03 CREATE/Blog/A Domain of WithKnown\|A Domain of WithKnown]]                                                                                                       | <ul><li>domain-of-ones-own</li><li>social-networking</li><li>blog-post</li><li>education</li></ul> |
+| [[03 CREATE/Blog/A Haiku for Week Eight of the WALKMYWORLD Project\|A Haiku for Week Eight of the WALKMYWORLD Project]]                                               | <ul><li>walkmyworld</li><li>blog-post</li><li>education</li></ul>                                  |
+| [[03 CREATE/Blog/A Look in the Mirror - Learning Event Seven WalkMyWorld 2015\|A Look in the Mirror - Learning Event Seven WalkMyWorld 2015]]                         | <ul><li>walkmyworld</li><li>blog-post</li><li>education</li></ul>                                  |
+| [[03 CREATE/Blog/A Response to My Earlier Thoughts on Raising a Digital Native\|A Response to My Earlier Thoughts on Raising a Digital Native]]                       | <ul><li>identity</li><li>technology</li><li>blog-post</li></ul>                                    |
 
 { .block-language-dataview}
 
@@ -28,8 +28,8 @@ Use the search bar at the top right to quickly find specific content, or explore
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
 | [[03 CREATE/Blog/AI Coders\|AI Coders]]                                                                                                                 | <ul><li>ai</li><li>coding</li></ul>                        |
 | [[03 CREATE/Blog/Balancing the Scale\|Balancing the Scale]]                                                                                             | <ul><li>ai</li><li>risk</li><li>benefit</li></ul>          |
-| [[03 CREATE/Blog/Beyond the Curriculum The Urgent Call for Mental Health Education\|Beyond the Curriculum The Urgent Call for Mental Health Education]] | <ul><li>education</li><li>mental-health</li></ul>          |
 | [[03 CREATE/Blog/Blog post re defining safety and play in a digital world\|Blog post re defining safety and play in a digital world]]                   | \-                                                         |
+| [[03 CREATE/Blog/Beyond the Curriculum The Urgent Call for Mental Health Education\|Beyond the Curriculum The Urgent Call for Mental Health Education]] | <ul><li>education</li><li>mental-health</li></ul>          |
 | [[03 CREATE/Blog/Bots, Trolls, and the Future Why Kids Should Lead the Way\|Bots, Trolls, and the Future Why Kids Should Lead the Way]]                 | <ul><li>education</li><li>advocacy</li><li>youth</li></ul> |
 
 { .block-language-dataview}
