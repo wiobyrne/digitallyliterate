@@ -5,7 +5,7 @@
 
 # LE7
 
-![DLE_LE7.png](/img/user/04%20META/Assets/DLE_LE7.png)
+![DLE_LE7.png](/img/user/04%20META/%F0%9F%94%97%20Assets/DLE_LE7.png)
 
 ## Welcome to Learning Event 7 🎯
 

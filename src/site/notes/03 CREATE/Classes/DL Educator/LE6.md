@@ -5,7 +5,7 @@
 
 # LE6
 
-![DLE_LE6.jpg](/img/user/04%20META/Assets/DLE_LE6.jpg)
+![DLE_LE6.jpg](/img/user/04%20META/%F0%9F%94%97%20Assets/DLE_LE6.jpg)
 
 ## Welcome to Learning Event 6 (#LE6) 🎯
 

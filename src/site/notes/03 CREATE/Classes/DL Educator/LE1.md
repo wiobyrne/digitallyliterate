@@ -5,7 +5,7 @@
 
 # LE1
 
-![DLE_LE1.jpg](/img/user/04%20META/Assets/DLE_LE1.jpg)
+![DLE_LE1.jpg](/img/user/04%20META/%F0%9F%94%97%20Assets/DLE_LE1.jpg)
 
 ## Welcome to Learning Event 1 🎯
 

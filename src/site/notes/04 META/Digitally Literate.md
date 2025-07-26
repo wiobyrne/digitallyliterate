@@ -9,17 +9,17 @@
 
 This space evolved from my newsletter into a public notebook where I share and connect ideas in progress. It's less about polished articles and more about cultivating thoughts on topics I care about. 
 
-If you're interested, you can see what I'm up to [[04 META/Now\|Now]].
+If you're interested, you can see what I'm up to [[04 META/About Me/Now\|Now]].
 
 ## 🧭 Exploring the Garden
 
 Think of this as a network of interconnected notes rather than a linear publication. Here's how you can navigate:
 
 * **Start Here:** Check out these key areas:
-    * 📰 [[02 CURATE/Indexes/Newsletter Index\|Newsletter Index]] – Past thoughts and curated resources.
-    * 📝 [[02 CURATE/Indexes/Blog Post Index\|Blog Post Index]] – Longer reflections within the garden.
-    * 🤖 [[02 CURATE/Indexes/AI Index\|AI Index]] - A simple AI/ML Glossary
-    * 📚 [[02 CURATE/Indexes/Book Index Public\|Book Index Public]] – Highlights from my reading.
+    * 📰 [[02 DEVELOP/🗂️ MOCs/Newsletter Index\|Newsletter Index]] – Past thoughts and curated resources.
+    * 📝 [[02 DEVELOP/🗂️ MOCs/Blog Post Index\|Blog Post Index]] – Longer reflections within the garden.
+    * 🤖 [[AI Index\|AI Index]] - A simple AI/ML Glossary
+    * 📚 [[02 DEVELOP/🗂️ MOCs/Book Index Public\|Book Index Public]] – Highlights from my reading.
     * 🎓 [[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]] – Course resources.
 
 
@@ -38,6 +38,6 @@ Think of this as a network of interconnected notes rather than a linear publicat
 
 ## 🛠️ About This Site
 
-This garden is tended using [Obsidian](https://obsidian.md/) for personal knowledge management and published via the Digital Garden plugin, GitHub, and Netlify. Curious about the setup? See the [[04 META/Guide\|Guide]].
+This garden is tended using [Obsidian](https://obsidian.md/) for personal knowledge management and published via the Digital Garden plugin, GitHub, and Netlify. Curious about the setup? See the [[04 META/Digital Garden Guide\|Digital Garden Guide]].
 
 Feel free to wander and explore! You can learn more [[04 META/About Me/About Me\|About Me]] as well.
