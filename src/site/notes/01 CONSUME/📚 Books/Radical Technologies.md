@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=g1hcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Radical Technologies
-**Author:** [[Adam Greenfield\|Adam Greenfield]]
-
+**Author:** [[Adam Greenfield\|Adam Greenfield]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 ## Three-Sentence Summary
 > "Radical Technologies" offers a critical analysis of the Internet of Things (IoT) and its implications for contemporary society, questioning the utopian promises made by technology companies while examining their potential impact on urban spaces. The book argues that these technologies should be reimagined to prioritize human agency and avoid perpetuating existing inequalities.

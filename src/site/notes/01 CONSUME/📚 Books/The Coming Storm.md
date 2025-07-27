@@ -7,8 +7,7 @@
 
 
 # The Coming Storm
-**Author:** [[Gabriel Gatehouse\|Gabriel Gatehouse]]
-
+**Author:** [[Gabriel Gatehouse\|Gabriel Gatehouse]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

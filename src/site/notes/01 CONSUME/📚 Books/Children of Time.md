@@ -8,8 +8,7 @@
 
 
 # Children of Time
-- **Author:** [[Adrian Tchaikovsky\|Adrian Tchaikovsky]]
-
+- **Author:** [[Adrian Tchaikovsky\|Adrian Tchaikovsky]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

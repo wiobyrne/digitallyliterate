@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=8MT8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Risk Forward
-**Author:** [[Victoria Labalme\|Victoria Labalme]]
-
+**Author:** [[Victoria Labalme\|Victoria Labalme]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

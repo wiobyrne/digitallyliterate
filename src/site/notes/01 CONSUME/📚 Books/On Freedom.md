@@ -7,8 +7,7 @@
 
 
 # On Freedom
-**Author:** [[Timothy Snyder\|Timothy Snyder]]
-
+**Author:** [[Timothy Snyder\|Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "On Freedom" by Timothy Snyder delves into the concept of freedom from multiple perspectives, exploring its philosophical and political implications.
 - Through a series of essays, Snyder examines how freedom is understood, defended, and threatened in modern society.

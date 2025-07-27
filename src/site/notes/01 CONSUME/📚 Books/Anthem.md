@@ -5,8 +5,7 @@
 
 ![cover|300](http://books.google.com/books/content?id=Z60sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # Anthem
-**Author:** [[Noah Hawley\|Noah Hawley]]
-
+**Author:** [[Noah Hawley\|Noah Hawley]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/51-Rg3IuYrL._SL1481_.jpg)
 
 # Perceptrons: An Introduction to Computational Geometry, Expanded Edition
-**Author:** [[Marvin Minsky, Seymour A. Papert\|Marvin Minsky, Seymour A. Papert]]
-
+**Author:** [[Marvin Minsky, Seymour A. Papert\|Marvin Minsky, Seymour A. Papert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 Perceptrons, written by [[Marvin Minsky\|Marvin Minsky]] and [[Seymour A. Papert\|Seymour A. Papert]], delves into the concept of artificial neural networks and their limitations. The book explores the capabilities of perceptrons, single-layer neural networks, and discusses the challenges they face in solving complex problems. With a new foreword by Léon Bottou in this reissue of the 1988 Expanded Edition, readers can gain insights into the foundational principles of machine learning.
 

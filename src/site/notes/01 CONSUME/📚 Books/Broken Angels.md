@@ -7,8 +7,7 @@
 # Broken Angels
 
 ## Overview
-- **Author:** [[Richard K. Morgan\|Richard K. Morgan]]
-
+- **Author:** [[Richard K. Morgan\|Richard K. Morgan]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Broken Angels" is the second installment in the Takeshi Kovacs series by Richard K. Morgan, following the protagonist as he gets involved in a dangerous mission to unearth alien technology. The narrative explores themes of war, identity, and corporate greed set against a bleak backdrop of a dystopian universe. The book combines elements of cyberpunk, detective fiction, and military science fiction to create an engaging story.
 

@@ -7,8 +7,7 @@
 
 
 # Bullshit Jobs
-**Author:** [[David Graeber\|David Graeber]]
-
+**Author:** [[David Graeber\|David Graeber]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Bullshit Jobs" by David Graeber explores the phenomenon of meaningless, unfulfilling jobs that exist in modern society.
 - Graeber delves into the implications of these jobs on individuals, organizations, and society as a whole.

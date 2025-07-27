@@ -6,8 +6,7 @@
 # Altered Carbon
 
 ## Overview
-- **Author:** [[Richard Morgan\|Richard Morgan]]
-
+- **Author:** [[Richard Morgan\|Richard Morgan]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Altered Carbon" is a cyberpunk novel set in a futuristic society where human consciousness can be stored digitally and transferred into new bodies. The story follows Takeshi Kovacs, a former U.N. envoy turned private investigator, who is hired to investigate the apparent suicide of a wealthy man whose mind was backed up, so he should have no memory of his death. The book explores themes of identity, mortality, and the value of life in a society where death can be temporary.
 

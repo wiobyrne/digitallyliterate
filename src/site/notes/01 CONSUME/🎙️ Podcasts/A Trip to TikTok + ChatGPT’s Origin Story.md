@@ -6,7 +6,7 @@
 
 ![rw-book-cover](https://images.weserv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F4105a47a-42e5-4ccc-887a-832af7989986%2F23965394-f5e4-4fdb-b150-639f4910353e%2F3000x3000%2Fnyt-hf-album-art-3000-2.jpg%3Faid%3Drss_feed&w=300&h=300)
 
-[[Hard Fork\|Hard Fork]] hosted by [[Kevin Roose\|Kevin Roose]] and [[Casey Newton\|Casey Newton]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[Hard Fork\|Hard Fork]] hosted by [[Kevin Roose\|Kevin Roose]] and [[Casey Newton\|Casey Newton]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
 
 **On today’s episode:**
 

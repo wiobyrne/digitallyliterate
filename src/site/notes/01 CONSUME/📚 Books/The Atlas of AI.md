@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=KfodEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # The Atlas of AI 
-**Author:** [[01 CONSUME/👥 People/Kate Crawford\|Kate Crawford]]
-
+**Author:** [[01 CONSUME/👥 People/Kate Crawford\|Kate Crawford]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=yud-foXqGUEC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Leviathan Wakes
-**Author:** [[James S. A. Corey\|James S. A. Corey]]
-
+**Author:** [[James S. A. Corey\|James S. A. Corey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

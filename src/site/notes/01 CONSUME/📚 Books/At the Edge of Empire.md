@@ -7,8 +7,7 @@
 
 
 # At the Edge of Empire
-**Author:** [[Edward Wong\|Edward Wong]]
-
+**Author:** [[Edward Wong\|Edward Wong]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 tags:
 - empire

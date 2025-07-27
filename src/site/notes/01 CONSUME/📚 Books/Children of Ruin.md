@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=ENR6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Children of Ruin
-**Author:** [[Adrian Tchaikovsky\|Adrian Tchaikovsky]]
-
+**Author:** [[Adrian Tchaikovsky\|Adrian Tchaikovsky]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Children of Ruin" is a post-apocalyptic science fiction novel that explores themes of survival, redemption, and the consequences of technology. It follows two groups – one human and one artificial intelligence – as they navigate a devastated world.
 - The narrative features intricate plot twists, complex characters, and thoughtful exploration of humanity's impact on their environment.

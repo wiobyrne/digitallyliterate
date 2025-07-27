@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=QgzBqhbdlvUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Switch
-**Author:** [[Chip Heath, Dan Heath\|Chip Heath, Dan Heath]]
-
+**Author:** [[Chip Heath, Dan Heath\|Chip Heath, Dan Heath]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

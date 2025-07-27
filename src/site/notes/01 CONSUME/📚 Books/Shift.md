@@ -5,8 +5,7 @@
 
 ![cover|300](https://m.media-amazon.com/images/I/81fAGeMcSrL._AC_UF1000,1000_QL80_.jpg)
 # Shift
-**Author:** [[01 CONSUME/👥 People/Hugh Howey\|Hugh Howey]]
-
+**Author:** [[01 CONSUME/👥 People/Hugh Howey\|Hugh Howey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

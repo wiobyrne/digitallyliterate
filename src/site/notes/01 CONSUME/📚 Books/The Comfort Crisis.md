@@ -5,8 +5,7 @@
 
 ![cover|300](https://m.media-amazon.com/images/I/71xy9YsxTcL._SL1500_.jpg)
 # The Comfort Crisis
-**Author:** [[Michael Easter\|Michael Easter]]
-
+**Author:** [[Michael Easter\|Michael Easter]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Comfort Crisis" by Michael Easter explores the detrimental effects of excessive comfort in our modern lives and advocates for embracing discomfort to foster personal growth and resilience.
 - Through engaging stories and research-backed insights, Easter challenges readers to step out of their comfort zones, confront their fears, and pursue meaningful challenges.
@@ -49,4 +48,4 @@ Michael Easter is an author and journalist who has written for publications such
   - ["Can't Hurt Me: Master Your Mind And Defy The Odds" by David Goggins](https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287)
   - ["Mindset: The New Psychology of Success" by Carol S.Dweck](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 
-[[02 DEVELOP/🗂️ MOCs/Book Index\|Book Index]]
+[[Book Index\|Book Index]]

@@ -6,8 +6,7 @@
 # Head On
 
 ## Overview
-- **Author:** [[John Scalzi\|John Scalzi]]
-
+- **Author:** [[John Scalzi\|John Scalzi]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Head On" is a fast-paced sci-fi thriller that explores a future where humans can live in robotic bodies after an epidemic causes a condition called Haden's syndrome. The story is centered around FBI agents, Chris Shane and Leslie Vann, who are investigating a murder in the high-stakes world of Hilketa, a violent sport played by Hadens. As they navigate through numerous twists and turns, they uncover deep-seated corruption and deceit that go far beyond the initial murder case.
 

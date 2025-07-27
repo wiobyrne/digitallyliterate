@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/61bDIEPTfqL._SL1280_.jpg)
 
 # Aristotle's Nicomachean Ethics
-**Author:** [[Aristotle\|Aristotle]]
-
+**Author:** [[Aristotle\|Aristotle]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - Aristotle's Nicomachean Ethics delves into the concept of ethics, virtue, and the pursuit of a good life.
 - Through a philosophical lens, Aristotle discusses the importance of moral character and how it relates to achieving happiness and fulfillment.

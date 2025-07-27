@@ -7,8 +7,7 @@
 # The Graveyard Book
 
 ## Overview
-- **Author:** [[Neil Gaiman\|Neil Gaiman]]
-
+- **Author:** [[Neil Gaiman\|Neil Gaiman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Graveyard Book" is a captivating tale of a boy named Nobody "Bod" Owens who is raised by ghosts after his family is murdered. The story follows Bod's journey, from infancy to adolescence, within the confines of a graveyard where he learns life lessons from the dead. It's a story filled with mystery, adventure and the universal theme of finding one's identity amidst unusual circumstances.
 

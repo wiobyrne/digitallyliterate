@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=WmNxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # DEI Deconstructed
-**Author:** [[Lily Zheng\|Lily Zheng]]
-
+**Author:** [[Lily Zheng\|Lily Zheng]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

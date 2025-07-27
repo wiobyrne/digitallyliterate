@@ -7,8 +7,7 @@
 # Ready Player One
 
 ## Overview
-- **Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]]
-
+- **Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Ready Player One" is a science fiction novel set in a dystopian future where most of humanity uses virtual reality to escape the desolation of the real world. The story follows protagonist Wade Watts as he embarks on a quest to win a billionaire's fortune and control of the virtual world, OASIS. Along the way, he faces stiff competition from rival players and corporations who will stop at nothing to win.
 

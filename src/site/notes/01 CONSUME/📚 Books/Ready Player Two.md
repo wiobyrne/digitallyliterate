@@ -7,8 +7,7 @@
 
 
 # Ready Player Two
-**Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]]
-
+**Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

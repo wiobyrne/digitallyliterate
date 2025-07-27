@@ -7,8 +7,7 @@
 # Armada
 
 ## Overview
-- **Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]]
-
+- **Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - Zack Lightman, a high school student and gaming enthusiast, discovers that the video game he has been obsessively playing, Armada, is actually a training simulation designed by the government to prepare for an alien invasion. Zack is recruited by the Earth Defense Alliance (EDA), an organization created to defend Earth against extraterrestrial threats. As he trains and fights in the ensuing war, Zack grapples with the blurred lines between reality and the virtual world.
 

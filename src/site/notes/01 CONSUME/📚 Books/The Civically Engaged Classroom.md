@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=n799zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Civically Engaged Classroom
-**Author:** [[Mary Ehrenworth, Pablo Wolfe, Marc Todd\|Mary Ehrenworth, Pablo Wolfe, Marc Todd]]
-
+**Author:** [[Mary Ehrenworth, Pablo Wolfe, Marc Todd\|Mary Ehrenworth, Pablo Wolfe, Marc Todd]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

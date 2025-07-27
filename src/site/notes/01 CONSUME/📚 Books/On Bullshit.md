@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/41fnjGmUNcL._SL1500_.jpg)
 
 # On Bullshit
-**Author:** [[Harry G. Frankfurt\|Harry G. Frankfurt]]
-
+**Author:** [[Harry G. Frankfurt\|Harry G. Frankfurt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

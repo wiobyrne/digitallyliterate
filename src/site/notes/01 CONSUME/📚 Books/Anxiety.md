@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/81sloS3V-cL._SL1500_.jpg)
 
 # Anxiety
-**Author:** [[Samir Chopra\|Samir Chopra]]
-
+**Author:** [[Samir Chopra\|Samir Chopra]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 
 > - Samir Chopra explores anxiety through four philosophical traditions: Buddhism, existentialism, psychoanalysis, and critical theory, proposing that philosophy can help us understand and manage our anxieties.

@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=UccvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Barracoon
-**Author:** [[Zora Neale Hurston\|Zora Neale Hurston]]
-
+**Author:** [[Zora Neale Hurston\|Zora Neale Hurston]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

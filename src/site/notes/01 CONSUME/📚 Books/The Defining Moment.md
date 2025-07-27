@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/61XMlJ-L8WL._SL1360_.jpg)
 
 # The Defining Moment
-**Author:** [[Jonathan Alter\|Jonathan Alter]]
-
+**Author:** [[Jonathan Alter\|Jonathan Alter]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Defining Moment" by Jonathan Alter delves into Franklin D. Roosevelt's first 100 days in office during the Great Depression, exploring how he reshaped America. The book highlights the challenges faced by Roosevelt and his innovative approaches to tackling them, setting the stage for his historic presidency. Through a detailed account of this pivotal period, Alter provides insights into leadership, politics, and the power of decisive action in times of crisis.
 

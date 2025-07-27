@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/71hXNckglTL._SL1200_.jpg)
 
 # Blueprint for Revolution
-**Author:** [[Srdja Popovic\|Srdja Popovic]] and [[Matthew Miller\|Matthew Miller]]
-
+**Author:** [[Srdja Popovic\|Srdja Popovic]] and [[Matthew Miller\|Matthew Miller]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - *Blueprint for Revolution* explores the strategies and tactics of successful nonviolent movements to inspire change. It provides a practical guide for individuals looking to create social and political transformation through peaceful means. Drawing on real-life examples, the book offers insights on effective leadership, organization, and mobilization of people.
 

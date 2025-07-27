@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=huy3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Dune
-**Author:** [[Frank Herbert\|Frank Herbert]]
-
+**Author:** [[Frank Herbert\|Frank Herbert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

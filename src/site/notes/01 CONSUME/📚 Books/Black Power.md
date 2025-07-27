@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/51g7NvSvQyL.jpg)
 
 # Black Power
-**Author:** [[Charles V. Hamilton, Kwame Ture\|Charles V. Hamilton, Kwame Ture]]
-
+**Author:** [[Charles V. Hamilton, Kwame Ture\|Charles V. Hamilton, Kwame Ture]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=8pHqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Dune Messiah
-**Author:** [[Frank Herbert\|Frank Herbert]]
-
+**Author:** [[Frank Herbert\|Frank Herbert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

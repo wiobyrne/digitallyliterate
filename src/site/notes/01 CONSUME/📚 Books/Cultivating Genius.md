@@ -7,8 +7,7 @@
 
 # Cultivating Genius
 
-**Author:** [[Gholdy Muhammad\|Gholdy Muhammad]]
-
+**Author:** [[Gholdy Muhammad\|Gholdy Muhammad]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

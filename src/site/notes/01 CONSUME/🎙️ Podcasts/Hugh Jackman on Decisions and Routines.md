@@ -1,14 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/hugh-jackman-on-decisions-and-routines/","title":"Hugh Jackman on Decisions and Routines","tags":["podcasts"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/hugh-jackman-on-decisions-and-routines/","title":"Hugh Jackman on Decisions and Routines","tags":["podcasts","personal-development","decision-making","routines","creativity","meditation","performance","consistency"]}
 ---
 
 # Hugh Jackman on Decisions and Routines
 
 ![rw-book-cover](https://images.weserv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=300&h=300)
 
-[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
 
 Hugh Jackman, acclaimed actor and performer, offers a deep dive into his creative journey and daily practices. He shares his insights on embracing intuition in career decisions, the power of morning routines like reading and meditation, and the significance of consistency—highlighted by his 85% Rule. Jackman discusses navigating insecurities, family values, and the transformative role of theater in his life. Plus, he reflects on the joy of puzzles as a way to engage creatively and relax amidst a busy career.
+
+## 🧠 Knowledge Development Connections
+
+This conversation offers valuable insights from one of the entertainment industry's most versatile performers, exploring the intersection of creative excellence, personal development, and sustainable performance practices. Jackman's approach to decision-making and routine optimization provides a unique perspective from the world of high-stakes creative performance.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Hugh Jackman\|Hugh Jackman]]** - Acclaimed actor and performer known for versatility across theater, film, and live entertainment
+- **[[Tim Ferriss\|Tim Ferriss]]** - Host and optimization expert exploring high-performance practices across domains
+- **[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]]** - Long-running podcast featuring deep dives into the habits and mindsets of top performers
+- **[[Decision Making\|Decision Making]]** - Jackman's approach to trusting intuition and making career choices under uncertainty
+- **[[Morning Routines\|Morning Routines]]** - Structured practices including reading and meditation for creative preparation
+- **[[Creative Process\|Creative Process]]** - Balancing structure with spontaneity in artistic work and career development
+- **[[Performance Psychology\|Performance Psychology]]** - Managing insecurities and maintaining excellence under pressure
+- **[[Consistency Frameworks\|Consistency Frameworks]]** - The "85% Rule" and sustainable approaches to high performance
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- Framework for integrating intuition with rational decision-making in creative careers
+- Analysis of how morning routines support creative performance and emotional regulation
+- Cross-domain applications of performance psychology from entertainment to other fields
+- Sustainable consistency models that prevent burnout while maintaining excellence
 
 
 ## Snips

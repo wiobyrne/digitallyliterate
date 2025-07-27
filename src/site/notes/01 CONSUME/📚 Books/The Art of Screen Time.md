@@ -6,8 +6,7 @@
 # The Art of Screen Time
 
 ## Overview
-- **Author:** [[Anya Kamenetz\|Anya Kamenetz]]
-
+- **Author:** [[Anya Kamenetz\|Anya Kamenetz]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Art of Screen Time" is an exploration of the impact of digital media on children and how parents can effectively manage their children's screen time. The book presents research findings, expert opinions, and practical advice to help parents navigate the digital age. Kamenetz advocates for a balanced approach to screen time, urging parents to interact and engage with their children during these activities.
 

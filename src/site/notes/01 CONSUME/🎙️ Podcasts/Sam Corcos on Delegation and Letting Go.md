@@ -6,7 +6,7 @@
 
 ![rw-book-cover](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=300&h=300)
 
-[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
 
 Sam Corcos, the CEO and Co-founder of Levels, discusses the transformative power of virtual assistants and delegation for achieving greater productivity. He shares his journey of mastering delegation, the importance of feedback loops, and tools like Loom and Notion for team communication. Corcos emphasizes leveraging continuous glucose monitors to enhance personal health insights, exploring how food choices affect glucose levels and overall well-being. The conversation also touches on strategic networking and aligning personal values with time management.
 

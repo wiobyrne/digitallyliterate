@@ -6,7 +6,7 @@
 
 ![rw-book-cover](https://images.weserv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=300&h=300)
 
-[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] hosted by [[Tim Ferriss\|Tim Ferriss]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
 
 [[Mark Zuckerberg\|Mark Zuckerberg]], the visionary founder of [[Meta\|Meta]], shares insights about long-term strategy and the future of the [[metaverse\|metaverse]]. He discusses his experience in fencing and how literature, especially science fiction, shapes technological understanding. Zuckerberg also tackles the engineering challenges of virtual reality, focusing on motion sickness and user comfort. Additionally, he reflects on partnership dynamics in tech and his parenting philosophy, emphasizing family values and community service. Tune in for a deep dive into innovation and personal growth!
 

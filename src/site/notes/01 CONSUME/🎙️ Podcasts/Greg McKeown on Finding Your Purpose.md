@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/greg-mc-keown-on-finding-your-purpose/","title":"Greg McKeown on Finding Your Purpose","tags":["digital-minimalism","minimalism","podcasts"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/greg-mc-keown-on-finding-your-purpose/","title":"Greg McKeown on Finding Your Purpose","tags":["podcasts","purpose","essentialism","digital-minimalism","minimalism","intentionality","career-development","self-reflection"]}
 ---
 
 # Greg McKeown on Finding Your Purpose
@@ -7,8 +7,34 @@
 
 ![Cover|300](https://wsrv.nl/?url=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F69%2F10%2F10%2Ffb%2F691010fb-625e-4abe-993c-a57228b28dbe%2F91cb53ae0d5dbb379b9dffecf0a772593891d0d09bbe6d90ee746edbdb79e3ec75584f2ceb8260e9f675a90c05419b9b99842a76905b686f0f51c1a9d3e227ab.jpeg&w=300&h=300)
 
- [[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] with [[Tim Ferriss\|Tim Ferriss]]  - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
-## Episode Overview
+ [[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]] with [[Tim Ferriss\|Tim Ferriss]]  - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
+
+[[Greg McKeown\|Greg McKeown]], author of "Essentialism," explores the journey of discovering and living your true purpose. This conversation delves into practical strategies for identifying what truly matters, overcoming societal pressures to do everything, and creating space for meaningful work. McKeown discusses the intersection of digital minimalism and purposeful living, offering frameworks for making better choices about where to invest time and energy.
+
+## 🧠 Knowledge Development Connections
+
+This episode extends McKeown's essentialism philosophy into the specific domain of purpose discovery, exploring how to identify and pursue meaningful work while resisting cultural pressures for constant productivity. The discussion connects minimalism principles to career development and personal fulfillment.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Greg McKeown\|Greg McKeown]]** - Author of "Essentialism" and expert in focused living strategies
+- **[[02 DEVELOP/Podcasts/The Tim Ferriss Show\|The Tim Ferriss Show]]** - Platform for exploring optimization and life design
+- **[[Essentialism\|Essentialism]]** - The disciplined pursuit of less but better in all life areas
+- **[[Purpose Discovery\|Purpose Discovery]]** - Systematic approaches to identifying meaningful work and life direction
+- **[[Digital Minimalism\|Digital Minimalism]]** - Intentional technology use to support purposeful living
+- **[[Intentionality\|Intentionality]]** - Living with conscious choice rather than default behaviors
+- **[[Career Purpose\|Career Purpose]]** - Aligning professional work with personal values and meaning
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- Purpose discovery methodologies and frameworks
+- Societal pressure resistance strategies for purpose-driven living
+- Digital minimalism as enabler of deeper self-reflection
+- Career transition strategies for purpose alignment
+- Time and energy investment frameworks for meaningful work
 
 
 1. Setting a clear essential intent for life is crucial to staying focused on what truly matters.

@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/51S7a9c5ukS._AC_UF1000,1000_QL80_.jpg)
 
 # Democracy More or Less
-**Author:** [[Bruce E. Cain\|Bruce E. Cain]]
-
+**Author:** [[Bruce E. Cain\|Bruce E. Cain]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

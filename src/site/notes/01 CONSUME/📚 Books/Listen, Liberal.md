@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/81aeXgnGxSL._SL1500_.jpg)
 
 # Listen, Liberal
-**Author:** [[Thomas Frank\|Thomas Frank]]
-
+**Author:** [[Thomas Frank\|Thomas Frank]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ---
 

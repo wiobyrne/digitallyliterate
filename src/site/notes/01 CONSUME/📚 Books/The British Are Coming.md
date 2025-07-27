@@ -7,8 +7,7 @@
 
 
 # The British Are Coming
-**Author:** [[Rick Atkinson\|Rick Atkinson]]
-
+**Author:** [[Rick Atkinson\|Rick Atkinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 tags:
 - history

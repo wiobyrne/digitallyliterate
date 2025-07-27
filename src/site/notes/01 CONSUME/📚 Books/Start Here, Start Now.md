@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=d6JWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Start Here, Start Now
-**Author:** [[Liz Kleinrock\|Liz Kleinrock]]
-
+**Author:** [[Liz Kleinrock\|Liz Kleinrock]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 
 - _Start Here, Start Now_ offers practical strategies for educators to create anti-bias and equity-focused classrooms, addressing sensitive topics with courage and care.

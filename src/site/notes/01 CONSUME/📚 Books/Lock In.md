@@ -7,8 +7,7 @@
 # Lock In
 
 ## Overview
-- **Author:** [[John Scalzi\|John Scalzi]]
-
+- **Author:** [[John Scalzi\|John Scalzi]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Lock In" is a riveting sci-fi thriller set in a future where a pandemic, known as Haden's Syndrome, has left its victims fully awake but unable to move their bodies. The book follows Chris Shane, a Haden-afflicted FBI agent, as he navigates through this new world using an advanced robot body. The story delves into the implications of technology, disability, and the human experience while exploring a mystery involving corporate greed and political conspiracy.
 

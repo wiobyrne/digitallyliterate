@@ -7,8 +7,7 @@
 
 # Creative Quest
 
-**Author:** [[01 CONSUME/👥 People/Questlove\|Questlove]]
-
+**Author:** [[01 CONSUME/👥 People/Questlove\|Questlove]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Creative Quest" is a guidebook to the creative process by musician and author, Questlove. He shares how creativity is more than just an innate talent, but a skill that can be cultivated with practice, curiosity, and mindfulness. The book explores different facets of creativity, from finding inspiration and dealing with failure to fostering collaboration and practicing discipline.
 

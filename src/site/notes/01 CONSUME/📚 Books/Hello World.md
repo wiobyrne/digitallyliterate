@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=TGiOuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Hello World
-**Author:** [[Hannah Fry\|Hannah Fry]]
-
+**Author:** [[Hannah Fry\|Hannah Fry]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Extended Summary:
 "Hello World" is a captivating exploration of the intersection between human emotions and artificial intelligence, penned by celebrated data scientist and author Hannah Fry. The narrative unfolds through a series of thought-provoking anecdotes, interwoven with insightful discussions on AI's potential impact on our lives.
 

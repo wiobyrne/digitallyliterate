@@ -7,8 +7,7 @@
 
 
 # Democracy and Education
-**Author:** [[John Dewey\|John Dewey]]
-
+**Author:** [[John Dewey\|John Dewey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Democracy and Education" by John Dewey explores the relationship between democracy and the educational system, emphasizing the importance of education in creating active and engaged citizens.
 - Dewey argues that education should be tailored to develop critical thinking skills, problem-solving abilities, and a sense of community responsibility.

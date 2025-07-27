@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=wzz_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Cyberlibertarianism
-**Author:** [[David Golumbia\|David Golumbia]]
-
+**Author:** [[David Golumbia\|David Golumbia]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 - "Cyberlibertarianism" by David Golumbia explores the intersection of technology, the internet, and political ideologies.

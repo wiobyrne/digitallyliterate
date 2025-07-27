@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/51G0SUbmZGL._SL1000_.jpg)
 
 # Hijacked
-**Author:** [[Elizabeth Anderson\|Elizabeth Anderson]]
-
+**Author:** [[Elizabeth Anderson\|Elizabeth Anderson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - *Hijacked* by Elizabeth Anderson examines how neoliberalism has distorted the Protestant work ethic to exploit workers and enrich the elite, undermining workers' dignity and autonomy.
 - Anderson traces the historical evolution of the work ethic, highlighting its split into progressive and conservative versions, with the latter favoring employer authority and stigmatizing poverty.

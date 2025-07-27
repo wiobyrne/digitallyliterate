@@ -6,8 +6,7 @@
 # Seveneves
 
 ## Overview
-- **Author:** [[Neal Stephenson\|Neal Stephenson]]
-
+- **Author:** [[Neal Stephenson\|Neal Stephenson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Seveneves" is a hard science fiction novel that begins with the moon exploding and humanity's frantic efforts to survive the impending cataclysm. The story then leaps 5,000 years into the future where the descendants of the original survivors have evolved into seven distinct races and are now exploring their engineered habitat in space. The book explores themes of survival, evolution, engineering, and societal organization.
 

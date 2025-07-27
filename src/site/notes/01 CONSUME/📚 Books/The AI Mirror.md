@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=uqD_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The AI Mirror
-**Author:** [[Shannon Vallor\|Shannon Vallor]]
-
+**Author:** [[Shannon Vallor\|Shannon Vallor]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The AI Mirror" by Shannon Vallor delves into the ethical implications of artificial intelligence in today's society.
 - Through thoughtful analysis, the book explores how AI reflects and amplifies human values, biases, and ethical considerations.

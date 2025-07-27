@@ -7,8 +7,7 @@
 
 
 # Mind and Cosmos
-**Author:** [[Thomas Nagel\|Thomas Nagel]]
-
+**Author:** [[Thomas Nagel\|Thomas Nagel]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 - "Mind and Cosmos" by Thomas Nagel explores the relationship between consciousness, evolution, and the nature of reality.
