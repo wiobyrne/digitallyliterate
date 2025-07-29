@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=MYoDAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Kindred
-**Author:** [[Octavia E. Butler\|Octavia E. Butler]]
-
+**Author:** [[Octavia E. Butler\|Octavia E. Butler]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

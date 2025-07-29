@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=cRPKOzWlOfUC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Handmaid's Tale
-**Author:** [[Margaret Atwood\|Margaret Atwood]]
-
+**Author:** [[Margaret Atwood\|Margaret Atwood]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

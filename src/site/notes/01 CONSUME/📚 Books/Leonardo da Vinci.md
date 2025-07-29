@@ -7,8 +7,7 @@
 # Leonardo da Vinci
 
 ## Overview
-- **Author:** [[Walter Isaacson\|Walter Isaacson]]
-
+- **Author:** [[Walter Isaacson\|Walter Isaacson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Leonardo da Vinci" is a comprehensive biography of the renowned Italian polymath, exploring his life, works, and unique intellectual curiosity. Isaacson delves into Leonardo's notebooks to understand his scientific observations and artistic innovations. The book highlights da Vinci's relentless pursuit of knowledge and his unquenchable curiosity that made him the epitome of a "Renaissance man."
 
