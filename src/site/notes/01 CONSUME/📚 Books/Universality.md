@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=ZZEMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Universality
-**Author:** [[Natasha Brown\|Natasha Brown]]
-
+**Author:** [[Natasha Brown\|Natasha Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 
 - A freelance journalist named Hannah investigates a brutal assault at a COVID-era rave on a Yorkshire farm, unearthing a tapestry of power, privilege, and ideological conflict.

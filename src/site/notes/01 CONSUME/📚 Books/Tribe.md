@@ -7,8 +7,7 @@
 # Tribe
 
 ## Overview
-- **Author:** [[Sebastian Junger\|Sebastian Junger]]
-
+- **Author:** [[Sebastian Junger\|Sebastian Junger]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Tribe" by Sebastian Junger explores the idea that modern society has moved away from the close-knit communities that characterized our ancestors, leading to a pervasive feeling of disconnectedness and discontentment. He argues that in times of crisis, such as war or natural disasters, humans instinctively revert back to a tribal mentality where cooperation and unity are paramount. Through examining various societies and historical events, Junger asserts the importance of community and belonging for human well-being.
 

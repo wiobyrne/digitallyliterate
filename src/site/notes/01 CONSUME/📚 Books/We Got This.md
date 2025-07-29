@@ -5,8 +5,7 @@
 
 ![cover|300](http://books.google.com/books/content?id=j5IPvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # We Got This
-**Author:** [[Cornelius Minor\|Cornelius Minor]]
-
+**Author:** [[Cornelius Minor\|Cornelius Minor]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

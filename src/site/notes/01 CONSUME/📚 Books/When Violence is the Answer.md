@@ -6,8 +6,7 @@
 # When Violence is the Answer
 
 ## Overview
-- **Author:** [[Tim Larkin\|Tim Larkin]]
-
+- **Author:** [[Tim Larkin\|Tim Larkin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "When Violence is the Answer" by Tim Larkin explores the controversial idea that sometimes violence is not just acceptable, but necessary. Larkin, a self-defense expert, argues that society's aversion to violence often leaves individuals vulnerable and unprepared in dangerous situations. He provides insights into recognizing and understanding violence, preparing for it mentally and physically, and using it effectively when there's no other choice.
 

@@ -19,7 +19,7 @@ Think of this as a network of interconnected notes rather than a linear publicat
     * 📰 [[02 DEVELOP/🗂️ MOCs/Newsletter Index\|Newsletter Index]] – Past thoughts and curated resources.
     * 📝 [[02 DEVELOP/🗂️ MOCs/Blog Post Index\|Blog Post Index]] – Longer reflections within the garden.
     * 🤖 [[AI Index\|AI Index]] - A simple AI/ML Glossary
-    * 📚 [[02 DEVELOP/🗂️ MOCs/Book Index Public\|Book Index Public]] – Highlights from my reading.
+    * [[01 CONSUME/📚 Books/📚 Books\|📚 Books]] – Highlights from my reading.
     * 🎓 [[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]] – Course resources.
 
 

@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=OeMxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Road to Unfreedom
-**Author:** [[Timothy Snyder\|Timothy Snyder]]
-
+**Author:** [[Timothy Snyder\|Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Road to Unfreedom" by Timothy Snyder explores the rise of authoritarianism in the 21st century, focusing on Russia and the United States. The book delves into the manipulation of truth, the erosion of democracy, and the spread of disinformation as tools used by leaders to consolidate power. Through a detailed analysis of historical events and current political landscapes, Snyder warns about the dangers of ignoring warning signs of authoritarianism.
 

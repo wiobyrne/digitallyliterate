@@ -6,8 +6,7 @@
 ![cover|300](https://m.media-amazon.com/images/I/81j24kSmznL._SL1500_.jpg)
 
 # The Harrow
-**Author:** [[Noah Eaton\|Noah Eaton]]
-
+**Author:** [[Noah Eaton\|Noah Eaton]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 
 - The Harrow follows John Salmon, the battle‑scarred editor of one of London’s last muck‑raking magazines, struggling to keep the publication alive in a digital age.

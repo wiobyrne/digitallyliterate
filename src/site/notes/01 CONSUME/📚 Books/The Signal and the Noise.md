@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=ekWLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Signal and the Noise
-**Author:** [[Nate Silver\|Nate Silver]]
-
+**Author:** [[Nate Silver\|Nate Silver]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ---
 

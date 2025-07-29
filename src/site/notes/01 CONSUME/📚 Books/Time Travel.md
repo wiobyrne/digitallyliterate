@@ -6,8 +6,7 @@
 # Time Travel
 
 ## Overview
-- **Author:** [[James Gleick\|James Gleick]]
-
+- **Author:** [[James Gleick\|James Gleick]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Time Travel" is a deep dive into the history, science, and philosophy of time travel as conceived by a variety of authors, scientists, and philosophers. It explores the concept of time travel from its origins in literature to its current status in popular culture and theoretical physics. The book provides an informative and thought-provoking examination of how our understanding of time and the possibility of manipulating it has evolved over centuries.
 

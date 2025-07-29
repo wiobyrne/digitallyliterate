@@ -7,8 +7,7 @@
 
 # Unearthing Joy
 ## A Guide to Culturally and Historically Responsive Teaching and Learning
-**Author:** [[Gholdy Muhammad\|Gholdy Muhammad]]
-
+**Author:** [[Gholdy Muhammad\|Gholdy Muhammad]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

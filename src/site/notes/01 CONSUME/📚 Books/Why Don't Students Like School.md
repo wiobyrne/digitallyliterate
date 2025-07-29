@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=8SDs8LZl41EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Why Don't Students Like School
-**Author:** [[Daniel T. Willingham\|Daniel T. Willingham]]
-
+**Author:** [[Daniel T. Willingham\|Daniel T. Willingham]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

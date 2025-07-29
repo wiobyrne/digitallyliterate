@@ -6,8 +6,7 @@
 # The Three-Body Problem
 
 ## Overview
-- **Author:** [[Cixin Liu\|Cixin Liu]]
-
+- **Author:** [[Cixin Liu\|Cixin Liu]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Three-Body Problem" is a groundbreaking science fiction novel that explores the potential consequences of humanity's first contact with an alien civilization. The story unfolds against the backdrop of China's Cultural Revolution, blending historical events with speculative fiction to examine humanity's place in the universe. It challenges readers to consider complex scientific and philosophical questions about our existence.
 

@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=owFWa3p5h28C&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Road
-**Author:** [[Cormac McCarthy\|Cormac McCarthy]]
-
+**Author:** [[Cormac McCarthy\|Cormac McCarthy]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

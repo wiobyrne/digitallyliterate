@@ -1,14 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/ross-douthat-on-trump-mysticism-and-psychedelics/","title":"Ross Douthat on Trump, Mysticism and Psychedelics","tags":["politics","religion","trump"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/ross-douthat-on-trump-mysticism-and-psychedelics/","title":"Ross Douthat on Trump, Mysticism and Psychedelics","tags":["podcasts","politics","religion","mysticism","trump","organized-religion","belief-systems"]}
 ---
+
 
 # Ross Douthat on Trump, Mysticism and Psychedelics
 
 ![Cover|300](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F52528093-7778-44d3-b188-e2a3c58e2a2b%2F05b8e014-5152-4854-8fcb-c4a9d3da2114%2F3000x3000%2Fnyt-ezraklein-albumartwork-3000px-2.jpg%3Faid%3Drss_feed&w=300&h=300)
 
+## 🧠 Knowledge Development Connections
+
+This episode explores the intersection of political mysticism, organized religion, and belief systems in contemporary America. The conversation provides insights into how spiritual seeking manifests in political movements and the role of traditional religious institutions.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Ross Douthat\|Ross Douthat]]** - Conservative Catholic columnist and author of "Believe: Why Everyone Should Be Religious"
+- **[[The Ezra Klein Show\|The Ezra Klein Show]]** - Host and context for this theological-political discussion
+- **[[Political Mysticism\|Political Mysticism]]** - How spiritual narratives and "man of destiny" thinking shape contemporary politics
+- **[[Belief Systems\|Belief Systems]]** - The tension between organized religion and individual spiritual seeking
+- **[[Authority and Knowledge\|Authority and Knowledge]]** - How institutional authority relates to personal spiritual experience and "official knowledge"
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- Trump as "man of destiny" and mystical political narratives
+- Organized religion vs. California-style mysterianism 
+- The relationship between official knowledge institutions and spiritual truth claims
+- How spiritual seeking functions when disconnected from traditional religious structures
 
 ## Show notes
-> I have no earthly idea how to describe this conversation. It’s about religion and belief – at this moment in our politics, and in our lives more generally.<br/>>  My guest and I come from very different perspectives. Ross Douthat is a Catholic conservative, who wrote a book called “ Believe: Why Everyone Should Be Religious .” I’m a … Californian. But I think everyone would enjoy this conversation — believers, skeptics and seekers alike.<br/>>  Some questions touched on: Is the Trump administration Christian or pagan? How do Christian Trump supporters reconcile the cruelties of this administration with their faith? Can religious experiences be explained by misfiring neurons? Should organized religions embrace psychedelics? Can mystery provide more comfort than certainty?
+> I have no earthly idea how to describe this conversation. It's about religion and belief – at this moment in our politics, and in our lives more generally.<br/>>  My guest and I come from very different perspectives. Ross Douthat is a Catholic conservative, who wrote a book called " Believe: Why Everyone Should Be Religious ." I'm a … Californian. But I think everyone would enjoy this conversation — believers, skeptics and seekers alike.<br/>>  Some questions touched on: Is the Trump administration Christian or pagan? How do Christian Trump supporters reconcile the cruelties of this administration with their faith? Can religious experiences be explained by misfiring neurons? Should organized religions embrace psychedelics? Can mystery provide more comfort than certainty?
 
 ## Snips
 
@@ -1068,194 +1090,3 @@ It is a very short book, which is why I don’t hesitate to recommend it. A lot 
 
 I enjoyed it, as well, Ezra. Thank you so much.
 
-_You can listen to this conversation by following “The Ezra Klein Show” on_ [_NYT Audio App_](https://archive.ph/o/UrzdT/https://apps.apple.com/us/app/nyt-audio/id1549293936)_,_ [_Apple_](https://archive.ph/o/UrzdT/https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447)_,_ [_Spotify_](https://archive.ph/o/UrzdT/https://open.spotify.com/show/3oB5noYIwEB2dMAREj2F7S)_,_ [_Amazon Music_](https://archive.ph/o/UrzdT/https://music.amazon.com/podcasts/c4a3b1da-5433-49e6-8c14-0e1da53be78c/the-ezra-klein-show)_,_ [_YouTube_](https://archive.ph/o/UrzdT/https://www.youtube.com/playlist?list=PLdMrbgYfVl-szepgVpArP0obwYgbKdfvx)_,_ [_iHeartRadio_](https://archive.ph/o/UrzdT/https://www.iheart.com/podcast/326-the-ezra-klein-show-31142409/) _or_ [_wherever you get your podcasts_](https://archive.ph/o/UrzdT/https://www.nytimes.com/2021/01/19/opinion/how-to-listen-ezra-klein-show-nyt.html)_. View a list of book recommendations from our guests_ [_here_](https://archive.ph/o/UrzdT/https://www.nytimes.com/article/ezra-klein-show-book-recs.html)_._
-
-More conversations about religion and spirituality
-
-[
-
-![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/b6ef5ded17c66c9a851f8d27f97f6661ea25882f.jpg)
-
-Opinion | ‘The Ezra Klein Show’
-
-What We Gain by Enchanting the Objects in Our Lives
-
-Jan. 25, 2022
-
-
-
-](https://archive.ph/o/UrzdT/https://www.nytimes.com/2022/01/25/opinion/ezra-klein-podcast-ruth-ozeki.html)
-
-[
-
-![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/c4700b563307b4e450e808425defda1a34efffac.jpg)
-
-Opinion | ‘The Ezra Klein Show’
-
-On Children, Meaning, Media and Psychedelics
-
-Sept. 3, 2024
-
-
-
-](https://archive.ph/o/UrzdT/https://www.nytimes.com/2024/09/03/opinion/ezra-klein-podcast-jia-tolentino.html)
-
-[
-
-![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/04d11d7135e90273413dbbecbfc344af8fa88efc.jpg)
-
-Opinion | ‘The Ezra Klein Show’
-
-Marilynne Robinson on Biblical Beauty, Human Evil and the Idea of Israel
-
-March 5, 2024
-
-
-
-](https://archive.ph/o/UrzdT/https://www.nytimes.com/2024/03/05/opinion/ezra-klein-podcast-marilynne-robinson.html)
-
-This episode of “The Ezra Klein Show” was produced by Elias Isquith. Fact-checking by Kate Sinclair and Mary Marge Locker. Mixing by Isaac Jones, with Aman Sahota and Efim Shapiro. Our executive producer is Claire Gordon. The show’s production team also includes Marie Cascione, Annie Galvin, Rollin Hu, Marina King, Jan Kobal, Kristin Lin and Jack McCordick. Original music by Pat McCusker. Audience strategy by Kristina Samulewski and Shannon Busta. The director of New York Times Opinion Audio is Annie-Rose Strasser.
-
-_The Times is committed to publishing_ [_a diversity of letters_](https://archive.ph/o/UrzdT/https://www.nytimes.com/2019/01/31/opinion/letters/letters-to-editor-new-york-times-women.html) _to the editor. We’d like to hear what you think about this or any of our articles. Here are some_ [_tips_](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us/articles/115014925288-How-to-submit-a-letter-to-the-editor)_. And here’s our email:_ [_letters@nytimes.com_](mailto:letters@nytimes.com)_._
-
-_Follow the New York Times Opinion section on_ [_Facebook_](https://archive.ph/o/UrzdT/https://www.facebook.com/nytopinion)_,_ [_Instagram_](https://archive.ph/o/UrzdT/https://www.instagram.com/nytopinion/)_,_ [_TikTok_](https://archive.ph/o/UrzdT/https://www.tiktok.com/@nytopinion)_,_ [_Bluesky_](https://archive.ph/o/UrzdT/https://bsky.app/profile/nytopinion.nytimes.com), [_WhatsApp_](https://archive.ph/o/UrzdT/https://www.whatsapp.com/channel/0029VaN8tdZ5vKAGNwXaED0M) _and_ [_Threads_](https://archive.ph/o/UrzdT/https://www.threads.net/@nytopinion)_._
-
-Ezra Klein joined Opinion in 2021. Previously, he was the founder, editor in chief and then editor at large of Vox; the host of the podcast “The Ezra Klein Show”; and the author of “Why We’re Polarized.” Before that, he was a columnist and editor at The Washington Post, where he founded and led the Wonkblog vertical. He is [on Threads](https://archive.ph/o/UrzdT/https://www.threads.net/@ezraklein). 
-
-## Related Content
-
-### [The Ezra Klein Show](https://archive.ph/o/UrzdT/https://www.nytimes.com/column/ezra-klein-podcast)
-
-Real conversations. Ideas that matter. So many book recommendations.
-
-- [The Very American Roots of Trumpism](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/23/opinion/ezra-klein-podcast-steven-hahn.html)
-    
-    ![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/a69f778cf5a5bdb0d94c90f620cd10378b954f25.webp)
-    
-- [The Emergency Is Here](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/17/opinion/ezra-klein-podcast-asha-rangappa.html)
-    
-    ![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/99e2e30e3622ebf2bb19ed969c47b1f56fa43036.webp)
-    
-
-### [More in Opinion](https://archive.ph/o/UrzdT/https://www.nytimes.com/section/opinion)
-
-- [Trump’s Single Stroke of Brilliance](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/24/opinion/trump-administration-energy-strength-weakness.html)
-    
-    Opinion
-    
-    ![Photo Illustration by Naila Ruechel for The New York Times. Source photograph by Doug Mills/The New York Times.](https://d1ngjjrm57lc3r.archive.ph/UrzdT/f67966e8a8de3e0075007bdd367c3002e39aa19d.webp)
-    
-- [Kennedy Described My Daughter’s Reality](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/opinion/autism-rfk-parent-child.html)
-    
-    Opinion
-    
-    ![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/fe7a8cf08a3e1fdcf9387f19d3b7f06a5a530bd2.webp)
-    
-- [We Visited Rumeysa Ozturk in Detention. What We Saw Was a Warning to Us All.](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/opinion/trump-rumeysa-ozturk-ice.html)
-    
-    Opinion
-    
-    ![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/51a978abb2230a012a24b3a8f2cdc7f6149cc15a.webp)
-    
-- [We Are at Peak ‘Yep’ and It’s Wonderful](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/24/opinion/yep-agree-language-dialects.html)
-    
-    Opinion
-    
-    ![](https://d1ngjjrm57lc3r.archive.ph/UrzdT/d3a89fc7df2bc3f909c2b0f4ce2684a7f12a621a.webp)
-    
-
-### Editors’ Picks
-
-- [Melania Trump’s Easter Surprise](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/21/style/melania-trump-white-house-easter-egg-roll-coat.html)
-    
-    ![Melania Trump attended the White House Easter Egg Roll on Monday in a cream overcoat from the company Mackage.](https://d1ngjjrm57lc3r.archive.ph/UrzdT/bb2b7bd9262c593792bbe3ea27e49157cc368996.webp)
-    
-- [In ‘Ransom Canyon,’ Minka Kelly Enjoys the Ride](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/22/arts/television/minka-kelly-ransom-canyon.html)
-    
-    ![“I’ve gotten to a place in my life where I am my best, and now the best thing has happened,” Kelly said of the “Ransom Canyon” role and a coming rom-com film, “Champagne Problems,” her first.](https://d1ngjjrm57lc3r.archive.ph/UrzdT/efd9d62744e22258e1853b0736f9be8c1bbecdac.webp)
-    
-
-### Trending in The Times
-
-- [Lawyer Is Charged With Sadistic Rapes of Women He Met Online](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/24/nyregion/lawyer-rape-charges-manhattan.html)
-    
-- [3 Toxic Relationship Habits to Avoid](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/well/toxic-relationship-red-flag.html)
-    
-- [Watch Ben Affleck Line Dance in ‘The Accountant 2’](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/movies/watch-ben-affleck-line-dance-in-the-accountant-2.html)
-    
-- [This Kind of Sleep Is Essential for a Healthy Brain](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/well/mind/deep-sleep-rem-brain-health.html)
-    
-- [17 Ways to Cut Your Risk of Stroke, Dementia and Depression All at Once](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/23/well/dementia-stroke-depression-prevention.html)
-    
-- [A Glimpse of Beauty in an Ugly Place](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/style/modern-love-prison-glimpse-of-beauty-in-ugly-place.html)
-    
-- [My Boyfriend Has a Husband. Should I Tell Him About Us?](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/24/magazine/marriage-boyfriend-polyamory-ethics.html)
-    
-- [They Caught the Flu, and Never Came Home](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/24/well/flu-deaths-hospitalizations.html)
-    
-- [U.S. Texts Barnard Employees and Asks if They Are Jewish](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/23/nyregion/barnard-faculty-eeoc-text-jewish.html)
-    
-- [Jimmy Kimmel Mocks Pete Hegseth’s Rumored Pentagon Makeup Studio](https://archive.ph/o/UrzdT/https://www.nytimes.com/2025/04/25/arts/television/jimmy-kimmel-pete-hegseth-makeup.html)
-    
-
-## Site Index
-
-[](https://archive.ph/o/UrzdT/https://www.nytimes.com/)
-
-[Go to Home Page »](https://archive.ph/o/UrzdT/https://www.nytimes.com/)
-
-News
-
-Arts
-
-Lifestyle
-
-Opinion
-
-More
-
-## Site Information Navigation
-
-- [© 2025 The New York Times Company](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
-
-- [NYTCo](https://archive.ph/o/UrzdT/https://www.nytco.com/)
-- [Contact Us](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
-- [Accessibility](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us/articles/115015727108-Accessibility)
-- [Work with us](https://archive.ph/o/UrzdT/https://www.nytco.com/careers/)
-- [Advertise](https://archive.ph/o/UrzdT/https://advertising.nytimes.com/)
-- [T Brand Studio](https://archive.ph/o/UrzdT/https://www.tbrandstudio.com/)
-- [Your Ad Choices](https://archive.ph/o/UrzdT/https://www.nytimes.com/privacy/cookie-policy%23how-do-i-manage-trackers)
-- [Privacy Policy](https://archive.ph/o/UrzdT/https://www.nytimes.com/privacy/privacy-policy)
-- [Terms of Service](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
-- [Terms of Sale](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-- [Site Map](https://archive.ph/o/UrzdT/https://www.nytimes.com/sitemap/)
-- [Help](https://archive.ph/o/UrzdT/https://help.nytimes.com/hc/en-us)
-- [Subscriptions](https://archive.ph/o/UrzdT/https://www.nytimes.com/subscription)
-
-- [](https://archive.ph/o/UrzdT/https://www.nytimes.com/privacy/your-privacy-choices)
-
-- [Your Privacy Choices](https://archive.ph/o/UrzdT/https://www.nytimes.com/privacy/your-privacy-choices)
-
-|   |
-|---|
-|[0%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#0%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#5%)|
-|[10%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#10%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#15%)|
-|[20%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#20%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#25%)|
-|[30%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#30%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#35%)|
-|[40%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#40%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#45%)|
-|[50%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#50%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#55%)|
-|[60%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#60%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#65%)|
-|[70%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#70%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#75%)|
-|[80%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#80%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#85%)|
-|[90%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#90%)|
-|[](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#95%)|
-|[100%](https://archive.ph/UrzdT/again?url=https://www.nytimes.com/2025/04/25/opinion/ezra-klein-podcast-ross-douthat.html#100%)|

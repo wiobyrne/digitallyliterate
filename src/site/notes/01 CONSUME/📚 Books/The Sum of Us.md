@@ -5,8 +5,7 @@
 
 ![cover|300](http://books.google.com/books/content?id=DLhPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # The Sum of Us
-**Author:** [[Heather McGhee\|Heather McGhee]]
-
+**Author:** [[Heather McGhee\|Heather McGhee]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

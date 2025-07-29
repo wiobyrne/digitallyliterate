@@ -5,8 +5,7 @@
 
 ![cover|300](https://m.media-amazon.com/images/I/91zrCZQ+5cL._UF1000,1000_QL80_.jpg)
 # When They Call You a Terrorist
-**Author:** [[Patrisse Khan-Cullors, asha bandele\|Patrisse Khan-Cullors, asha bandele]]
-
+**Author:** [[Patrisse Khan-Cullors, asha bandele\|Patrisse Khan-Cullors, asha bandele]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "When They Call You a Terrorist" is a powerful memoir that delves into themes of activism, racial injustice, and social justice.
 - The authors, Patrisse Khan-Cullors and asha bandele, provide a raw and honest account of their experiences with racism and oppression.

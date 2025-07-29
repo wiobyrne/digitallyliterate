@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=bn4DEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Pacific Circuit
-**Author:** [[Alexis Madrigal\|Alexis Madrigal]]
-
+**Author:** [[Alexis Madrigal\|Alexis Madrigal]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Pacific Circuit" delves into the history of technology and innovation in the Pacific region, exploring how various advancements have shaped societies and cultures.
 - The book discusses the interconnectedness of different countries in the Pacific and how technological developments have influenced trade, communication, and everyday life.
