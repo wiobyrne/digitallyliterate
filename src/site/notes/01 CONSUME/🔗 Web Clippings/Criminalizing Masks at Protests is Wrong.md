@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/criminalizing-masks-at-protests-is-wrong/","title":"Criminalizing Masks at Protests is Wrong","tags":["surveillance"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/criminalizing-masks-at-protests-is-wrong/","title":"Criminalizing Masks at Protests is Wrong","tags":["surveillance"],"created":"2025-06-26"}
 ---
 
 # Criminalizing Masks at Protests is Wrong

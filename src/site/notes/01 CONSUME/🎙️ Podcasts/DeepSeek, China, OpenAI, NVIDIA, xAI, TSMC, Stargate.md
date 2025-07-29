@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/deep-seek-china-open-ai-nvidia-x-ai-tsmc-stargate/","title":"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters","tags":["podcasts","artificial-intelligence","semiconductors","geopolitics","technology-industry","china-ai","nvidia","tsmc"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/deep-seek-china-open-ai-nvidia-x-ai-tsmc-stargate/","title":"DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters","tags":["podcasts","artificial-intelligence","semiconductors","geopolitics","technology-industry","china-ai","nvidia","tsmc"],"created":"2025-01-27","updated":"2025-07-27"}
 ---
 
 # DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters

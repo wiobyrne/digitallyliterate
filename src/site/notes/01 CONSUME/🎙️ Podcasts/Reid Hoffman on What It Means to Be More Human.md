@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/reid-hoffman-on-what-it-means-to-be-more-human/","title":"Reid Hoffman on What It Means to Be More Human","tags":["podcasts"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/reid-hoffman-on-what-it-means-to-be-more-human/","title":"Reid Hoffman on What It Means to Be More Human","tags":["podcasts","artificial-intelligence","human-connection","technology-ethics","friendship","philosophy","spiritual-technology"],"created":"2023-05-18","updated":"2025-07-28"}
 ---
 
 
@@ -8,11 +8,36 @@
 
 ![Cover|300](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fd5bd87cf-c1b4-4724-a2e0-67be37425906%2Fa6b148ee-97c6-4a85-9e41-868133c93db6%2F3000x3000%2Fonbe-isolated-master-logo-square.jpg%3Faid%3Drss_feed&w=300&h=300)
 
-[[02 DEVELOP/Podcasts/On Being with Krista Tippett\|On Being with Krista Tippett]] hosted by [[Krista Tippett\|Krista Tippett]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[02 DEVELOP/Podcasts/On Being with Krista Tippett\|On Being with Krista Tippett]] hosted by [[Krista Tippett\|Krista Tippett]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
 
 In this season of  On Being  and those to come, we are going to train the core human questions on the emerging “generative AI.” Beyond the hype and the doom, what is this new technology calling us to as human beings? What is our agency to shape it to human purpose, and how might it bring us — literally — to our senses? This inaugural conversation with Reid Hoffman is a wide and deep beginning foundation. He and Krista venture into unexpectedly relevant places, like the nature of friendship in human life, and what it would mean to create “contained, boundaried AI” — and Reid's use of words like “delightful” and “elevating” as qualities we can impart to this technology which, as we're hearing again and again, is going to change everything.
 
 [[Reid Hoffman\|Reid Hoffman]] is co-founder and former executive chairman of [[LinkedIn\|LinkedIn]], and a partner at the venture capital firm Greylock Partners. He's known by some as the philosopher of [[Silicon Valley\|Silicon Valley]]. He is currently on the board of [[Microsoft\|Microsoft]] and was an early investor in [[OpenAI\|OpenAI]], which brought [[ChatGPT\|ChatGPT]] into the world. His latest book, which he co-wrote together with GPT-4, is   [[01 CONSUME/📚 Books/Impromptu\|Impromptu]] . 
+
+## 🧠 Knowledge Development Connections
+
+This episode explores profound questions about AI's impact on human nature and relationships, offering philosophical frameworks for understanding technology's role in human flourishing and meaning-making.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Reid Hoffman\|Reid Hoffman]]** - Co-founder of LinkedIn, Silicon Valley philosopher, and early OpenAI investor exploring AI's human implications
+- **[[Krista Tippett\|Krista Tippett]]** - Host of On Being, expert in meaning-making conversations and spiritual intelligence in contemporary life
+- **[[02 DEVELOP/Podcasts/On Being with Krista Tippett\|On Being with Krista Tippett]]** - Podcast exploring life's big questions through conversations with thinkers, activists, and spiritual leaders
+- **[[LinkedIn\|LinkedIn]]** - Professional networking platform demonstrating technology's role in human connection and career development
+- **[[OpenAI\|OpenAI]]** - AI research company developing ChatGPT and other generative AI technologies
+- **[[ChatGPT\|ChatGPT]]** - Large language model representing current frontier of human-AI interaction and collaboration
+- **[[01 CONSUME/📚 Books/Impromptu\|Impromptu]]** - Book co-authored by Hoffman and GPT-4, exploring human-AI creative collaboration
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- **Contained, Boundaried AI** - Frameworks for developing AI systems that remain aligned with human values and purposes
+- **Delightful Technology** - Design principles for creating AI that enhances rather than diminishes human experience
+- **Friendship in the Digital Age** - Understanding how authentic human connection evolves alongside AI relationships
+- **Spiritual Technology** - Exploring how digital tools can support meaning-making and human flourishing
+- **Human Agency in AI Development** - Strategies for maintaining human control and purpose in technological evolution
 
 ## Snips
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/pisa-2029-introduces-ai-and-media-literacy-what-schools-need-to-know/","title":"PISA 2029 Introduces AI and Media Literacy What Schools Need to Know","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/pisa-2029-introduces-ai-and-media-literacy-what-schools-need-to-know/","title":"PISA 2029 Introduces AI and Media Literacy What Schools Need to Know","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # PISA 2029 Introduces AI and Media Literacy What Schools Need to Know

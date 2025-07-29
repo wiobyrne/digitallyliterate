@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/tristan-harris-on-social-media/","title":"Tristan Harris on Social Media","tags":["podcasts"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/tristan-harris-on-social-media/","title":"Tristan Harris on Social Media","tags":["podcasts","social-media","technology-ethics","attention-economy","artificial-intelligence","human-behavior","digital-addiction"],"created":"2023-10-15","updated":"2025-07-28"}
 ---
 
 # Tristan Harris on Social Media
@@ -8,7 +8,31 @@
 
 [[Tristan Harris\|Tristan Harris]], was on the [[Making Sense with Sam Harris\|Making Sense with Sam Harris]] podcast, hosted by [[Sam Harris\|Sam Harris]]. Tristan Harris is a former [[Google\|Google]] designer and [[advocate\|advocate]] for [[ethical technology\|ethical technology]], discusses the detrimental effects of [[02 DEVELOP/🌿 Plants/Social Media Visibility\|Social Media Visibility]] on individual and societal [[well-being\|well-being]]. He shares insights from his documentary, [[The Social Dilemma\|The Social Dilemma]], focusing on how [[algorithms\|algorithms]] promote division. The conversation includes perspectives on content moderation and corporate transparency from [[Jack Dorsey\|Jack Dorsey]], while [[Jonathan Haidt\|Jonathan Haidt]] reveals alarming [[mental health\|mental health]] impacts, particularly on [[adolescent\|adolescent]] [[girls\|girls]]. The episode concludes with a look at the political ramifications of social media, emphasizing the urgent need for solutions.
 
-[[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
+
+## 🧠 Knowledge Development Connections
+
+This episode explores critical themes around technology's impact on human behavior and societal well-being, particularly relevant to understanding digital ethics and attention economy dynamics in the vault.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Tristan Harris\|Tristan Harris]]** - Former Google designer turned technology ethicist, co-founder of Center for Humane Technology
+- **[[Sam Harris\|Sam Harris]]** - Philosopher and neuroscientist examining consciousness, ethics, and technology's impact on human behavior
+- **[[Making Sense with Sam Harris\|Making Sense with Sam Harris]]** - Podcast exploring philosophy, consciousness, and contemporary ethical challenges
+- **[[The Social Dilemma\|The Social Dilemma]]** - Documentary examining social media's detrimental effects on society and democracy
+- **[[Attention Economy\|Attention Economy]]** - Economic framework where human attention becomes the scarce resource being harvested and monetized
+- **[[Technology Ethics\|Technology Ethics]]** - Framework for evaluating moral implications of technological systems and their societal impact
+- **[[Human Behavior\|Human Behavior]]** - Understanding psychological vulnerabilities exploited by algorithmic systems
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- **Asymmetric Power Dynamics** - The imbalance between human cognitive capacity and AI-powered recommendation systems
+- **Digital Humane Design** - Principles for creating technology that supports rather than exploits human psychology
+- **Information Economics** - Alternative models for valuing and compensating human-generated content in digital ecosystems
+- **Attention as Resource** - Understanding attention as finite cognitive resource requiring protection and conscious allocation
 
 ## Highlights
 

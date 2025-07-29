@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/jonathan-kanter-on-the-case-for-breaking-up-google/","title":"Decoder The case for breaking up Google has never been stronger","tags":["podcasts"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/jonathan-kanter-on-the-case-for-breaking-up-google/","title":"Jonathan Kanter on the case for breaking up Google","tags":["podcasts","antitrust","google","big-tech","ad-tech","legal-strategy","competition-policy"],"created":"2024-12-15","updated":"2025-07-28"}
 ---
 
 # Jonathan Kanter on the case for breaking up Google 
@@ -7,9 +7,37 @@
 
 ![Cover|200](https://wsrv.nl/?url=https%3A%2F%2Fmegaphone.imgix.net%2Fpodcasts%2F5c6a4f4a-e69c-11e8-8066-17a10182e4c8%2Fimage%2FThe_Verge_Decoder_Tileart_3000.jpg%3Fixlib%3Drails-4.3.1%26max-w%3D3000%26max-h%3D3000%26fit%3Dcrop%26auto%3Dformat%2Ccompress&w=300&h=300)
 
- [[02 DEVELOP/Podcasts/Decoder with Nilay Patel\|Decoder with Nilay Patel]] hosted by [[Nilay Patel\|Nilay Patel]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+ [[02 DEVELOP/Podcasts/Decoder with Nilay Patel\|Decoder with Nilay Patel]] hosted by [[Nilay Patel\|Nilay Patel]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
  
  Jonathan Kanter, the former Assistant Attorney General for Antitrust, reveals insights from his tenure leading critical [[antitrust\|antitrust]] cases against [[Google\|Google]]. He discusses the growing urgency for the U.S. government to consider breaking up the tech giant to promote fair competition. Kanter elaborates on the legal complexities of Google's [[ad tech\|ad tech]] monopoly and the political influences impacting these cases. He also highlights the implications for democracy and innovation, conveying the message that the fight against [[Big Tech\|Big Tech]] is far from over.
+
+## 🧠 Knowledge Development Connections
+
+This episode provides unprecedented insights into the DOJ's strategy for prosecuting one of the most significant antitrust cases in decades. Kanter's discussion reveals the intersection of technology, law, economics, and democracy, showing how concentrated market power affects innovation, journalism, and competitive markets.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Jonathan Kanter\|Jonathan Kanter]]** - Former Assistant Attorney General for Antitrust who led DOJ's cases against Google and other tech giants
+- **[[02 DEVELOP/Podcasts/Decoder with Nilay Patel\|Decoder with Nilay Patel]]** - Platform for exploring technology's impact on business, law, and society
+- **[[Google Antitrust\|Google Antitrust]]** - Landmark cases addressing Google's dominance in search and ad tech markets
+- **[[Ad Tech Monopoly\|Ad Tech Monopoly]]** - Google's control over buy-side, sell-side, and exchange infrastructure for digital advertising
+- **[[DOJ Antitrust Division\|DOJ Antitrust Division]]** - Federal enforcement agency responsible for preventing anti-competitive business practices
+- **[[Competition Policy\|Competition Policy]]** - Legal frameworks designed to promote market competition and prevent monopolization
+- **[[Structural Remedies\|Structural Remedies]]** - Legal solutions requiring companies to divest assets or change business structure
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- Antitrust enforcement at technological inflection points and market transitions
+- Building "boutique law firm" culture within government agencies for complex litigation
+- Ad tech market structure and its impact on journalism and democratic discourse
+- Structural vs. behavioral remedies in technology antitrust cases
+- Strategic complaint writing for complex technical cases
+- Market manipulation techniques in digital advertising auctions
+- Future of open web economics and publisher monetization models
+- AI's role in future antitrust enforcement and market competition
  
 ## Snips
 

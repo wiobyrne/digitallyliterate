@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/keeping-the-web-up-under-the-weight-of-ai-crawlers/","title":"Keeping the Web Up Under the Weight of AI Crawlers","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/keeping-the-web-up-under-the-weight-of-ai-crawlers/","title":"Keeping the Web Up Under the Weight of AI Crawlers","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # Keeping the Web Up Under the Weight of AI Crawlers

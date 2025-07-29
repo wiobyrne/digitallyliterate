@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/kevin-kelly-on-personal-growth-and-well-being/","title":"Kevin Kelly on Personal Growth and Well-being","tags":["podcasts","personal-growth","well-being","optimism","future-thinking","ai","creativity","communication","problem-solving"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/kevin-kelly-on-personal-growth-and-well-being/","title":"Kevin Kelly on Personal Growth and Well-being","tags":["podcasts","personal-growth","well-being","optimism","future-thinking","ai","creativity","communication","problem-solving"],"created":"2024-01-18","updated":"2025-07-27"}
 ---
 
 # Kevin Kelly on Personal Growth and Well-being

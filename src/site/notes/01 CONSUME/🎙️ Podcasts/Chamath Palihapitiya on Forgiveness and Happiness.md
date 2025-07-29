@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/chamath-palihapitiya-on-forgiveness-and-happiness/","title":"Chamath Palihapitiya on Forgiveness and Happiness","tags":["podcasts","forgiveness","happiness","leadership","venture-capital","personal-growth"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/chamath-palihapitiya-on-forgiveness-and-happiness/","title":"Chamath Palihapitiya on Forgiveness and Happiness","tags":["podcasts","forgiveness","happiness","leadership","venture-capital","personal-growth"],"created":"2023-11-10","updated":"2025-07-27"}
 ---
 
 # Chamath Palihapitiya on Forgiveness and Happiness

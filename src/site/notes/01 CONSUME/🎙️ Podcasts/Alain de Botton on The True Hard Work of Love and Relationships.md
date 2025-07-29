@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/alain-de-botton-on-the-true-hard-work-of-love-and-relationships/","title":"Alain de Botton on The True Hard Work of Love and Relationships","tags":["podcasts","love","relationships","philosophy","psychology","emotional-intelligence"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/alain-de-botton-on-the-true-hard-work-of-love-and-relationships/","title":"Alain de Botton on The True Hard Work of Love and Relationships","tags":["podcasts","love","relationships","philosophy","psychology","emotional-intelligence"],"created":"2023-02-14","updated":"2025-07-27"}
 ---
 
 # Alain de Botton on The True Hard Work of Love and Relationships

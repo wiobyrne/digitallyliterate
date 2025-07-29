@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/adi-robertson-on-why-the-take-it-down-act-is-a-not-a-law-but-a-weapon/","title":"Adi Robertson on Why the Take It Down Act is a not a law, but a weapon","tags":["podcasts","technology-policy","content-moderation","digital-rights","law","internet-regulation"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/adi-robertson-on-why-the-take-it-down-act-is-a-not-a-law-but-a-weapon/","title":"Adi Robertson on Why the Take It Down Act is a not a law, but a weapon","tags":["podcasts","technology-policy","content-moderation","digital-rights","law","internet-regulation"],"created":"2024-01-10","updated":"2025-07-27"}
 ---
 
 # Adi Robertson on Why the Take It Down Act is a not a law, but a weapon

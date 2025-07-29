@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/craig-foster-of-my-octopus-teacher/","title":"Craig Foster of My Octopus Teacher","tags":["podcasts","nature-connection","wildlife-observation","ocean-exploration","mindfulness","conservation"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/craig-foster-of-my-octopus-teacher/","title":"Craig Foster of My Octopus Teacher","tags":["podcasts","nature-connection","wildlife-observation","ocean-exploration","mindfulness","conservation"],"created":"2022-03-10","updated":"2025-07-27"}
 ---
 
 # Craig Foster of My Octopus Teacher

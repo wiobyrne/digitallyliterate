@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/sam-corcos-on-delegation-and-letting-go/","title":"Sam Corcos on Delegation and Letting Go","tags":["podcasts","delegation","productivity","leadership","time-management","virtual-assistants","glucose-monitoring"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/sam-corcos-on-delegation-and-letting-go/","title":"Sam Corcos on Delegation and Letting Go","tags":["podcasts","delegation","productivity","leadership","time-management","virtual-assistants","glucose-monitoring"],"created":"2023-09-12","updated":"2025-07-28"}
 ---
 
 # Sam Corcos on Delegation and Letting Go

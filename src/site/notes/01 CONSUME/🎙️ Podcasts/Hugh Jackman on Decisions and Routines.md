@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/hugh-jackman-on-decisions-and-routines/","title":"Hugh Jackman on Decisions and Routines","tags":["podcasts","personal-development","decision-making","routines","creativity","meditation","performance","consistency"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/hugh-jackman-on-decisions-and-routines/","title":"Hugh Jackman on Decisions and Routines","tags":["podcasts","personal-development","decision-making","routines","creativity","meditation","performance","consistency"],"created":"2023-04-25","updated":"2025-07-27"}
 ---
 
 # Hugh Jackman on Decisions and Routines

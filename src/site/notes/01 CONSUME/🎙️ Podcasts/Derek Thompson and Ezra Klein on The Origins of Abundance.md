@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/derek-thompson-and-ezra-klein-on-the-origins-of-abundance/","title":"Derek Thompson and Ezra Klein on The Origins of Abundance","tags":["podcasts","abundance-thinking","policy-analysis","progressive-politics","supply-side-progressivism","economic-policy","book-discussion"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/derek-thompson-and-ezra-klein-on-the-origins-of-abundance/","title":"Derek Thompson and Ezra Klein on The Origins of Abundance","tags":["podcasts","abundance-thinking","policy-analysis","progressive-politics","supply-side-progressivism","economic-policy","book-discussion"],"created":"2025-03-17","updated":"2025-07-27"}
 ---
 
 # Derek Thompson and Ezra Klein on The Origins of Abundance

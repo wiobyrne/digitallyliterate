@@ -7,8 +7,7 @@
 # Daring Greatly
 
 ## Overview
-- **Author:** [[Brené Brown\|Brené Brown]]
-
+- **Author:** [[Brené Brown\|Brené Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 > - "Daring Greatly" is a self-help book that encourages readers to embrace vulnerability and imperfection, to live wholeheartedly, and to courageously engage in our lives.
 > - The author, Brené Brown, uses her extensive research on shame and vulnerability to challenge the myth that vulnerability is a weakness when it's actually a strength.

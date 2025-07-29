@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/flow-stoppers/","title":"Flow Stoppers - Identifying and Overcoming Barriers to Optimal Experience","tags":["flow-psychology","productivity","attention-management","optimal-experience","performance-barriers"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/flow-stoppers/","title":"Flow Stoppers - Identifying and Overcoming Barriers to Optimal Experience","tags":["flow-psychology","productivity","attention-management","optimal-experience","performance-barriers"],"created":"2025-01-01"}
 ---
 
 

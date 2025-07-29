@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/burden-of-proof/","title":"Burden of Proof","tags":["logic","argumentation","rhetoric","fallacies","epistemology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/burden-of-proof/","title":"Burden of Proof","tags":["logic","argumentation","rhetoric","fallacies","epistemology"],"created":"2025-07-19","updated":"2025-07-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/trump-taps-palantir-to-compile-data-on-americans/","title":"Trump Taps Palantir to Compile Data on Americans","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/trump-taps-palantir-to-compile-data-on-americans/","title":"Trump Taps Palantir to Compile Data on Americans","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # Trump Taps Palantir to Compile Data on Americans

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/steven-hahn-on-illberal-america/","title":"Steven Hahn on Illiberal America","tags":["podcasts","american-history","illiberalism","political-analysis","authoritarianism","democracy","exclusion-politics"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/steven-hahn-on-illberal-america/","title":"Steven Hahn on Illiberal America","tags":["podcasts","american-history","illiberalism","political-analysis","authoritarianism","democracy","exclusion-politics"],"created":"2025-04-23","updated":"2025-07-28"}
 ---
 
 # Steven Hahn on Illberal America

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/mark-manson-on-success-and-writing/","title":"Mark Manson on Success and Writing","tags":["podcasts","writing","success","boundaries","creativity","blogging","personal-development","expectations","health"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/mark-manson-on-success-and-writing/","title":"Mark Manson on Success and Writing","tags":["podcasts","writing","success","boundaries","creativity","blogging","personal-development","expectations","health"],"created":"2024-03-22","updated":"2025-07-27"}
 ---
 
 # Mark Manson on Success and Writing

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/decentralized-network-organization-for-educational-communities/","title":"Decentralized Network Organization for Educational Communities","tags":["decentralized-networks","cooperative-governance","network-organization","educational-communities","distributed-leadership","community-building"]}
+{"dg-publish":true,"permalink":"/03-create/evergreens/decentralized-network-organization-for-educational-communities/","title":"Decentralized Network Organization for Educational Communities","tags":["decentralized-networks","cooperative-governance","network-organization","educational-communities","distributed-leadership","community-building"],"created":"2025-07-19","updated":"2025-07-19"}
 ---
 
 

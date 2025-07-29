@@ -6,8 +6,7 @@
 # 21 Lessons for the 21st Century
 
 ## Overview
-- **Author:** [[Yuval Noah Harari\|Yuval Noah Harari]]
-
+- **Author:** [[Yuval Noah Harari\|Yuval Noah Harari]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "21 Lessons for the 21st Century" by Yuval Noah Harari offers an exploration of what the future holds in terms of technology, politics, and human nature. It examines how we can navigate today's fast-changing landscape and prepare ourselves for what's to come. The book challenges readers to question their values, beliefs, and identities in order to better understand the world and our place in it.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/web-clippings/","title":"🔗 Web Clippings","tags":["web-clippings","articles","folder-note"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/web-clippings/","title":"🔗 Web Clippings","tags":["web-clippings","articles","folder-note"],"created":"2025-07-26","updated":"2025-07-26"}
 ---
 
 

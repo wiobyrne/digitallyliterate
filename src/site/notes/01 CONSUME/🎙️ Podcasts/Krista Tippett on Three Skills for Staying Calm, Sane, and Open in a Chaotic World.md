@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/krista-tippett-on-three-skills-for-staying-calm-sane-and-open-in-a-chaotic-world/","title":"Krista Tippett on Three Skills for Staying Calm, Sane, and Open in a Chaotic World","tags":["podcasts"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/krista-tippett-on-three-skills-for-staying-calm-sane-and-open-in-a-chaotic-world/","title":"Krista Tippett on Three Skills for Staying Calm, Sane, and Open in a Chaotic World","tags":["podcasts","mindfulness","wisdom","resilience","spiritual-practices","meaning-making","contemplative-practices"],"created":"2023-09-10","updated":"2025-07-28"}
 ---
 
 # Krista Tippett on Three Skills for Staying Calm, Sane, and Open in a Chaotic World
@@ -7,9 +7,37 @@
 
 ![Cover|300](https://wsrv.nl/?url=https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2Fd5bd87cf-c1b4-4724-a2e0-67be37425906%2Fa6b148ee-97c6-4a85-9e41-868133c93db6%2F3000x3000%2Fonbe-isolated-master-logo-square.jpg%3Faid%3Drss_feed&w=300&h=300)
 
-[[02 DEVELOP/Podcasts/On Being with Krista Tippett\|On Being with Krista Tippett]] hosted by [[Krista Tippett\|Krista Tippett]] - [[02 DEVELOP/🗂️ MOCs/Podcast Index\|Podcast Index]]
+[[02 DEVELOP/Podcasts/On Being with Krista Tippett\|On Being with Krista Tippett]] hosted by [[Krista Tippett\|Krista Tippett]] - [[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]
 
 Krista Tippett shares insights from 20 years of interviews, including the importance of living with open questions, counterprogramming negativity bias, and navigating differences in relationships. She discusses the concept of a wise life and the importance of knowing what you love. The podcast also explores the power of embracing uncertainty, letting questions teach us, and avoiding rushed answers. Lastly, it touches on changes and future plans for 'On Being with Krista Tippett'.
+
+## 🧠 Knowledge Development Connections
+
+This episode distills decades of Tippett's conversations with wisdom teachers, scientists, and spiritual leaders into practical frameworks for navigating contemporary challenges. Her three skills offer concrete practices for maintaining equanimity and openness amid social, political, and personal turbulence.
+
+### Related Notes
+
+The themes in this episode connect to several key areas in the vault:
+
+- **[[Krista Tippett\|Krista Tippett]]** - Journalist, author, and host who has spent decades exploring meaning, spirituality, and what it means to be human
+- **[[02 DEVELOP/Podcasts/On Being with Krista Tippett\|On Being with Krista Tippett]]** - Pioneering platform for conversations about life's big questions, spirituality, and human flourishing
+- **[[Three Skills\|Three Skills]]** - Practical frameworks for staying calm, sane, and open in chaotic times
+- **[[02 DEVELOP/🌿 Plants/Mindfulness\|Mindfulness]]** - Present-moment awareness practices that counter reactivity and cultivate clarity
+- **[[Wisdom Practices\|Wisdom Practices]]** - Time-tested approaches for navigating complexity and uncertainty with grace
+- **[[Spiritual Resilience\|Spiritual Resilience]]** - Capacity to maintain openness and connection during difficult circumstances
+- **[[Contemplative Life\|Contemplative Life]]** - Approach to living that prioritizes reflection, depth, and meaning-making over reactive busyness
+
+### Potential Development Areas
+
+The conversation suggests several concepts worth developing:
+- Living with open questions as alternative to premature closure and certainty
+- Counterprogramming negativity bias through intentional practices and attention training
+- Navigating differences in relationships without losing connection or authenticity
+- Wise life principles derived from cross-cultural wisdom traditions
+- Knowing what you love as foundation for meaningful action and decision-making
+- Embracing uncertainty as creative and generative rather than threatening
+- Question-led learning that prioritizes curiosity over quick answers
+- Future visioning for contemplative media and spiritual discourse
 
 ## Snips
 

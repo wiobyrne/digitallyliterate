@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/arthur-brooks-on-where-is-happiness/","title":"Arthur Brooks on Where Is Happiness","tags":["podcasts","happiness","psychology","well-being","positive-psychology","life-satisfaction"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/arthur-brooks-on-where-is-happiness/","title":"Arthur Brooks on Where Is Happiness","tags":["podcasts","happiness","psychology","well-being","positive-psychology","life-satisfaction"],"created":"2023-06-15","updated":"2025-07-27"}
 ---
 
 # Arthur Brooks on Where Is Happiness

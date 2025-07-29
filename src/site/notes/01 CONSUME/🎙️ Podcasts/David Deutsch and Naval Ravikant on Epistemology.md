@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/david-deutsch-and-naval-ravikant-on-epistemology/","title":"David Deutsch and Naval Ravikant on Epistemology","tags":["podcasts","epistemology","philosophy","physics","artificial-intelligence","creativity","knowledge-creation"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/david-deutsch-and-naval-ravikant-on-epistemology/","title":"David Deutsch and Naval Ravikant on Epistemology","tags":["podcasts","epistemology","philosophy","physics","artificial-intelligence","creativity","knowledge-creation"],"created":"2022-08-15","updated":"2025-07-27"}
 ---
 
 # David Deutsch and Naval Ravikant on Epistemology

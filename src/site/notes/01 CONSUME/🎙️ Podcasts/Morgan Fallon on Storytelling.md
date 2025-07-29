@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/morgan-fallon-on-storytelling/","title":"Morgan Fallon on Storytelling","tags":["podcasts","storytelling","television-production","documentary-filmmaking","anthony-bourdain","michael-mann","creative-leadership"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/morgan-fallon-on-storytelling/","title":"Morgan Fallon on Storytelling","tags":["podcasts","storytelling","television-production","documentary-filmmaking","anthony-bourdain","michael-mann","creative-leadership"],"created":"2023-09-22","updated":"2025-07-27"}
 ---
 
 # Morgan Fallon on Storytelling

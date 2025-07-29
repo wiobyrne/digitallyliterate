@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/david-spiegel-on-hypnosis-for-therapeutic-purposes/","title":"David Spiegel on Hypnosis for Therapeutic Purposes","tags":["podcasts","hypnosis","neuroscience","psychology","therapy","pain-management","mental-health"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/david-spiegel-on-hypnosis-for-therapeutic-purposes/","title":"David Spiegel on Hypnosis for Therapeutic Purposes","tags":["podcasts","hypnosis","neuroscience","psychology","therapy","pain-management","mental-health"],"created":"2023-04-15","updated":"2025-07-27"}
 ---
 
 # David Spiegel on Hypnosis for Therapeutic Purposes

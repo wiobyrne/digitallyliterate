@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/tom-friedman-thinks-we-re-getting-china-dangerously-wrong/","title":"Tom Friedman Thinks We're Getting China Dangerously Wrong","tags":["podcasts","china","geopolitics","manufacturing","technology-competition","us-china-relations","trade-policy"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/tom-friedman-thinks-we-re-getting-china-dangerously-wrong/","title":"Tom Friedman Thinks We're Getting China Dangerously Wrong","tags":["podcasts","china","geopolitics","manufacturing","technology-competition","us-china-relations","trade-policy"],"created":"2025-04-15","updated":"2025-07-29"}
 ---
 
 # Tom Friedman Thinks We're Getting China Dangerously Wrong

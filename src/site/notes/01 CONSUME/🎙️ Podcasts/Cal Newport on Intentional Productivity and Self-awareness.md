@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/cal-newport-on-intentional-productivity-and-self-awareness/","title":"Cal Newport on Intentional Productivity and Self-awareness","tags":["podcasts","productivity","deep-work","digital-minimalism","self-awareness","career-development"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/cal-newport-on-intentional-productivity-and-self-awareness/","title":"Cal Newport on Intentional Productivity and Self-awareness","tags":["podcasts","productivity","deep-work","digital-minimalism","self-awareness","career-development"],"created":"2023-09-15","updated":"2025-07-27"}
 ---
 
 # Cal Newport on Intentional Productivity and Self-awareness

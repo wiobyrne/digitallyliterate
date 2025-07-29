@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/sheila-heen-on-giving-and-receiving-feedback/","title":"Sheila Heen on Giving and Receiving Feedback","tags":["podcasts","feedback","communication","difficult-conversations","empathy","emotional-awareness","conflict-resolution"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/sheila-heen-on-giving-and-receiving-feedback/","title":"Sheila Heen on Giving and Receiving Feedback","tags":["podcasts","feedback","communication","difficult-conversations","empathy","emotional-awareness","conflict-resolution"],"created":"2023-07-20","updated":"2025-07-28"}
 ---
 
 # Sheila Heen on Giving and Receiving Feedback

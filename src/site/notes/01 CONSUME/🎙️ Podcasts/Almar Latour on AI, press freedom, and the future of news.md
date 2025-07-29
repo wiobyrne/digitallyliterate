@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/almar-latour-on-ai-press-freedom-and-the-future-of-news/","title":"Almar Latour on AI, press freedom, and the future of news","tags":["podcasts","artificial-intelligence","journalism","press-freedom","media-industry","technology-impact"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/almar-latour-on-ai-press-freedom-and-the-future-of-news/","title":"Almar Latour on AI, press freedom, and the future of news","tags":["podcasts","artificial-intelligence","journalism","press-freedom","media-industry","technology-impact"],"created":"2024-05-20","updated":"2025-07-27"}
 ---
 
 # Almar Latour on AI, press freedom, and the future of news

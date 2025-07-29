@@ -6,8 +6,7 @@
 # Acceptance
 
 ## Overview
-- **Author:** [[Jeff VanderMeer\|Jeff VanderMeer]]
-
+- **Author:** [[Jeff VanderMeer\|Jeff VanderMeer]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Acceptance" is the third and final book in the Southern Reach Trilogy by Jeff VanderMeer, giving readers closure to the mysteries of Area X. The narrative weaves between past, present, and future to reveal the origins and nature of Area X as well as the fate of its explorers. It explores themes like human nature, acceptance of oneself and others, and how human actions impact nature.
 

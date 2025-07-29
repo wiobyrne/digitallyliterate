@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/the-egg-yolk-principle-human-sexuality-will-always-outsmart-prudish-algorithms-and-hateful-politicians/","title":"The Egg Yolk Principle: Human Sexuality Will Always Outsmart Prudish Algorithms and Hateful Politicians","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/the-egg-yolk-principle-human-sexuality-will-always-outsmart-prudish-algorithms-and-hateful-politicians/","title":"The Egg Yolk Principle: Human Sexuality Will Always Outsmart Prudish Algorithms and Hateful Politicians","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # The Egg Yolk Principle Human Sexuality Will Always Outsmart Prudish Algorithms and Hateful Politicians

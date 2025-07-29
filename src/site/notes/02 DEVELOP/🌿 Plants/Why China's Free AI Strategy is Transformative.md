@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/why-china-s-free-ai-strategy-is-transformative/","title":"Why China's Free AI Strategy is Transformative","tags":["china","deepseek","ai","strategy","data-collection","market-disruption"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/why-china-s-free-ai-strategy-is-transformative/","title":"Why China's Free AI Strategy is Transformative","tags":["china","deepseek","ai","strategy","data-collection","market-disruption"],"created":"2025-01-01"}
 ---
 
 

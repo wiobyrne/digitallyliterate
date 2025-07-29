@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/derek-sivers-on-an-un-optimized-life/","title":"Derek Sivers on an Un-Optimized Life","tags":["podcasts","philosophy","minimalism","tech-independence","decision-making","skepticism","identity","personal-growth"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/derek-sivers-on-an-un-optimized-life/","title":"Derek Sivers on an Un-Optimized Life","tags":["podcasts","philosophy","minimalism","tech-independence","decision-making","skepticism","identity","personal-growth"],"created":"2024-03-12","updated":"2025-07-27"}
 ---
 
 # Derek Sivers on an Un-Optimized Life

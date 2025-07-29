@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/matt-mullenweg-on-the-art-of-crafting-a-sabbatical-1/","title":"Matt Mullenweg on The Art of Crafting a Sabbatical 1","tags":["podcasts","sabbatical","entrepreneurship","renewal","ai","meditation","personal-growth","business-strategy"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/matt-mullenweg-on-the-art-of-crafting-a-sabbatical-1/","title":"Matt Mullenweg on The Art of Crafting a Sabbatical 1","tags":["podcasts","sabbatical","entrepreneurship","renewal","ai","meditation","personal-growth","business-strategy"],"created":"2024-02-10","updated":"2025-07-27"}
 ---
 
 # Matt Mullenweg on The Art of Crafting a Sabbatical 1

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/from-second-brain-to-collective/","title":"From Second Brain to Collective","tags":["podcasts","second-brain","collective-intelligence","tools-for-thinking","extended-mind","knowledge-management"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/from-second-brain-to-collective/","title":"From Second Brain to Collective","tags":["podcasts","second-brain","collective-intelligence","tools-for-thinking","extended-mind","knowledge-management"],"created":"2022-10-15","updated":"2025-07-27"}
 ---
 
 # From Second Brain to Collective

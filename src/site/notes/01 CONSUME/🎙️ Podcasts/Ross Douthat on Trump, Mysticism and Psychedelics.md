@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/ross-douthat-on-trump-mysticism-and-psychedelics/","title":"Ross Douthat on Trump, Mysticism and Psychedelics","tags":["podcasts","politics","religion","mysticism","trump","organized-religion","belief-systems"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/ross-douthat-on-trump-mysticism-and-psychedelics/","title":"Ross Douthat on Trump, Mysticism and Psychedelics","tags":["podcasts","politics","religion","mysticism","trump","organized-religion","belief-systems"],"created":"2025-04-25","updated":"2025-07-27"}
 ---
 
 

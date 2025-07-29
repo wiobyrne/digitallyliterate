@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/reed-hastings-on-radical-candor/","title":"Reed Hastings on Radical Candor","tags":["podcasts","radical-candor","leadership","company-culture","netflix","feedback","decision-making","organizational-design"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/reed-hastings-on-radical-candor/","title":"Reed Hastings on Radical Candor","tags":["podcasts","radical-candor","leadership","company-culture","netflix","feedback","decision-making","organizational-design"],"created":"2023-11-02","updated":"2025-07-27"}
 ---
 
 # Reed Hastings on Radical Candor

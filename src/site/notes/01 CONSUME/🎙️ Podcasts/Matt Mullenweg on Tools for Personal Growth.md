@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/matt-mullenweg-on-tools-for-personal-growth/","title":"Matt Mullenweg on Tools for Personal Growth","tags":["podcasts","personal-growth","open-source","cybersecurity","mental-health","ai","privacy","community","blogging"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/matt-mullenweg-on-tools-for-personal-growth/","title":"Matt Mullenweg on Tools for Personal Growth","tags":["podcasts","personal-growth","open-source","cybersecurity","mental-health","ai","privacy","community","blogging"],"created":"2024-02-12","updated":"2025-07-27"}
 ---
 
 # Matt Mullenweg on Tools for Personal Growth

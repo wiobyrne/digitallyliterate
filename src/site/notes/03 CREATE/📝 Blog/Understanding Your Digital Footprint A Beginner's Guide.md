@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/understanding-your-digital-footprint-a-beginner-s-guide/","title":"Understanding Your Digital Footprint A Beginner's Guide","tags":["digital-resilience-series","digital-footprint","privacy-audit","data-brokers","beginner-friendly"]}
+{"dg-publish":true,"permalink":"/03-create/blog/understanding-your-digital-footprint-a-beginner-s-guide/","title":"Understanding Your Digital Footprint A Beginner's Guide","tags":["digital-resilience-series","digital-footprint","privacy-audit","data-brokers","beginner-friendly"],"created":"2025-07-16"}
 ---
 
 

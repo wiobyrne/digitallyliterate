@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/a-i-vibe-check-with-ezra-klein/","title":"A.I. Vibe Check With Ezra Klein","tags":["podcasts","artificial-intelligence","ai-development","technology-ethics","automation","future-of-work","ai-governance"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/a-i-vibe-check-with-ezra-klein/","title":"A.I. Vibe Check With Ezra Klein","tags":["podcasts","artificial-intelligence","ai-development","technology-ethics","automation","future-of-work","ai-governance"],"created":"2023-04-07","updated":"2025-07-27"}
 ---
 
 # A.I. Vibe Check With Ezra Klein

@@ -6,8 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=_T7yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # A Brief History of Earth
-**Author:** [[Andrew H. Knoll\|Andrew H. Knoll]]
-
+**Author:** [[Andrew H. Knoll\|Andrew H. Knoll]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

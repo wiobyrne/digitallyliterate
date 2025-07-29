@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/greg-mc-keown-on-finding-your-purpose/","title":"Greg McKeown on Finding Your Purpose","tags":["podcasts","purpose","essentialism","digital-minimalism","minimalism","intentionality","career-development","self-reflection"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/greg-mc-keown-on-finding-your-purpose/","title":"Greg McKeown on Finding Your Purpose","tags":["podcasts","purpose","essentialism","digital-minimalism","minimalism","intentionality","career-development","self-reflection"],"created":"2023-09-10","updated":"2025-07-27"}
 ---
 
 # Greg McKeown on Finding Your Purpose

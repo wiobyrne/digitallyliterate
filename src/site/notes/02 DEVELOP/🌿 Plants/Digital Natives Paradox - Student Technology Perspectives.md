@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/digital-natives-paradox-student-technology-perspectives/","title":"Digital Natives Paradox - Student Technology Perspectives","tags":["digital-literacy","student-voice","technology-education","internet-safety","digital-citizenship","algorithms","educational-technology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/digital-natives-paradox-student-technology-perspectives/","title":"Digital Natives Paradox - Student Technology Perspectives","tags":["digital-literacy","student-voice","technology-education","internet-safety","digital-citizenship","algorithms","educational-technology"],"created":"2025-07-02"}
 ---
 
 

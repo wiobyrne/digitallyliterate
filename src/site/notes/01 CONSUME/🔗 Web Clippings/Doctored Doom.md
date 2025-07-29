@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/doctored-doom/","title":"Doctored Doom","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/doctored-doom/","title":"Doctored Doom","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # Doctored Doom

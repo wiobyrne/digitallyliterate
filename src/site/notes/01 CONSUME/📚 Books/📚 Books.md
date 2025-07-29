@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/books/","title":"📚 Books","tags":["books","reading","library","folder-note"]}
+{"dg-publish":true,"permalink":"/01-consume/books/books/","title":"📚 Books","tags":["books","reading","library","folder-note"],"created":"2025-07-26","updated":"2025-07-26"}
 ---
 
 
 # 📚 Books
 
-Welcome to my complete reading collection! This is a dynamic library that tracks all books across reading stages - from wishlist to completed reads with ratings and insights.
+Welcome to my digital reading journal! This index contains a collection of books I've read or plan to read. Click on any book title to access my personal notes and insights about that text. Some books have detailed notes while others are still in my reading queue.
+
+This collection represents my ongoing journey through various topics and genres. I hope my notes and reflections might be helpful or interesting to fellow readers!
 
 ## 📖 Currently Reading
 
@@ -114,3 +116,4 @@ views:
 
 ![[Books.base]]
 
+[[Book Index\|Book Index]]

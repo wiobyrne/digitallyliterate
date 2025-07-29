@@ -54,4 +54,4 @@ Ezra Klein is a journalist known for his work in explaining complex political is
   - ["Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist" by Kate Raworth](https://www.kateraworth.com/doughnut/)
 
 
-[[02 DEVELOP/🗂️ MOCs/Book Index\|Book Index]]
+[[Book Index\|Book Index]]

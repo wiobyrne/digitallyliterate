@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/barack-obama-on-ai-free-speech-and-the-future-of-the-internet/","title":"Barack Obama on AI, Free Speech, and the Future of the Internet","tags":["podcasts","ai","free-speech","democracy","governance","social-media","regulation","technology-policy","bias"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/barack-obama-on-ai-free-speech-and-the-future-of-the-internet/","title":"Barack Obama on AI, Free Speech, and the Future of the Internet","tags":["podcasts","ai","free-speech","democracy","governance","social-media","regulation","technology-policy","bias"],"created":"2023-11-15","updated":"2025-07-27"}
 ---
 
 # Barack Obama on AI, Free Speech, and the Future of the Internet

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/my-personal-anti-racist-reading-list/","title":"Summer 2025 reading from MIT","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/my-personal-anti-racist-reading-list/","title":"Summer 2025 reading from MIT","tags":["clippings"],"created":"2025-06-28"}
 ---
 
 # My Personal Anti-Racist Reading List.

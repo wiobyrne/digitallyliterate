@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/lex-fridman-on-navigating-conflict/","title":"Lex Fridman on Navigating Conflict","tags":["podcasts","conflict-resolution","artificial-intelligence","science-communication","ukraine-war","empathy","dialogue","masculinity"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/lex-fridman-on-navigating-conflict/","title":"Lex Fridman on Navigating Conflict","tags":["podcasts","conflict-resolution","artificial-intelligence","science-communication","ukraine-war","empathy","dialogue","masculinity"],"created":"2023-12-15","updated":"2025-07-27"}
 ---
 
 # Lex Fridman on Navigating Conflict

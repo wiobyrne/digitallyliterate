@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/adam-grant-on-productivity-and-personal-motivation/","title":"Adam Grant on Productivity and Personal motivation","tags":["podcasts","productivity","motivation","organizational-psychology","feedback","intrinsic-motivation","personal-growth","success-redefinition"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/adam-grant-on-productivity-and-personal-motivation/","title":"Adam Grant on Productivity and Personal motivation","tags":["podcasts","productivity","motivation","organizational-psychology","feedback","intrinsic-motivation","personal-growth","success-redefinition"],"created":"2023-04-10","updated":"2025-07-27"}
 ---
 
 # Adam Grant on Productivity and Personal motivation

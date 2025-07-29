@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/aaron-dignan-on-changing-the-way-you-work/","title":"Aaron Dignan on Changing the Way You Work","tags":["podcasts","organizational-change","workplace-transformation","decision-making","leadership","business-innovation"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/aaron-dignan-on-changing-the-way-you-work/","title":"Aaron Dignan on Changing the Way You Work","tags":["podcasts","organizational-change","workplace-transformation","decision-making","leadership","business-innovation"],"created":"2023-08-20","updated":"2025-07-27"}
 ---
 
 # Aaron Dignan on Changing the Way You Work

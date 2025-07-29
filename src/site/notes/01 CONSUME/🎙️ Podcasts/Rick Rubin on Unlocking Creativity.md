@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/rick-rubin-on-unlocking-creativity/","title":"Rick Rubin on Unlocking Creativity","tags":["podcasts","creativity","music-production","collaboration","authenticity","inspiration","artistic-expression","ai-creativity"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/rick-rubin-on-unlocking-creativity/","title":"Rick Rubin on Unlocking Creativity","tags":["podcasts","creativity","music-production","collaboration","authenticity","inspiration","artistic-expression","ai-creativity"],"created":"2024-01-05","updated":"2025-07-27"}
 ---
 
 # Rick Rubin on Unlocking Creativity

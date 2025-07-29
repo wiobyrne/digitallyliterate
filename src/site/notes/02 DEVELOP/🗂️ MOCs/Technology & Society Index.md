@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/technology-and-society-index/","title":"Technology & Society Index","tags":["index","tech-society","digital-literacy","ethics","critical-digital-literacies","digital-futures"]}
+{"dg-publish":true,"permalink":"/02-develop/mo-cs/technology-and-society-index/","title":"Technology & Society Index","tags":["index","tech-society","digital-literacy","ethics","critical-digital-literacies","digital-futures"],"created":"2025-07-16","updated":"2025-07-16"}
 ---
 
 

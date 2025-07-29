@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/how-the-fbi-sought-a-warrant-to-search-instagram-of-columbia-student-protesters/","title":"How the FBI Sought a Warrant to Search Instagram of Columbia Student Protesters","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/how-the-fbi-sought-a-warrant-to-search-instagram-of-columbia-student-protesters/","title":"How the FBI Sought a Warrant to Search Instagram of Columbia Student Protesters","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # How the FBI Sought a Warrant to Search Instagram of Columbia Student Protesters

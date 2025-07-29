@@ -7,8 +7,7 @@
 
 
 # Access Is Capture
-**Author:** [[Roderic N Crooks\|Roderic N Crooks]]
-
+**Author:** [[Roderic N Crooks\|Roderic N Crooks]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

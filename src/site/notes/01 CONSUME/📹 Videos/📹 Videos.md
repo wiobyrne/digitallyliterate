@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/videos/videos/","title":"📹 Videos","tags":["videos","content","folder-note"]}
+{"dg-publish":true,"permalink":"/01-consume/videos/videos/","title":"📹 Videos","tags":["videos","content","folder-note"],"created":"2025-07-26","updated":"2025-07-26"}
 ---
 
 

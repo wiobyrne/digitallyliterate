@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/a-j-jacobs-on-how-to-cultivate-curiosity-over-fury/","title":"A.J. Jacobs on how to Cultivate Curiosity over Fury","tags":["podcasts","curiosity","problem-solving","psychology","writing","experimentation"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/a-j-jacobs-on-how-to-cultivate-curiosity-over-fury/","title":"A.J. Jacobs on how to Cultivate Curiosity over Fury","tags":["podcasts","curiosity","problem-solving","psychology","writing","experimentation"],"created":"2024-03-15","updated":"2025-07-27"}
 ---
 
 # A.J. Jacobs on how to Cultivate Curiosity over Fury

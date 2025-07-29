@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/sheila-heen-on-how-to-master-the-difficult-art-of-receiving-and-giving-feedback/","title":"Sheila Heen on How to Master the Difficult Art of Receiving (and Giving) Feedback","tags":["podcasts","feedback","communication","difficult-conversations","empathy","emotional-awareness","conflict-resolution"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/sheila-heen-on-how-to-master-the-difficult-art-of-receiving-and-giving-feedback/","title":"Sheila Heen on How to Master the Difficult Art of Receiving (and Giving) Feedback","tags":["podcasts","feedback","communication","difficult-conversations","empathy","emotional-awareness","conflict-resolution"],"created":"2023-08-25","updated":"2025-07-28"}
 ---
 
 # Sheila Heen on How to Master the Difficult Art of Receiving (and Giving) Feedback

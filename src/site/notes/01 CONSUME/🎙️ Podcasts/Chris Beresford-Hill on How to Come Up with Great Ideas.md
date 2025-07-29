@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/chris-beresford-hill-on-how-to-come-up-with-great-ideas/","title":"Chris Beresford-Hill on How to Come Up with Great Ideas","tags":["podcasts","creativity","advertising","innovation","branding","creative-process"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/chris-beresford-hill-on-how-to-come-up-with-great-ideas/","title":"Chris Beresford-Hill on How to Come Up with Great Ideas","tags":["podcasts","creativity","advertising","innovation","branding","creative-process"],"created":"2023-09-25","updated":"2025-07-27"}
 ---
 
 # Chris Beresford-Hill on How to Come Up with Great Ideas

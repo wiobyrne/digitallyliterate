@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/a-statement-on-ai-regulation-by-kris-perry-executive-director-of-children-and-screens/","title":"A Statement on AI Regulation by Kris Perry, Executive Director of Children and Screens","tags":["clippings"]}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/a-statement-on-ai-regulation-by-kris-perry-executive-director-of-children-and-screens/","title":"A Statement on AI Regulation by Kris Perry, Executive Director of Children and Screens","tags":["clippings"],"created":"2025-06-26"}
 ---
 
 # A Statement on AI Regulation by Kris Perry, Executive Director of Children and Screens

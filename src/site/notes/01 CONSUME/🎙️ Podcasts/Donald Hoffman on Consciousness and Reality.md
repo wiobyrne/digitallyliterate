@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/podcasts/donald-hoffman-on-consciousness-and-reality/","title":"Donald Hoffman on Consciousness and Reality","tags":["podcasts","consciousness","philosophy","cognitive-science","reality","perception","panpsychism"]}
+{"dg-publish":true,"permalink":"/01-consume/podcasts/donald-hoffman-on-consciousness-and-reality/","title":"Donald Hoffman on Consciousness and Reality","tags":["podcasts","consciousness","philosophy","cognitive-science","reality","perception","panpsychism"],"created":"2023-01-20","updated":"2025-07-27"}
 ---
 
 # Donald Hoffman on Consciousness and Reality
