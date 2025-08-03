@@ -66,8 +66,8 @@ These recurring themes weave through the above MOCs:
 - [[Data Sovereignty\|Data Sovereignty]]
 
 ### 📚 Literacy & Education  
-- [[Digital Citizenship\|Digital Citizenship]]  
-- [[Media Literacy\|Media Literacy]]  
+- [[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]]  
+- [[01 CONSUME/📥 Inbox/Media Literacy\|Media Literacy]]  
 - [[Computational Thinking\|Computational Thinking]]  
 - [[Critical Digital Pedagogy\|Critical Digital Pedagogy]]
 
@@ -86,7 +86,7 @@ These project areas showcase your applied work in these domains:
 - [[Initiative for Literacy in a Digital Age\|Initiative for Literacy in a Digital Age]]  
 - [[STEAM Vanguard Capstone\|STEAM Vanguard Capstone]]  
 - [[Algorithmic Justice Collection\|Algorithmic Justice Collection]]  
-- [[01 CONSUME/📥 Inbox/Digital Resilience Blog Series\|Digital Resilience Blog Series]]  
+- [[01 CONSUME/📥 Inbox/Digital Resilience Blog Series\|01 CONSUME/📥 Inbox/Digital Resilience Blog Series]]  
 
 ---
 

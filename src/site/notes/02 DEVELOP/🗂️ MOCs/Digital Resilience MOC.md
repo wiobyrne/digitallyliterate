@@ -29,8 +29,8 @@ This section explores foundational concepts crucial for building resilience in t
 - [[Digital Literacy\|Digital Literacy]] 🔹🪜
 - [[Digital Agency\|Digital Agency]] 🔹🪜 
 - [[Digital Wellbeing\|Digital Wellbeing]] 🔹🪜 
-- [[Digital Citizenship\|Digital Citizenship]] 🔹🪜 
-- [[Digital Identity\|Digital Identity]] 🔹🪜 
+- [[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]] 🔹🪜 
+- [[01 CONSUME/📥 Inbox/Digital Identity\|Digital Identity]] 🔹🪜 
 - [[Critical Digital Literacy\|Critical Digital Literacy]] 🔹🪜
 - [[Cyber Hygiene\|Cyber Hygiene]] 🔹🛠️ 
 - [[Digital Autonomy\|Digital Autonomy]] 🔹🪜 
@@ -57,7 +57,7 @@ This section provides a comprehensive overview of privacy and security considera
 This section delves into the psychological and social impacts of technology, examining how digital platforms shape our behavior, emotions, and relationships.
 
 - [[Attention Economy\|Attention Economy]] 🔹🧩  
-- [[Digital Minimalism\|Digital Minimalism]] 🔸🪜  
+- [[01 CONSUME/📚 Books/Digital Minimalism\|Digital Minimalism]] 🔸🪜  
 - [[Information Overload\|Information Overload]] 🔹🧩  
 - [[Platform Design and Manipulation\|Platform Design and Manipulation]] 🔸🧩  
 - [[Mental Health and Tech Use\|Mental Health and Tech Use]] 🔹🧩  
@@ -72,7 +72,7 @@ This section delves into the psychological and social impacts of technology, exa
 This section equips you with the tools to critically evaluate information online, identify manipulative tactics, and navigate the complex landscape of misinformation.
 
 - [[Misinformation vs Disinformation\|Misinformation vs Disinformation]] 🔹📘  
-- [[Media Literacy\|Media Literacy]] 🔹🪜  
+- [[01 CONSUME/📥 Inbox/Media Literacy\|Media Literacy]] 🔹🪜  
 - [[Algorithmic Amplification\|Algorithmic Amplification]] 🔸🧩  
 - [[Echo Chambers and Filter Bubbles\|Echo Chambers and Filter Bubbles]] 🔹🧩  
 - [[Deepfakes and Synthetic Media\|Deepfakes and Synthetic Media]] 🔸🛠️  

@@ -192,5 +192,5 @@ Through conscious resistance and critical evaluation, we can work toward technol
 - [[Critical Thinking\|Critical Thinking]]
 - [[Media Ecology\|Media Ecology]]
 - [[Technology Ethics\|Technology Ethics]]
-- [[Digital Citizenship\|Digital Citizenship]]
+- [[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]]
 - [[Democratic Technology\|Democratic Technology]]
