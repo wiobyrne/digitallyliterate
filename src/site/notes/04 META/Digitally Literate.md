@@ -42,4 +42,4 @@ Think of this as a network of interconnected notes rather than a linear publicat
 
 This garden is tended using [Obsidian](https://obsidian.md/) for personal knowledge management and published via the Digital Garden plugin, GitHub, and Netlify. Curious about the setup? See the [[04 META/Digital Garden Guide\|Digital Garden Guide]].
 
-Feel free to wander and explore! You can learn more [[04 META/About Me/About Me\|About Me]] or see my current projects at [[04 META/About Me/Now\|Now]]. Want to get in touch? Check out [[04 META/About Me/Uses\|Uses]] to see my setup.
+Feel free to wander and explore! You can learn more [[04 META/About Me/About Me\|About Me]] or see my current projects at [[04 META/About Me/Now\|Now]]. Want to stay updated? [[04 META/Subscribe\|Subscribe]] to get newsletter notifications. Check out [[04 META/About Me/Uses\|Uses]] to see my setup.

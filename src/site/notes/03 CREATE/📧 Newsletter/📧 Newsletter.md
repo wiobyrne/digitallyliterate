@@ -7,6 +7,10 @@
 
 Welcome to the **Digitally Literate** newsletter archive - nearly a decade of insights on technology, education, and digital literacy.
 
+**📨 Want updates?** [[04 META/Subscribe\|Subscribe]] to get notified when new issues publish.
+
+**🔗 RSS Feed**: [https://digitallyliterate.net/feed.xml](https://digitallyliterate.net/feed.xml)
+
 ## 📊 Quick Stats
 
 **128 issues** spanning 2015-2025  
