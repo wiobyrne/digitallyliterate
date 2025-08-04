@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/about-me/now/","title":"Now"}
+{"dg-publish":true,"dg-permalink":"now","permalink":"/now/","title":"Now"}
 ---
 
 # Now

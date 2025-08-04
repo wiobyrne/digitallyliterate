@@ -16,9 +16,11 @@ If you're interested, you can see what I'm up to [[04 META/About Me/Now\|Now]].
 Think of this as a network of interconnected notes rather than a linear publication. Here's how you can navigate:
 
 * **Start Here:** Check out these key areas:
-    * 📰 [[02 DEVELOP/🗂️ MOCs/Newsletter Index\|Newsletter Index]] – Past thoughts and curated resources.
-    * 📝 [[02 DEVELOP/🗂️ MOCs/Blog Post Index\|Blog Post Index]] – Longer reflections within the garden.
-    * 🤖 [[AI Index\|AI Index]] - A simple AI/ML Glossary
+    * 📰 [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]] – Past thoughts and curated resources.
+    * 🤖 [[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]] - Artificial intelligence and machine learning insights
+    * 🔐 [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] - Digital privacy and security resources
+    * 🛡️ [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]] - Building digital wellness and resilience
+    * 🧠 [[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]] - Human-centered technology
     * [[01 CONSUME/📚 Books/📚 Books\|📚 Books]] – Highlights from my reading.
     * 🎓 [[03 CREATE/Classes/DL Educator/Digitally Literate Educator\|Digitally Literate Educator]] – Course resources.
 
@@ -40,4 +42,4 @@ Think of this as a network of interconnected notes rather than a linear publicat
 
 This garden is tended using [Obsidian](https://obsidian.md/) for personal knowledge management and published via the Digital Garden plugin, GitHub, and Netlify. Curious about the setup? See the [[04 META/Digital Garden Guide\|Digital Garden Guide]].
 
-Feel free to wander and explore! You can learn more [[04 META/About Me/About Me\|About Me]] as well.
+Feel free to wander and explore! You can learn more [[04 META/About Me/About Me\|About Me]] or see my current projects at [[04 META/About Me/Now\|Now]]. Want to get in touch? Check out [[04 META/About Me/Uses\|Uses]] to see my setup.
