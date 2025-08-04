@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/about-me/about-me/","title":"About Me","tags":["about","profile"]}
+{"dg-publish":true,"dg-permalink":"about","permalink":"/about/","title":"About Me","tags":["about","profile"]}
 ---
 
 # About Me

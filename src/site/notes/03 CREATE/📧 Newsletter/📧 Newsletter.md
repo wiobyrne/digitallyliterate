@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/newsletter/","title":"📧 Newsletter","tags":["newsletter","digital-literacy","technology","education","content-curation"],"created":"2025-01-06","updated":"2025-07-31"}
+{"dg-publish":true,"dg-permalink":"newsletter","permalink":"/newsletter/","title":"📧 Newsletter","tags":["newsletter","digital-literacy","technology","education","content-curation"],"created":"2025-01-06","updated":"2025-07-31"}
 ---
 
 
