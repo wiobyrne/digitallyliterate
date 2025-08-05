@@ -16,7 +16,7 @@ If you're interested, you can see what I'm up to [[04 META/About Me/Now\|Now]].
 Think of this as a network of interconnected notes rather than a linear publication. Here's how you can navigate:
 
 * **Start Here:** Check out these key areas:
-    * 📰 [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]] – Past thoughts and curated resources.
+    * [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]] – Past thoughts and curated resources.
     * 🤖 [[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]] - Artificial intelligence and machine learning insights
     * 🔐 [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] - Digital privacy and security resources
     * 🛡️ [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]] - Building digital wellness and resilience
