@@ -5,32 +5,61 @@
 
 # 📧 Newsletter
 
-Welcome to the **Digitally Literate** newsletter archive. Nearly a decade of insights on technology, education, and digital literacy.
+Welcome to the **Digitally Literate** newsletter archive. Weekly insights for navigating digital complexity with wisdom and agency.
+
+For nearly a decade, Digitally Literate has been the go-to source for thoughtful analysis on education, technology, and digital culture. What started as simple tech curation has evolved into sophisticated synthesis of how we learn, work, and think in our digital age.
+
+**What makes this different:** Unlike traditional newsletters that disappear after reading, each issue lives in an interconnected digital garden where ideas develop and connect over time. Current thinking links to years of analysis, creating a knowledge network that grows more valuable with each issue.
+
+### What You'll Explore
+
+- **Digital Literacy & Education** - How we develop wisdom in information-rich environments
+    
+- **AI & Machine Learning** - Practical implications for learning, work, and society
+    
+- **Systems Thinking** - When complex systems communicate, adapt, or break down
+    
+- **Knowledge Management** - Digital gardens, Obsidian workflows, and personal learning systems
+    
+- **Technology & Society** - Critical analysis of how digital tools shape culture and cognition
+    
+
+### Why Subscribe
+
+- **For Educators:** Cutting-edge insights on digital pedagogy and learning systems
+    
+- **For Professionals:** Strategic intelligence on technology trends and their implications
+    
+- **For Knowledge Workers:** Practical systems for managing information overload and building understanding
+    
+- **For Technologists:** Human-centered perspectives on AI, automation, and digital culture
+    
+
+**Published every Sunday** since 2015, with 398+ issues exploring the intersection of human flourishing and technological change.
+
+**The newsletter gives you the insights. The digital garden gives you the connections.**
+
+_Subscribe to join educators, researchers, consultants, and thoughtful professionals who've been growing their digital literacy for nearly a decade._
 
 ---
 
 ## 📨 Subscribe to Digitally Literate
-
-Every week, I share deep analysis and curated resources at the intersection of:
-
-- 💻 Digital Literacy  
-- 🧠 Critical Thinking & Media Education  
-- 🤖 AI in the Classroom  
-- 🌱 Personal Knowledge Management  
-
-> Join **852+ subscribers** who receive new issues every week.
-
-👉 [Subscribe on Buttondown](https://buttondown.com/digitallyliterate)  
-Or subscribe via RSS: [https://digitallyliterate.net/feed.xml](https://digitallyliterate.net/feed.xml)
-
----
-
-## 📊 Quick Stats
-
-- **400 issues** spanning 2015–2025  
-- **45 issues processed** (35.2% complete)  
-- **Milestone:** [[03 CREATE/📧 Newsletter/DL 300\|DL 300]] — 300th issue celebration  
-- **Restart:** [[03 CREATE/📧 Newsletter/DL 398\|DL 398]] — Digital garden publishing relaunch  
+Subscribe in the form below or [here on Buttondown](https://buttondown.com/digitallyliterate)  
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/digitallyliterate"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/digitallyliterate', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/digitallyliterate" target="_blank"></a>
+  </p>
+</form>
 
 ---
 

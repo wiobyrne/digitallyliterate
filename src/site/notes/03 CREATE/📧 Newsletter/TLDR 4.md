@@ -41,7 +41,7 @@ I just came across the [In a Nutshell](https://www.youtube.com/channel/UCsXVk37b
 **[Parents and Social Media Report from the Pew Research Center](http://www.pewinternet.org/2015/07/16/introduction-24/)**
 This latest research report from Pew examines the usage rates of social media for parents. This data is interesting given the challenges we see as adolescents engage in online social contexts. It's also interesting when compared to usage rates of adult non-parents. [Main findings available here](http://www.pewinternet.org/2015/07/16/main-findings-14/). [Full report available here](http://www.pewinternet.org/files/2015/07/Parents-and-Social-Media-FIN-DRAFT-071515.pdf).
 
-**[The Pros and Cons of "Sharenting"](http://www.theguardian.com/lifeandstyle/2013/may/18/pros-cons-of-sharenting)**
+**[The Pros and Cons of "Sharenting(http://www.theguardian.com/lifeandstyle/2013/may/18/pros-cons-of-sharenting)**
 This piece in The Guardian discusses some of the challenges of sharing a bit too much about your kids online...and the steps you should take to protect and monitor your children online (i.e., check privacy settings, and set up a Google Alert in your child's name).
 
 I also recommend reading [this commentary](http://digitalethics.org/essays/when-sharing-isnt-caring/) by Nikki Williams from the Center for Digital Ethics & Policy.
