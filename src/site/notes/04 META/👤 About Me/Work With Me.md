@@ -66,5 +66,5 @@ I’ve worked with schools, districts, national networks, and forward-thinking c
 
 ## 📬 Want to Stay Connected?
 
-Subscribe to [Digitally Literate](https://buttondown.com/digitallyliterate) for weekly insights on digital literacy, AI, and educational transformation.
+Subscribe to [Digitally Literate](https://digitallyliterate.net/newsletter/) for weekly insights on digital literacy, AI, and educational transformation.
 
