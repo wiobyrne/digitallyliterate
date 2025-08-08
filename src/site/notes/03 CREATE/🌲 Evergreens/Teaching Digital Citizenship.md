@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/teaching-digital-citizenship/","title":"Teaching Digital Citizenship","tags":["digital-citizenship","education","digital-literacy","pedagogy","online-safety","ethics"]}
+{"dg-publish":true,"dg-permalink":"digital-citizenship","permalink":"/digital-citizenship/","title":"Teaching Digital Citizenship","tags":["digital-citizenship","education","digital-literacy","pedagogy","online-safety","ethics"]}
 ---
 
 # Teaching Digital Citizenship
