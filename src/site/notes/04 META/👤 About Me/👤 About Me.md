@@ -4,40 +4,53 @@
 
 # 👤 About Me
 
-Hi, I’m **Ian O’Byrne**, an educator, researcher, and lifelong learner exploring the intersections of literacy, technology, and humanity.
+Hi, I’m **Ian O’Byrne**, an educator, researcher, and lifelong learner exploring the intersections of literacy, technology, and humanity. This digital garden is where I develop the frameworks, explore emerging challenges, and share the thinking that organizations worldwide implement.
 
 ![point 1.jpg](/img/user/04%20META/%F0%9F%94%97%20Assets/point%201.jpg)
-## In a Nutshell  
-I’m a problem-solver who loves turning ideas into action. My work focuses on how people read, write, and communicate in online spaces. I’ve tackled projects ranging from open pedagogy and integrating technology into classrooms to supporting marginalized students and studying digital literacy practices.
 
-When I’m not researching or teaching, you’ll likely find me:  
-- Cooking with my family  
-- Teaching my kids how to hack, tinker, and create  
-- Building and talking with AI bots 🔧⚙️⚡
+## Foundation Builder
 
-## Superpowers  
-- **Research & Synthesis**: Diving deep into complex topics and connecting the dots  
-- **Education & Development**: Designing innovative learning experiences  
-- **Public Speaking**: Engaging audiences with ideas that inspire  
+My foundational contributions shape how entire industries approach digital literacy:
 
-## What I’m Working On  
-I’m currently focused on:  
-- **Generative AI**: Exploring its impact on education and society  
-- **Culturally Responsive Pedagogy**: Building inclusive learning environments  
-- **Connected Learning**: Empowering learners to thrive in a digital world  
+- **Co-authored Mozilla's Web Literacy Framework** — the foundational standard for internet literacy used globally
+- **Co-wrote NCTE's Definition of Literacy in the Digital Age** — THE definitive framework every educator references
+- **Assisted in foundational research with New Literacies Research Lab** — establishing core principles still guiding the field
+- **Director of the Initiative for Literacy in the Digital Age** — pioneering institutional approaches to digital transformation
 
-For ongoing updates, see what I’m working on [[04 META/👤 About Me/Now\|Now]].
+## Where Ideas Become Implementation
 
-## Professional Background  
-I’ve spent over two decades bridging classroom teaching, academic research, and digital literacy innovation.  
+This digital garden serves as my laboratory for developing the next generation of digital literacy frameworks. The thinking you'll find here often becomes the strategies that organizations hire me to implement at scale.
 
-To explore my full career journey and foundational contributions, visit my [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]] page, a living record that will soon be fully integrated into this digital garden.
+**Current explorations include:**
 
-## Connect with Me  
-- Personal blog: [wiobyrne.com](https://wiobyrne.com)  
-- Digital garden: [digitallyliterate.net](https://digitallyliterate.net)  
-- LinkedIn: [linkedin.com/in/wiobyrne](https://linkedin.com/in/wiobyrne)  
+- **Generative AI literacy frameworks** for institutional adoption
+- **Information integrity systems** for combating digital misinformation
+- **Connected learning architectures** for organizational transformation
+- **Digital garden methodologies** for knowledge management at scale
+
+## How I Think + Work
+
+- **Systems Architect**: I design frameworks that scale from individual practice to institutional transformation
+- **Bridge Builder**: I translate between academic research, practical implementation, and strategic policy
+- **Future Scanner**: I identify emerging digital challenges before they become crises
+
+## What I'm Developing Now
+
+Current projects in this digital garden include frameworks for AI literacy at scale, institutional approaches to information integrity, and next-generation connected learning systems. These explorations inform the strategic consulting work I do with forward-thinking organizations.
+
+For real-time updates on active projects, see [[04 META/👤 About Me/Now\|Now]].
+
+## Professional Integration
+
+This digital garden connects to my broader professional ecosystem:
+
+- **Strategic work and speaking**: [wiobyrne.com](https://wiobyrne.com)
+- **Full professional background**: [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]]
+- **Weekly newsletter**: 850+ subscribers receive frameworks and analysis
+- **LinkedIn**: [linkedin.com/in/wiobyrne](https://linkedin.com/in/wiobyrne)
+
+Organizations work with me to implement the thinking developed here. If you're exploring strategic digital literacy transformation, let's connect.
 
 ---
 
-*This page will evolve as I continue to grow and explore new paths.*
+_This garden grows as the digital landscape evolves, foundational principles rooted in evidence, emerging frameworks tested through implementation._
