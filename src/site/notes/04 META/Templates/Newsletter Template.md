@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/templates/newsletter-template/","title":"Newsletter Title","tags":["newsletter","tag1","tag2"],"created":{"{ date:YYYY-MM-DD }":null},"updated":{"{ date:YYYY-MM-DD }":null}}
+{"dg-publish":true,"permalink":"/04-meta/templates/newsletter-template/","title":"Newsletter Title","tags":["#newsletter","#tag1","#tag2"],"created":{"{ date:YYYY-MM-DD }":null},"updated":{"{ date:YYYY-MM-DD }":null}}
 ---
 
 

@@ -22,7 +22,7 @@ This is the central navigation hub for all vault system documentation. Use this 
 - **[[04 META/🛠️ System/Vault Documentation System\|Vault Documentation System]]** - Ongoing procedures for documentation maintenance
 
 ### Publishing Documentation
-- **[[04 META/Digital Garden Changelog\|Digital Garden Changelog]]** - Publishing activity and content evolution tracking
+- **[[04 META/🛠️ System/Digital Garden Changelog\|Digital Garden Changelog]]** - Publishing activity and content evolution tracking
 
 ### Historical Records
 - **[[04 META/🛠️ System/Changelog\|Changelog]]** - High-level record of vault changes and updates
@@ -68,7 +68,7 @@ This is the central navigation hub for all vault system documentation. Use this 
 - Check [[04 META/🛠️ System/Vault Quality Standards\|Vault Quality Standards]] for definitive YAML and content standards
 - Review [[04 META/🛠️ System/Quality Guardian Procedures\|Quality Guardian Procedures]] for systematic quality monitoring
 - Use [[04 META/🛠️ System/Template Documentation\|Template Documentation]] for proper template usage and validation
-- Consult [[04 META/Digital Garden Changelog\|Digital Garden Changelog]] for publishing activity tracking
+- Consult [[04 META/🛠️ System/Digital Garden Changelog\|Digital Garden Changelog]] for publishing activity tracking
 
 ### For System Maintenance
 - Check [[03 CREATE/🎯 Projects/🟢 Active/Obsidian Vault/Obsidian Vault Optimization Implementation Checklist\|Obsidian Vault Optimization Implementation Checklist]] for current project status

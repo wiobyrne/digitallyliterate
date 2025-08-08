@@ -5,108 +5,117 @@
 
 # 📧 Newsletter
 
-Welcome to the **Digitally Literate** newsletter archive. Weekly insights for navigating digital complexity with wisdom and agency.
+Welcome to **Digitally Literate** — *weekly strategy on digital literacy, AI, and media in a changing world.*
 
-For nearly a decade, Digitally Literate has been the go-to source for thoughtful analysis on education, technology, and digital culture. What started as simple tech curation has evolved into sophisticated synthesis of how we learn, work, and think in our digital age.
+## 📬 Why Subscribe?
 
-**What makes this different:** Unlike traditional newsletters that disappear after reading, each issue lives in an interconnected digital garden where ideas develop and connect over time. Current thinking links to years of analysis, creating a knowledge network that grows more valuable with each issue.
+Every week, I send **1,000+ educators, researchers, and innovators** a short, actionable briefing on the forces shaping learning in the digital age.  
+No noise — just the **frameworks, insights, and tools** you need to:
 
-### What You'll Explore
+- **Understand** emerging technologies like AI and their impact on literacy and learning  
+- **See past** the hype and into the systems driving change  
+- **Build strategies** for equitable, future-ready education  
 
-- **Digital Literacy & Education** - How we develop wisdom in information-rich environments
-    
-- **AI & Machine Learning** - Practical implications for learning, work, and society
-    
-- **Systems Thinking** - When complex systems communicate, adapt, or break down
-    
-- **Knowledge Management** - Digital gardens, Obsidian workflows, and personal learning systems
-    
-- **Technology & Society** - Critical analysis of how digital tools shape culture and cognition
-    
+I’ve spent over a decade studying and shaping the field, co-authoring the **Mozilla Web Literacy Framework** and **NCTE’s Definition of Literacy in a Digital Age**, and helping design the **Open Badges** system for digital credentialing.
 
-### Why Subscribe
+## ✍️ What You’ll Get
 
-- **For Educators:** Cutting-edge insights on digital pedagogy and learning systems
-    
-- **For Professionals:** Strategic intelligence on technology trends and their implications
-    
-- **For Knowledge Workers:** Practical systems for managing information overload and building understanding
-    
-- **For Technologists:** Human-centered perspectives on AI, automation, and digital culture
-    
+- **Weekly strategic briefings** on digital literacy, AI, and education  
+- **Curated links & analysis** from my 800+ published articles and research  
+- **Living frameworks** from my Digital Garden that you can put into practice  
+- Occasional **special issues** with interviews, deep dives, and toolkits  
 
-**Published every Sunday** since 2015, with 398+ issues exploring the intersection of human flourishing and technological change.
+## 🔔 Join the List
 
-**The newsletter gives you the insights. The digital garden gives you the connections.**
+_Get next week’s issue in your inbox._
 
-_Subscribe to join educators, researchers, consultants, and thoughtful professionals who've been growing their digital literacy for nearly a decade._
+<style>
+  .newsletter-form {
+    max-width: 500px;
+    margin: 1.5rem auto;
+    padding: 1rem;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 0.75rem;
+    font-family: system-ui, sans-serif;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  .newsletter-form label {
+    display: block;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    color: #111827;
+  }
+  .newsletter-form input[type="email"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #d1d5db;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+    box-sizing: border-box;
+  }
+  .newsletter-form input[type="email"]:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37,99,235,0.2);
+  }
+  .newsletter-form input[type="submit"] {
+    display: inline-block;
+    width: 100%;
+    background-color: #2563eb;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  .newsletter-form input[type="submit"]:hover {
+    background-color: #1d4ed8;
+  }
+</style>
 
----
-
-## 📨 Subscribe to Digitally Literate
-Subscribe in the form below or [here on Buttondown](https://buttondown.com/digitallyliterate)  
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/digitallyliterate"
+  action="https://buttondown.email/api/emails/embed-subscribe/digitallyliterate"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/digitallyliterate', 'popupwindow')"
-  class="embeddable-buttondown-form"
+  onsubmit="window.open('https://buttondown.email/digitallyliterate', 'popupwindow')"
+  class="newsletter-form"
 >
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  
+  <label for="bd-email">
+    Get weekly insights on digital literacy, AI, and education — trusted by 1,000+ subscribers:
+  </label>
+  <input type="email" name="email" id="bd-email" placeholder="Enter your email" required />
   <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/digitallyliterate" target="_blank"></a>
-  </p>
 </form>
 
----
+## 📂 Recent Issues
 
-## 🏛️ Evolution of the Newsletter
+A taste of what subscribers see every week:
 
-### TL;DR Era (2015–2018)  
-Simple tech summaries for educators  
-**Start:** [[03 CREATE/📧 Newsletter/TLDR 1\|TLDR 1]] — June 27, 2015
+- **The Feature is a Dumpster Fire** – [[03 CREATE/📧 Newsletter/DL 397\|DL 397]]  
+- **Most Ideas Have Loud Critics** – [[03 CREATE/📧 Newsletter/DL 395\|DL 395]]  
+- **Communities of Belonging** – [[03 CREATE/📧 Newsletter/DL 396\|DL 396]]  
 
-### Digitally Literate (2019–2021)  
-Deeper cultural analysis — Big Tech concerns, AI awareness, pandemic impacts  
-**Milestone:** [[03 CREATE/📧 Newsletter/DL 200\|DL 200]] — June 8, 2019
+[**📜 Browse the full archive →**](Newsletter.base)
 
-### Contemporary Analysis (2021–2024)  
-Sophisticated frameworks and proactive synthesis  
-**Milestones:** [[03 CREATE/📧 Newsletter/DL 300\|DL 300]] (July 31, 2021) • [[03 CREATE/📧 Newsletter/DL 397\|DL 397]] (December 7, 2024)
+## 🏆 Recognition
 
----
+- Featured by *Morning Brew* as a leading voice in digital education  
+- 800+ published articles, analyses, and frameworks  
+- Former researcher at the **New Literacies Research Lab**
 
-## 🎯 Key Themes
+## 🌱 How It Fits in the Garden
 
-- Digital Literacy: Basic concepts → Critical evaluation → Cultural analysis  
-- Privacy: Tool tips → Policy concerns → Surveillance capitalism critique  
-- AI: Background mentions → Emerging awareness → Central focus  
-- Education: Tool adoption → Systemic critique → Post-pandemic reflection  
+The newsletter is the **front porch** of my work — the place where I share what I’m noticing, testing, and building before it becomes part of my longer-form blog or evergreen digital garden.
+
+Subscribing means you get these insights **first**, with the context to put them to work in your own classrooms, institutions, or projects.
 
 ---
 
-## 🗂️ Browse the Archive
-
-### By Era  
-- Early: [[03 CREATE/📧 Newsletter/TLDR 1\|TLDR 1]], [[03 CREATE/📧 Newsletter/TLDR 10\|TLDR 10]]  
-- Transition: [[03 CREATE/📧 Newsletter/DL 200\|DL 200]]  
-- Growth: [[03 CREATE/📧 Newsletter/DL 273\|DL 273]] – [[03 CREATE/📧 Newsletter/DL 300\|DL 300]]  
-- Current: [[03 CREATE/📧 Newsletter/DL 390\|DL 390]] – [[03 CREATE/📧 Newsletter/DL 397\|DL 397]]
-
-### By Theme  
-- AI & Society  
-- Privacy Evolution  
-- Education  
-- Big Tech  
-
----
-
-📬 Interested in collaboration or workshops?  
-See [[Work With Me\|Work With Me]] or get in touch via [[Contact\|Contact]]
-
----
-
-*From simple tech curation to sophisticated cultural commentary — documenting William Ian O'Byrne's intellectual journey and the evolution of digital literacy thinking.*
+**Ready to start?**  
+→ _Scroll back up and subscribe — it takes less than 10 seconds._

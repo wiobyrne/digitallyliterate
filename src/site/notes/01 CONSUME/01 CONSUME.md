@@ -11,7 +11,7 @@ Welcome to the central dashboard for all content consumption! This space tracks 
 
 - **[[01 CONSUME/📚 Books/📚 Books\|📚 Books]]** - Reading collection and progress
 - **[[01 CONSUME/🎙️ Podcasts/🎙️ Podcasts\|🎙️ Podcasts]]** - Audio content library  
-- **[[📰 Papers\|📰 Papers]]** - Academic and research articles
+- **[[01 CONSUME/📰 Papers/📰 Papers\|📰 Papers]]** - Academic and research articles
 - **[[01 CONSUME/🔗 Web Clippings/🔗 Web Clippings\|🔗 Web Clippings]]** - Saved web content
 - **[[01 CONSUME/📹 Videos/📹 Videos\|📹 Videos]]** - Video content collection
 - **[[01 CONSUME/👥 People/👥 People\|👥 People]]** - People and thought leaders
