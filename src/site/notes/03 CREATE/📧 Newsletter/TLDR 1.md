@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-1/","title":"Welcome to TL;DR","tags":["internet-access","digital-divide","privacy","google-chrome","raspberry-pi","technopanic"],"created":"2015-06-27","updated":"2025-01-06"}
+{"dg-publish":true,"dg-permalink":"tldr-1","permalink":"/tldr-1/","title":"Welcome to TL;DR","tags":["internet-access","digital-divide","privacy","google-chrome","raspberry-pi","technopanic"],"created":"2015-06-27","updated":"2025-01-06"}
 ---
 
 # TLDR 1
