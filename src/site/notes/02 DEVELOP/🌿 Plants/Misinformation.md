@@ -51,5 +51,5 @@ Wikipedia link: [Misinformation](https://en.wikipedia.org/wiki/Misinformation)
 
 
 ## **Related Terms**  
-- [[02 DEVELOP/🌱 Seeds/Disinformation\|Disinformation]]
+- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]
 - [[Propaganda\|Propaganda]]

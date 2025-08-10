@@ -227,7 +227,7 @@ Like light passing through a prism, our understanding becomes richer and more nu
 
 ## Related Concepts
 - [[Mental Models\|Mental Models]]
-- [[Critical Thinking\|Critical Thinking]]
+- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]
 - [[Perspective Taking\|Perspective Taking]]
 - [[Reflective Practice\|Reflective Practice]]
 - [[Decision Making\|Decision Making]]

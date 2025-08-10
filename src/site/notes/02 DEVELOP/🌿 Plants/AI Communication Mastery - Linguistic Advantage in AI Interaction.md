@@ -167,7 +167,7 @@ This framework connects to several important areas:
 - **[[Cognitive Load Theory\|Cognitive Load Theory]]**: Understanding human information processing limitations
 - **[[Metacognition\|Metacognition]]**: Awareness and understanding of thought processes
 - **[[Professional Development\|Professional Development]]**: Career advancement through skill building
-- **[[01 CONSUME/📥 Inbox/Digital Literacy\|Digital Literacy]]**: Broader framework of technology competence
+- **[[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]**: Broader framework of technology competence
 
 ## Future Implications
 

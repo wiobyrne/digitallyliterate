@@ -26,7 +26,7 @@ This MOC is designed to guide you through the world of digital resilience, offer
 ## 🌱 Foundations of Digital Resilience
 This section explores foundational concepts crucial for building resilience in the digital age. It covers core skills, principles, and practices that underpin safe and responsible technology use.
 
-- [[01 CONSUME/📥 Inbox/Digital Literacy\|Digital Literacy]] 🔹🪜
+- [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]] 🔹🪜
 - [[Digital Agency\|Digital Agency]] 🔹🪜 
 - [[Digital Wellbeing\|Digital Wellbeing]] 🔹🪜 
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] 🔹🪜 
@@ -42,7 +42,7 @@ This section provides a comprehensive overview of privacy and security considera
 - [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] 🔹📘  
 - [[Personal Data\|Personal Data]] 🔹📘  
 - [[02 DEVELOP/🌿 Plants/Digital Footprint\|Digital Footprint]] 🔹📘  
-- [[Surveillance Capitalism\|Surveillance Capitalism]] 🔸🧩  
+- [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]] 🔸🧩  
 - [[Platform Power\|Platform Power]] 🔸🧩  
 - [[Algorithmic Transparency\|Algorithmic Transparency]] 🔸🧩  
 - [[Consent in Digital Spaces\|Consent in Digital Spaces]] 🔹🪜  

@@ -105,7 +105,7 @@ The PedagoGPT Complex consolidates technological power by:
 - **[[Platform Capitalism\|Platform Capitalism]]**: Economic model underlying PedagoGPT infrastructure
 - **[[Digital Colonialism\|Digital Colonialism]]**: Broader pattern of technological domination
 - **[[Critical Digital Literacy\|Critical Digital Literacy]]**: Alternative approach to technology education
-- **[[Surveillance Capitalism\|Surveillance Capitalism]]**: Data extraction model integrated into educational technologies
+- **[[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]]**: Data extraction model integrated into educational technologies
 - **[[Technological Solutionism\|Technological Solutionism]]**: Ideological framework supporting PedagoGPT adoption
 - **[[Democratic Technology Assessment\|Democratic Technology Assessment]]**: Alternative approach to evaluating AI in education
 

@@ -44,7 +44,7 @@ Overwhelmed systems across scales respond by stopping communication:
 
 - Links to [[02 DEVELOP/🌱 Seeds/Digital Overwhelm\|Digital Overwhelm]] individual patterns
 - Relationship to [[Climate Change and Communication Systems\|Climate Change and Communication Systems]]
-- Connection to [[02 DEVELOP/🌱 Seeds/Information War Framework Expansion\|Information War Framework Expansion]]
+- Connection to [[Information War Framework Expansion\|Information War Framework Expansion]]
 - Bridge to resilience and recovery mechanisms
 
 ## Applications

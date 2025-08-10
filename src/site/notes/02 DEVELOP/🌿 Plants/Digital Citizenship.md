@@ -147,7 +147,7 @@ Digital citizenship is not static but must evolve with technological advancement
 ## Connection to Broader Frameworks
 
 ### Relationship to Digital Literacy
-Digital citizenship complements [[01 CONSUME/📥 Inbox/Digital Literacy\|Digital Literacy]] by adding ethical and social dimensions to technical skills. While digital literacy focuses on the ability to use technology effectively, digital citizenship emphasizes using technology responsibly and ethically.
+Digital citizenship complements [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]] by adding ethical and social dimensions to technical skills. While digital literacy focuses on the ability to use technology effectively, digital citizenship emphasizes using technology responsibly and ethically.
 
 ### Integration with Media Literacy
 Digital citizenship shares significant overlap with [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]], particularly in areas of:
@@ -216,6 +216,6 @@ Research supports several effective approaches:
 - [[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]] - Comprehensive pedagogical framework for educators
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]] - Foundational understanding of digital privacy rights and practices
 - [[03 CREATE/🌲 Evergreens/Digital Resilience\|Digital Resilience]] - Building capacity to navigate digital challenges
-- [[01 CONSUME/📥 Inbox/Digital Literacy\|Digital Literacy]] - Technical and critical skills for digital participation
+- [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]] - Technical and critical skills for digital participation
 - [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] - Comprehensive resource collection for digital safety
 

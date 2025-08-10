@@ -188,8 +188,8 @@ Through conscious resistance and critical evaluation, we can work toward technol
 
 ## Related Concepts
 - [[Technological Advances\|Technological Advances]]
-- [[01 CONSUME/📥 Inbox/Digital Literacy\|Digital Literacy]]
-- [[Critical Thinking\|Critical Thinking]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]
+- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]
 - [[Media Ecology\|Media Ecology]]
 - [[Technology Ethics\|Technology Ethics]]
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]
