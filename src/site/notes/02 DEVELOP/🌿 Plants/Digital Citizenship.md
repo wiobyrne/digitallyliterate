@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/digital-citizenship/","title":"Digital Citizenship","tags":["digital-citizenship","digital-literacy","online-ethics","internet-safety","media-literacy","digital-responsibility"],"created":"2025-08-03","updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"digital-citizenship","permalink":"/digital-citizenship/","title":"Digital Citizenship","tags":["digital-citizenship","digital-literacy","online-ethics","internet-safety","media-literacy","digital-responsibility"],"created":"2025-08-03","updated":"2025-08-10"}
 ---
 
 
