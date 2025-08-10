@@ -30,7 +30,7 @@ This section explores foundational concepts crucial for building resilience in t
 - [[Digital Agency\|Digital Agency]] 🔹🪜 
 - [[Digital Wellbeing\|Digital Wellbeing]] 🔹🪜 
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] 🔹🪜 
-- [[01 CONSUME/📥 Inbox/Digital Identity\|Digital Identity]] 🔹🪜 
+- [[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]] 🔹🪜 
 - [[Critical Digital Literacy\|Critical Digital Literacy]] 🔹🪜
 - [[Cyber Hygiene\|Cyber Hygiene]] 🔹🛠️ 
 - [[Digital Autonomy\|Digital Autonomy]] 🔹🪜 

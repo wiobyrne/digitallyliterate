@@ -32,7 +32,7 @@ The year-long newsletter hiatus wasn't just scheduling - it was a form of ghosti
 
 ## Connections Developing
 
-- Links to [[01 CONSUME/📥 Inbox/Digital Identity\|Digital Identity]] questions about authentic self online
+- Links to [[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]] questions about authentic self online
 - Connects to [[Authentic Communication in Digital Spaces\|Authentic Communication in Digital Spaces]] challenges
 - Relates to broader [[02 DEVELOP/🌱 Seeds/Digital Overwhelm\|Digital Overwhelm]] patterns
 - Personal case study for system silence themes in [[03 CREATE/📧 Newsletter/DL 398\|DL 398]]
