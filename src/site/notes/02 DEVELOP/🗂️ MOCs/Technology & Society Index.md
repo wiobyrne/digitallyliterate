@@ -66,8 +66,8 @@ These recurring themes weave through the above MOCs:
 - [[Data Sovereignty\|Data Sovereignty]]
 
 ### 📚 Literacy & Education  
-- [[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]]  
-- [[01 CONSUME/📥 Inbox/Media Literacy\|Media Literacy]]  
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]  
+- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]  
 - [[Computational Thinking\|Computational Thinking]]  
 - [[Critical Digital Pedagogy\|Critical Digital Pedagogy]]
 

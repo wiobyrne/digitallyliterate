@@ -18,11 +18,11 @@ A [2025 study in the Journal of Human Development and Capabilities](https://www.
 - How do these findings connect to broader screen time research?
 - What are the policy implications for device access decisions?
 - How do we design healthy relationships with powerful tools?
-- What role do [[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]] frameworks play in mitigation?
+- What role do [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] frameworks play in mitigation?
 
 ## Connections Developing
 
-- Links to [[01 CONSUME/📥 Inbox/Media Literacy\|Media Literacy]] needs for young people
+- Links to [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] needs for young people
 - Connects to broader [[02 DEVELOP/🌱 Seeds/Digital Overwhelm\|Digital Overwhelm]] patterns
 - Relates to family technology decision-making
 

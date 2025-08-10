@@ -310,7 +310,7 @@ Rather than pursuing AI systems that maximize capability regardless of human com
 
 - **[[AI Ethics Framework\|AI Ethics Framework]]** - Broader ethical principles for AI development and deployment
 - **[[Cognitive Amplification\|Cognitive Amplification]]** - Technologies that enhance rather than replace human thinking
-- **[[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]]** - Rights and responsibilities in digital environments
+- **[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]** - Rights and responsibilities in digital environments
 - **[[Intentional Technology Use\|Intentional Technology Use]]** - Deliberate approaches to technology adoption and engagement
 - **[[Technology and Society\|Technology and Society]]** - Social dimensions of technological development and deployment
 

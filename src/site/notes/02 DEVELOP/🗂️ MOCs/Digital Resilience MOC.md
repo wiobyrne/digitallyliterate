@@ -26,10 +26,10 @@ This MOC is designed to guide you through the world of digital resilience, offer
 ## 🌱 Foundations of Digital Resilience
 This section explores foundational concepts crucial for building resilience in the digital age. It covers core skills, principles, and practices that underpin safe and responsible technology use.
 
-- [[Digital Literacy\|Digital Literacy]] 🔹🪜
+- [[01 CONSUME/📥 Inbox/Digital Literacy\|Digital Literacy]] 🔹🪜
 - [[Digital Agency\|Digital Agency]] 🔹🪜 
 - [[Digital Wellbeing\|Digital Wellbeing]] 🔹🪜 
-- [[01 CONSUME/📥 Inbox/Digital Citizenship\|Digital Citizenship]] 🔹🪜 
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] 🔹🪜 
 - [[01 CONSUME/📥 Inbox/Digital Identity\|Digital Identity]] 🔹🪜 
 - [[Critical Digital Literacy\|Critical Digital Literacy]] 🔹🪜
 - [[Cyber Hygiene\|Cyber Hygiene]] 🔹🛠️ 
@@ -72,7 +72,7 @@ This section delves into the psychological and social impacts of technology, exa
 This section equips you with the tools to critically evaluate information online, identify manipulative tactics, and navigate the complex landscape of misinformation.
 
 - [[Misinformation vs Disinformation\|Misinformation vs Disinformation]] 🔹📘  
-- [[01 CONSUME/📥 Inbox/Media Literacy\|Media Literacy]] 🔹🪜  
+- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] 🔹🪜  
 - [[Algorithmic Amplification\|Algorithmic Amplification]] 🔸🧩  
 - [[Echo Chambers and Filter Bubbles\|Echo Chambers and Filter Bubbles]] 🔹🧩  
 - [[Deepfakes and Synthetic Media\|Deepfakes and Synthetic Media]] 🔸🛠️  
