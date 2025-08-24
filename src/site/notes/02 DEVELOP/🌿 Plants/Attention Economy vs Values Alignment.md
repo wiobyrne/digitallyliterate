@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/attention-economy-vs-values-alignment/","title":"Attention Economy vs Values Alignment","tags":["attention-economy","values-alignment","technology-ethics","digital-wellness"]}
+{"dg-publish":true,"dg-permalink":"attention-economy-values-alignment","permalink":"/attention-economy-values-alignment/","title":"Attention Economy vs Values Alignment","tags":["attention-economy","values-alignment","technology-ethics","digital-wellness"]}
 ---
 
 

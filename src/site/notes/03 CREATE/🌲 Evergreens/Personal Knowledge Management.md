@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/personal-knowledge-management/","title":"Personal Knowledge Management","tags":["pkm","knowledge","tagging","note-taking","second-brain"]}
+{"dg-publish":true,"dg-permalink":"personal-knowledge-management","permalink":"/personal-knowledge-management/","title":"Personal Knowledge Management","tags":["pkm","knowledge","tagging","note-taking","second-brain"],"created":"2025-06-29","updated":"2025-06-29"}
 ---
 
 
