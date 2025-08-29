@@ -70,7 +70,7 @@ This first issue captured themes that would define the newsletter for years to c
 **Next**: [[03 CREATE/📧 Newsletter/TLDR 2\|TLDR 2]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
 
 **Connected concepts**:
-- [[digital divide and access\|Digital Divide and Access]]
+- [[Digital Divide and Access\|Digital Divide and Access]]
 - [[Privacy and Digital Rights\|Privacy and Digital Rights]]
 - [[Maker Education\|Maker Education]]
 - [[Educational Technology Debates\|Educational Technology Debates]]

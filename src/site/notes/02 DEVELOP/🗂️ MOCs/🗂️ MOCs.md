@@ -45,3 +45,4 @@ These are some recommended paths for structured learning:
 - **Technology Leadership**: [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]] → [[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]] → [[02 DEVELOP/🗂️ MOCs/Technology & Society Index\|Technology & Society Index]]
     
 - **Content Strategy**: [[02 DEVELOP/🗂️ MOCs/Blog Post Index\|Blog Post Index]] → [[02 DEVELOP/🗂️ MOCs/Newsletter Index\|Newsletter Index]] → [[02 DEVELOP/🗂️ MOCs/Notes Index\|Notes Index]]
+- **Educational Leadership**: [[02 DEVELOP/🗂️ MOCs/Teaching Philosophy MOC\|Teaching Philosophy MOC]] → [[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]] → [[02 DEVELOP/🗂️ MOCs/Technology & Society Index\|Technology & Society Index]]

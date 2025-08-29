@@ -142,3 +142,7 @@ This teaching philosophy connects directly to my broader professional work:
 
 This philosophy guides every aspect of my teaching practice, from course design to daily interactions with students, ensuring that technology integration serves human flourishing and social justice.
 
+## Theoretical Framework and Methodologies
+
+For a comprehensive exploration of the theoretical foundations, pedagogical techniques, and practical implementation strategies that inform this philosophy, see the [[02 DEVELOP/🗂️ MOCs/Teaching Philosophy MOC\|Teaching Philosophy MOC]]. This includes detailed analysis of constructivist learning theory, critical pedagogy applications, and specific methodologies like the deliberate use of cognitive dissonance in learning design.
+
