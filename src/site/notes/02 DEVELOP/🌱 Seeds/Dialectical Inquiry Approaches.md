@@ -40,6 +40,3 @@
 ## Connection to Teaching Philosophy
 This approach could enhance my commitment in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] to "collaborative learning" while maintaining the intellectual rigor of devil's advocate techniques.
 
----
-
-*This seed represents a logical progression from devil's advocate methodology - needs practical framework development.*
