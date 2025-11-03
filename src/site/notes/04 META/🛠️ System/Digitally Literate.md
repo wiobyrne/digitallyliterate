@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/04-meta/system/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"created":"2024-11-16","updated":"2025-09-09"}
 ---
 
+
 # Digitally Literate
 
-## Hi, I'm Ian O'Byrne
-
 ![headshot.png](/img/user/04%20META/%F0%9F%94%97%20Assets/headshot.png)
+
+### Hi, I'm Ian O'Byrne.
 
 I explore how people **read, write, and learn** in digital, connected spaces. I help design systems that support creativity, agency, and belonging.
 
