@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/how-i-wrote-this-with-ai/","title":"How I Wrote This With AI","tags":["process","reflection","digital-garden","homelab"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/how-i-wrote-this-with-ai/","title":"How I Wrote This With AI","tags":["process","reflection","digital-garden","homelab"]}
 ---
 
 

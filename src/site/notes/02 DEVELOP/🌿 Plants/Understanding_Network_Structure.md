@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/understanding-network-structure/","title":"Understanding Network Structure: Clusters, Communities, and Hidden Patterns in Connected Systems","tags":["network-analysis","social-network-analysis","data-visualization","clustering","modularity","community-detection","network-structure","graph-theory","digital-networks"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/understanding-network-structure/","title":"Understanding Network Structure: Clusters, Communities, and Hidden Patterns in Connected Systems","tags":["network-analysis","social-network-analysis","data-visualization","clustering","modularity","community-detection","network-structure","graph-theory","digital-networks"]}
 ---
 
 

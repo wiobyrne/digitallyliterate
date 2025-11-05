@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/network-visualization-algorithms/","title":"Network Visualization Algorithms: Mathematical Approaches to Spatial Network Layout","tags":["network-visualization","algorithms","gephi","force-atlas","graph-layout","mathematical-modeling","data-visualization","network-analysis","spatial-analysis"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/network-visualization-algorithms/","title":"Network Visualization Algorithms: Mathematical Approaches to Spatial Network Layout","tags":["network-visualization","algorithms","gephi","force-atlas","graph-layout","mathematical-modeling","data-visualization","network-analysis","spatial-analysis"]}
 ---
 
 

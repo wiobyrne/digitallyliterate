@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/using-ai-as-a-research-partner/","title":"Using AI as a Research Partner","tags":["research","collaboration","ethics","methodology"],"created":"2025-10-12"}
+{"dg-publish":true,"permalink":"/03-create/blog/using-ai-as-a-research-partner/","title":"Using AI as a Research Partner","tags":["research","collaboration","ethics","methodology"]}
 ---
 
 

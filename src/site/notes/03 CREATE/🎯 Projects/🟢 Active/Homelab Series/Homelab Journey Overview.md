@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"homelab-series","permalink":"/homelab-series/","title":"Homelab Journey Overview","tags":["homelab","selfhosting","systems-thinking","digital-sovereignty","ai-collaboration","digital-literacy","digital-garden"],"created":"2025-10-10","updated":"2025-10-09"}
+{"dg-publish":true,"dg-permalink":"homelab-series","permalink":"/homelab-series/","title":"Homelab Journey Overview","tags":["homelab","selfhosting","systems-thinking","digital-sovereignty","ai-collaboration","digital-literacy","digital-garden"]}
 ---
 
 

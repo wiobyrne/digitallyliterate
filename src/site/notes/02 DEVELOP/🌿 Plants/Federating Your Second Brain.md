@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/federating-your-second-brain/","title":"Federating Your Second Brain","tags":["digital-gardening","pkm","open-web","reclaim-open","federation"]}
+{"dg-publish":true,"dg-permalink":"federating-second-brain","permalink":"/federating-second-brain/","title":"Federating Your Second Brain","tags":["digital-gardening","pkm","open-web","reclaim-open","federation"]}
 ---
 
 

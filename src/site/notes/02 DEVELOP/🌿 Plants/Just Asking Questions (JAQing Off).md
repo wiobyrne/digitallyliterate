@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/just-asking-questions-ja-qing-off/","title":"Just Asking Questions","tags":["GamerGate","discourse"],"created":"2025-07-19","updated":"2025-07-19"}
+{"dg-publish":true,"permalink":"/02-develop/plants/just-asking-questions-ja-qing-off/","title":"Just Asking Questions","tags":["GamerGate","discourse"]}
 ---
 
 # Just Asking Questions (JAQing Off)

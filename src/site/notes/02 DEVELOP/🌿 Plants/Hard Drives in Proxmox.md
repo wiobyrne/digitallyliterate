@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/hard-drives-in-proxmox/","title":"Hard Drives in Proxmox","tags":["proxmox","storage","hard-drives","truenas","hardware-configuration"],"created":"2025-01-28"}
+{"dg-publish":true,"permalink":"/02-develop/plants/hard-drives-in-proxmox/","title":"Hard Drives in Proxmox","tags":["proxmox","storage","hard-drives","truenas","hardware-configuration"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"information-architecture","permalink":"/information-architecture/","title":"Information Architecture","tags":["learning","cognition","information"],"created":"2025-08-22","updated":"2025-08-24"}
+{"dg-publish":true,"dg-permalink":"information-architecture","permalink":"/information-architecture/","title":"Information Architecture","tags":["learning","cognition","information"]}
 ---
 
 # Information Architecture

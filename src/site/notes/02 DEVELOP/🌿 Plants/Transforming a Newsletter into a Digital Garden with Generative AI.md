@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/transforming-a-newsletter-into-a-digital-garden-with-generative-ai/","title":"Transforming a Newsletter into a Digital Garden with Generative AI","tags":["digital-garden","generative-ai","content-strategy","newsletter-evolution","ai-collaboration","content-creation","knowledge-management","writing-process"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/transforming-a-newsletter-into-a-digital-garden-with-generative-ai/","title":"Transforming a Newsletter into a Digital Garden with Generative AI","tags":["digital-garden","generative-ai","content-strategy","newsletter-evolution","ai-collaboration","content-creation","knowledge-management","writing-process"]}
 ---
 
 

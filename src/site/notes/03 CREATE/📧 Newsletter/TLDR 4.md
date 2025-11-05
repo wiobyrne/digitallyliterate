@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-4/","title":"Web Literacy Expansion and Digital Parenting: From Bees to Badges","tags":["early-newsletter","web-literacy-map","digital-badges","sharenting","agile-education","digital-wisdom","multimodal-tutorials"],"created":"2015-07-17","updated":"2025-07-30"}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-4/","title":"Web Literacy Expansion and Digital Parenting: From Bees to Badges","tags":["early-newsletter","web-literacy-map","digital-badges","sharenting","agile-education","digital-wisdom","multimodal-tutorials"]}
 ---
 
 

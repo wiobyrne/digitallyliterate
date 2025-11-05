@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"media-literacy","permalink":"/media-literacy/","title":"Media Literacy","tags":["media-literacy","critical-thinking","digital-literacy","information-literacy","misinformation","digital-citizenship","critical-pedagogy"],"created":"2025-08-03","updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"media-literacy","permalink":"/media-literacy/","title":"Media Literacy","tags":["media-literacy","critical-thinking","digital-literacy","information-literacy","misinformation","digital-citizenship","critical-pedagogy"]}
 ---
 
 
