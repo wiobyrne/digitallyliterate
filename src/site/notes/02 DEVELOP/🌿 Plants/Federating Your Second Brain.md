@@ -156,7 +156,7 @@ What I'm trying to figure out:
 
 ## 💡 Why This Matters
 
-### For You (The Knowledge Worker)
+### For You
 
 **Compound interest on learning:**
 - Your notes become **searchable, linkable assets**
@@ -175,7 +175,7 @@ What I'm trying to figure out:
 - Conversations start from shared curiosity, not engagement metrics
 - Your garden becomes a **collaboration surface**
 
-### For the Web (The Commons)
+### For the Web
 
 **Rebuilding the open web:**
 - Every garden is a node in a distributed knowledge network
