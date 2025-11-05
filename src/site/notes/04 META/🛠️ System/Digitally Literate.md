@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/system/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"created":"2024-11-16","updated":"2025-09-09"}
+{"dg-publish":true,"permalink":"/04-meta/system/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"]}
 ---
 
 

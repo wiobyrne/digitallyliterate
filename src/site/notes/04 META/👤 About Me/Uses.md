@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"uses","permalink":"/uses/","title":"Uses","tags":["tools","setup","productivity","indieweb"],"created":"2025-08-03","updated":"2025-08-03"}
+{"dg-publish":true,"dg-permalink":"uses","permalink":"/uses/","title":"Uses","tags":["tools","setup","productivity","indieweb"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-attention-merchants/","title":"The Attention Merchants","created":"2025-07-26","updated":"2025-07-26"}
+{"dg-publish":true,"permalink":"/01-consume/books/the-attention-merchants/","title":"The Attention Merchants"}
 ---
 
 

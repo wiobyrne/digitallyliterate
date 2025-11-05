@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-3-base-system-and-hypervisor-setup/","title":"Homelab Journey, Part 3: Base System & Hypervisor Setup","tags":["homelab","proxmox","virtualization","setup"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-3-base-system-and-hypervisor-setup/","title":"Homelab Journey, Part 3: Base System & Hypervisor Setup","tags":["homelab","proxmox","virtualization","setup"]}
 ---
 
 

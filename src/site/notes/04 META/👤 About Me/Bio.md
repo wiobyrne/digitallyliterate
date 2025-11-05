@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","title":"Professional Bio","tags":["bio","professional","about","speaker"],"created":"2025-08-08"}
+{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","title":"Professional Bio","tags":["bio","professional","about","speaker"]}
 ---
 
 

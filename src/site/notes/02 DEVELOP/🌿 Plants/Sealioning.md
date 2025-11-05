@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/sealioning/","title":"Sealioning","tags":["GamerGate","rhetoric","online-behavior","harassment","online-harassment","discourse","digital-literacy"],"created":"2025-07-19","updated":"2025-07-19"}
+{"dg-publish":true,"permalink":"/02-develop/plants/sealioning/","title":"Sealioning","tags":["GamerGate","rhetoric","online-behavior","harassment","online-harassment","discourse","digital-literacy"]}
 ---
 
 

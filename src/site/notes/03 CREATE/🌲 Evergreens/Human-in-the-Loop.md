@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"human-in-the-loop","permalink":"/human-in-the-loop/","title":"Human-in-the-Loop: Agency and Responsibility in AI-Mediated Systems","tags":["human-centered-ai","ai-ethics","cognitive-amplification","digital-pedagogy","technology-governance","human-agency","responsible-ai","educational-technology"],"created":"2025-08-08","updated":"2025-08-08"}
+{"dg-publish":true,"dg-permalink":"human-in-the-loop","permalink":"/human-in-the-loop/","title":"Human-in-the-Loop: Agency and Responsibility in AI-Mediated Systems","tags":["human-centered-ai","ai-ethics","cognitive-amplification","digital-pedagogy","technology-governance","human-agency","responsible-ai","educational-technology"]}
 ---
 
 

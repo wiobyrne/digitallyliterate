@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/digitally-literate-research-project/","title":"Digitally Literate Research Project","tags":["research","digital-literacy","instrument-design","education-technology","survey-research"],"created":"2025-01-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/digitally-literate-research-project/","title":"Digitally Literate Research Project","tags":["research","digital-literacy","instrument-design","education-technology","survey-research"]}
 ---
 
 

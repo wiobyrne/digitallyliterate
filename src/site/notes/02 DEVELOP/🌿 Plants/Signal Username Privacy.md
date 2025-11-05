@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/signal-username-privacy/","title":"Signal Username Privacy: Balancing Public Access and Personal Security","tags":["signal","privacy","digital-security","communication","messaging","username-privacy","contact-management","digital-identity"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/signal-username-privacy/","title":"Signal Username Privacy: Balancing Public Access and Personal Security","tags":["signal","privacy","digital-security","communication","messaging","username-privacy","contact-management","digital-identity"]}
 ---
 
 

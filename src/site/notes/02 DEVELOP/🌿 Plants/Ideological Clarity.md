@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/ideological-clarity/","title":"Ideological Clarity","tags":["education","beliefs","values","pedagogy","linguistics","critical-theory"],"created":"2025-01-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/ideological-clarity/","title":"Ideological Clarity","tags":["education","beliefs","values","pedagogy","linguistics","critical-theory"]}
 ---
 
 

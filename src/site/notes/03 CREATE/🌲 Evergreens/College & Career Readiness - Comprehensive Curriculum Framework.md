@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/college-and-career-readiness-comprehensive-curriculum-framework/","title":"College & Career Readiness - Comprehensive Curriculum Framework","tags":["curriculum-design","college-readiness","career-preparation","student-development","global-competence","financial-literacy","study-skills","critical-thinking"],"created":"2025-07-02"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/college-and-career-readiness-comprehensive-curriculum-framework/","title":"College & Career Readiness - Comprehensive Curriculum Framework","tags":["curriculum-design","college-readiness","career-preparation","student-development","global-competence","financial-literacy","study-skills","critical-thinking"]}
 ---
 
 

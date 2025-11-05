@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/anti-racism/","title":"Anti-Racism","tags":["anti-racism","social-justice","equity","activism","systemic-change"],"created":"2025-01-01"}
+{"dg-publish":true,"permalink":"/02-develop/seeds/anti-racism/","title":"Anti-Racism","tags":["anti-racism","social-justice","equity","activism","systemic-change"]}
 ---
 
 

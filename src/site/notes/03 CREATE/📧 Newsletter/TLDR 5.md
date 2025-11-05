@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-5/","title":"Educational Advocacy and Creative Systems: From Kanban to Chuck Jones","tags":["early-newsletter","kanban-workflow","educational-advocacy","reading-neuroscience","digital-publishing","typography","animation-tools"],"created":"2015-07-24","updated":"2025-07-30"}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-5/","title":"Educational Advocacy and Creative Systems: From Kanban to Chuck Jones","tags":["early-newsletter","kanban-workflow","educational-advocacy","reading-neuroscience","digital-publishing","typography","animation-tools"]}
 ---
 
 

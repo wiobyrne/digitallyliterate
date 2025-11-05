@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-6-services-and-containers/","title":"🧱 Homelab Journey, Part 6: Services & Containers","tags":["homelab","docker","services","containers"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-6-services-and-containers/","title":"🧱 Homelab Journey, Part 6: Services & Containers","tags":["homelab","docker","services","containers"]}
 ---
 
 

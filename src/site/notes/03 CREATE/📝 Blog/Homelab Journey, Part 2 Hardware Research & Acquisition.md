@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-2-hardware-research-and-acquisition/","title":"Homelab Journey, Part 2: Hardware Research & Acquisition","tags":["homelab","hardware","systems","infrastructure"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-2-hardware-research-and-acquisition/","title":"Homelab Journey, Part 2: Hardware Research & Acquisition","tags":["homelab","hardware","systems","infrastructure"]}
 ---
 
 

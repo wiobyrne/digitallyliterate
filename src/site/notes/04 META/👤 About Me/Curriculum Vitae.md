@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cv","permalink":"/cv/","title":"Curriculum Vitae","tags":["cv","professional","about"],"created":"2025-07-28"}
+{"dg-publish":true,"dg-permalink":"cv","permalink":"/cv/","title":"Curriculum Vitae","tags":["cv","professional","about"]}
 ---
 
 
