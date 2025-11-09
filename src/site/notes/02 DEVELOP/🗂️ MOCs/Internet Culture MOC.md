@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/internet-culture-moc/","title":"Internet Culture MOC","tags":["moc","internet-culture","digital-anthropology","online-communities","platform-studies"]}
+{"dg-publish":true,"permalink":"/02-develop/mo-cs/internet-culture-moc/","title":"Internet Culture MOC","tags":["moc","internet-culture","digital-anthropology","online-communities","platform-studies"],"created":"2025-09-14","updated":"2025-09-14"}
 ---
 
 

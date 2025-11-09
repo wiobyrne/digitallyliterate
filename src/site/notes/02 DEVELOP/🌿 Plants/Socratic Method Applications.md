@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/socratic-method-applications/","title":"Socratic Method Applications","tags":["socratic-method","questioning-techniques","dialogue-pedagogy","student-engagement","classical-pedagogy"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/socratic-method-applications/","title":"Socratic Method Applications","tags":["socratic-method","questioning-techniques","dialogue-pedagogy","student-engagement","classical-pedagogy"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

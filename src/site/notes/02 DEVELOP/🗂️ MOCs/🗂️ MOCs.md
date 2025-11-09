@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/mo-cs/","title":"🗂️ MOCs Index","tags":["index","mocs","navigation","learning-pathways","strategic-guidance"]}
+{"dg-publish":true,"permalink":"/02-develop/mo-cs/mo-cs/","title":"🗂️ MOCs Index","tags":["index","mocs","navigation","learning-pathways","strategic-guidance"],"created":"2025-08-08","updated":"2025-08-08"}
 ---
 
 

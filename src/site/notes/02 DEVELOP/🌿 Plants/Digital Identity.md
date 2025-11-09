@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-identity","permalink":"/digital-identity/","title":"Digital Identity"}
+{"dg-publish":true,"dg-permalink":"digital-identity","permalink":"/digital-identity/","title":"Digital Identity","created":"2025-08-03","updated":"2025-08-03"}
 ---
 
 # Digital Identity

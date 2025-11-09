@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/project-based-learning/","title":"Project-Based Learning","tags":["project-based-learning","pedagogy","student-engagement","curriculum-design","education-methodology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/project-based-learning/","title":"Project-Based Learning","tags":["project-based-learning","pedagogy","student-engagement","curriculum-design","education-methodology"],"created":"2025-01-01"}
 ---
 
 

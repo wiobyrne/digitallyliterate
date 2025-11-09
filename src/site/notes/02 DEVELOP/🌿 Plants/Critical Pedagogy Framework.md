@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/critical-pedagogy-framework/","title":"Critical Pedagogy Framework","tags":["critical-pedagogy","educational-theory","power-dynamics","democratic-learning","student-empowerment"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/critical-pedagogy-framework/","title":"Critical Pedagogy Framework","tags":["critical-pedagogy","educational-theory","power-dynamics","democratic-learning","student-empowerment"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

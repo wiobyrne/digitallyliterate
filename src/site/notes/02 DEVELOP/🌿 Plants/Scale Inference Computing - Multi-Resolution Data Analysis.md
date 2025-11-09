@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/scale-inference-computing-multi-resolution-data-analysis/","title":"Scale Inference Computing - Multi-Resolution Data Analysis","tags":["algorithms","computational-methods","data-analysis","machine-learning","image-processing","hierarchical-systems","computer-science","artificial-intelligence"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/scale-inference-computing-multi-resolution-data-analysis/","title":"Scale Inference Computing - Multi-Resolution Data Analysis","tags":["algorithms","computational-methods","data-analysis","machine-learning","image-processing","hierarchical-systems","computer-science","artificial-intelligence"],"created":"2025-07-02"}
 ---
 
 

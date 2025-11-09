@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/discourse-2-0/","title":"Discourse 2.0: Evolution of Communication in Web 2.0 Environments","tags":["discourse-analysis","web-2-0","computer-mediated-communication","social-media","digital-communication","multimodal-discourse","user-generated-content","collaborative-media","network-communication"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/discourse-2-0/","title":"Discourse 2.0: Evolution of Communication in Web 2.0 Environments","tags":["discourse-analysis","web-2-0","computer-mediated-communication","social-media","digital-communication","multimodal-discourse","user-generated-content","collaborative-media","network-communication"],"created":"2025-07-01"}
 ---
 
 

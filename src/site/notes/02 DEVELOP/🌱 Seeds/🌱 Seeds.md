@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/seeds/","title":"🌱 Seeds Index","tags":["index","seeds","early-exploration","framework-development","knowledge-cultivation"]}
+{"dg-publish":true,"permalink":"/02-develop/seeds/seeds/","title":"🌱 Seeds Index","tags":["index","seeds","early-exploration","framework-development","knowledge-cultivation"],"created":"2025-08-08","updated":"2025-08-08"}
 ---
 
 

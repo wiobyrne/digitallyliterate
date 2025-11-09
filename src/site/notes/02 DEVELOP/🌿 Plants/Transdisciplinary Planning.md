@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/transdisciplinary-planning/","title":"Transdisciplinary Planning","tags":["transdisciplinary-education","wicked-problems","curriculum-design","collaborative-learning","systems-thinking","educational-innovation","problem-based-learning","interdisciplinary-studies","standards-alignment","pedagogical-framework"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/transdisciplinary-planning/","title":"Transdisciplinary Planning","tags":["transdisciplinary-education","wicked-problems","curriculum-design","collaborative-learning","systems-thinking","educational-innovation","problem-based-learning","interdisciplinary-studies","standards-alignment","pedagogical-framework"],"created":"2024-01-15"}
 ---
 
 

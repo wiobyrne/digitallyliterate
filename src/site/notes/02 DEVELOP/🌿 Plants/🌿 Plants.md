@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/plants/","title":"🌿 Plants Index","tags":["index","plants","framework-development","active-research","strategic-development"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/plants/","title":"🌿 Plants Index","tags":["index","plants","framework-development","active-research","strategic-development"],"created":"2025-08-08","updated":"2025-08-08"}
 ---
 
 

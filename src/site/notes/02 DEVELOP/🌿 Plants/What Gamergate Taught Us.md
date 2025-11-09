@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/what-gamergate-taught-us/","title":"What Gamergate Taught Us","tags":["gamergate","misinformation","online-harassment","digital-literacy"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/what-gamergate-taught-us/","title":"What Gamergate Taught Us","tags":["gamergate","misinformation","online-harassment","digital-literacy"],"created":"2025-07-19","updated":"2025-07-19"}
 ---
 
 

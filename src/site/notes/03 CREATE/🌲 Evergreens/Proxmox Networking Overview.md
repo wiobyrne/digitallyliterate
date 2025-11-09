@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/proxmox-networking-overview/","title":"Proxmox Networking Overview","tags":["proxmox","networking","lxc","static-ip","virtualization","bridge-configuration"]}
+{"dg-publish":true,"permalink":"/03-create/evergreens/proxmox-networking-overview/","title":"Proxmox Networking Overview","tags":["proxmox","networking","lxc","static-ip","virtualization","bridge-configuration"],"created":"2025-04-12"}
 ---
 
 

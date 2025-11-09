@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-6/","title":"Creative Commons and Life Transitions: Open Education and Cold Brew Coffee","tags":["early-newsletter","creative-commons","open-educational-resources","windows-10-privacy","digital-puppetry","cold-brew-coffee","family-relocation"]}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-6/","title":"Creative Commons and Life Transitions: Open Education and Cold Brew Coffee","tags":["early-newsletter","creative-commons","open-educational-resources","windows-10-privacy","digital-puppetry","cold-brew-coffee","family-relocation"],"created":"2015-07-31","updated":"2025-07-29"}
 ---
 
 

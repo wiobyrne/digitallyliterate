@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/dialectical-inquiry-approaches/","title":"Dialectical Inquiry Approaches","tags":["dialectical-inquiry","collaborative-learning","thesis-antithesis-synthesis","group-based-opposition","advanced-pedagogy"]}
+{"dg-publish":true,"permalink":"/02-develop/seeds/dialectical-inquiry-approaches/","title":"Dialectical Inquiry Approaches","tags":["dialectical-inquiry","collaborative-learning","thesis-antithesis-synthesis","group-based-opposition","advanced-pedagogy"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

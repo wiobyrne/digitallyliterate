@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai","permalink":"/ai/","title":"AI and Machine Learning MOC","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"]}
+{"dg-publish":true,"dg-permalink":"ai","permalink":"/ai/","title":"AI and Machine Learning MOC","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"],"created":"2025-07-17","updated":"2025-07-17"}
 ---
 
 

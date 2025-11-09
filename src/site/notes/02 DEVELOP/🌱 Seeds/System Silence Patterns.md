@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/system-silence-patterns/","title":"System Silence Patterns","tags":["systems-thinking","communication-breakdown","environmental-stress","cognitive-overload"]}
+{"dg-publish":true,"permalink":"/02-develop/seeds/system-silence-patterns/","title":"System Silence Patterns","tags":["systems-thinking","communication-breakdown","environmental-stress","cognitive-overload"],"created":"2025-08-02","updated":"2025-08-02"}
 ---
 
 

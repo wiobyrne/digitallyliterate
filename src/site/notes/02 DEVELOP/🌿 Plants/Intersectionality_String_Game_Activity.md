@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/intersectionality-string-game-activity/","title":"Intersectionality String Game: Building Empathy Through Shared Connections","tags":["intersectionality","social-justice-education","empathy-building","group-activities","identity-exploration","community-building","diversity-inclusion","experiential-learning","facilitation"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/intersectionality-string-game-activity/","title":"Intersectionality String Game: Building Empathy Through Shared Connections","tags":["intersectionality","social-justice-education","empathy-building","group-activities","identity-exploration","community-building","diversity-inclusion","experiential-learning","facilitation"],"created":"2025-07-01"}
 ---
 
 

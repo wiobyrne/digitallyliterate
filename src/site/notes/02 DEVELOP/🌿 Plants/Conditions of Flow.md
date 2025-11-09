@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/conditions-of-flow/","title":"Conditions of Flow","tags":["flow","cognition","psychology","productivity","optimal-experience"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/conditions-of-flow/","title":"Conditions of Flow","tags":["flow","cognition","psychology","productivity","optimal-experience"],"created":"2025-01-01"}
 ---
 
 

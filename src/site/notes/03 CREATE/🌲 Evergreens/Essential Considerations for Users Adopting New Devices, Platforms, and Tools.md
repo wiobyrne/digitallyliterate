@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/essential-considerations-for-users-adopting-new-devices-platforms-and-tools/","title":"Essential Considerations for Users Adopting New Devices, Platforms, and Tools","tags":["digital-literacy","privacy","security","device-adoption","cybersecurity","user-experience"]}
+{"dg-publish":true,"permalink":"/03-create/evergreens/essential-considerations-for-users-adopting-new-devices-platforms-and-tools/","title":"Essential Considerations for Users Adopting New Devices, Platforms, and Tools","tags":["digital-literacy","privacy","security","device-adoption","cybersecurity","user-experience"],"created":"2025-01-01"}
 ---
 
 

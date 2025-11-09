@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-literacy","permalink":"/digital-literacy/","title":"Digital Literacy","tags":["digital-literacy","information-literacy","technology-skills","critical-thinking","digital-citizenship","media-literacy","computational-thinking","digital-fluency"]}
+{"dg-publish":true,"dg-permalink":"digital-literacy","permalink":"/digital-literacy/","title":"Digital Literacy","tags":["digital-literacy","information-literacy","technology-skills","critical-thinking","digital-citizenship","media-literacy","computational-thinking","digital-fluency"],"created":"2025-08-10","updated":"2025-08-10"}
 ---
 
 

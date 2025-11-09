@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/post-structuralism-in-education/","title":"Post-structuralism in Education","tags":["post-structuralism","educational-theory","meaning-construction","truth-questioning","advanced-theory"]}
+{"dg-publish":true,"permalink":"/02-develop/seeds/post-structuralism-in-education/","title":"Post-structuralism in Education","tags":["post-structuralism","educational-theory","meaning-construction","truth-questioning","advanced-theory"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

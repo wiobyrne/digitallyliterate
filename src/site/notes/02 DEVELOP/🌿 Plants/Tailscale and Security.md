@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/tailscale-and-security/","title":"Tailscale and Security","tags":["tailscale","security","vpn","network-security","remote-access"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/tailscale-and-security/","title":"Tailscale and Security","tags":["tailscale","security","vpn","network-security","remote-access"],"created":"2025-02-12"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy and Security MOC","tags":["moc","privacy","cybersecurity","digital-resilience","ethics"]}
+{"dg-publish":true,"dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy and Security MOC","tags":["moc","privacy","cybersecurity","digital-resilience","ethics"],"created":"2025-07-17","updated":"2025-07-17"}
 ---
 
 

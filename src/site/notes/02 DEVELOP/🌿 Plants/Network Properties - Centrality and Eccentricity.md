@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/network-properties-centrality-and-eccentricity/","title":"Network Properties: Centrality and Eccentricity","tags":["network-analysis","social-network-analysis","centrality-measures","data-visualization","graph-theory","network-metrics","social-media-analysis"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/network-properties-centrality-and-eccentricity/","title":"Network Properties: Centrality and Eccentricity","tags":["network-analysis","social-network-analysis","centrality-measures","data-visualization","graph-theory","network-metrics","social-media-analysis"],"created":"2025-07-01"}
 ---
 
 

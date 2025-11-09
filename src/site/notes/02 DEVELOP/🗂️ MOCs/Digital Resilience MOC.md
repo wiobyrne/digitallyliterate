@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"resilience","permalink":"/resilience/","title":"Digital Resilience MOC","tags":["moc","digital-resilience","digital-literacy","privacy","security"]}
+{"dg-publish":true,"dg-permalink":"resilience","permalink":"/resilience/","title":"Digital Resilience MOC","tags":["moc","digital-resilience","digital-literacy","privacy","security"],"created":"2025-01-31","updated":"2025-07-17"}
 ---
 
 
