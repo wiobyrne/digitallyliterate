@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/build-without-broadcasting/","title":"Build Without Broadcasting","tags":["resistance","activism","advocacy"]}
+{"dg-publish":true,"permalink":"/03-create/blog/build-without-broadcasting/","title":"Build Without Broadcasting","tags":["resistance","activism","advocacy"],"created":"2025-07-18","updated":"2025-07-18"}
 ---
 
 # Build Without Broadcasting

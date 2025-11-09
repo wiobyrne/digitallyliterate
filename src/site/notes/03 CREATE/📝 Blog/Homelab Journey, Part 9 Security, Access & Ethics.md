@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-9-security-access-and-ethics/","title":"🧭 Homelab Journey, Part 9: Security, Access & Ethics","tags":["homelab","security","privacy","ethics"]}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-9-security-access-and-ethics/","title":"🧭 Homelab Journey, Part 9: Security, Access & Ethics","tags":["homelab","security","privacy","ethics"],"created":"2025-10-09"}
 ---
 
 

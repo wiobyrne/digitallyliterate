@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-8/","title":"Transitions and Tech Evolution: From UNH to Alphabet","tags":["early-newsletter","google-alphabet-restructure","teen-technology-use","ebook-reading-changes","sesame-street-hbo","hemingway-editor","blab-video-chat"]}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-8/","title":"Transitions and Tech Evolution: From UNH to Alphabet","tags":["early-newsletter","google-alphabet-restructure","teen-technology-use","ebook-reading-changes","sesame-street-hbo","hemingway-editor","blab-video-chat"],"created":"2015-08-15","updated":"2025-07-30"}
 ---
 
 

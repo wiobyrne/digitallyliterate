@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-8-monitoring-logging-and-maintenance/","title":"Homelab Journey, Part 8: Monitoring, Logging & Maintenance","tags":["homelab","monitoring","grafana","uptime"]}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-8-monitoring-logging-and-maintenance/","title":"Homelab Journey, Part 8: Monitoring, Logging & Maintenance","tags":["homelab","monitoring","grafana","uptime"],"created":"2025-10-09"}
 ---
 
 

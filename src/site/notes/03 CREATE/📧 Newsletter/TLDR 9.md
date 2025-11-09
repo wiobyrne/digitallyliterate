@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-9/","title":"New Beginnings at CofC: Computational Literacy and Horizon Reports","tags":["early-newsletter","college-of-charleston","computational-literacy","horizon-reports","teacher-shortage","creative-commons","vhs-camcorder-app"]}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-9/","title":"New Beginnings at CofC: Computational Literacy and Horizon Reports","tags":["early-newsletter","college-of-charleston","computational-literacy","horizon-reports","teacher-shortage","creative-commons","vhs-camcorder-app"],"created":"2015-08-22","updated":"2025-07-30"}
 ---
 
 

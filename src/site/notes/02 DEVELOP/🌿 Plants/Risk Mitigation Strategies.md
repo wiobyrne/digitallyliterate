@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/risk-mitigation-strategies/","title":"Risk Mitigation Strategies","tags":["risk-mitigation","pedagogical-safety","student-wellbeing","ethical-teaching","classroom-management"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/risk-mitigation-strategies/","title":"Risk Mitigation Strategies","tags":["risk-mitigation","pedagogical-safety","student-wellbeing","ethical-teaching","classroom-management"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

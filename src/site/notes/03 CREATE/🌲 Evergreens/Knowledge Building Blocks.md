@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"knowledge-building-blocks","permalink":"/knowledge-building-blocks/","title":"Knowledge Building Blocks","tags":["knowledge-management","note-taking","digital-tools","learning-strategies","information-organization","personal-knowledge-systems","productivity","education-technology","cognitive-tools","creative-process"]}
+{"dg-publish":true,"dg-permalink":"knowledge-building-blocks","permalink":"/knowledge-building-blocks/","title":"Knowledge Building Blocks","tags":["knowledge-management","note-taking","digital-tools","learning-strategies","information-organization","personal-knowledge-systems","productivity","education-technology","cognitive-tools","creative-process"],"created":"2024-01-15","updated":"2024-01-15"}
 ---
 
 

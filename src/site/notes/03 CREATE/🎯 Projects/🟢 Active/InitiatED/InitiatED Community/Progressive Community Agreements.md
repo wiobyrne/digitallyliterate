@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/projects/active/initiat-ed/initiat-ed-community/progressive-community-agreements/","title":"Progressive Community Agreements Research","tags":["community-agreements","transformative-justice","cooperative-governance","anti-racism","feminist-organizing","community-building"]}
+{"dg-publish":true,"permalink":"/03-create/projects/active/initiat-ed/initiat-ed-community/progressive-community-agreements/","title":"Progressive Community Agreements Research","tags":["community-agreements","transformative-justice","cooperative-governance","anti-racism","feminist-organizing","community-building"],"created":"2025-07-18","updated":"2025-07-18"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/pedago-gpt-complex/","title":"PedagoGPT Complex","tags":["ai-education","corporate-pedagogy","educational-technology","platform-capitalism","ai-ethics","critical-pedagogy","machine-learning","digital-literacy"]}
+{"dg-publish":true,"permalink":"/03-create/evergreens/pedago-gpt-complex/","title":"PedagoGPT Complex","tags":["ai-education","corporate-pedagogy","educational-technology","platform-capitalism","ai-ethics","critical-pedagogy","machine-learning","digital-literacy"],"created":"2025-07-01"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-10/","title":"Milestone Issue: Hypertext History and Educational Innovation","tags":["early-newsletter","hypertext-anniversary","mobile-etiquette","trigger-warnings","explain-everything","teacher-entrepreneurship","wordpress-optimization"]}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-10/","title":"Milestone Issue: Hypertext History and Educational Innovation","tags":["early-newsletter","hypertext-anniversary","mobile-etiquette","trigger-warnings","explain-everything","teacher-entrepreneurship","wordpress-optimization"],"created":"2015-08-29","updated":"2025-07-30"}
 ---
 
 

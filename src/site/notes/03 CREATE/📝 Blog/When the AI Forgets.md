@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/when-the-ai-forgets/","title":"When the AI Forgets","tags":["forgetting","revision","homelab","ai-collaboration"]}
+{"dg-publish":true,"permalink":"/03-create/blog/when-the-ai-forgets/","title":"When the AI Forgets","tags":["forgetting","revision","homelab","ai-collaboration"],"created":"2025-10-10"}
 ---
 
 

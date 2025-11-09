@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-shallows/","title":"The Shallows","tags":["primary-topic","genre-or-domain","reading-level"]}
+{"dg-publish":true,"permalink":"/01-consume/books/the-shallows/","title":"The Shallows","tags":["primary-topic","genre-or-domain","reading-level"],"created":"2025-07-26","updated":"2025-07-26"}
 ---
 
 

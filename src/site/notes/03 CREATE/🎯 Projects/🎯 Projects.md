@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/projects/projects/","title":"Projects"}
+{"dg-publish":true,"permalink":"/03-create/projects/projects/","title":"Projects","created":"2025-08-01","updated":"2025-08-01"}
 ---
 
 # 🎯 Projects

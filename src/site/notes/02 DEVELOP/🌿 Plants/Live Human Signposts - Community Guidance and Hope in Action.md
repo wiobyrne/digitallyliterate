@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/live-human-signposts-community-guidance-and-hope-in-action/","title":"Live Human Signposts - Community Guidance and Hope in Action","tags":["community-leadership","mentorship","civil-rights","hope","guidance","educational-leadership","social-change","community-support"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/live-human-signposts-community-guidance-and-hope-in-action/","title":"Live Human Signposts - Community Guidance and Hope in Action","tags":["community-leadership","mentorship","civil-rights","hope","guidance","educational-leadership","social-change","community-support"],"created":"2025-07-02"}
 ---
 
 

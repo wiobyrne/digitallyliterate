@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/online-harassment-and-free-speech-intersectional-critique-of-liberal-frameworks/","title":"Online Harassment and Free Speech - Intersectional Critique of Liberal Frameworks","tags":["online-harassment","free-speech","intersectionality","digital-rights","feminist-theory","liberal-critique","social-justice","internet-governance"]}
+{"dg-publish":true,"permalink":"/03-create/evergreens/online-harassment-and-free-speech-intersectional-critique-of-liberal-frameworks/","title":"Online Harassment and Free Speech - Intersectional Critique of Liberal Frameworks","tags":["online-harassment","free-speech","intersectionality","digital-rights","feminist-theory","liberal-critique","social-justice","internet-governance"],"created":"2025-07-02"}
 ---
 
 

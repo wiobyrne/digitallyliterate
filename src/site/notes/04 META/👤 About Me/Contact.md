@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/about-me/contact/","title":"Contact","tags":["contact","email","collaboration"]}
+{"dg-publish":true,"permalink":"/04-meta/about-me/contact/","title":"Contact","tags":["contact","email","collaboration"],"created":"2025-08-06"}
 ---
 
 # Contact

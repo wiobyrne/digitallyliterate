@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-3/","title":"Digital Literacy in Transition: Web Literacy, Screen Reading, and Open Learning","tags":["early-newsletter","web-literacy","digital-identity","screen-reading","open-badges","xmoocs","reddit-protest"]}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-3/","title":"Digital Literacy in Transition: Web Literacy, Screen Reading, and Open Learning","tags":["early-newsletter","web-literacy","digital-identity","screen-reading","open-badges","xmoocs","reddit-protest"],"created":"2015-07-10","updated":"2025-07-30"}
 ---
 
 

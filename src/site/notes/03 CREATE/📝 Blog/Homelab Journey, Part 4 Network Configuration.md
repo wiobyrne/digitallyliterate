@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-4-network-configuration/","title":"Homelab Journey, Part 4: Network Configuration","tags":["homelab","networking","vlan","security"]}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-4-network-configuration/","title":"Homelab Journey, Part 4: Network Configuration","tags":["homelab","networking","vlan","security"],"created":"2025-10-09"}
 ---
 
 
