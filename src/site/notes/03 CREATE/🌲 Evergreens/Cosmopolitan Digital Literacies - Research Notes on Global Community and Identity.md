@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/cosmopolitan-digital-literacies-research-notes-on-global-community-and-identity/","title":"Cosmopolitan Digital Literacies - Research Notes on Global Community and Identity","tags":["cosmopolitan-education","digital-literacies","global-community","identity-research","multilingual-education","research-methodology","cultural-identity","expatriate-experience"],"created":"2025-07-02"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/cosmopolitan-digital-literacies-research-notes-on-global-community-and-identity/","title":"Cosmopolitan Digital Literacies - Research Notes on Global Community and Identity","tags":["cosmopolitan-education","digital-literacies","global-community","identity-research","multilingual-education","research-methodology","cultural-identity","expatriate-experience"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/my-pkm-stack-and-workflow/","title":"My PKM Stack and Workflow","tags":["pkm","workflow","tools","obsidian","publishing","personal-setup"],"created":"2025-11-04"}
+{"dg-publish":true,"permalink":"/02-develop/plants/my-pkm-stack-and-workflow/","title":"My PKM Stack and Workflow","tags":["pkm","workflow","tools","obsidian","publishing","personal-setup"]}
 ---
 
 

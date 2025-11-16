@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/what-i-learned-building-and-writing-with-ai/","title":"What I Learned Building (and Writing) With AI","tags":["learning","meta","synthesis","ai","homelab"],"created":"2025-10-15"}
+{"dg-publish":true,"permalink":"/03-create/blog/what-i-learned-building-and-writing-with-ai/","title":"What I Learned Building (and Writing) With AI","tags":["learning","meta","synthesis","ai","homelab"]}
 ---
 
 

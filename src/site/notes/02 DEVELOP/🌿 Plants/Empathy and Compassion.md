@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/empathy-and-compassion/","title":"Empathy and Compassion","tags":["empathy","compassion","emotional-intelligence","psychology","human-connection"],"created":"2024-04-22"}
+{"dg-publish":true,"permalink":"/02-develop/plants/empathy-and-compassion/","title":"Empathy and Compassion","tags":["empathy","compassion","emotional-intelligence","psychology","human-connection"]}
 ---
 
 

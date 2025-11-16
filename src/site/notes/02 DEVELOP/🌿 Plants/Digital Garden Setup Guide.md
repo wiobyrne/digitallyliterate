@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/digital-garden-setup-guide/","title":"Digital Garden Setup Guide","tags":["howto","tutorial","digital-gardening","obsidian","publishing","technical-guide"],"created":"2025-11-04"}
+{"dg-publish":true,"permalink":"/02-develop/plants/digital-garden-setup-guide/","title":"Digital Garden Setup Guide","tags":["howto","tutorial","digital-gardening","obsidian","publishing","technical-guide"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/history-of-digital-gardens/","title":"History of Digital Gardens","tags":["digital-gardening","web-history","hypertext","pkm-history"],"created":"2025-11-04"}
+{"dg-publish":true,"permalink":"/02-develop/plants/history-of-digital-gardens/","title":"History of Digital Gardens","tags":["digital-gardening","web-history","hypertext","pkm-history"]}
 ---
 
 

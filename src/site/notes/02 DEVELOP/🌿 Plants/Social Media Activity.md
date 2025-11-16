@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/social-media-activity/","title":"Social Media Activity: Understanding Participation Patterns and Engagement Dynamics","tags":["social-media","social-network-analysis","digital-engagement","user-behavior","participation-patterns","content-creation","social-interaction","platform-analytics","digital-citizenship"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/social-media-activity/","title":"Social Media Activity: Understanding Participation Patterns and Engagement Dynamics","tags":["social-media","social-network-analysis","digital-engagement","user-behavior","participation-patterns","content-creation","social-interaction","platform-analytics","digital-citizenship"]}
 ---
 
 

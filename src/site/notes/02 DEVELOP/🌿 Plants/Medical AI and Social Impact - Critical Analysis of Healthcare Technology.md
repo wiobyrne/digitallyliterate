@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/medical-ai-and-social-impact-critical-analysis-of-healthcare-technology/","title":"Medical AI and Social Impact - Critical Analysis of Healthcare Technology","tags":["medical-ai","healthcare-technology","social-impact","critical-analysis","technology-ethics","algorithmic-bias","health-equity"],"created":"2025-07-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/medical-ai-and-social-impact-critical-analysis-of-healthcare-technology/","title":"Medical AI and Social Impact - Critical Analysis of Healthcare Technology","tags":["medical-ai","healthcare-technology","social-impact","critical-analysis","technology-ethics","algorithmic-bias","health-equity"]}
 ---
 
 

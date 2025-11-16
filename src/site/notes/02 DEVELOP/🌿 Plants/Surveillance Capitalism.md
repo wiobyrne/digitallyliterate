@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"surveillance-capitalism","permalink":"/surveillance-capitalism/","title":"Surveillance Capitalism","tags":["surveillance-capitalism","data-extraction","behavioral-modification","platform-capitalism","digital-economy","privacy","technology-ethics","attention-economy"],"created":"2025-01-01","updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"surveillance-capitalism","permalink":"/surveillance-capitalism/","title":"Surveillance Capitalism","tags":["surveillance-capitalism","data-extraction","behavioral-modification","platform-capitalism","digital-economy","privacy","technology-ethics","attention-economy"]}
 ---
 
 

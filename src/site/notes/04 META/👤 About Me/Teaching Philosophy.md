@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"teaching-philosophy","permalink":"/teaching-philosophy/","title":"Teaching Philosophy","tags":["teaching","philosophy","education","digital-literacy","about"],"created":"2025-08-08"}
+{"dg-publish":true,"dg-permalink":"teaching-philosophy","permalink":"/teaching-philosophy/","title":"Teaching Philosophy","tags":["teaching","philosophy","education","digital-literacy","about"]}
 ---
 
 

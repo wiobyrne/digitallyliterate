@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/best-available-human-standard-pragmatic-framework-for-ai-decision-making/","title":"Best Available Human Standard - Pragmatic Framework for AI Decision-Making","tags":["ai-ethics","decision-making","human-ai-collaboration","pragmatic-frameworks","workplace-technology","professional-development","ai-implementation"],"created":"2025-07-02"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/best-available-human-standard-pragmatic-framework-for-ai-decision-making/","title":"Best Available Human Standard - Pragmatic Framework for AI Decision-Making","tags":["ai-ethics","decision-making","human-ai-collaboration","pragmatic-frameworks","workplace-technology","professional-development","ai-implementation"]}
 ---
 
 

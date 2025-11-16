@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/pluralistic-the-enshittification-of-tech-jobs-27-apr-2025/","title":"Pluralistic: The enshittification of tech jobs (27 Apr 2025) – Pluralistic: Daily links from Cory Doctorow","tags":["tech-labor","unionization","exploitation","workforce-dynamics","vocational-awe"],"created":"2025-08-25"}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/pluralistic-the-enshittification-of-tech-jobs-27-apr-2025/","title":"Pluralistic: The enshittification of tech jobs (27 Apr 2025) – Pluralistic: Daily links from Cory Doctorow","tags":["tech-labor","unionization","exploitation","workforce-dynamics","vocational-awe"]}
 ---
 
 # Pluralistic: The enshittification of tech jobs (27 Apr 2025)

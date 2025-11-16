@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/newsletter-evolution-and-platform-dynamics/","title":"Newsletter Evolution and Platform Dynamics","tags":["newsletters","publishing-history","substack","email-marketing","media-evolution"],"created":"2025-11-04"}
+{"dg-publish":true,"permalink":"/02-develop/plants/newsletter-evolution-and-platform-dynamics/","title":"Newsletter Evolution and Platform Dynamics","tags":["newsletters","publishing-history","substack","email-marketing","media-evolution"]}
 ---
 
 

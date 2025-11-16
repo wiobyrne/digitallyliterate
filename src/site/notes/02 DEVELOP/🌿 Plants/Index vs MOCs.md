@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/index-vs-mo-cs/","title":"Index vs MOCs","tags":["knowledge-management","obsidian","navigation","indexes","mocs","vault-organization"],"created":"2025-07-16"}
+{"dg-publish":true,"permalink":"/02-develop/plants/index-vs-mo-cs/","title":"Index vs MOCs","tags":["knowledge-management","obsidian","navigation","indexes","mocs","vault-organization"]}
 ---
 
 
