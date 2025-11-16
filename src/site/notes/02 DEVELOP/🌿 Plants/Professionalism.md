@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/professionalism/","title":"Professionalism","tags":["professionalism","empathy","honesty","candor","self-awareness","workplace-behavior","ethics"],"created":"2025-01-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/professionalism/","title":"Professionalism","tags":["professionalism","empathy","honesty","candor","self-awareness","workplace-behavior","ethics"]}
 ---
 
 

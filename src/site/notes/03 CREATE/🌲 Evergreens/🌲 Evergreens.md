@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"evergreens","permalink":"/evergreens/","title":"🌲 Evergreens Index","tags":["index","evergreens","strategic-frameworks","digital-literacy","implementation-ready"],"created":"2025-08-08","updated":"2025-08-08"}
+{"dg-publish":true,"dg-permalink":"evergreens","permalink":"/evergreens/","title":"🌲 Evergreens Index","tags":["index","evergreens","strategic-frameworks","digital-literacy","implementation-ready"]}
 ---
 
 

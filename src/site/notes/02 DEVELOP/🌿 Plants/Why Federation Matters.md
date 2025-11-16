@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/why-federation-matters/","title":"Why Federation Matters","tags":["federation","indieweb","open-web","decentralization","knowledge-work"],"created":"2025-11-04"}
+{"dg-publish":true,"permalink":"/02-develop/plants/why-federation-matters/","title":"Why Federation Matters","tags":["federation","indieweb","open-web","decentralization","knowledge-work"]}
 ---
 
 

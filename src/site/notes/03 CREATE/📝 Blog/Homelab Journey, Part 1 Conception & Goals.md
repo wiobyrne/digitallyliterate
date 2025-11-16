@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-1-conception-and-goals/","title":"🪴 Homelab Journey, Part 1: Conception & Goals","tags":["homelab","motivation","learning","selfhosting"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-1-conception-and-goals/","title":"🪴 Homelab Journey, Part 1: Conception & Goals","tags":["homelab","motivation","learning","selfhosting"]}
 ---
 
 

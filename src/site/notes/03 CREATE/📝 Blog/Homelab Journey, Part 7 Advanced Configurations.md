@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-7-advanced-configurations/","title":"🧠 Homelab Journey, Part 7: Advanced Configurations","tags":["homelab","automation","gpu","ai","passthrough"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-7-advanced-configurations/","title":"🧠 Homelab Journey, Part 7: Advanced Configurations","tags":["homelab","automation","gpu","ai","passthrough"]}
 ---
 
 

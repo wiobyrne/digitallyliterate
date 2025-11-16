@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"information-war","permalink":"/information-war/","title":"Information War","tags":["information-warfare","cognitive-security","digital-manipulation","geopolitics","propaganda","attention-economy","social-media-manipulation","democratic-resilience"],"created":"2025-08-10","updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"information-war","permalink":"/information-war/","title":"Information War","tags":["information-warfare","cognitive-security","digital-manipulation","geopolitics","propaganda","attention-economy","social-media-manipulation","democratic-resilience"]}
 ---
 
 

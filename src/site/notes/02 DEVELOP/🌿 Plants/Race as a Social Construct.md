@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/race-as-a-social-construct/","title":"Race as a Social Construct","tags":["race-theory","social-construction","anti-racism","critical-race-theory","sociology","racial-justice","social-systems","cultural-analysis"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/race-as-a-social-construct/","title":"Race as a Social Construct","tags":["race-theory","social-construction","anti-racism","critical-race-theory","sociology","racial-justice","social-systems","cultural-analysis"]}
 ---
 
 

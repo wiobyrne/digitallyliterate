@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/tao-of-emotionally-intelligent-work/","title":"The Tao of Emotionally Intelligent Work","tags":["emotional-intelligence","collaboration","communication","learning","workflows","ethos","philosophy-of-work","human-connection"],"created":"2025-07-18","updated":"2025-07-18"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/tao-of-emotionally-intelligent-work/","title":"The Tao of Emotionally Intelligent Work","tags":["emotional-intelligence","collaboration","communication","learning","workflows","ethos","philosophy-of-work","human-connection"]}
 ---
 
 # Tao of Emotionally Intelligent Work

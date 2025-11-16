@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/creating-organizational-culture-that-breathes-adapts-and-grows/","title":"Creating organizational culture that breathes, adapts, and grows","tags":["organizational-culture","leadership","collaboration","values-driven-work","emotional-intelligence","sustainable-practices","adaptability","community-care"],"created":"2025-07-18","updated":"2025-07-18"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/creating-organizational-culture-that-breathes-adapts-and-grows/","title":"Creating organizational culture that breathes, adapts, and grows","tags":["organizational-culture","leadership","collaboration","values-driven-work","emotional-intelligence","sustainable-practices","adaptability","community-care"]}
 ---
 
 

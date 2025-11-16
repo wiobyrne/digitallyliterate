@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/emotionally-intelligent-workflows-a-framework/","title":"Authoritative Framework Title","tags":["emotional-intelligence","collaboration","work-culture","team-dynamics","communication","leadership","human-centered-design","learning-environments","values-alignment"],"created":"2025-07-18","updated":"2025-07-18"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/emotionally-intelligent-workflows-a-framework/","title":"Authoritative Framework Title","tags":["emotional-intelligence","collaboration","work-culture","team-dynamics","communication","leadership","human-centered-design","learning-environments","values-alignment"]}
 ---
 
 

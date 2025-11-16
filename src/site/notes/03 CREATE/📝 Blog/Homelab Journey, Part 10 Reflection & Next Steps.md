@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-10-reflection-and-next-steps/","title":"🌱 Homelab Journey, Part 10: Reflection & Next Steps","tags":["homelab","reflection","systems-thinking","learning"],"created":"2025-10-09"}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-10-reflection-and-next-steps/","title":"🌱 Homelab Journey, Part 10: Reflection & Next Steps","tags":["homelab","reflection","systems-thinking","learning"]}
 ---
 
 

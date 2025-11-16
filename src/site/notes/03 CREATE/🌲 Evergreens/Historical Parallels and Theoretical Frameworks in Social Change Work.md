@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/historical-parallels-and-theoretical-frameworks-in-social-change-work/","title":"Build Without Broadcasting","tags":["social-change","digital-resistance","resistance","community-organizing","security-culture","network-theory","politics","digital-challenges","building-coalitions"],"created":"2025-07-17","updated":"2025-07-17"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/historical-parallels-and-theoretical-frameworks-in-social-change-work/","title":"Build Without Broadcasting","tags":["social-change","digital-resistance","resistance","community-organizing","security-culture","network-theory","politics","digital-challenges","building-coalitions"]}
 ---
 
 

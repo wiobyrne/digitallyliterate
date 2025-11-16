@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-2/","title":"The Beginning - Things You Should Know","tags":["early-newsletter","digital-identity","privacy-surveillance","educational-technology","maker-culture","augmented-reality","cybersecurity"],"created":"2015-06-27","updated":"2025-07-30"}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-2/","title":"The Beginning - Things You Should Know","tags":["early-newsletter","digital-identity","privacy-surveillance","educational-technology","maker-culture","augmented-reality","cybersecurity"]}
 ---
 
 

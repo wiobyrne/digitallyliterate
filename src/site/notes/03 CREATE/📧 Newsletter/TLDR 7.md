@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-7/","title":"Digital Friendships and Educational Policy: From Maria Popova to Mixtapes","tags":["early-newsletter","teen-digital-friendships","open-educational-resources","privacy-badger","pisa-assessment","maria-popova","graphic-design-basics"],"created":"2015-08-07","updated":"2025-07-30"}
+{"dg-publish":true,"permalink":"/03-create/newsletter/tldr-7/","title":"Digital Friendships and Educational Policy: From Maria Popova to Mixtapes","tags":["early-newsletter","teen-digital-friendships","open-educational-resources","privacy-badger","pisa-assessment","maria-popova","graphic-design-basics"]}
 ---
 
 

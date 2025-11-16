@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/the-2025-ai-index-report-stanford-hai/","title":"The 2025 AI Index Report - Stanford HAI","tags":["ai","research","stanford","ai-index","industry-analysis","policy","benchmarks"],"created":"2025-01-01"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/the-2025-ai-index-report-stanford-hai/","title":"The 2025 AI Index Report - Stanford HAI","tags":["ai","research","stanford","ai-index","industry-analysis","policy","benchmarks"]}
 ---
 
 

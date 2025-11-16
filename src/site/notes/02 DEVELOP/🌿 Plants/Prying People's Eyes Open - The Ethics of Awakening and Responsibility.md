@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/prying-people-s-eyes-open-the-ethics-of-awakening-and-responsibility/","title":"Prying People's Eyes Open - The Ethics of Awakening and Responsibility","tags":["ethics","consciousness-raising","responsibility","awakening","support","guidance","mentorship"],"created":"2024-07-03"}
+{"dg-publish":true,"permalink":"/02-develop/plants/prying-people-s-eyes-open-the-ethics-of-awakening-and-responsibility/","title":"Prying People's Eyes Open - The Ethics of Awakening and Responsibility","tags":["ethics","consciousness-raising","responsibility","awakening","support","guidance","mentorship"]}
 ---
 
 

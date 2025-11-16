@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/how-vibe-coding-is-creating-a-new-ai-economy/","title":"How ‘Vibe Coding’ Is Creating A New AI Economy","tags":["ai-entrepreneurship","vibe-coding","no-code-development","startup-culture","tech-innovation"],"created":"2025-08-24"}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/how-vibe-coding-is-creating-a-new-ai-economy/","title":"How ‘Vibe Coding’ Is Creating A New AI Economy","tags":["ai-entrepreneurship","vibe-coding","no-code-development","startup-culture","tech-innovation"]}
 ---
 
 # How ‘Vibe Coding’ Is Creating A New AI Economy

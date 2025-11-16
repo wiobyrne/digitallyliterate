@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/enhancing-cybersecurity-through-end-user-training-and-awareness/","title":"Enhancing Cybersecurity through End User Training and Awareness","tags":["cybersecurity","internet-safety","user-training","security-awareness","cyber-threats","education"],"created":"2025-01-01"}
+{"dg-publish":true,"permalink":"/03-create/evergreens/enhancing-cybersecurity-through-end-user-training-and-awareness/","title":"Enhancing Cybersecurity through End User Training and Awareness","tags":["cybersecurity","internet-safety","user-training","security-awareness","cyber-threats","education"]}
 ---
 
 

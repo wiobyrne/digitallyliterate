@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/youth-as-forerunners/","title":"Youth as Forerunners: Navigating Technology and Digital Literacy in Progressive Households","tags":["youth-development","digital-literacy","media-mentorship","technology-use","family-dynamics","screen-time","forerunner-families","digital-citizenship","generational-dynamics","progressive-parenting"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/youth-as-forerunners/","title":"Youth as Forerunners: Navigating Technology and Digital Literacy in Progressive Households","tags":["youth-development","digital-literacy","media-mentorship","technology-use","family-dynamics","screen-time","forerunner-families","digital-citizenship","generational-dynamics","progressive-parenting"]}
 ---
 
 
