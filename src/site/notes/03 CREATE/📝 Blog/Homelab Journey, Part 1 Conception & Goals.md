@@ -3,6 +3,7 @@
 ---
 
 
+
 # Homelab Journey, Part 1: Conception & Goals
 ## Why Build a Homelab?
 
