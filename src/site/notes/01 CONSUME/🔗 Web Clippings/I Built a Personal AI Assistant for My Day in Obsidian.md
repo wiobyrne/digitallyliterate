@@ -100,3 +100,11 @@ I’d love to hear your thoughts. What would your ideal assistant do for you?
 
 ---
 
+
+---
+
+## Connected Concepts
+
+- [[AI Personal Assistants\|AI Personal Assistants]] - Customized automation for daily planning and workflow management
+- [[Obsidian Workflows\|Obsidian Workflows]] - Systems integrating knowledge management with daily routines
+- [[Claude Code\|Claude Code]] - Command-line AI agent for task orchestration
