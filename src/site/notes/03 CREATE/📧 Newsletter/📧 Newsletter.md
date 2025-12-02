@@ -111,7 +111,7 @@ A taste of what subscribers see every week:
 
 ## 🌱 How It Fits in the Garden
 
-The newsletter is the **front porch** of my work — the place where I share what I’m noticing, testing, and building before it becomes part of my longer-form blog or evergreen digital garden.
+The newsletter is the **front porch** of my work. The place where I share what I’m noticing, testing, and building before it becomes part of my longer-form blog or evergreen digital garden.
 
 Subscribing means you get these insights **first**, with the context to put them to work in your own classrooms, institutions, or projects.
 
