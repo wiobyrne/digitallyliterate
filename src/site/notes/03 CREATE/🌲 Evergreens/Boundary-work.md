@@ -45,11 +45,11 @@ Boundary-work manifests in observable student actions:
 
 Boundary-work appears throughout the analytic framework:
 
-- **[[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Inputs (M&M)\|Framework Component: Inputs (M&M)]]** - Boundaries set through source curation
-- **[[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Prompts (M&M)\|Framework Component: Prompts (M&M)]]** - Boundaries enacted through prompt constraints
-- **[[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Outputs (M&M)\|Framework Component: Outputs (M&M)]]** - Boundaries triggered by output quality assessment
-- **[[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Integration (M&M)\|Framework Component: Integration (M&M)]]** - Boundaries made visible in modification/rejection
-- **[[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Reflection (M&M)\|Framework Component: Reflection (M&M)]]** - Boundaries articulated through metacognition
+- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]** - Boundaries set through source curation
+- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]** - Boundaries enacted through prompt constraints
+- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]** - Boundaries triggered by output quality assessment
+- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]** - Boundaries made visible in modification/rejection
+- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]** - Boundaries articulated through metacognition
 
 ---
 

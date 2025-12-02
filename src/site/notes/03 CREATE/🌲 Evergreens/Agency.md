@@ -30,27 +30,27 @@ This conceptualization of agency draws from:
 
 ## Dimensions of Agency in AI-Literacy Practice
 
-### 1. Agency over Knowledge Base ([[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Inputs (M&M)\|Framework Component: Inputs (M&M)]])
+### 1. Agency over Knowledge Base ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]])
 - Selecting sources that challenge or expand AI's context
 - Curating materials that reflect critical perspectives
 - Framing problems in ways that resist AI's defaults
 
-### 2. Agency over Cognitive Task ([[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Prompts (M&M)\|Framework Component: Prompts (M&M)]])
+### 2. Agency over Cognitive Task ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]])
 - Crafting complex prompts that demand thinking
 - Constraining AI to prevent over-delegation
 - Asking for critique, synthesis, or comparison (not just summary)
 
-### 3. Agency over Output Evaluation ([[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Outputs (M&M)\|Framework Component: Outputs (M&M)]])
+### 3. Agency over Output Evaluation ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]])
 - Critically assessing quality and bias
 - Recognizing hallucinations or errors
 - Deciding what merits trust
 
-### 4. Agency over Final Product ([[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Integration (M&M)\|Framework Component: Integration (M&M)]])
+### 4. Agency over Final Product ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]])
 - Modifying, transforming, or rejecting AI text
 - Maintaining ownership of intellectual work
 - Ensuring human voice remains central
 
-### 5. Metacognitive Agency ([[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Reflection (M&M)\|Framework Component: Reflection (M&M)]])
+### 5. Metacognitive Agency ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]])
 - Articulating reasons for decisions
 - Reflecting on ethical dimensions
 - Positioning self as knowledge authority

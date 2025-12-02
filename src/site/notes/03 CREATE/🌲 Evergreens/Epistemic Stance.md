@@ -74,17 +74,17 @@ Passive Consumption ←―――――――――――――――――――
 
 ## Evidence of Epistemic Stance in Framework Components
 
-### In [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Outputs (M&M)\|Framework Component: Outputs (M&M)]]
+### In [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
 - Critical evaluation of AI responses
 - Recognition of hallucinations, bias
 - Questioning AI's "knowledge"
 
-### In [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Integration (M&M)\|Framework Component: Integration (M&M)]]
+### In [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
 - Modification signals self as knowledge authority
 - Rejection demonstrates critical epistemic stance
 - Verbatim copy suggests AI-authoritative stance
 
-### In [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Reflection (M&M)\|Framework Component: Reflection (M&M)]]
+### In [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
 - Explicit statements about knowledge authority
 - Metacognitive awareness of who is "thinking"
 - Articulation of responsibility for truth claims

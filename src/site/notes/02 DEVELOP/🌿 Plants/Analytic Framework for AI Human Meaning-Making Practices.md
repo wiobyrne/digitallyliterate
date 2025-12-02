@@ -40,19 +40,19 @@ The five steps of this framework are each grounded in specific pedagogical guida
 
 1.  **Inputs** – What students uploaded, curated, or selected as context
     * *M&M Connection:* Emphasis on providing context and goal-setting.
-    * [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Inputs (M&M)\|Framework Component: Inputs (M&M)]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]
 2.  **Prompts** – How students directed, constrained, or collaborated with the model
     * *M&M Connection:* Mirrors the function of "assignment roles" (Tutor, Coach, etc.).
-    * [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Prompts (M&M)\|Framework Component: Prompts (M&M)]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]
 3.  **Outputs** – What the model generated and how students evaluated it
     * *M&M Connection:* Corresponds to cautions about hallucination, bias, and necessity for human oversight.
-    * [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Outputs (M&M)\|Framework Component: Outputs (M&M)]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
 4.  **Integration** – How students incorporated, revised, resisted, or transformed AI outputs
     * *M&M Connection:* Resonates with the mandate to "remain the human in the loop."
-    * [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Integration (M&M)\|Framework Component: Integration (M&M)]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
 5.  **Reflection** – Evidence of metacognition, ethical reasoning, boundaries, and epistemic stance
     * *M&M Connection:* Echoes the explicit requirement for structured reflection in the Coach/Mentor roles.
-    * [[03 CREATE/📊 Presentations/LRA 2025/Framework Component: Reflection (M&M)\|Framework Component: Reflection (M&M)]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
 
 ---
 
@@ -65,7 +65,7 @@ The detailed theoretical argument for this adaptation is housed here:
 
 ## 📖 Supporting Materials
 
-- **[[03 CREATE/📊 Presentations/LRA 2025/Research Methods Justification\|Research Methods Justification]]** – Methodological rigor and approach
+- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Research Methods Justification\|Co-Constructing AI Boundaries Research Methods Justification]]** – Methodological rigor and approach
 - **[[02 DEVELOP/🌿 Plants/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]** – Additional framework analysis
 - **[[03 CREATE/🎯 Projects/🟢 Active/AI Boundaries Research/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]** – Conceptual notes on co-construction
 
@@ -73,4 +73,4 @@ The detailed theoretical argument for this adaptation is housed here:
 
 ## 🏠 Related
 
-- **[[03 CREATE/📊 Presentations/🎤 LRA 2025 Presentation\|🎤 LRA 2025 Presentation]]** – Conference presentation context
+- **[[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]** – Conference presentation context
