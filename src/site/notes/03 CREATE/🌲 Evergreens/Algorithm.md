@@ -7,7 +7,7 @@
 ## **Definition**  
 An algorithm is a set of step-by-step instructions designed to perform a particular task or solve a specific problem.
 
-![Algorithm.jpg](/img/user/04%20META/Assets/Algorithm.jpg)
+![Algorithm.jpg](/img/user/04%20META/%F0%9F%94%97%20Assets/Algorithm.jpg)
 
 ## **Explain Like I'm 5**  
 Think of an algorithm like a cooking recipe. It tells you what ingredients you need and the steps you have to follow in order to make a dish.
