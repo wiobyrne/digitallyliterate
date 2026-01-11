@@ -5,7 +5,7 @@
 
 # How I Wrote This With AI
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 
 This first post in the *AI + Homelab Meta Series* explains the workflow, tools, and messy partnership behind building both the **Homelab** and the **writing process** that documented it.
 

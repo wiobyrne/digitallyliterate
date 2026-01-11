@@ -5,7 +5,7 @@
 
 # What I Learned Building (and Writing) With AI
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 
 A synthesis post reflecting on technical lessons, creative discoveries, and ethical questions that arose from working *with* AI.
 

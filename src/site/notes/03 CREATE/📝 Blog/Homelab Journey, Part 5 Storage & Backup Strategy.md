@@ -6,7 +6,7 @@
 # Homelab Journey, Part 5: Storage & Backup Strategy
 ## Building for Resilience
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 ### Core Questions
 - How did I design redundancy (ZFS, RAID, etc.)?  
 - What’s my backup workflow and retention policy?  

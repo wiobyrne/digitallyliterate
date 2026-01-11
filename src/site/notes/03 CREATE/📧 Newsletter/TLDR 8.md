@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-8","permalink":"/tldr-8/","title":"Too Long; Didn't Read Issue 8","tags":["digital-literacy","education-technology","privacy","social-media","ai","coding"]}
+{"dg-publish":true,"dg-permalink":"tldr-8","permalink":"/tldr-8/","title":"Too Long; Didn't Read Issue 8","tags":["digital-literacy","education-technology","open-badges","unh-transition","teen-technology","ebooks","facebook","google-alphabet","sesame-street","moocs","hemingway-editor","blab","periscope"]}
 ---
 
 # TLDR 8
@@ -19,6 +19,14 @@ This week I got a lot of things completed behind the scenes...but didn't post a 
 * I earned the [Open Badge Awareness badge](http://badges.p2pu.org/en/project/1021/) created by Doug Belshaw after submitting (and revising) my post on [Digital Badges](http://wiobyrne.com/digital-badges-overview/) for our column on badges in [JAAL](http://wiobyrne.com/digital-badges-recognizing-assessing-and-motivating-learners-in-and-out-of-school-contexts/).
 
 * I helped produce our latest episode of the [LRA Research to Practice series](https://www.youtube.com/channel/UCxY2el4yNrRnAOLfvx3mTOg). Episode 17 focused on [Feminist Pedagogy, argumentative writing, and the CCSS](https://www.youtube.com/watch?v=0FiAnXfuhGA). We had some tech glitches...but the end result was a thought provoking show.
+
+## 🔖 Key Takeaways
+
+- **UNH Farewell**: Finished last two classes at UNH after four years—transitioning and staying connected.
+- **Open Badge Awareness**: Earned Doug Belshaw's badge after submitting and revising digital badges column for JAAL.
+- **Tweens and Tech**: Atlantic's "Ask a Tween" series—insightful or makes you glad you're not an adolescent anymore.
+- **Google becomes Alphabet**: Major reorganization to focus beyond search—depends on whether you trust Larry Page.
+- **Sesame Street to HBO**: Big money for children's programming, but will low-income kids lose out?
 
 ## 📺 Watch
 
@@ -97,13 +105,32 @@ I think this process can be repeated using other butters, jellies, and preserves
 
 ## 🤔 Consider
 
-As we navigate the evolving digital landscape, consider how these tools and trends shape our relationship with technology, information, and each other.
+Finishing up at UNH this week brings reflection on transitions—ending one chapter while beginning another. The Open Badge Awareness badge represents more than credentials; it's about practicing what we preach, submitting work for review, and learning by doing.
+
+The "Ask a Tween" series reminds us that adolescence in the digital age is both familiar and foreign territory. They're navigating the same social pressures we did, just with smartphones instead of passed notes. The question isn't whether screens are changing how we read and write (they are), but how we thoughtfully engage with that change.
+
+Google's transformation into Alphabet raises questions about trust and power. When one company touches search, email, maps, phones, self-driving cars, and life extension research, does reorganization matter? It depends on whether you trust Larry Page's vision—or whether any single entity should have that much reach.
+
+Sesame Street moving to HBO feels like a test case for public goods in private hands. Can quality educational content remain accessible when profit motives enter the equation? The answer matters for kids who need it most.
 
 ---
 
 ## 🔗 Navigation
 
 **Previous**: [[03 CREATE/📧 Newsletter/TLDR 7\|TLDR 7]] • **Next**: [[03 CREATE/📧 Newsletter/TLDR 9\|TLDR 9]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+
+**🌱 Connected Concepts**:
+
+- **[[Open Badges\|Open Badges]]** — Earning Doug Belshaw's Open Badge Awareness through practice and revision.
+- **[[Teen Technology Use\|Teen Technology Use]]** — Atlantic's tween insights on phones, social media, and popularity.
+- **[[Reading and eBooks\|Reading and eBooks]]** — How screens are changing reading practices and novelists' writing.
+- **[[Privacy and Security\|Privacy and Security]]** — Facebook tracking laughter patterns, evolving online expression.
+- **[[Google Alphabet\|Google Alphabet]]** — Reorganization enabling focus beyond search, trust questions.
+- **[[Sesame Street\|Sesame Street]]** — HBO deal implications for educational access and equity.
+- **[[Information Evaluation\|Information Evaluation]]** — Teaching healthy skepticism for online reading.
+- **[[MOOCs\|MOOCs]]** — Pedagogical opportunities in online and hybrid learning spaces.
+- **[[Writing Tools\|Writing Tools]]** — Hemingway Editor for analyzing and improving student writing.
+- **[[Livestreaming Tools\|Livestreaming Tools]]** — Blab.im, Periscope, Meerkat enabling collaborative broadcasting.
 
 ---
 

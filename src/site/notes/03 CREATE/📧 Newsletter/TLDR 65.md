@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-65","permalink":"/tldr-65/","title":"Too Long; Didn't Read Issue 65","tags":["digital-literacy","education-technology"]}
+{"dg-publish":true,"dg-permalink":"tldr-65","permalink":"/tldr-65/","title":"Too Long; Didn't Read Issue 65","tags":["digital-literacy","education-technology","healing","spacex","mindfulness","protest-education","implicit-bias","brain-research","global-collaboration","john-spencer"]}
 ---
 
 # TLDR 65
@@ -8,163 +8,123 @@
 
 **Published**: 2016-09-30 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
 
-Welcome to TL;DR #65 (September 30th, 2016)
-
-View this email in your browser
-
-** Too Long; Didn't Read (TL;DR) newsletter #65
-
-------------------------------------------------------------
-
 Welcome to issue 65 of the TL;DR Newsletter. In TL;DR I'm synthesizing what I read and learned this week in literacy, technology, and education. If this is your first time here...स्वागत हे
 
-This week we talk about gateways to healing when it hurts.
+This week is all about the gateways to healing when it hurts.
 
-If you haven't already, I'd recommend that you subscribe (http://wiobyrne.us11.list-manage.com/subscribe?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)  to make sure you don't miss out next week's issue. You can review archives of the newsletter here (http://us11.campaign-archive1.com/home/?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1) . Alternatively you can also check out TL;DR on Medium (https://medium.com/tldr-newsletter) .
+You can review [archives of the newsletter](http://us11.campaign-archive1.com/home/?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1). Alternatively you can also [check out TL;DR on Medium](https://medium.com/tldr-newsletter).
 
 This week I worked on the following:
 
-* Is Google putting advertising on Google Scholar? (http://wiobyrne.com/imho/2016/is-google-putting-advertising-on-google-scholar) - This week I was finalizing a grant proposal. As I was crawling through new citations, I noticed this "Advertisement" notation on a link. Hmmm...
+- [Develop good advertising like Google Scholar does](http://wiobyrne.com/advertising-like-google-scholar/) - In this latest post I try to deconstruct my recent experience with advertising from Google Scholar. I write a ton of manuscripts, proposals, and other work throughout the year. This requires me to search extensively on Google Scholar. Along the way, Google Scholar has made some interesting suggestions to me as I search for materials. These suggestions are very good. So good that I'm not sure you can call them advertising. :)
+- [Using clear goals and strategies in grant proposals](http://wiobyrne.com/goals-strategies-grant-proposals/) - I spent my early part of this week writing a couple of grant proposals. In the process, I began to debate the role of goals, objectives, and strategies in these proposals. In this post I attempt to clarify goals and objectives, and suggest how best to use each in grant proposals.
+- [Project ELATED Grant Proposal Overview](http://digitallyliterate.net/announcement/project-elated/) - I did a lot of work this week to submit a grant proposal to the [National Leadership Grants for Libraries program](https://www.imls.gov/grants/available/national-leadership-grants-libraries) through the [Institute of Museum and Library Services (IMLS)](https://www.imls.gov/). I'm excited (and nervous) to share that we submitted our proposal on Sept. 30 (today). The proposal is titled Project ELATED and is investigating Extended Literacies Acquisition and Technology Enhanced Development. I'll be presenting a webinar in an upcoming week to share more information about the proposal, its design, and its ultimate goals.
 
-* Goals, strategies, objectives, and tactics (http://wiobyrne.com/imho/2016/goals-strategies-objectives-and-tactics) - This post details some lessons learned while writing and revising goals and objectives for the proposal request.
+---
 
-* Project ELATED (English Language Arts and Technology in Education) (https://docs.google.com/document/d/12T0GasjrTzlXY1ZnbqOeLpQnGkUGOJGQDZTUtka2t0Q/edit?usp=sharing) - If it helps you...here is the rough copy of the submitted proposal.
+## 🔖 Key Takeaways
 
-============================================================
+- **This Past Week I've Been Watching**: Elon Musk recently outlined his vision for a manned mission to Mars. This past week I've been watching a series of news reports, interviews, and discussions. It's so refreshing to see someone talking about vision and hope amidst all the negativity we're surrounded by.
+- **My Sons Often Come to Me**: This is a great resource. As I'm writing this, my sons often come to me to share stories about things they've seen or heard online. In this, they need help making sense of what they're experiencing.
+- **How Do I Talk**: How do I talk to my kids about these very adult concepts and situations?
+- **These Results Are Scary**: These results are scary. Unfortunately I do not think this is isolated to the preschools in this study. We need the discussion. We need the research.
+- **This Is Really Cool**: This is really cool. Yet another example of ways that neural mapping is helping us understand how we think, create, and connect.
+
+---
 
 ## 📺 Watch
 
-** The Verge on Space X's plan to colonize Mars (https://www.youtube.com/watch?v=OLuq3CKqky8)
+### [Making humans a multiplanetary species - Elon Musk (10:31)](https://www.youtube.com/watch?v=A1YxNYiyALg)
 
-This past week, Space X CEO Elon Musk gave a one hour address detailing his plans to send people to colonize Mars. You can watch ** the whole address here (https://www.youtube.com/watch?v=OLuq3CKqky8)
+Elon Musk recently outlined his vision for a manned mission to Mars. As he's detailed previously, he's not taking out a government contract to get us there. Elon and SpaceX intend to build a colony on Mars.
 
-.
+This past week I've been watching a series of news reports, interviews, and discussions covering his presentation to the [67th International Astronautical Congress](http://www.iac2016.org/) in Guadalajara, Mexico. It's so refreshing to see someone talking about vision and hope amidst all the negativity we're surrounded by. What really fascinates me is the engineering feat that this represents. Moving large amounts of people off the planet...putting them on another planet...and having them thrive. My students ask me all the time what career they should get into. This seems like a good one.
 
-The goal is to send the first group to Mars by 2024. One million people living on Mars in 40 to 100 years. It's interesting to think about colonists heading out to Mars in our lifetime. There are a lot of questions that still need to be answered and a lot more science & tech.
-
-Still, I think Musk should be praised for setting such an audacious goal. He has done this in the past and usually moves the needle. It's something to keep our eyes on.
+---
 
 ## 📚 Read
 
-This week in class one of my students indicated that she wanted to focus her unit plan assignment on having elementary students be a bit more mindful and perhaps meditate in their learning activities. This brought about a longer discussion about the value of mindfulness and meditation in our schools and the role of the teacher in this.
+### [Mindfulness and storytelling can help kids heal from trauma](http://ww2.kqed.org/mindshift/2016/09/27/mindfulness-and-storytelling-can-help-kids-heal-from-trauma/)
 
-We have several schools near our campus that are beginning to bring mindfulness activities into their daily repertoire. This post by ** Juli Fraga (https://twitter.com/dr_fraga)
+This is a great resource. As I'm writing this, my sons often come to me to share stories about things they've seen or heard online. In this, they need help making sense of what they're experiencing. This piece from [Katrina Schwartz](https://twitter.com/Kschwart) in [MindShift](https://ww2.kqed.org/mindshift/) discusses the ways in which mindfulness and storytelling can help kids process trauma and difficulty.
 
-in MindShift details some anecdotal evidence of the benefits of this practice on individual students and the school climate.
+The piece discusses the work happening at [Turnaround for Children](http://turnaroundusa.org/) in New York as they teach kids to identify and name their emotions. They blend this work with mindfulness practices and opportunities for kids to tell their stories. The resource also includes an embedded video and additional resources for educators and parents.
 
-Specifically, the post  shares the text, ** Master of Mindfulness (https://www.newharbinger.com/master-mindfulness)
+---
 
-as a possible gateway into discussing this topic with your students.
+### [Talking to your kids about what they see in the news](http://www.npr.org/sections/ed/2016/09/25/495200410/talking-to-your-kids-about-what-they-see-in-the-news)
 
-On a personal level, I have been ** meditating for a little over a year now (http://wiobyrne.com/meditation-mindfulness-gaining-headspace-in-my-workflow/)
+Another really interesting resource dealing with kids and ways to talk with them about things happening in the world. I'm writing this as my community (Charlotte, NC) tries to make sense of protests that have occurred over the last week as a response to a police shooting in the city.
 
-and it has had a definite impact on my life. I plan on sharing more in a coming blog post.
+How do I talk to my kids about these very adult concepts and situations? This post from [Cory Turner](https://twitter.com/NPRCoryTurner) and [Eric Westervelt](https://twitter.com/EricNPR) at [NPR Ed](http://www.npr.org/sections/ed/) provides some good suggestions and insight.
 
-** (http://techcrunch.com/2015/06/26/molson-and-google-built-a-beer-fridge-that-unlocks-via-voice-translation/?ncid=rss)
+---
 
-** Talking to kids about protesting: Things I want my kids to know (http://www.westories.org/blog/2016/9/22/talking-to-kids-about-protesting-5-things-i-want-my-kids-to-know)
+### [Implicit bias may help explain high preschool expulsion rates for black children](https://www.washingtonpost.com/news/education/wp/2016/09/27/yale-study-suggests-racial-bias-among-preschool-teachers/)
 
-A post from the excellent St. Louis based ** We Stories website (http://www.westories.org/#welcome)
+Important new research from Yale documenting the extent to which bias may be influencing the way educators interact with young children. The results are extremely disconcerting as we see that educators demonstrate implicit bias when observing young black children.
 
-. This post is inspired by the recent protests in Charlotte, NC. The authors present a nuanced look at discussing protests in your classroom with your students, or in your home with your children.
+In the study, preschool teachers were asked to view videos of children in classrooms and then identify challenging behaviors. Researchers tracked the educators' eye movements as they watched the videos. Results indicate that teachers spent significantly more time watching black children, and especially black boys, when they expected to see challenging behaviors.
 
-The provide a series of talking points and a series of readings that you can use as a gateway to open up these discussions and help young adults make some sense of the current climate.
+These results are scary. Unfortunately I do not think this is isolated to the preschools in this study. We need the discussion. We need the research. You can read the [study here](http://ziglercenter.yale.edu/publications/Gilliam_Maupin_Reyes_Accavitti_Shic_2016.pdf) (PDF).
 
-** (http://www.slate.com/content/dam/slate/articles/health_and_science/Science/2016/05/160509_SCI_emily-dickinson.jpg.CROP.promo-xlarge2.jpg)
+---
 
-** Bias isn't just a police problem, it's a preschool problem (http://www.npr.org/sections/ed/2016/09/28/495488716/bias-isnt-just-a-police-problem-its-a-preschool-problem)
+### [How the brain builds a sense of self from the people around us](http://nautil.us/blog/how-the-brain-builds-a-sense-of-self-from-the-people-around-us)
 
-Post from ** Cory Turner (https://twitter.com/NPRCoryTurner)
+I'm a huge fan of [The Moth Radio Hour](https://themoth.org/radio-hour). A few weeks ago I listened to [an episode](https://themoth.org/radio-hour/stories-that-inspired-us) in which one of the storytellers was a neuroscientist documenting research investigating the ways that our brain builds meaning as we listen to stories.
 
-on ** NPR-Ed (http://www.npr.org/sections/ed/)
+I found the story, and then followed it up with this post on [Nautilus](http://nautil.us/). The basic gist is that as a storyteller builds a narrative, a listener builds a representation of that story in their brain. Furthermore, the research team was able to identify a "semantic space" or "meaning map" in the cortex of the brain.
 
-sharing vignettes on some of the implicit bias evidenced in pre-school classrooms.
+This is really cool. Yet another example of ways that neural mapping is helping us understand how we think, create, and connect.
 
-This is all centered around a recent report from the Yale Child Study Center titled ** Do Early Educators' implicit biases regarding sex and race relate to behavior expectations and recommendations of preschool expulsions and suspensions? (http://ziglercenter.yale.edu/publications/Preschool%20Implicit%20Bias%20Policy%20Brief_final_9_26_276766_5379.pdf)
+---
 
-The results suggest that teachers shift standards and expectations of students based on stereotypes and implicit bias. As an example, if they were presented with the name of a child that would be stereotyped as being black (DeShawn, Latoya) they would assume that the child was more likely to behave badly and would be less surprised by bad behavior.
+### [Seven tips for supporting successful global collaboration](https://medium.com/@spencerideas/7-tips-for-supporting-successful-global-collaboration-34cd673d4dbd#.x6e3hhwpf)
 
-There are many layers to this research report, and I recommend reading the piece to make up your own decisions. I also recommend reviewing the piece on ** shifting stereotypes and stereotype-based judgements (http://www.montana.edu/nsfadvance/documents/PDFs/resources/ShiftingStandardsandStereotype-BasedJudgements.pdf)
+I've discussed [John Spencer's](https://twitter.com/spencerideas) work multiple times here on TL;DR. In addition to being a talented designer and teacher, John is also a skilled blogger and writer. I really enjoy his work as he documents his thinking and learning.
 
-also shared in the post.
+This latest piece discusses some practical tips that John has picked up from working with educators and students from around the world on collaborative projects. His suggestions focus on the need for a flexible culture, a shared vision, a willingness to take risks, trust, clarity, patience, and a sense of celebration built into the process.
 
-** (http://)
-
-** Where words are stored: The brain's meaning map (http://www.scientificamerican.com/article/where-words-are-stored-the-brain-s-meaning-map/)
-
-A great post by ** Simon Makin (https://twitter.com/@SimonMakin)
-
-on the ** Scientific American Mind blog (http://www.scientificamerican.com/magazine/mind/)
-
-looking at the neural connections that exist as our brains store and retrieve meaning in language.
-
-Previous studies have identified several brain regions, collectively identified as the semantic system, that are responsible for processing and archiving meaning. Recent research from the University of California, Berkeley has generated an "atlas" of where the brain collects and connects these meanings and representations.
-
-Interestingly, the researchers played two hours of stories from the ** Moth Radio Hour podcast (https://themoth.org/radio-hour)
-
-and recorded participants' brain activity with a functional MRI scanner. The results identify an area that covers most of the cortex, the outermost brain regions controlling higher cognitive functions. This is a much more extensive area that previously identified as language centers. Also, every meaning appears in multiple locations, and every location contains a cluster of related meanings. Some areas selectively respond to words related to people, for instance, whereas others respond to places or numbers.
-
-** 10 tips for global collaboration projects (http://www.spencerauthor.com/2016/09/10-tips-for-global-collaboration-projects.html/)
-
-Comprehensive post from ** John Spencer (https://twitter.com/spencerideas)
-
-examining strategies and techniques necessary to help students connect and collaborate online.
-
-I most appreciate that the post identifies the differences between cooperation and collaboration through the use of ** this video (https://www.youtube.com/watch?v=Gr5mAboH1Kk)
-
-. I'll have more on the creation of John's "sketchy notes" down below in the "make" section.
-
-As an aside, I really like the layout and design choices John has folded in across ** his site (http://www.spencerauthor.com/)
-
-. I'm always looking for exemplars as I review and improve my sites. This space moves to the top of my list. I see many similarities between my main site and his space. I've also been wondering lately about branding and the use of my name as the title of my main space. John's site has me feeling good about my choices.
+---
 
 ## 🔨 Do
 
-** How I create sketchy videos, by John Spencer (http://www.spencerauthor.com/2015/10/how-i-create-sketchy-videos.html/)
+### [An insider look at my (super low-tech) creative process](https://medium.com/@spencerideas/an-insider-look-at-my-super-low-tech-creative-process-9a9dcbf7e7ce#.vszjfz27b)
 
-In the post above, I linked to the ** video on the differences between cooperation and collaboration (https://www.youtube.com/watch?v=Gr5mAboH1Kk)
+You may have noticed that I'm sharing two pieces this week from John Spencer. This latest post discusses the way that John goes about creating some of his sketchy videos and sketchy comics. If you've spent any time on his blog, you'll notice that John makes extensive use of his own sketches as he makes sense of ideas, and communicates them to others.
 
-by ** John Spencer (https://twitter.com/spencerideas)
+I loved this post because it provides a good walkthrough of the creative process that John uses. I enjoy connecting the ways in which he thinks through an idea, builds it out, and publishes...and I appreciate the honesty that is embedded in the process.
 
-. Not only does John's site have a nice simple aesthetic to the space (IMHO), but the videos on ** his YouTube channel (https://www.youtube.com/channel/UCRmWJULBr4CIP5xUucVgOvw)
+You can see some of the sketchy videos [here](https://www.youtube.com/watch?v=hxzNDHlKvcI) and [here](https://www.youtube.com/watch?v=Wr6WLrv-w8k).
 
-also have a specific style as well.
-
-In this post John indicates that he writes and records a script for each of his videos. He then storyboard and sketches out "doodles" of the main action in the sketches. He scans these elements and then pulls everything together in to iMovie.
-
-I'm really interested in playing a bit with this to make videos. Usually I focus on PPT slides and narration. I'm thinking this would require a lot more work...and my lack of skill in drawing. But, as John suggests...you need to work and just "find your own style."
+---
 
 ## 🤔 Consider
 
-Life is not a problem to be solved, but a reality to be experienced.
+> "The wound is the place where the light enters you." — Rumi
 
-- Soren Kierkegaard
+This week: gateways to healing when it hurts.
 
-Too Long; Didn't Read (TL;DR) #65
+Google Scholar advertising so good not sure you can call it advertising, goals and strategies in grant proposals, Project ELATED submitted to IMLS. SpaceX Mars colonization - Elon Musk vision and hope amidst negativity, engineering feat moving people off planet. Mindfulness and storytelling - my sons come to me to make sense of what they experience online, Turnaround for Children teaching kids to identify emotions. Talking to kids about protests in Charlotte - how do I talk about these very adult concepts. Yale study implicit bias in preschool - these results are scary, we need the discussion and research. Brain's meaning map from Moth Radio Hour - this is really cool, neural mapping helping understand how we think and connect. John Spencer on global collaboration tips flexible culture shared vision trust clarity patience celebration, and sketchy video creative process honesty embedded.
 
-Thanks again for reading. Please feel free to share with others you believe would benefit. If you like what you see here, ** subscr (http://wiobyrne.us11.list-manage.com/subscribe?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)
+The wound is the place where the light enters you.
 
-** ibe (http://wiobyrne.us11.list-manage.com/subscribe?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)
-
-to get it hand-delivered to your inbox.
-
-To review
-
-past issues please ** click here (http://us11.campaign-archive1.com/home/?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)
-
-. You can also check out (and annotate) ** this on Medium (https://medium.com/tldr-newsletter)
-
-.
-
-To send me feedback, comments, or concerns, please feel free to reach out (wiobyrne@gmail.com) or connect on ** Twitter (https://twitter.com/wiobyrne)
-
-.
-
-This email was sent to  (mailto:)
+---
 
 ## 🔗 Navigation
 
 **Previous**: [[03 CREATE/📧 Newsletter/TLDR 64\|TLDR 64]] • **Next**: [[03 CREATE/📧 Newsletter/TLDR 66\|TLDR 66]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+
+**🌱 Connected Concepts**:
+
+- **[[SpaceX\|SpaceX]]** — Elon Musk Mars colonization vision and hope, refreshing amidst negativity, engineering feat moving people off planet.
+- **[[02 DEVELOP/🌿 Plants/Mindfulness\|Mindfulness]]** — Turnaround for Children teaching kids to identify emotions, storytelling can help kids heal from trauma.
+- **[[Protest Education\|Protest Education]]** — Charlotte NC protests, how do I talk to my kids about these very adult concepts and situations.
+- **[[02 DEVELOP/🌿 Plants/Implicit Bias\|Implicit Bias]]** — Yale study preschool teachers watching black children more, these results are scary, we need the discussion.
+- **[[Brain Research\|Brain Research]]** — Moth Radio Hour semantic space meaning map in cortex, neural mapping helping understand how we think.
+- **[[John Spencer\|John Spencer]]** — Global collaboration tips flexible culture shared vision, sketchy video creative process honesty embedded.
+- **[[Global Collaboration\|Global Collaboration]]** — Seven tips flexible culture shared vision risk-taking trust clarity patience celebration built into process.
 
 ---
 

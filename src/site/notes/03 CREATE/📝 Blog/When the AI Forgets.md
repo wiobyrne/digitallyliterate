@@ -5,7 +5,7 @@
 
 # When the AI Forgets
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 
 Exploring the moments where AI models lost context — and how that mirrors the fragility of human attention, memory, and project continuity.
 

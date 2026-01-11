@@ -5,7 +5,7 @@
 
 # Using AI as a Research Partner
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 
 How treating AI as a co-researcher reframes inquiry, authorship, and reflection in digital scholarship.
 

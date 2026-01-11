@@ -6,7 +6,7 @@
 # Homelab Journey, Part 8: Monitoring, Logging & Maintenance
 ## Keeping the Lights On
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 ### Core Questions
 - What monitoring tools am I using (Grafana, Prometheus, etc.)?  
 - How do I track uptime, system load, and alerts?  

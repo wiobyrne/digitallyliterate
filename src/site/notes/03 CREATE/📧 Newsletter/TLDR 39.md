@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-39","permalink":"/tldr-39/","title":"Too Long; Didn't Read Issue 39","tags":["digital-literacy","education-technology"]}
+{"dg-publish":true,"dg-permalink":"tldr-39","permalink":"/tldr-39/","title":"Too Long; Didn't Read Issue 39","tags":["digital-literacy","education-technology","walkmyworld","carl-sagan","extraterrestrials","douglas-rushkoff","coding","microlearning","millennials","snapchat","grammar","typos","hyper-island","opentoonz","animation","doug-belshaw"]}
 ---
 
 # TLDR 39
@@ -8,169 +8,161 @@
 
 **Published**: 2016-04-01 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
 
-Welcome to TL;DR #39 (April 1st, 2016)
-
-View this email in your browser
-
-** Too Long; Didn't Read (TL;DR) newsletter #40
-
-------------------------------------------------------------
-
-Hi all. Welcome to the TL;DR Newsletter..issue #40. And...we with this issue we're up over 300 subscribers. Thank you for the support.
-
-This week we examine the human/artificial, illumination, & global leaks.
+Hi all. Welcome to the TL;DR Newsletter. This week we'll discuss microlearning, extraterrestrials, & grammar jerks.
 
 I'm always tweaking TL;DR to better suit you. If you have feedback, questions, or concerns...please feel free to the "reply" button and send me a response. I'd love to hear from you.
 
-If you haven't already, I'd recommend that you subscribe (http://wiobyrne.us11.list-manage.com/subscribe?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)  to make sure you don't miss out next week's issue.
+If you haven't already, I'd recommend that you subscribe to make sure you don't miss out next week's issue.
 
-This week I've been working on the following:
+This week I shared the following:
 
-* Preparing students to be literate digitally in a digitally literate environment of their own (https://docs.google.com/document/d/1xZ4qpRz4i8pi6bHTYO8U9ujfDYbxGJC5sHRj2ULOF4M/edit?usp=sharing)  - In this piece we synthesize the work in digital badges, "a domain of one's own," and possibles futures for students in Pre-K up through higher ed. This commentary is for an upcoming issue of JAAL (http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1936-2706) . Feel free to add your commentary.
+- [The Story of Us](http://walkmy.world/start-walking/walk2016/le10/) - This week we launched our final learning event...Learning Event 10 in WalkMyWorld 2016. Take a look at the post and come join us online. The materials are always up and online if you want to use them in your classes.
 
-============================================================
+---
+
+## 🔖 Key Takeaways
+
+- **I'd Love to Hear**: I'm always tweaking TL;DR to better suit you. If you have feedback, questions, or concerns...please feel free to the "reply" button and send me a response. I'd love to hear from you.
+- **Still Have Fear**: Douglas Rushkoff post that popped up just as I was finalizing materials for this week's issue. I immediately shared it out...even though I still have fear that it might be an April Fool's prank. :)
+- **I Include Most**: I include most of these in my lessons and courses. I'll highlight my lesson/class objectives and rebuild much shorter (high quality) video.
+- **I'll Keep You Posted**: My possible use case scenario that I'll test drive next semester is to use it and share the "focus" of the week or module for my classes. I'll keep you posted as I investigate this some more.
+- **I Would Recommend**: You may not be a professional animator, but I would recommend installing on a computer in your classroom and allowing students to see what they can make.
+
+---
 
 ## 📺 Watch
 
-** Dillan's Path (https://www.youtube.com/watch?v=UTx12y42Xv4)
+### [Carl Sagan on Extraterrestrials | Blank on Blank | PBS Digital Studios](https://www.youtube.com/watch?v=u9WHs49nlHk)
 
-Poignant profile of Dillan as he utilizes his iPad to connect and communicate with family and therapist.
+Awesome discussion between [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) and [Studs Terkel](https://en.wikipedia.org/wiki/Studs_Terkel) animated on the [Blank on Blank](http://blankonblank.org/interviews/carl-sagan-extraterrestrials-religion-aliens-life-planets-mars-galaxies-stars/) web series. They discuss religion, and the possibility of life on other planets.
 
-Yes, it is an Apple commercial...but it's a good reminder of the power of technology if thoughtfully utilized. Sometimes we forget about the things that we can change on the individual level.
+---
 
 ## 📚 Read
 
-** From encrypted drives to Amazon's cloud -- The amazing flight of the Panama Papers (http://www.forbes.com/sites/thomasbrewster/2016/04/05/panama-papers-amazon-encryption-epic-leak/#400236fe1df5)
+### [Learning to code yields diminishing returns](https://www.linkedin.com/pulse/learning-code-yields-diminishing-returns-douglas-rushkoff)
 
-This past week news organizations from around the globe published investigations based on a massive trove of leaked documents that reveal corruption on a global scale. ** The Panama Papers (http://www.theatlantic.com/international/archive/2016/04/what-are-the-panama-papers/476658/)
+Post from [Douglas Rushkoff](https://twitter.com/rushkoff) that popped up just as I was finalizing materials for this week's issue. I immediately shared it out...even though I still have fear that it might be an April Fool's prank. :)
 
-, as they're being called, consist of about 11.5 million documents, or about 2.6 terabytes of data.
+Rushkoff details the concerns that we must have as we point to the need to train and develop legions of coders and programmers for the future.
 
-These documents ** provide fascinating insight (http://www.wired.com/2016/04/reporters-pulled-off-panama-papers-biggest-leak-whistleblower-history/)
+I've been thinking, writing, and interviewing numerous experts about coding and programming over the past couple of weeks. This column presents much needed insight into the challenges that might exist in these eventualities.
 
-into a global industry that secretly manages the estates of the world's rich and famous.
+---
 
-As a regular reader of TL;DR, you know that we always find time to discuss privacy, security, and encryption. It's an increasingly important element of our digital identities. The link shared above is a great post from ** Thomas Fox-Brewster (https://twitter.com/iblametom)
+### [Microlearning, millennials and successful companies](https://blog.teachlr.com/microlearning-millennials-2/)
 
-in Forbes that details these elements...and the power of open source software.
+Awesome post from the [TeachLr Blog](https://blog.teachlr.com/) that buries some great actionable advice at the bottom of the post.
 
-** (http://techcrunch.com/2015/06/26/molson-and-google-built-a-beer-fridge-that-unlocks-via-voice-translation/?ncid=rss)
+As you work with millennials, you need to allow them to control their time, while empowering them to connect with engaging content. Specifically, "microlearning" adjusts because it is autonomous, independent, and practical.
 
-** A week behind the Great Firewall of China (http://www.fastcompany.com/3056721/most-innovative-companies/a-week-behind-the-great-firewall-of-china?partner=rss&utm_source=feedly&utm_medium=webfeeds)
+To make this happen, the authors indicate the following elements to include in your teaching practice:
 
-As we continue this look at privacy, security, and global settings, I was fascinated by this post about the settings, security, and systems that make up the Internet in China.
+- Clear learning objectives
+- Content outline and structure
+- An objective per lesson
+- Short lessons on high quality video
+- Interchangeable lessons
+- Practical lessons
+- Tracking of results
+- Certificates
 
-We take for granted the digital texts and tools that we use in our daily work and communications. As I'm embarking on ** an open research project to investigate the digital literacy practices (http://digitallyliterate.net/)
+I include most of these in my lessons and courses. I'll highlight my lesson/class objectives and rebuild much shorter (high quality) video.
 
-in global classrooms...this post is a great reality check.
+---
 
-We can't assume everything is the same for everyone.
+### [10 seconds at a time, a teacher tries Snapchat to engage students](http://www.npr.org/sections/ed/2016/03/29/467091289/how-teachers-are-using-snapchat)
 
-** (http://techcrunch.com/2015/06/26/molson-and-google-built-a-beer-fridge-that-unlocks-via-voice-translation/?ncid=rss)
+Awesome thinking about the possible use of Snapchat in a higher ed classroom. Specifically, this post shares examples of Michael Britt, an adjunct professor at Marist College and his introductory psychology class.
 
-** The Scientist Storyteller: Interview with Dr. David Kipping (https://medium.com/@amyburvall/the-scientist-storyteller-interview-with-dr-david-kipping-exomoonologist-369afcd811cd#.s76i7z5df)
+I've been trying to figure out, or find a meaningful way to utilize a tool like Snapchat or Periscope/Meerkat in my classes. What I don't like is that it's an ethereal use of digital content. It automatically deletes after a set period of time.
 
-I'm always impressed by the work of the incredible ** Amy Burvall (https://twitter.com/amyburvall)
+My possible use case scenario that I'll test drive next semester is to use it and share the "focus" of the week or module for my classes. I'll frequently share out blog posts, or video clips indicating what they need to pay attention to that week for my classes. I'm thinking this could be the "lesson objectives" I indicated up above. This would allow me to share this info...and then not worry about old videos clips hogging up my YouTube account.
 
-, and this post is no exception.
+I'll keep you posted as I investigate this some more.
 
-I watched as Amy contacted ** David Kipping (https://twitter.com/david_kipping)
+---
 
-and started asking him questions, which led to a Google Doc and a discussion about art & science. Amy allowed us to add our own questions to the mix...and David answered everything.
+### [Study: People who point out typos are jerks](http://gizmodo.com/study-people-who-point-out-typos-are-jerks-1767969516)
 
-Amy then synthesized this into the post that is linked above. A normal person would type up that post and be done with it. One of the things that makes Amy special is that she sketched out all of the illustrations for the post to help add context to the message.
+[Research](http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0149885) from the [University of Michigan](http://www.ns.umich.edu/new/releases/23635-personality-influences-how-one-reacts-to-email-errors) investigating the interpretation of language in emails as it relates to personality traits of the reader.
 
-One of my favorite quotes from this piece is: You just need to tell the world about what you’re doing, why it fascinates you and illuminate the process of finding things out.
+Apparently people that are more sensitive to typos and grammatical errors a bit "Type A" and less tolerant of most signs of deviant grammatical behavior.
 
-I recommend following Amy and ** her work (http://www.amyburvall.com/)
+---
 
-to get some insight into how you can be more creativity and expressive in your content creation. This is doubly true if you're working with students as they create and write.
+### [The Hyper Island toolbox](http://toolbox.hyperisland.com/)
 
-** (http://techcrunch.com/2015/06/26/molson-and-google-built-a-beer-fridge-that-unlocks-via-voice-translation/?ncid=rss)
+This collection of learning activities is a definite must to save for your classroom or learning environment. You will also find opportunities to work this in to your workplace as you connect and collaborate with colleagues. From discussions about innovation to team building...there's resources for everyone.
 
-** Quality Dimensions for Connected Credentials (https://www.luminafoundation.org/files/resources/quality-dimensions-for-connected-credentials.pdf)
+Thanks to [Doug Belshaw](https://twitter.com/dajbelshaw) for pointing this out. Please be sure to subscribe to his [Thought Shrapnel](http://thoughtshrapnel.com/) newsletter for more awesome tips like this.
 
-Excellent report from the American Council on Education, and an all-star team (** Deb Everhart (https://twitter.com/ariadne4444)
-
-, Evelyn Ganzglass, ** Carla Casilli (https://twitter.com/carlacasilli)
-
-, ** Dan Hickey (https://twitter.com/dthickey)
-
-, and ** Brandon Muramatsu (https://twitter.com/bmuramatsu)
-
-)
-
-The report defines and discusses credentials, and then unpacks some of the challenges that exist in the current system, and how this relates to higher education.
-
-Specifically, they indicate: The diversity of credential earners and the needs of credential consumers are evolving rapidly. This poses challenges to academic institutions preparing the next generation of workers, innovators, and leaders.
-
-If you do not review, or save the entire report, skim through ** this post (http://dougbelshaw.com/blog/2016/04/05/quality-dimensions-connected-credentials/)
-
-by ** Doug Belshaw (https://twitter.com/dajbelshaw/)
-
-in which he synthesizes everything for you.
-
-** (http://techcrunch.com/2015/06/26/molson-and-google-built-a-beer-fridge-that-unlocks-via-voice-translation/?ncid=rss)
-
-** The next hot job in Silicon Valley is for...poets (https://www.washingtonpost.com/news/the-switch/wp/2016/04/07/why-poets-are-flocking-to-silicon-valley/?utm_source=nextdraft&utm_medium=email)
-
-Depending on who you talk to, the next big platform in tech may be voice, or bots, or something unforeseen. We see the potential for voice in tools like the ** Amazon Echo (http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E)
-
-, ** Google Now (https://www.google.com/landing/now/)
-
-, and ** Siri (http://www.apple.com/ios/siri/)
-
-. As we add artificial intelligence (AI) to these voice tools, we see the potential for virtual assistants. The world that we (may have) dreamed about in the movie ** Her (https://en.wikipedia.org/wiki/Her_(film))
-
-, is quickly becoming a reality.
-
-In the development of these virtual assistants, there is not only the need for the use of code to make things run, but tech companies are increasingly hiring writers of a different type to meld the human and artificial. The end goal is to develop AI that is smart, savvy, and sounds authentic.
+---
 
 ## 🔨 Do
 
-** Curate using Candy (http://www.educatorstechnology.com/2016/04/here-is-great-educational-tool-for.html)
+### [OpenToonz, the 2D animation software is now free](http://lifehacker.com/opentoonz-the-2d-animation-software-used-by-studio-ghi-1767833445)
 
-I think we need to find opportunities to move learners (and ourselves) from content consumers, to content curators, to content creators. I put together this weekly newsletter as one example of curation of online content.
+[OpenToonz](http://www.toonzpremium.com/#!news/aawrs) is a powerful 2D animation production software that you can [use to make animation](http://makezine.com/2016/03/25/the-animation-software-that-brought-you-studio-ghibli-films-is-now-open-source/). Now that it's open source, I think we'll start to see numerous tools and plugins pop up around it.
 
-Candy is a new "shiny" Chrome extension that you can use to curate content as you're reading online. Basically you can highlight portions of a page and save these "candy cards" together with the author and source information. It makes the process of researching, curating, and synthesizing online very easy and streamlined.
+You may not be a professional animator, but I would recommend installing on a computer in your classroom and allowing students to see what they can make.
 
-I'm testing it out as we speak. It reminds me of a mix of ** Storify (https://storify.com/)
-
-, ** Hypothesis (https://hypothes.is/)
-
-, & ** Evernote (https://evernote.com/?var=c)
-
-wrapped up in one.  I don't know if I'd pivot from these other tools...but I think you should test it out to see for yourself.
+---
 
 ## 🤔 Consider
 
-The world is full of magic things, patiently waiting for our sense to grow sharper.
+> "If you wish to make an apple pie from scratch, you must first invent the universe." — Carl Sagan
 
-- W. B. Yeats
+This week we'll discuss microlearning, extraterrestrials, & grammar jerks. The themes connect. The universe expands.
 
-Too Long; Didn't Read (TL;DR) #40
+One piece of work this week. The Story of Us—this week we launched our final learning event...Learning Event 10 in WalkMyWorld 2016. Take a look at the post and come join us online. The materials are always up and online if you want to use them in your classes. The final event arrives. The story concludes. The materials persist.
 
-Thanks again for reading. Please feel free to share with others you believe would benefit. If you like what you see here, you should ** subscr (http://wiobyrne.us11.list-manage.com/subscribe?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)
+I'm always tweaking TL;DR to better suit you. If you have feedback, questions, or concerns...please feel free to the "reply" button and send me a response. I'd love to hear from you. The tweaking continues. The invitation stands. The response is welcomed.
 
-** ibe (http://wiobyrne.us11.list-manage.com/subscribe?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)
+Carl Sagan and Studs Terkel animated on the Blank on Blank web series. They discuss religion, and the possibility of life on other planets. The discussion is awesome. The animation brings it forward. The possibilities multiply.
 
-to get it hand-delivered to your inbox. Seriously...we'd love it. :)
+Douglas Rushkoff post that popped up just as I was finalizing materials for this week's issue. I immediately shared it out...even though I still have fear that it might be an April Fool's prank. :) The timing is perfect. The fear is parenthetical. Rushkoff details the concerns that we must have as we point to the need to train and develop legions of coders and programmers for the future. I've been thinking, writing, and interviewing numerous experts about coding and programming over the past couple of weeks. This column presents much needed insight into the challenges that might exist in these eventualities. The concerns are detailed. The insight is needed. The challenges loom.
 
-To review
+TeachLr Blog that buries some great actionable advice at the bottom of the post. As you work with millennials, you need to allow them to control their time, while empowering them to connect with engaging content. Specifically, "microlearning" adjusts because it is autonomous, independent, and practical. Clear learning objectives, content outline and structure, an objective per lesson, short lessons on high quality video, interchangeable lessons, practical lessons, tracking of results, certificates. I include most of these in my lessons and courses. I'll highlight my lesson/class objectives and rebuild much shorter (high quality) video. The advice is buried. The elements are listed. The implementation begins.
 
-past issues please ** click here (http://us11.campaign-archive1.com/home/?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1)
+Awesome thinking about the possible use of Snapchat in a higher ed classroom. Michael Britt, an adjunct professor at Marist College and his introductory psychology class. I've been trying to figure out, or find a meaningful way to utilize a tool like Snapchat or Periscope/Meerkat in my classes. What I don't like is that it's an ethereal use of digital content. It automatically deletes after a set period of time. My possible use case scenario that I'll test drive next semester is to use it and share the "focus" of the week or module for my classes. I'll frequently share out blog posts, or video clips indicating what they need to pay attention to that week for my classes. I'm thinking this could be the "lesson objectives" I indicated up above. This would allow me to share this info...and then not worry about old videos clips hogging up my YouTube account. I'll keep you posted as I investigate this some more. The dislike is acknowledged. The use case emerges. The investigation continues.
 
-. They're still very good.
+University of Michigan research investigating the interpretation of language in emails as it relates to personality traits of the reader. Apparently people that are more sensitive to typos and grammatical errors a bit "Type A" and less tolerant of most signs of deviant grammatical behavior. The research confirms. The jerks are identified. The tolerance is low.
 
-To send me feedback, comments, or concerns, please feel free to reach out (wiobyrne@gmail.com) or connect on ** Twitter (https://twitter.com/wiobyrne)
+Hyper Island toolbox—this collection of learning activities is a definite must to save for your classroom or learning environment. You will also find opportunities to work this in to your workplace as you connect and collaborate with colleagues. From discussions about innovation to team building...there's resources for everyone. Thanks to Doug Belshaw for pointing this out. Please be sure to subscribe to his Thought Shrapnel newsletter for more awesome tips like this. The collection is comprehensive. The thanks are genuine. The subscription is recommended.
 
-.
+OpenToonz is a powerful 2D animation production software. Now that it's open source, I think we'll start to see numerous tools and plugins pop up around it. You may not be a professional animator, but I would recommend installing on a computer in your classroom and allowing students to see what they can make. The power is available. The recommendation is clear. The making begins.
 
-This email was sent to  (mailto:)
+Carl Sagan: If you wish to make an apple pie from scratch, you must first invent the universe. WalkMyWorld final event and microlearning and extraterrestrials and coding concerns and Snapchat ephemera and grammar jerks and Hyper Island and OpenToonz. Microlearning, extraterrestrials, & grammar jerks. All forms of invention. All requiring the universe. The question remains: what do we invent when we make from scratch?
+
+---
 
 ## 🔗 Navigation
 
-**Previous**: [[03 CREATE/📧 Newsletter/TLDR 38\|TLDR 38]] • **Next**: [[TLDR 40\|TLDR 40]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+**Previous**: [[03 CREATE/📧 Newsletter/TLDR 38\|TLDR 38]] • **Next**: [[03 CREATE/📧 Newsletter/TLDR 40\|TLDR 40]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+
+**🌱 Connected Concepts**:
+
+- **[[WalkMyWorld Project\|WalkMyWorld Project]]** — Story of Us final learning event LE10, materials are always up and online if you want to use them in your classes.
+- **[[Carl Sagan\|Carl Sagan]]** — Studs Terkel on Blank on Blank discuss religion and the possibility of life on other planets.
+- **[[Blank on Blank\|Blank on Blank]]** — PBS Digital Studios web series animated discussion between Carl Sagan and Studs Terkel.
+- **[[Douglas Rushkoff\|Douglas Rushkoff]]** — Learning to code yields diminishing returns, I immediately shared it out even though I still have fear that it might be an April Fool's prank.
+- **[[Coding\|Coding]]** — I've been thinking writing and interviewing numerous experts about coding and programming, this column presents much needed insight into the challenges.
+- **[[Microlearning\|Microlearning]]** — Millennials and successful companies autonomous independent and practical, I include most of these in my lessons and courses.
+- **[[TeachLr\|TeachLr]]** — Blog that buries some great actionable advice at the bottom of the post.
+- **[[Learning Objectives\|Learning Objectives]]** — Clear objectives content outline structure objective per lesson, I'll highlight my lesson/class objectives and rebuild much shorter high quality video.
+- **[[Millennials\|Millennials]]** — Need to allow them to control their time while empowering them to connect with engaging content.
+- **[[Snapchat\|Snapchat]]** — Teacher tries Snapchat to engage students 10 seconds at a time, I've been trying to figure out find a meaningful way to utilize.
+- **[[Ephemeral Content\|Ephemeral Content]]** — What I don't like is that it's an ethereal use of digital content it automatically deletes after a set period of time.
+- **[[Snapchat Use Case\|Snapchat Use Case]]** — My possible use case scenario that I'll test drive next semester share the focus of the week or module, I'll keep you posted as I investigate this some more.
+- **[[Grammar\|Grammar]]** — Study people who point out typos are jerks University of Michigan research.
+- **[[Typos\|Typos]]** — People more sensitive to typos and grammatical errors a bit Type A less tolerant of most signs of deviant grammatical behavior.
+- **[[Personality Research\|Personality Research]]** — Interpretation of language in emails as it relates to personality traits of the reader.
+- **[[Hyper Island\|Hyper Island]]** — Toolbox collection of learning activities definite must to save for your classroom or learning environment.
+- **[[Doug Belshaw\|Doug Belshaw]]** — Thanks for pointing this out, please be sure to subscribe to his Thought Shrapnel newsletter.
+- **[[Thought Shrapnel\|Thought Shrapnel]]** — Doug Belshaw newsletter for more awesome tips.
+- **[[OpenToonz\|OpenToonz]]** — 2D animation software now free, I would recommend installing on a computer in your classroom and allowing students to see what they can make.
+- **[[Animation Software\|Animation Software]]** — Powerful 2D animation production used by Studio Ghibli now open source.
 
 ---
 

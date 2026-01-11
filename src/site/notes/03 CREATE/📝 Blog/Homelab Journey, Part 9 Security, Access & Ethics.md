@@ -6,7 +6,7 @@
 # Homelab Journey, Part 9: Security, Access & Ethics
 ## Protecting What Matters
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 ### Core Questions
 - How do I secure access to the lab (VPN, SSO, MFA)?  
 - How are secrets and credentials stored?  

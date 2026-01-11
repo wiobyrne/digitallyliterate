@@ -6,7 +6,7 @@
 
 ## Too Long; Didn't Read Issue 3
 
-**Published**: 2015-06-27 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+**Published**: 2015-07-10 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
 
 Thank you once again for being one of the first to sign up for this newsletter. In this weekly email, I'll pull together some of the content that I shared out throughout the week. It's basically things that I think you should know & discuss. Please feel free to respond back, and share out with others.
 

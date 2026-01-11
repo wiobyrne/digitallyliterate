@@ -6,7 +6,7 @@
 # Homelab Journey, Part 6: Services & Containers
 ## What Runs on the Lab?
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 ### Core Questions
 - What core services did I deploy first, and why?  
 - Did I prefer LXC containers, Docker, or full VMs?  

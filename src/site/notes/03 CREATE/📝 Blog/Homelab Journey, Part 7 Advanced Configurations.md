@@ -6,7 +6,7 @@
 # Homelab Journey, Part 7: Advanced Configurations
 ## Experimentation & Growth
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 ### Core Questions
 - Have I configured GPU passthrough or other PCIe devices?  
 - Any automation or Infrastructure-as-Code (Ansible, Terraform)?  

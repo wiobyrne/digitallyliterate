@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-5","permalink":"/tldr-5/","title":"Too Long; Didn't Read Issue 5","tags":["digital-literacy","education-technology","privacy","social-media","ai"]}
+{"dg-publish":true,"dg-permalink":"tldr-5","permalink":"/tldr-5/","title":"Too Long; Didn't Read Issue 5","tags":["digital-literacy","education-technology","educator-advocacy","social-justice","kanban","pedagogy","reading-neuroscience","screen-time","accessibility","maker-culture","typography","digital-publishing"]}
 ---
 
 # TLDR 5
 
 ## Too Long; Didn't Read Issue 5
 
-**Published**: 2015-06-27 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+**Published**: 2015-07-24 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
 
 Thank you once again for being one of the first to sign up for this newsletter. In this weekly email, I'll pull together some of the content that I shared out throughout the week. It's basically things that I think you should know & discuss. Please feel free to respond back, and share out with others.
 
@@ -19,6 +19,14 @@ This week I posted:
 I had the privilege of presenting a keynote at the 2015 New Literacies Institute at NCSU. I worked with an amazing cohort of teachers from NC and China as they develop collaborative, inquiry-based units. My materials for this session are available above in the "Scaffolding Students" post. I also presented a "cool tools" session on Vine ([Play With Digital Media, Stop-motion Animation, & Vine to Earn the #VineOff Badge](http://wiobyrne.com/play-with-digital-media-stop-motion-animation-vine-to-earn-the-vineoff-badge/)) and urged them to earn the #VineOff badge by [clicking here](http://badges.p2pu.org/en/badge/view/754/).
 
 My time at the NLI was incredible and I left with a ton of ideas...and questions about our role as educators and how publicly should we advocate, or speak out online for freedoms and literacy. I'll have more on that in a future post.
+
+## 🔖 Key Takeaways
+
+- **Educator Advocacy**: Lee Skallerup Bessette challenges educators to move beyond silence on social justice issues—we can no longer hide behind privilege.
+- **Kanban Workflows**: Earned the Advanced Kanban Badge, exploring complex systems for personal and collaborative productivity.
+- **Reading Neuroscience**: Research reveals words are encoded by sound and shape, not just meaning—implications for how we teach literacy.
+- **Screen Time Nuance**: Louis C.K. reminds us that phones take away "the ability to just sit there"—being a person requires disconnection.
+- **Student Publishing**: The need to create and share online, balanced with protecting students' privacy and digital safety.
 
 ## 📺 Watch
 
@@ -98,13 +106,30 @@ The full video is available [here](https://www.youtube.com/watch?v=4wInCaB964E) 
 
 ## 🤔 Consider
 
-As we navigate the evolving digital landscape, consider how these tools and trends shape our relationship with technology, information, and each other.
+> "You need to build an ability to just be yourself and not do anything. That's what the phone is taking away is the ability to just sit there. That's being a person." — Louis C.K.
+
+> "As educators and school leaders, we can no longer hide behind the privilege of 'not knowing.'" — Lee Skallerup Bessette
+
+After the New Literacies Institute, I'm wrestling with questions about educator responsibility. How publicly should we advocate for social justice and freedoms online? When does professional silence become complicity? These are uncomfortable questions, but Lee's piece reminds us that staying informed and speaking out are part of our professional duty.
 
 ---
 
 ## 🔗 Navigation
 
 **Previous**: [[03 CREATE/📧 Newsletter/TLDR 4\|TLDR 4]] • **Next**: [[03 CREATE/📧 Newsletter/TLDR 6\|TLDR 6]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+
+**🌱 Connected Concepts**:
+
+- **[[Pedagogy\|Pedagogy]]** — Cathy Davidson on focusing classroom pedagogy as social change.
+- **[[Social Justice in Education\|Social Justice in Education]]** — Educator responsibility to advocate publicly on issues of freedom and literacy.
+- **[[Kanban and Workflow\|Kanban and Workflow]]** — Advanced Kanban systems for personal and collaborative productivity.
+- **[[Reading Neuroscience\|Reading Neuroscience]]** — How our brains encode words by sound and shape.
+- **[[Digital Wellness\|Digital Wellness]]** — Louis C.K. on disconnection and "the ability to just sit there."
+- **[[Maker Culture\|Maker Culture]]** — Animation stations and creative technology projects.
+- **[[Typography and Design\|Typography and Design]]** — Butterick's Practical Typography as essential web publishing resource.
+- **[[Accessibility\|Accessibility]]** — Pocket's text-to-speech supporting diverse learners.
+- **[[Student Privacy\|Student Privacy]]** — Balancing online publishing with protecting student safety.
+- **[[Jewelbot\|Jewelbot]]** — Wearable technology teaching girls to code through friendship bracelets.
 
 ---
 

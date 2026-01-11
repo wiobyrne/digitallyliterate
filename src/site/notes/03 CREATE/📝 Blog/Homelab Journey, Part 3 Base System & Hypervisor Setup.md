@@ -6,7 +6,7 @@
 # Homelab Journey, Part 3: Base System & Hypervisor Setup
 ## Virtualization as the Core Layer
 
-[[03 CREATE/🎯 Projects/🟢 Active/Homelab Series/Homelab Journey Overview\|Homelab Journey Overview]]
+[[03 CREATE/🎯 Projects/🟢 Active/Homelab Bloging/Homelab Journey Overview\|Homelab Journey Overview]]
 
 ### Core Questions
 - Why Proxmox VE (or alternative)?  
