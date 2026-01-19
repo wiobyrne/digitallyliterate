@@ -6,7 +6,7 @@
 # American Gods
 
 ## Overview
-- **Author:** [[Neil Gaiman\|Neil Gaiman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Neil Gaiman\|Neil Gaiman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "American Gods" is a blend of mythology, fantasy, and Americana that reveals a war brewing between old gods from various mythologies and new gods of modern life, such as technology and media. The protagonist, Shadow Moon, upon his release from prison, finds himself caught in the middle of this divine battle. Through his journey across America, the novel explores themes of faith, belief systems and the cultural melting pot that is America.
 

@@ -133,7 +133,7 @@ The cat's-eye Street View from Hiroshima is delightful absurdity—tourism offic
 - **[[Google Street View\|Google Street View]]** — Cat's-eye Hiroshima map, documenting your world.
 - **[[Star Wars Creative Tools\|Star Wars Creative Tools]]** — Crawl creator, Shakespeare sonnets, YodaSpeak generator.
 - **[[IT&DML Program\|IT&DML Program]]** — UNH program helping practicing teachers with authentic tech use.
-- **[[Steve Jobs\|Steve Jobs]]** — Connecting dots backwards, trusting future patterns.
+- **[[01 CONSUME/💬 Quotes/Steve Jobs quotes\|Steve Jobs quotes]]** — Connecting dots backwards, trusting future patterns.
 
 ---
 

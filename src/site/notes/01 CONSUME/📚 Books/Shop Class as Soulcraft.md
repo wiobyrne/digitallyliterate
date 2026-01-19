@@ -7,7 +7,7 @@
 
 # Shop Class as Soulcraft
 
-**Author:** [[Matthew B. Crawford\|Matthew B. Crawford]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Matthew B. Crawford\|Matthew B. Crawford]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

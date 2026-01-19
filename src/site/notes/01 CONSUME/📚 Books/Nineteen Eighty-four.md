@@ -6,7 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=1L-jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Nineteen Eighty-four
-## Author: [[George Orwell\|George Orwell]]
+## Author: [[01 CONSUME/👥 People/George Orwell\|George Orwell]]
 
 ## Three-Sentence Summary
 > "Nineteen Eighty-Four" is a dystopian novel set in Airstrip One, a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance, and public manipulation. The protagonist Winston Smith is a diligent and skillful worker in the Party's propaganda department who begins to question the Party's authority after falling in love with Julia. The book ends with their failed rebellion and Winston's realization that he loves Big Brother, underscoring Orwell's critique of totalitarian regimes.

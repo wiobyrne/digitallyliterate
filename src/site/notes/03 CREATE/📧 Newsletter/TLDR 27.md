@@ -180,7 +180,7 @@ Picasso: If you paint a wild horse, you might not see the horse...but surely you
 - **[[Barbara Oakley\|Barbara Oakley]]** — MOOCs can be better than real classes, rallying cry motivating force.
 - **[[Pupil Size\|Pupil Size]]** — Measure of trust research, I'm fascinated by role of eye contact, eyes wandering.
 - **[[Video Editing\|Video Editing]]** — Wistia fundamentals series powerful learning activity, educators often don't know first place to start.
-- **[[Pablo Picasso\|Pablo Picasso]]** — Paint a wild horse you'll see the wildness not the horse.
+- **[[01 CONSUME/👥 People/Pablo Picasso\|Pablo Picasso]]** — Paint a wild horse you'll see the wildness not the horse.
 
 ---
 

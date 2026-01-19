@@ -144,7 +144,7 @@ Carl Sagan: If you wish to make an apple pie from scratch, you must first invent
 **🌱 Connected Concepts**:
 
 - **[[WalkMyWorld Project\|WalkMyWorld Project]]** — Story of Us final learning event LE10, materials are always up and online if you want to use them in your classes.
-- **[[Carl Sagan\|Carl Sagan]]** — Studs Terkel on Blank on Blank discuss religion and the possibility of life on other planets.
+- **[[01 CONSUME/👥 People/Carl Sagan\|Carl Sagan]]** — Studs Terkel on Blank on Blank discuss religion and the possibility of life on other planets.
 - **[[Blank on Blank\|Blank on Blank]]** — PBS Digital Studios web series animated discussion between Carl Sagan and Studs Terkel.
 - **[[Douglas Rushkoff\|Douglas Rushkoff]]** — Learning to code yields diminishing returns, I immediately shared it out even though I still have fear that it might be an April Fool's prank.
 - **[[Coding\|Coding]]** — I've been thinking writing and interviewing numerous experts about coding and programming, this column presents much needed insight into the challenges.

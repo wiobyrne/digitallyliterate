@@ -133,7 +133,7 @@ Come forth into the light of things, let nature be your teacher.
 - **[[DDoS Attack\|DDoS Attack]]** — Internet was broken Distributed Denial of Service, millions of attackers knocking on door website overrun.
 - **[[Internet of Things\|Internet of Things]]** — IoT devices TVs thermostats routers used as bots, I'm really concerned about potential ramifications security.
 - **[[Digital Portfolios\|Digital Portfolios]]** — Moving to domain of one's own eportfolios BadgeChain digital identity, comprehensive overview what you need to know.
-- **[[Tim Ferriss\|Tim Ferriss]]** — 4 Hour Workweek podcast Tools of Titans, guidance one main reason I've decided to branch out introduced by Doug Belshaw.
+- **[[01 CONSUME/👥 People/Tim Ferriss\|Tim Ferriss]]** — 4 Hour Workweek podcast Tools of Titans, guidance one main reason I've decided to branch out introduced by Doug Belshaw.
 - **[[Horizon Report\|Horizon Report]]** — NMC digital literacy strategic brief three models, universal creative and literacy across disciplines most intriguing.
 - **[[Prisma\|Prisma]]** — AI art filtered photos video, I've been playing with it definitely lot of fun interested in testing video soon.
 - **[[02 DEVELOP/🌱 Seeds/Stoicism\|Stoicism]]** — Week 2016 negotiating positive negative, resilience preparation adversity, view from above meditation strategy remain focused.

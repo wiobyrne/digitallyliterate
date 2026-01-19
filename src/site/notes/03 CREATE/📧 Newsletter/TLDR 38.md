@@ -146,7 +146,7 @@ Malcolm Gladwell: Often a sign of expertise is noticing what doesn't happen. Blo
 - **[[Stephen Downes\|Stephen Downes]]** — Thanks to Stephen Downes for originally sharing Daniel Lemire's research perspectives.
 - **[[Digital Portfolios\|Digital Portfolios]]** — MindShift examines role in application process and induction into higher education, tremendous opportunities to utilize and invigorate.
 - **[[XKCD\|XKCD]]** — Randall Munroe coming to America's science textbooks, skillfully explains the complex Thing Explainer.
-- **[[Randall Munroe\|Randall Munroe]]** — American cartoonist author creator of webcomic XKCD, Houghton Mifflin folding art and illustrations into textbooks.
+- **[[01 CONSUME/👥 People/Randall Munroe\|Randall Munroe]]** — American cartoonist author creator of webcomic XKCD, Houghton Mifflin folding art and illustrations into textbooks.
 - **[[Google Nik\|Google Nik]]** — Advanced suite of tools for photo and image editing now free, professional grade products typically cost hundreds of dollars.
 - **[[Snapseed\|Snapseed]]** — Power of Nik built in to iPhone iPad or Android app.
 

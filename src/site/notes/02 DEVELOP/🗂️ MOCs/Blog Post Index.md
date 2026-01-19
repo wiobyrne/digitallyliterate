@@ -13,26 +13,16 @@ Use the search bar at the top right to quickly find specific content, or explore
 ## Recent Blog Posts
 
 ### Last 5 Published Posts
-```dataview
-table without id
-	file.link as Title,
-	tags as Tags
-from "03 CREATE/Blog"
-where shelf = "published"
-sort published desc 
-limit 5
-```
+| Title | Tags |
+| ----- | ---- |
+
+{ .block-language-dataview}
 
 ### Last 5 Drafts
-```dataview
-table without id
-	file.link as Title,
-	tags as Tags
-from "03 CREATE/Blog"
-where shelf = "draft"
-sort published desc 
-limit 5
-```
+| Title | Tags |
+| ----- | ---- |
+
+{ .block-language-dataview}
 ---
 
 ## Using this Index

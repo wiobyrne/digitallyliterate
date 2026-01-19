@@ -141,7 +141,7 @@ Sometimes you can only find heaven by slowly backing away from hell.
 - **[[Snopes\|Snopes]]** — One of the bastions of fact checking online NY Times describes work behind scenes, can't trust search engines people will believe anything found on internet.
 - **[[Facebook Privacy\|Facebook Privacy]]** — Doesn't tell users everything it really knows ProPublica report, bundling dozen different data companies includes offline actions definitely something to consider.
 - **[[Wikipedia\|Wikipedia]]** — Bloomberg Businessweek challenges as tries to expand base volunteer editors, only as good as community overwhelmingly white 85 percent male.
-- **[[Tim Ferriss\|Tim Ferriss]]** — I'm a big fan of podcast routinely share tips and tricks, Tools of Titans I'm planning on blogging about text as I read keep track of thoughts.
+- **[[01 CONSUME/👥 People/Tim Ferriss\|Tim Ferriss]]** — I'm a big fan of podcast routinely share tips and tricks, Tools of Titans I'm planning on blogging about text as I read keep track of thoughts.
 - **[[Edith Ackermann\|Edith Ackermann]]** — MIT Media Lab developmental psychologist learning researcher passed away age 70, video describes perspectives on play tinkering learning definitely good stuff for tinkerers makers.
 - **[[Carrie Fisher\|Carrie Fisher]]** — Passed within one day of mother Debbie Reynolds, quote sometimes you can only find heaven by slowly backing away from hell.
 - **[[Green Tea\|Green Tea]]** — I've wanted to start drink more tea accelerated thanks to recent gift Teavana kit, I've spent last week researching online watching YouTube videos testing the process.

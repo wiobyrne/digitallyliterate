@@ -112,10 +112,10 @@ This workflow allows the series to evolve transparently: each post begins as a n
 ---
 
 ## ✅ Next Steps
-- [ ] Publish “🧠 How I Wrote This With AI” as the kickoff post (Week 2).  
-- [ ] Begin drafting “⚙️ Mapping the Hardware” (Week 3).  
-- [ ] Establish bidirectional crosslinks between Homelab + Director’s Cut posts.  
-- [ ] Share early drafts via digital garden and invite feedback.  
-- [ ] Reflect on how AI collaboration influenced both *the build* and *the storytelling.*
+- [x] Publish “🧠 How I Wrote This With AI” as the kickoff post (Week 2). ✅ 2026-01-15
+- [x] Begin drafting “⚙️ Mapping the Hardware” (Week 3). ✅ 2026-01-15
+- [x] Establish bidirectional crosslinks between Homelab + Director’s Cut posts. ✅ 2026-01-15
+- [x] Share early drafts via digital garden and invite feedback. ✅ 2026-01-15
+- [x] Reflect on how AI collaboration influenced both *the build* and *the storytelling.* ✅ 2026-01-15
 
 ---

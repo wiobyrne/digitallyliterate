@@ -122,7 +122,7 @@ Nothing could be more absurd than computers in a classroom where nothing else is
 
 **🌱 Connected Concepts**:
 
-- **[[Seymour Papert\|Seymour Papert]]** — Passed away at 88, pioneer of AI and constructionism, enormous impact on my career and philosophy.
+- **[[01 CONSUME/👥 People/Seymour Papert\|Seymour Papert]]** — Passed away at 88, pioneer of AI and constructionism, enormous impact on my career and philosophy.
 - **[[Paulo Freire\|Paulo Freire]]** — Debate with Papert on technology and future of schools, countering that schools will wither and die.
 - **[[Blockchain\|Blockchain]]** — BadgeChain Reads using Hypothes.is to collectively annotate Doug Levin on misconceptions.
 - **[[Constructionism\|Constructionism]]** — Papert Paradox, cited less frequently as world achieves his vision, ideas seem less novel.

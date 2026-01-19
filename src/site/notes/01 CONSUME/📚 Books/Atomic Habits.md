@@ -8,7 +8,7 @@
 # Atomic Habits
 
 ## Overview
-- **Author:** [[James Clear\|James Clear]]  <!-- Link to the author's page -->
+- **Author:** [[01 CONSUME/👥 People/James Clear\|James Clear]]  <!-- Link to the author's page -->
 - **Publisher:** Penguin
 - **Published Date:** 2018-10-16
 - **Page Count:** 321

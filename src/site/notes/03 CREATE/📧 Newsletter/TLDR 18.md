@@ -148,7 +148,7 @@ Stephen Hawking's metaphor resonates: we're all connected by the Internet like n
 - **[[Entropy Comic\|Entropy Comic]]** — Boston Globe piece explaining life and disorder visually.
 - **[[Boomerang App\|Boomerang App]]** — Instagram 1-second video loops, Hyperlapse secret sauce.
 - **[[Vine\|Vine]]** — Six seconds sometimes too long, embedding in lessons and activities.
-- **[[Stephen Hawking\|Stephen Hawking]]** — Internet as neurons in giant brain, collective connection.
+- **[[01 CONSUME/👥 People/Stephen Hawking\|Stephen Hawking]]** — Internet as neurons in giant brain, collective connection.
 
 ---
 

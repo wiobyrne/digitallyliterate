@@ -46,5 +46,5 @@ Gabriel Gatehouse is an award-winning journalist known for his incisive reportin
   - ["The Bishop's War"]
   - ["The Shadow Game"]
 - Related Books:
-  - [[State of Fear\|State of Fear]] by [[Michael Crichton\|Michael Crichton]]
+  - [[State of Fear\|State of Fear]] by [[01 CONSUME/👥 People/Michael Crichton\|Michael Crichton]]
   - [[The Ghost Writer\|The Ghost Writer]] by [[John Harwood\|John Harwood]]

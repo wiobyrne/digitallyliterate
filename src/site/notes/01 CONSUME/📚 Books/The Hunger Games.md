@@ -6,7 +6,7 @@
 ![cover|300](http://books.google.com/books/content?id=_zSzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # The Hunger Games
-**Author:** [[Suzanne Collins\|Suzanne Collins]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Suzanne Collins\|Suzanne Collins]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

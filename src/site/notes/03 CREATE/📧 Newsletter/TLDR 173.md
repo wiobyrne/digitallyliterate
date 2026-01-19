@@ -1,118 +1,95 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-173","permalink":"/tldr-173/","title":"Too Long; Didn't Read Issue 173","tags":["digital-literacy","education-technology"]}
+{"dg-publish":true,"dg-permalink":"tldr-173","permalink":"/tldr-173/","title":"Okay I Was Gone for a Minute But I'm Back Now","tags":["digital-literacy","education-technology","anya-kamenetz","screentime-interview","twitter-in-education","educational-twitter","teaching-learning-socializing","migos","dr-seuss","wocket-in-my-pocket","hip-hop-education","media-literacy-curriculum","computer-science-education","information-literacy","media-literacy-now","digital-citizenship-institute","kamenetz-dissects-nyt","screentime-critique","atlantic-screen-backlash","white-privilege","tolerance-magazine","racial-literacy","privilege-pushback","voice-texting","voice-messages","whatsapp","wire-app","drawing-for-learning","visual-learning","multimodal-engagement","stress-management","walt-whitman"]}
 ---
 
 # TLDR 173
 
-## Too Long; Didn't Read Issue 173
+## Okay I Was Gone for a Minute But I'm Back Now
 
 **Published**: 2018-11-10 • [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
 
-Welcome to TL;DR #173 (November 10th, 2018)
+Welcome to Issue 173. Back now.
 
-** enter image description here
+This week:
 
-------------------------------------------------------------
+- [MURSDLeads: Anya Kamenetz interview](https://www.youtube.com/watch?v=UHN2mBkWDJE) - Interview about [The Art of Screen Time](https://www.amazon.com/Art-Screen-Time-Balance-Digital/dp/1610396723). [Join our discussion](https://screentime.me/).
+- [Educational Use of Twitter in Teaching, Learning, and Socializing](https://wiobyrne.com/twitter-in-teaching-learning-socializing/)
 
-Okay I was gone for a minute but I’m back now
+---
 
-TL;DR #173 - 11/10/2018
+## 🔖 Key Takeaways
 
-Hey all, welcome to TL;DR!!! Each week I synthesize the news of the week that I think you need to know in education, tech, & literacy.
+- **Media Literacy Gap**: Schools add computer science but ignore critical need to teach students how to properly consume and disseminate online information.
+- **Screentime Critique Sharpens**: Kamenetz dissects NYT panic narratives exposing privilege-driven consensus lacking evidence revealing class dynamics in moral panic.
+- **White Privilege Terminology**: Concept falls victim to own connotations where "white" creates discomfort and "privilege" sounds foreign to struggling people.
+- **Voice Texting Emergence**: Short voice clips replacing both text messages and phone calls signaling new communication mode between asynchronous and synchronous.
+- **Drawing for Learning**: Research shows visual engagement through drawing provides multiple cognitive pathways enhancing retention better than passive methods.
 
-This week I was involved in the following:
-
-* MURSDLeads: Anya Kamenetz (https://www.youtube.com/watch?v=UHN2mBkWDJE) - As a reminder, I sat in on the interview with an interview with Kamenetz as we discussed her book, The Art of Screen Time (https://www.amazon.com/Art-Screen-Time-Balance-Digital/dp/1610396723) . The interview shares some great insight into her work on the topic. As a reminder, feel free to jump in and get involved in our discussion about the topic here (https://screentime.me/) .
-
-* Educational Use of Twitter in Teaching, Learning, and Socializing (https://wiobyrne.com/twitter-in-teaching-learning-socializing/) - I’ve been doing some deep reading and research around trolling and harmful behaviors online. This post unpacks how to respond to trolling in digital spaces.
+---
 
 ## 📺 Watch
 
-------------------------------------------------------------
+### [Migos Perform Dr. Seuss](https://en.wikipedia.org/wiki/Migos)
 
-Migos (https://en.wikipedia.org/wiki/Migos) is a hip-hop trio from outside of Atlanta, GA. Their staccato rapping style is perfect for Dr. Seuss books. This performance of Wocket In My Pocket (https://en.wikipedia.org/wiki/There%27s_a_Wocket_in_My_Pocket) is incredible.
+[Migos](https://en.wikipedia.org/wiki/Migos) hip-hop trio staccato rapping style perfect for Dr. Seuss. This [Wocket In My Pocket](https://en.wikipedia.org/wiki/There%27s_a_Wocket_in_My_Pocket) performance incredible. Check [animated version](https://www.youtube.com/watch?v=KsxJbbyrrGU&list=RDKsxJbbyrrGU) too.
 
-You should also check out the animated version (https://www.youtube.com/watch?v=KsxJbbyrrGU&list=RDKsxJbbyrrGU) as well.
+---
 
 ## 📚 Read
 
-------------------------------------------------------------
+### Media Literacy Curriculum Needs
 
-Primary and secondary school are supposed to be supplying students with the skills they need to develop into productive, informed members of our society. As our society evolves, perhaps the curriculum we are teaching our students needs to evolve as well. Schools have partly recognized this by incorporating programming and computer science (https://news.gallup.com/poll/196511/computer-science-classes-teach-programming-coding.aspx) classes into curricula to match our tech-hungry society, but perhaps we need to go further and also instruct our youth on how to properly consume and disseminate online information.
+Schools need to supply students with skills for productive informed membership in society. As society evolves curriculum must evolve. Schools partly recognized this incorporating [computer science classes](https://news.gallup.com/poll/196511/computer-science-classes-teach-programming-coding.aspx) but we need to go further instructing youth how to properly consume and disseminate online information.
 
-If you would like to support movements similar to the ones mentioned here, contact your local school board officer today or get involved media literacy organizations such as such as Media Literacy Now (https://medialiteracynow.org/) and the Digital Citizenship Institute (http://digcitinstitute.com/) .
+Support movements: [Media Literacy Now](https://medialiteracynow.org/) and [Digital Citizenship Institute](http://digcitinstitute.com/).
 
-** What the Times got wrong about kids and phones (https://www.cjr.org/criticism/times-silicon-valley-kids.php)
+### [What the Times Got Wrong About Kids and Phones](https://www.cjr.org/criticism/times-silicon-valley-kids.php)
 
-------------------------------------------------------------
+[Anya Kamenetz](https://twitter.com/anya1anya) dissects NY Times posts from last week. Also recommend [The Backlash Against Screen Time at School](https://www.theatlantic.com/education/archive/2018/11/screen-time-backlash/567934/) from The Atlantic.
 
-The screentime series from Anya Kamenetz (https://twitter.com/anya1anya) dissects the NY Times posts from last week.
+### [What Is White Privilege, Really?](https://www.tolerance.org/magazine/fall-2018/what-is-white-privilege-really)
 
-I’d also recommend this post from The Atlantic, The Backlash Against Screen Time at School (https://www.theatlantic.com/education/archive/2018/11/screen-time-backlash/567934/) , if you want to dig into the topic a bit more.
+I've been on journey learning more about racism white privilege and white fragility.
 
-** What Is White Privilege, Really? (https://www.tolerance.org/magazine/fall-2018/what-is-white-privilege-really)
+White privilege fallen victim to own connotations. Double whammy inspiring pushback: 1) "white" [creates discomfort among those not used to being defined by race](https://www.nytimes.com/2018/06/13/magazine/white-people-are-noticing-something-new-their-own-whiteness.html). 2) "privilege" especially for poor and rural white people sounds like word suggesting they never struggled.
 
-------------------------------------------------------------
+### [Is the Era of Voice Texting Upon Us?](https://www.theringer.com/tech/2018/11/5/18056776/voice-texting-whatsapp-apple-2018)
 
-enter image description here
+Lately spending more time using voice typing on mobile keyboard. Android option to send voice message opposed to text. Been wondering why send short voice clips opposed to just call. Apparently lots of people. Might check out [Wire](https://wire.com/en/).
 
-I’ve been on a journey over the last two years learning more about racism, white privilege, and white fragility.
+### [Drawing Is Fastest Most Effective Way to Learn](https://www.inc.com/jessica-stillman/drawing-is-fastest-most-effective-way-to-learn-according-to-new-research.html)
 
-White privilege is—perhaps most notably in this era of uncivil discourse—a concept that has fallen victim to its own connotations. The two-word term packs a double whammy that inspires pushback. 1) The word white creates discomfort among those who are not used to being defined or described by their race (https://www.nytimes.com/2018/06/13/magazine/white-people-are-noticing-something-new-their-own-whiteness.html) . And 2) the word privilege, especially for poor and rural white people, sounds like a word that doesn’t belong to them—like a word that suggests they have never struggled.
+[Researchers](https://journals.sagepub.com/doi/10.1177/0963721418755385) hypothesize drawing provides brain many different ways to engage with new material. You figure out how to draw it imagining detail in mind experience physical feeling rendering idea then look at visual representation.
 
-** Is the Era of Voice Texting Upon Us? (https://www.theringer.com/tech/2018/11/5/18056776/voice-texting-whatsapp-apple-2018)
-
-------------------------------------------------------------
-
-Lately I’ve been spending more and more time using voice typing on my mobile keyboard. I don’t know why it took me this long, but I’m using it more often.
-
-On my Android device, there is also the option to send a voice message as opposed to text messages. I’ve been wondering why someone would send short voice clips, as opposed to just call. Well…apparently a lot of people.
-
-If I do jump in full speed on this, I might check out Wire (https://wire.com/en/) .
-
-** Drawing Is the Fastest, Most Effective Way to Learn, According to New Research (https://www.inc.com/jessica-stillman/drawing-is-fastest-most-effective-way-to-learn-according-to-new-research.html)
-
-------------------------------------------------------------
-
-enter image description here
-
-Researchers (https://journals.sagepub.com/doi/10.1177/0963721418755385) hypothesize that you provide your brain with many different ways to engage with new material. You have to figure out how to draw it by imagining it in detail in your mind, you experience the physical feeling of rendering that idea, and then, in the end, you look at a visual representation of it.
+---
 
 ## 🔨 Do
 
-------------------------------------------------------------
+### Stress Management Strategies
 
-This week I was stressed out about a couple of things. I’m hoping that I learned lessons that I won’t forget (or repeat) in the future.
+This week stressed about couple things. Hoping learned lessons won't forget or repeat. This post shares good strategies for managing dealing with stress.
 
-This post shares several good strategies for managing and dealing with stress.
+---
 
 ## 🤔 Consider
 
-** I am larger, better than I thought; I did not know I held so much goodness. All seems beautiful to me. Whoever denies me, it shall not trouble me; Whoever accepts me, he or she shall be blessed, and shall bless me.
+> "I am larger, better than I thought; I did not know I held so much goodness. All seems beautiful to me. Whoever denies me, it shall not trouble me; Whoever accepts me, he or she shall be blessed, and shall bless me." — Walt Whitman
 
-------------------------------------------------------------
+Whitman's self-discovery resonates with returning after absence finding yourself larger than remembered. Media literacy revealing we're capable of more critical thinking than curriculum assumes. Screentime critique showing we contain more nuance than panic narratives allow. White privilege journey discovering complexity within ourselves we didn't know existed. Voice texting finding new communication modes within us. Drawing for learning realizing visual thinking capacity we hadn't accessed. Stress management revealing resilience we possess. Return from absence often means rediscovering capacities that were always there waiting to be recognized.
 
-Walt Whitman
-
-tldr
-
-TL;DR is a summary of all the great stuff from the Internet this week in technology, education, & literacy. Please subscribe (https://wiobyrne.com/tldr/) to make sure this comes to your inbox each week. You can review archives of the newsletter here (http://us11.campaign-archive1.com/home/?u=7b5ee323a16720dad25ff96ff&id=17e92a2ae1) .
-
-Say hey with a note at hello@wiobyrne.com (mailto:hello@wiobyrne.com) or on the social network of your choice (https://wiobyrne.com/contact/) .
-
-============================================================
-
-Want to change how you receive these emails?
-
-You can ** update your preferences
-
-.
-
-This email was sent to  (mailto:)
+---
 
 ## 🔗 Navigation
 
 **Previous**: [[03 CREATE/📧 Newsletter/TLDR 172\|TLDR 172]] • **Next**: [[03 CREATE/📧 Newsletter/TLDR 174\|TLDR 174]] • **Archive**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]
+
+**🌱 Connected Concepts**:
+
+- [[Media Literacy Curriculum\|Media Literacy Curriculum]] — Schools adding computer science but ignoring critical need teaching students consume disseminate online information requiring advocacy for systemic changes in [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]].
+- [[Screentime Critique\|Screentime Critique]] — [[Anya Kamenetz\|Anya Kamenetz]] dissecting NYT panic narratives exposing privilege-driven consensus lacking evidence revealing class dynamics driving moral panic in [[Media Effects\|Media Effects]].
+- [[White Privilege Understanding\|White Privilege Understanding]] — Concept fallen victim to own connotations where terminology creates discomfort and sounds foreign to struggling people complicating necessary conversations in [[02 DEVELOP/🌱 Seeds/Anti-Racism\|Anti-Racism]].
+- [[Drawing for Learning\|Drawing for Learning]] — Research showing visual engagement provides multiple cognitive pathways enhancing retention better than passive methods revealing untapped learning modalities in [[Cognitive Science\|Cognitive Science]].
+- [[Voice Communication Evolution\|Voice Communication Evolution]] — Short voice clips emerging between asynchronous text and synchronous calls signaling new communication mode adapting to different contexts in [[Digital Communication\|Digital Communication]].
 
 ---
 

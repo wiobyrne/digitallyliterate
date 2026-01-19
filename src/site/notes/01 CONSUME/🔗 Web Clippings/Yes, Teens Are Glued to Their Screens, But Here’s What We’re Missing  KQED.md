@@ -34,7 +34,7 @@ After several years of conducting research with students, James co-founded the [
 
 ## Name the Thinking Traps
 
-![](https://www.youtube.com/watch?v=E9aV4mgVya4)
+<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/E9aV4mgVya4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 A growing number of young people are struggling with anxiety, depression and feelings of disconnection. “Too often, the conversation, especially lately, pinpoints technology as a cause of these things,” said James. For example, a teen prone to comparison [might feel worse](https://www.kqed.org/mindshift/65237/heres-how-a-small-break-from-your-smartphone-can-boost-your-mood) after scrolling through polished Instagram posts. Or a student already worried about friendships might spiral after seeing that a message was “left on read.” James calls this a thinking trap, which is a cognitive distortion that kicks in when a person makes assumptions without evidence. “There’s a lot of distance between what we see and what people are actually thinking,” she said.
 

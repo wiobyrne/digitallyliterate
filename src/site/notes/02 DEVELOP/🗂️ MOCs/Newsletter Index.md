@@ -11,16 +11,10 @@ Welcome to the _Digitally Literate_ Newsletter Index. Here you'll find all past 
 Use the search bar at the top right to quickly find specific content, or explore through the sitemap on the left for detailed navigation.
 
 ## Last 5 Issues
-```dataview
-table without id
-	file.link as Issue,
-	title as Title,
-	tags as Tags
-from "03 CREATE/Newsletter"
-where shelf = "published"
-sort published desc 
-limit 5
-```
+| Issue | Title | Tags |
+| ----- | ----- | ---- |
+
+{ .block-language-dataview}
 
 ---
 

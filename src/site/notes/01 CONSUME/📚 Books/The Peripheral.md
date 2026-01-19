@@ -7,7 +7,7 @@
 # The Peripheral
 
 ## Overview
-- **Author:** [[William Gibson\|William Gibson]] 
+- **Author:** [[01 CONSUME/👥 People/William Gibson\|William Gibson]] 
 
 ## Three-Sentence Summary
 - "The Peripheral" is a science fiction novel that delves into the themes of technology, time travel, and dystopia. It follows Flynne Fisher and Wilf Netherton in two different timelines; Flynne in the near future in rural America and Wilf in a farther future London post-apocalyptic world. The two timelines intersect when Flynne witnesses a crime while using a peripheral, leading to a complex narrative about power, corruption, and the potential consequences of technological advancement.

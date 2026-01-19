@@ -163,7 +163,7 @@ Seamus Heaney: If you have the words, there's always a chance that you'll find t
 - **[[Podcasts\|Podcasts]]** — I love podcasts, through advance of technology now anyone can make and share their own shows.
 - **[[Hardcore History\|Hardcore History]]** — Dan Carlin recommended podcast to get started.
 - **[[Today in Digital Education\|Today in Digital Education]]** — Doug Belshaw and Dai Barnes recommended podcast.
-- **[[Tim Ferriss\|Tim Ferriss]]** — Tim Ferriss show recommended podcast.
+- **[[01 CONSUME/👥 People/Tim Ferriss\|Tim Ferriss]]** — Tim Ferriss show recommended podcast.
 - **[[Doug Belshaw\|Doug Belshaw]]** — Taking back control of the web Sandstorm I'm really excited that Doug is spending some time investigating this.
 - **[[Sandstorm\|Sandstorm]]** — Very intriguing series of apps or grains you can run online, running your own versions of tools that you control.
 - **[[Google Drive\|Google Drive]]** — Set expiration dates for access to Google Drive Docs Sheets Slides, I don't know if I'll utilize this.

@@ -149,7 +149,7 @@ Seneca's quote cuts: we don't have riches, riches have us. Same with fever. Same
 - **[[Instagram Storytelling\|Instagram Storytelling]]** — Rachel Hulin's novel experiment, distributed narrative.
 - **[[Constrained Writing\|Constrained Writing]]** — 140-character limit forcing clarity, tweetable summaries as essential questions.
 - **[[Meditative Coloring\|Meditative Coloring]]** — Mandalas reducing anxiety, calming students and teachers.
-- **[[Seneca\|Seneca]]** — Riches have us, not the other way around.
+- **[[01 CONSUME/👥 People/Seneca\|Seneca]]** — Riches have us, not the other way around.
 
 ---
 

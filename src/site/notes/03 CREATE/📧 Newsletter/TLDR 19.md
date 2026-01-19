@@ -155,7 +155,7 @@ Hemingway said writing is sitting down and bleeding. But bleeding isn't enough�
 - **[[Standardized Testing\|Standardized Testing]]** — Obama limits announcement, grudging skepticism about changes.
 - **[[Animated GIFs\|Animated GIFs]]** — Recordit practice, aim small miss small, subtle art of presentation.
 - **[[Literacy Research Association\|Literacy Research Association]]** — Broader audience for Medium publication invitation.
-- **[[Ernest Hemingway\|Ernest Hemingway]]** — Writing is sitting down and bleeding.
+- **[[01 CONSUME/👥 People/Ernest Hemingway\|Ernest Hemingway]]** — Writing is sitting down and bleeding.
 
 ---
 

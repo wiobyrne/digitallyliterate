@@ -44,12 +44,37 @@ Digital resilience is dynamic, requiring continuous adaptation as technology evo
 
 ## 📄 Connected Notes and Resources
 
-```dataview
-table file.name as "Note", file.ctime as "Created"
-from ""
-where contains(tags, "digital-resilience")
-sort file.ctime desc
-```
+| File                                                                                                                                                                  | Note                                                                  | Created                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------- |
+| [[03 CREATE/📧 Newsletter/DL 405\|DL 405]]                                                                                                                         | DL 405                                                                | 7:18 AM - December 13, 2025 |
+| [[03 CREATE/📧 Newsletter/DL 404\|DL 404]]                                                                                                                         | DL 404                                                                | 7:18 AM - December 13, 2025 |
+| [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]                                                                                         | Privacy and Security MOC                                              | 11:21 AM - August 04, 2025  |
+| [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]]                                                                                             | Digital Resilience MOC                                                | 11:21 AM - August 04, 2025  |
+| [[03 CREATE/🌲 Evergreens/Digital Resilience\|Digital Resilience]]                                                                                                 | Digital Resilience                                                    | 3:45 PM - July 18, 2025     |
+| [[02 DEVELOP/🗂️ MOCs/AI and Digital Resilience Index\|AI and Digital Resilience Index]]                                                                           | AI and Digital Resilience Index                                       | 9:59 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/Staying Strong in a Digital World\|Staying Strong in a Digital World]]                                                                         | Staying Strong in a Digital World                                     | 8:32 AM - July 16, 2025     |
+| [[03 CREATE/🎯 Projects/🟢 Active/InitiatED/Digital Resilience Blog Series\|Digital Resilience Blog Series]]                                                       | Digital Resilience Blog Series                                        | 8:18 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/What is a Digital Footprint\|What is a Digital Footprint]]                                                                                     | What is a Digital Footprint                                           | 8:14 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/How Do I Know If My Information Is Encrypted, and Who Is Responsible?\|How Do I Know If My Information Is Encrypted, and Who Is Responsible?]] | How Do I Know If My Information Is Encrypted, and Who Is Responsible? | 8:14 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/Safeguarding Your Digital World\|Safeguarding Your Digital World]]                                                                             | Safeguarding Your Digital World                                       | 8:11 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/Understanding Your Digital Footprint A Beginner's Guide\|Understanding Your Digital Footprint A Beginner's Guide]]                             | Understanding Your Digital Footprint A Beginner's Guide               | 8:10 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/Privacy Security and Encryption\|Privacy Security and Encryption]]                                                                             | Privacy Security and Encryption                                       | 8:05 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/Privacy Fatigue\|Privacy Fatigue]]                                                                                                             | Privacy Fatigue                                                       | 8:04 AM - July 16, 2025     |
+| [[03 CREATE/📝 Blog/Encryption-Verification-Responsibility\|Encryption-Verification-Responsibility]]                                                               | Encryption-Verification-Responsibility                                | 7:26 AM - July 16, 2025     |
+| [[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]]                                                             | Understanding Your Digital Footprint                                  | 5:05 PM - April 24, 2025    |
+| [[03 CREATE/🌲 Evergreens/Data Minimization\|Data Minimization]]                                                                                                   | Data Minimization                                                     | 8:53 AM - April 19, 2025    |
+| [[02 DEVELOP/🌿 Plants/Assets\|Assets]]                                                                                                                            | Assets                                                                | 8:34 AM - April 18, 2025    |
+| [[03 CREATE/📝 Blog/Safeguarding Your Digital World Creating a Personal Threat Model\|Safeguarding Your Digital World Creating a Personal Threat Model]]           | Safeguarding Your Digital World Creating a Personal Threat Model      | 4:14 PM - April 17, 2025    |
+| [[03 CREATE/📝 Blog/Protecting What Matters\|Protecting What Matters]]                                                                                             | Protecting What Matters                                               | 3:00 PM - April 17, 2025    |
+| [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]]                                                                                           | End-to-End Encryption                                                 | 11:35 AM - April 17, 2025   |
+| [[02 DEVELOP/🌿 Plants/Digital Footprint\|Digital Footprint]]                                                                                                      | Digital Footprint                                                     | 11:29 AM - April 17, 2025   |
+| [[03 CREATE/🌲 Evergreens/Security\|Security]]                                                                                                                     | Security                                                              | 10:50 AM - April 17, 2025   |
+| [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]                                                                                                                       | Privacy                                                               | 10:47 AM - April 17, 2025   |
+| [[01 CONSUME/📥 Inbox/Digital Resilience Blog Series\|Digital Resilience Blog Series]]                                                                             | Digital Resilience Blog Series                                        | 10:24 AM - April 10, 2025   |
+| [[03 CREATE/🌲 Evergreens/Building Future-Proof Web Literate Citizens\|Building Future-Proof Web Literate Citizens]]                                               | Building Future-Proof Web Literate Citizens                           | 12:02 PM - March 11, 2025   |
+| [[03 CREATE/📝 Blog/Digital Resilience Staying Strong in a Digital World\|Digital Resilience Staying Strong in a Digital World]]                                   | Digital Resilience Staying Strong in a Digital World                  | 8:25 AM - March 11, 2025    |
+
+{ .block-language-dataview}
 
 
 ### References

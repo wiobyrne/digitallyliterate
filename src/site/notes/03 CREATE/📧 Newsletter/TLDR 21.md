@@ -150,7 +150,7 @@ Lincoln's quote: the philosophy of the school room in one generation will be the
 
 - **[[Medium\|Medium]]** — Publishing and syndicating content, answering "why move over to Medium."
 - **[[Web Literacy Map\|Web Literacy Map]]** — Version 2.0 launched at MozFest, working since inception.
-- **[[Alain de Botton\|Alain de Botton]]** — Philosophy interview on Tim Ferriss, School of Life subscription.
+- **[[01 CONSUME/👥 People/Alain de Botton\|Alain de Botton]]** — Philosophy interview on Tim Ferriss, School of Life subscription.
 - **[[School of Life\|School of Life]]** — YouTube channel after listening to Alain on podcast.
 - **[[Salman Rushdie\|Salman Rushdie]]** — Terrible title, but interview about writing, creativity, magic, evil, pleasure.
 - **[[The Message\|The Message]]** — Sci-fi podcast for Serial fans, Mac Rogers on serialized drama rules.
@@ -166,7 +166,7 @@ Lincoln's quote: the philosophy of the school room in one generation will be the
 - **[[Coding as Literacy\|Coding as Literacy]]** — Not just preparing workers, helping young people think differently.
 - **[[Scratch\|Scratch]]** — Expressing themselves, beginning to think of themselves differently.
 - **[[Code.org\|Code.org]]** — Star Wars themed coding program, Hour of Code 2015.
-- **[[Abraham Lincoln\|Abraham Lincoln]]** — School room philosophy becomes government philosophy next generation.
+- **[[01 CONSUME/👥 People/Abraham Lincoln\|Abraham Lincoln]]** — School room philosophy becomes government philosophy next generation.
 
 ---
 
