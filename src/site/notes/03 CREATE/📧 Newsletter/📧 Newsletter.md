@@ -95,7 +95,7 @@ _Get next week’s issue in your inbox._
 
 A taste of what subscribers see every week:
 
-- [[03 CREATE/📧 Newsletter/DL 417\|DL 417]] — *Catastrophic Forgetting*
+- [[03 CREATE/📧 Newsletter/DL 417\|DL 417]] — *Building Capacity*
 - [[03 CREATE/📧 Newsletter/DL 416\|DL 416]] — *Catastrophic Forgetting*
 - [[03 CREATE/📧 Newsletter/DL 415\|DL 415]] — *Digital Childhood*
 - [[03 CREATE/📧 Newsletter/DL 414\|DL 414]] — *Bubbles Go Pop*
