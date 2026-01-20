@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/ai-illiteracy/","title":"AI Illiteracy","tags":["ai","machine-learning","literacy","education","digital-literacy","critical-thinking"]}
+{"dg-publish":true,"dg-permalink":"ai-illiteracy","permalink":"/ai-illiteracy/","title":"AI Illiteracy","tags":["ai","machine-learning","literacy","education","digital-literacy","critical-thinking"]}
 ---
 
 # AI Illiteracy
