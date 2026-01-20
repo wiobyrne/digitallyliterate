@@ -10,8 +10,6 @@ I'm **Ian O’Byrne** – an educator, researcher, and lifelong learner focused 
 
 This space evolved from my newsletter into a public notebook where I share and connect ideas in progress. It is less about polished articles and more about cultivating thoughts on topics I care about. 
 
-If you're interested, you can see what I'm up to right now at [[Now]].
-
 ---
 
 ## ✨ How This Garden Works
@@ -35,8 +33,6 @@ Unlike a blog, notes here mature over time. I use a gardening metaphor to indica
 This garden is tended using [Obsidian](https://obsidian.md/) for personal knowledge management and published via the [Digital Garden Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden), GitHub, and Netlify.
 
 * **Curious about the setup?** See the [[Digital Garden Guide]].
-* **Want to learn more?** Read [[About Me]] or check out [[Uses]] to see my hardware/software setup.
-* **Stay Updated:** [[Subscribe]] to get newsletter notifications.
 
 ---
 *Created by [Ian O'Byrne](https://wiobyrne.com/)*
