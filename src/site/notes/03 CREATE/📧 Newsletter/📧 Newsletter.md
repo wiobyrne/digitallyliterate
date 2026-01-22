@@ -105,16 +105,18 @@ A taste of what subscribers see every week:
 
 ## 🗺️ Explore the Archive
 
+**417 issues** spanning nearly a decade of digital literacy curation and analysis.
+
 ### By Era
 
 **[[03 CREATE/📧 Newsletter/TLDR 1\|TL;DR Foundation (2015–2018)]]** — Where it began. Weekly curation of links for educators discovering the digital landscape. Simple, accessible, community-focused.
-→ Issues [[03 CREATE/📧 Newsletter/TLDR 1\|TLDR 1]] – [[03 CREATE/📧 Newsletter/TLDR 189\|TLDR 189]]
+→ Issues [[03 CREATE/📧 Newsletter/TLDR 1\|TLDR 1]] – [[03 CREATE/📧 Newsletter/TLDR 189\|TLDR 189]] *(189 issues)*
 
 **[[03 CREATE/📧 Newsletter/DL 190\|Digitally Literate Transition (2019–2021)]]** — The newsletter grows up. Deeper analysis, cultural criticism, and the emergence of themes around Big Tech, privacy, and platform power.
-→ Issues [[03 CREATE/📧 Newsletter/DL 190\|DL 190]] – [[03 CREATE/📧 Newsletter/DL 300\|DL 300]]
+→ Issues [[03 CREATE/📧 Newsletter/DL 190\|DL 190]] – [[03 CREATE/📧 Newsletter/DL 300\|DL 300]] *(111 issues)*
 
 **[[03 CREATE/📧 Newsletter/DL 301\|Mature Analysis (2022–Present)]]** — Sophisticated synthesis connecting technology to society. AI implications, digital resilience, and complex cultural commentary.
-→ Issues [[03 CREATE/📧 Newsletter/DL 301\|DL 301]] – current
+→ Issues [[03 CREATE/📧 Newsletter/DL 301\|DL 301]] – [[03 CREATE/📧 Newsletter/DL 417\|DL 417]] *(117 issues)*
 
 ### By Theme
 
