@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"tldr-4","permalink":"/tldr-4/","title":"Too Long; Didn't Read Issue 4","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"]}
 ---
 
-# TLDR 4
+# TLDR  4
 
 ## Too Long; Didn't Read Issue 4
 

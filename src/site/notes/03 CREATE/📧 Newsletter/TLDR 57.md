@@ -127,7 +127,7 @@ Nothing could be more absurd than computers in a classroom where nothing else is
 - **[[Blockchain\|Blockchain]]** — BadgeChain Reads using Hypothes.is to collectively annotate Doug Levin on misconceptions.
 - **[[Constructionism\|Constructionism]]** — Papert Paradox, cited less frequently as world achieves his vision, ideas seem less novel.
 - **[[EdTech Integration\|EdTech Integration]]** — Andrew Marcinek ending EdTech as additive, thread through school fabric not focal point.
-- **[[John Dewey\|John Dewey]]** — Kristen Mattson on digital citizenship, learners interact and experience multiple perspectives as community members.
+- **[[01 CONSUME/👥 People/John Dewey\|John Dewey]]** — Kristen Mattson on digital citizenship, learners interact and experience multiple perspectives as community members.
 - **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — Digital copies of ourselves, digital residue creating AI versions, journalism written by bots.
 
 ---

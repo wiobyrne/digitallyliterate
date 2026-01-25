@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"tldr-1","permalink":"/tldr-1/","title":"Too Long; Didn't Read Issue 1","tags":["internet-access-digital-divide","google-audio-surveillance","sesame-street-mooc-debate","raspberry-pi-maker-projects","confederate-flag-digital-activism"]}
 ---
 
-# TLDR 1
+# TLDR  1
 
 ## Too Long; Didn't Read Issue 1
 

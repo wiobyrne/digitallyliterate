@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"tldr-2","permalink":"/tldr-2/","title":"Too Long; Didn't Read Issue 2","tags":["digital-identity-online-presence","facebook-rainbow-experiment","human-machine-work-future","google-cardboard-vr-classroom","cyberbullying-legislation"]}
 ---
 
-# TLDR 2
+# TLDR  2
 
 ## Too Long; Didn't Read Issue 2
 

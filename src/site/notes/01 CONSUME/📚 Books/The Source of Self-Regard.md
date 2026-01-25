@@ -5,7 +5,7 @@
 
 ![cover|300](http://books.google.com/books/content?id=K-jEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # The Source of Self-Regard
-**Author:** [[Toni Morrison\|Toni Morrison]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Toni Morrison\|Toni Morrison]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

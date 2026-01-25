@@ -7,7 +7,7 @@
 
 
 # Democracy and Education
-**Author:** [[John Dewey\|John Dewey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/John Dewey\|John Dewey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Democracy and Education" by John Dewey explores the relationship between democracy and the educational system, emphasizing the importance of education in creating active and engaged citizens.
 - Dewey argues that education should be tailored to develop critical thinking skills, problem-solving abilities, and a sense of community responsibility.
@@ -50,4 +50,4 @@ John Dewey (1859-1952) was an American philosopher, psychologist, educator, soci
   - [[Art As Experience\|Art As Experience]]
 - Related Books:
   - [[Pedagogy Of The Oppressed\|Pedagogy Of The Oppressed]] by [[Paulo Freire\|Paulo Freire]]
-  - [[Teaching To Transgress\|Teaching To Transgress]] by [[bell hooks\|bell hooks]]
+  - [[Teaching To Transgress\|Teaching To Transgress]] by [[01 CONSUME/👥 People/bell hooks\|bell hooks]]

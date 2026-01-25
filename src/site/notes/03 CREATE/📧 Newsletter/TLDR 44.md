@@ -121,7 +121,7 @@ It's not where you take things from - it's where you take them to.
 - **[[Mistakes\|Mistakes]]** — Four types stretch aha-moment sloppy high-stakes provide insight on learning.
 - **[[Stereotypes\|Stereotypes]]** — Brain warps faces we see to fit stereotypes mapped to visual system.
 - **[[Women in Academia\|Women in Academia]]** — Systematically kept from succeeding through pay adjuncts tenure process.
-- **[[Edward Snowden\|Edward Snowden]]** — Whistleblowing as political resistance, individual citizen ultimate check on power.
+- **[[01 CONSUME/👥 People/Edward Snowden\|Edward Snowden]]** — Whistleblowing as political resistance, individual citizen ultimate check on power.
 
 ---
 

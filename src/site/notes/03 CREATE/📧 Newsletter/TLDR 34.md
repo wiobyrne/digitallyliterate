@@ -169,7 +169,7 @@ Edward Snowden: Arguing that you don't care about the right to privacy because y
 - **[[01 CONSUME/👥 People/Seth Godin\|Seth Godin]]** — Tim Ferriss podcast interview fantastic inspirational, marketing to leadership to honey oatmeal vodka.
 - **[[Podcasts\|Podcasts]]** — As part of TL;DR I'll start folding in a section on audio content, big part of my week I think you'll benefit.
 - **[[Raspberry Pi\|Raspberry Pi]]** — Routine favorite here on TL;DR and in my own house, Pi Zero ($5.00) build $200 smart drone.
-- **[[Edward Snowden\|Edward Snowden]]** — Arguing you don't care about right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
+- **[[01 CONSUME/👥 People/Edward Snowden\|Edward Snowden]]** — Arguing you don't care about right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 
 ---
 
