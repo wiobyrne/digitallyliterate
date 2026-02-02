@@ -215,7 +215,7 @@ Research supports several effective approaches:
 ### Related Concepts
 - [[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]] - Comprehensive pedagogical framework for educators
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]] - Foundational understanding of digital privacy rights and practices
-- [[03 CREATE/🌲 Evergreens/Digital Resilience\|Digital Resilience]] - Building capacity to navigate digital challenges
+- [[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]] - Building capacity to navigate digital challenges
 - [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]] - Technical and critical skills for digital participation
 - [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] - Comprehensive resource collection for digital safety
 

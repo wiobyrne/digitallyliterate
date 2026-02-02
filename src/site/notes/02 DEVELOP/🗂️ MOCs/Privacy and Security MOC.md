@@ -49,8 +49,16 @@ Digital privacy is not just a technical issue—it is about **power, consent, au
 
 ## 🧠 Education and Awareness
 
-- [[Teaching Privacy Literacy\|Teaching Privacy Literacy]] 🔹  
-- [[Media Literacy and Privacy\|Media Literacy and Privacy]] 🔸  
-- [[Cyber Hygiene for Educators and Students\|Cyber Hygiene for Educators and Students]] 🔸  
-- [[Digital Autonomy in Schools\|Digital Autonomy in Schools]] 🔸  
-- [[Critical Digital Citizenship\|Critical Digital Citizenship]] 🔹  
+- [[Teaching Privacy Literacy\|Teaching Privacy Literacy]] 🔹
+- [[Media Literacy and Privacy\|Media Literacy and Privacy]] 🔸
+- [[Cyber Hygiene for Educators and Students\|Cyber Hygiene for Educators and Students]] 🔸
+- [[Digital Autonomy in Schools\|Digital Autonomy in Schools]] 🔸
+- [[Critical Digital Citizenship\|Critical Digital Citizenship]] 🔹
+
+---
+
+## 🌲 Evergreen Notes
+
+- [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|03 CREATE/🌲 Evergreens/Digital Sovereignty]] 🔹 - Control over your digital destiny, Proton/Signal, and Big Tech alternatives
+- [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] 🔸 - Normalization of surveillance in K-12 and higher ed
+- [[03 CREATE/🌲 Evergreens/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] 🔸 - Digital gardens, plain text, and escaping platform lock-in  

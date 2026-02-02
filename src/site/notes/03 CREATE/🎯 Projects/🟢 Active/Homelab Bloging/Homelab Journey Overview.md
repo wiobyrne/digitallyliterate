@@ -103,7 +103,7 @@ This workflow allows the series to evolve transparently: each post begins as a n
 ---
 
 ## 🧭 Related Topics
-- [[Digital Sovereignty\|Digital Sovereignty]]
+- [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|03 CREATE/🌲 Evergreens/Digital Sovereignty]]
 - [[Systems Thinking in Practice\|Systems Thinking in Practice]]
 - [[Learning by Building\|Learning by Building]]
 - [[AI and Local Compute Experiments\|AI and Local Compute Experiments]]

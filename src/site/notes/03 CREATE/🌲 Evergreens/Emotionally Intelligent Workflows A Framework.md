@@ -118,6 +118,6 @@ This framework builds on and connects to several related ideas:
 - **[[03 CREATE/🌲 Evergreens/Educate Empower Advocate\|Educate Empower Advocate]]** - Shares the commitment to transformative, justice-oriented practice
 - **[[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]]** - Explores how to create spaces for brave, authentic collaboration
 - **[[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]]** - Essential for the "transparency without performance" this framework requires
-- **[[03 CREATE/🌲 Evergreens/Digital Resilience\|Digital Resilience]]** - Supports the sustainable, boundary-respecting work this framework promotes
+- **[[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]]** - Supports the sustainable, boundary-respecting work this framework promotes
 
 

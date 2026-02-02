@@ -69,13 +69,25 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 
 ## 📚 Learning & Pedagogy
 
-- [[Teaching AI Literacy\|Teaching AI Literacy]] 🔹  
-- [[AI in K–12 Education\|AI in K–12 Education]] 🔸  
-- [[Ethical AI Curriculum\|Ethical AI Curriculum]] 🔸  
-- [[Computational Thinking\|Computational Thinking]] 🔹  
-- [[AI as Cognitive Amplifier\|AI as Cognitive Amplifier]] 🔸  
-- [[AI for Inquiry-Based Learning\|AI for Inquiry-Based Learning]] 🔸  
-- [[Media Literacy and AI\|Media Literacy and AI]] 🔹  
+- [[Teaching AI Literacy\|Teaching AI Literacy]] 🔹
+- [[AI in K–12 Education\|AI in K–12 Education]] 🔸
+- [[Ethical AI Curriculum\|Ethical AI Curriculum]] 🔸
+- [[Computational Thinking\|Computational Thinking]] 🔹
+- [[AI as Cognitive Amplifier\|AI as Cognitive Amplifier]] 🔸
+- [[AI for Inquiry-Based Learning\|AI for Inquiry-Based Learning]] 🔸
+- [[Media Literacy and AI\|Media Literacy and AI]] 🔹
+
+---
+
+## 🌲 Evergreen Notes
+
+- [[03 CREATE/🌲 Evergreens/AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] 🔹 - Framework for human-AI interaction and boundary work
+- [[03 CREATE/🌲 Evergreens/What AI Cannot Know\|What AI Cannot Know]] 🔹 - Tacit knowledge, embodied learning, and AI limits
+- [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] 🔸 - Self vs. subject distinction in the age of AI
+- [[03 CREATE/🌲 Evergreens/AI Geopolitics and the Open Model Question\|AI Geopolitics and the Open Model Question]] 🔸 - Open vs. closed models and infrastructure control
+- [[03 CREATE/🌲 Evergreens/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] 🔹 - Human-in-the-loop classroom practices and prompts
+- [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] 🔹 - Beyond detection tools to authentic assessment
+- [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] 🔸 - Bentoism, contingency, and evaluating AI claims  
 
 ---
 

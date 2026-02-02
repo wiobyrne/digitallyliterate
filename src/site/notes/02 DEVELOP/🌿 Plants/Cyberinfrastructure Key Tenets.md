@@ -272,6 +272,6 @@ This approach recognizes that good infrastructure is not just about the technolo
 - [[Sustainable Technology Design\|Sustainable Technology Design]]
 - [[Digital Accessibility Standards\|Digital Accessibility Standards]]
 - [[Cybersecurity Best Practices\|Cybersecurity Best Practices]]
-- [[Privacy by Design\|Privacy by Design]]
+- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]]
 - [[Community-Driven Development\|Community-Driven Development]]
 - [[Environmental Impact of Computing\|Environmental Impact of Computing]]

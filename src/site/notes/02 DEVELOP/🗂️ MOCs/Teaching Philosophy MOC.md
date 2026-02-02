@@ -52,6 +52,55 @@ My comprehensive [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosoph
 
 ---
 
+---
+
+## 🌲 Evergreen Notes
+
+### AI in Education
+- [[03 CREATE/🌲 Evergreens/AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] - Framework for human-AI boundary work in learning
+- [[03 CREATE/🌲 Evergreens/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] - Human-in-the-loop prompts, activities, and classroom practices
+- [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] - Beyond detection tools to meaningful assessment
+- [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] - Bentoism, contingency, and evaluating AI claims
+- [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] - Identity and subjectivity in the age of generative AI
+
+### Literacy and Research
+- [[03 CREATE/🌲 Evergreens/Literacy as Situated Practice\|Literacy as Situated Practice]] - New Literacy Studies, anti-racism, and the "where" of literacy
+- [[03 CREATE/🌲 Evergreens/Digital Literacies Research Paradigms\|Digital Literacies Research Paradigms]] - Positivist, interpretive, critical, and post-qualitative approaches
+- [[03 CREATE/🌲 Evergreens/What AI Cannot Know\|What AI Cannot Know]] - Tacit knowledge, embodied learning, and AI limits
+
+### Pedagogy and Practice
+- [[03 CREATE/🌲 Evergreens/Wicked Problems as Pedagogy\|Wicked Problems as Pedagogy]] - Complex problems as scaffolds for authentic learning
+- [[03 CREATE/🌲 Evergreens/The Practice of Witnessing\|The Practice of Witnessing]] - Noticing, naming, and the SEE phase of community work
+- [[03 CREATE/🌲 Evergreens/Collective Hope and Liberatory Traditions\|Collective Hope and Liberatory Traditions]] - Freire, radical hope, and movement-building
+
+### Privacy and Surveillance
+- [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] - Normalization of surveillance across K-12 and higher ed
+
+---
+
+## 🌿 Plant Notes
+
+### Courses and Curricula
+- [[02 DEVELOP/🌿 Plants/Digitally Literate Educator Course\|Digitally Literate Educator Course]] - Free open course on project-based learning
+- [[02 DEVELOP/🌿 Plants/STEAM Ethics Toolkit Course Materials\|STEAM Ethics Toolkit Course Materials]] - Gullah Geechee case study and wicked problems
+- [[02 DEVELOP/🌿 Plants/STEAM Summer Course Syllabus\|STEAM Summer Course Syllabus]] - 5-week summer course structure
+- [[02 DEVELOP/🌿 Plants/AI Summer Workshop for K-8 Teachers\|AI Summer Workshop for K-8 Teachers]] - 5-day professional development workshop
+- [[02 DEVELOP/🌿 Plants/Equity in Literacy Education Course\|Equity in Literacy Education Course]] - Language, literacy, diversity, and identity
+
+### Research Projects
+- [[02 DEVELOP/🌿 Plants/Participatory Action Research STEAM Project\|Participatory Action Research STEAM Project]] - Mixed-methods study of STEAM teachers
+- [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Practices\|Anti-Racist Digital Literacy Practices]] - Conference session and chapter content
+- [[02 DEVELOP/🌿 Plants/InitiatED 21st Century Educational Justice\|InitiatED 21st Century Educational Justice]] - Educational justice research initiative
+
+### Assessment and Evaluation
+- [[02 DEVELOP/🌿 Plants/Assessment Tools and Rubrics Collection\|Assessment Tools and Rubrics Collection]] - Video, portfolio, literacy, STEAM rubrics
+
+### Community and Advocacy
+- [[02 DEVELOP/🌿 Plants/AdvocatED Educational Advocacy Network\|AdvocatED Educational Advocacy Network]] - Educator advocacy mentoring community
+- [[02 DEVELOP/🌿 Plants/Community Badge Initiative\|Community Badge Initiative]] - Faculty/staff/student badge system
+
+---
+
 ## Development Status
 - **Evergreens:** Core theoretical frameworks established
 - **Plants:** Practical methodologies under active development
