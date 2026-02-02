@@ -32,6 +32,6 @@ Community-centered AI represents an alternative to both unrestricted corporate A
 *In-depth resource:* [Shoshana Zuboff: The Age of Surveillance Capitalism](https://shoshanazuboff.com/book/about/) - Analysis of extractive technology models and alternatives
 
 ## **Related Terms**
-- "[[03 CREATE/🌲 Evergreens/Human-in-the-Loop\|Human-in-the-Loop]]"
+- "[[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]"
 - "[[Democratic Technology Design\|Democratic Technology Design]]"
 - "[[03 CREATE/🌲 Evergreens/AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]"

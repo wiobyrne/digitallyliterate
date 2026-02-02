@@ -151,7 +151,7 @@ The AIs appear to be grappling with the same questions we ask about our own digi
 ## Related
 
 - [[02 DEVELOP/🌿 Plants/Agentic AI\|Agentic AI]] — The technology enabling this
-- [[02 DEVELOP/🌿 Plants/Human in the Loop\|Human in the Loop]] — What happens when humans step out?
+- [[02 DEVELOP/🌿 Plants/Beyond Human in the Loop\|Beyond Human in the Loop]] — What happens when humans step out?
 - [[02 DEVELOP/🌱 Seeds/Theory of Mind and AI\|Theory of Mind and AI]] — Can AIs understand each other?
 - [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The broader context
 - [[02 DEVELOP/🌿 Plants/Emergence\|Emergence]] — Unprogrammed behaviors from complex systems

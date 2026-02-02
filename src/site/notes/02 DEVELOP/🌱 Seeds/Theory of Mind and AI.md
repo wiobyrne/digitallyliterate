@@ -85,7 +85,7 @@ Understanding ToM in AI helps us understand ourselves:
 ## Related
 
 - [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The broader context
-- [[02 DEVELOP/🌿 Plants/Human in the Loop\|Human in the Loop]] — Keeping humans central
+- [[02 DEVELOP/🌿 Plants/Beyond Human in the Loop\|Beyond Human in the Loop]] — Keeping humans central
 - [[02 DEVELOP/🌱 Seeds/Generative AI and Identity\|Generative AI and Identity]] — AI and the self
 
 ---

@@ -431,7 +431,7 @@ Unlike traditional capitalism that focused on manufacturing and selling products
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible participation in surveillance capitalist environments
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]] - Individual and collective privacy rights and practices
 - [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Critical evaluation of platform-mediated content
-- [[03 CREATE/🌲 Evergreens/Human-in-the-Loop\|Human-in-the-Loop]] - Maintaining human agency in algorithmic systems
+- [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]] - Maintaining human agency in algorithmic systems
 
 ---
 
