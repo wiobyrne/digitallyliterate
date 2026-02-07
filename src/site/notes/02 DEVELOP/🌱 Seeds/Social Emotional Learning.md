@@ -100,7 +100,7 @@ In digital spaces, SEL skills become even more important:
 
 - [[02 DEVELOP/🌱 Seeds/Empathy\|Empathy]] — Core SEL competency
 - [[02 DEVELOP/🌱 Seeds/Cognitive Therapy Strategies\|Cognitive Therapy Strategies]] — Tools for self-management
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — SEL in digital contexts
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — SEL in digital contexts
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Teaching approach
 
 ---

@@ -136,7 +136,7 @@
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Parent Grove
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Parent Grove
 - [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]] — Collaborative editing
 - [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Cloud storage alternatives
 

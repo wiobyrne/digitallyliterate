@@ -111,7 +111,7 @@ This section presents a collection of practical tools and strategies for enhanci
 This section collects developed evergreen notes related to digital resilience themes.
 
 - [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|03 CREATE/🌲 Evergreens/Digital Sovereignty]] 🔹 - Control over your digital destiny, encryption, and Big Tech alternatives
-- [[03 CREATE/🌲 Evergreens/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] 🔸 - Escaping platform lock-in through plain text and digital gardens
+- [[02 DEVELOP/🌱 Seeds/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] 🔸 - Escaping platform lock-in through plain text and digital gardens
 - [[03 CREATE/🌲 Evergreens/From Chronological to Networked Knowledge\|From Chronological to Networked Knowledge]] 🔸 - Moving from content streams to knowledge architecture
 - [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] 🔸 - Normalization of surveillance across K-12 and higher ed
 

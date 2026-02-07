@@ -83,7 +83,7 @@ Access to technology and critical digital skills remains unequal, disproportiona
 
 - [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]] — Framework for curriculum
 - [[02 DEVELOP/🌱 Seeds/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — The expanding data dragnet
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogical approach
 
 ---

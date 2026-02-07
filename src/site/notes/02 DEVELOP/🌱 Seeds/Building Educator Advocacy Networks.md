@@ -83,7 +83,7 @@ Educator advocacy networks align with digital self-determination by:
 - [[02 DEVELOP/🌱 Seeds/21st Century Educational Justice\|21st Century Educational Justice]] — The broader movement context
 - [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]] — Framework for equity-centered education
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogical approach
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The guiding philosophy
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The guiding philosophy
 
 ---
 

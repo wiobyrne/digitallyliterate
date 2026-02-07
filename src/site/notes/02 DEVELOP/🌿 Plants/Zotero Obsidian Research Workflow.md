@@ -144,7 +144,7 @@ For RAG (Retrieval-Augmented Generation) with your vault:
 ## Related
 
 - [[02 DEVELOP/🌿 Plants/Building a Digital Commonplace Book\|Building a Digital Commonplace Book]] — The broader PKM system
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Owning your knowledge tools
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Owning your knowledge tools
 
 ---
 

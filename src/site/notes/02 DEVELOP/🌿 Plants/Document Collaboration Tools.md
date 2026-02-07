@@ -123,7 +123,7 @@ Comprehensive data migration tools prevent loss.
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Parent Grove
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Parent Grove
 - [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Messaging and community tools
 - [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Cloud storage alternatives
 

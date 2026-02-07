@@ -57,8 +57,8 @@
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Full exploration of privacy-first tools
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Full exploration of privacy-first tools
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework
 - [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]] — Detailed CryptPad comparison
 - [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Detailed Matrix/Signal comparison
 - [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Detailed Nextcloud options

@@ -137,7 +137,7 @@ This index will grow as I explore, test, and review them over time. Each entry i
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Philosophy behind these choices
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Philosophy behind these choices
 - [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]] — Deep dive on CryptPad
 - [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Deep dive on Signal/Matrix
 - [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Deep dive on Nextcloud

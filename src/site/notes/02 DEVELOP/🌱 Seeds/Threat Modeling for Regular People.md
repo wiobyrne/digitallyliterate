@@ -111,7 +111,7 @@ Convenience  Privacy
 
 - [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
 - [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why this matters
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — Building sustainable habits
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Building sustainable habits
 - [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Tools matched to needs
 
 ---

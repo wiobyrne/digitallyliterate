@@ -78,8 +78,8 @@ We need to ask:
 ## Related
 
 - [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The technology in question
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Choosing how we engage with technology
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — Preserving human ways of knowing
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Choosing how we engage with technology
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Preserving human ways of knowing
 
 ---
 

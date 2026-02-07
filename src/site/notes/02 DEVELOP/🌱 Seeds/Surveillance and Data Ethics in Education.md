@@ -80,8 +80,8 @@ What we lose in the name of "better":
 ## Related
 
 - [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — The philosophical foundation
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect by default
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect by default
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — How to teach these concepts
 
 ---

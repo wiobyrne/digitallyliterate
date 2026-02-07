@@ -72,7 +72,7 @@ This isn't just philosophical speculation. As AI becomes embedded in:
 ## Related
 
 - [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The technology in question
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Choosing how we engage
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Choosing how we engage
 - [[02 DEVELOP/🌱 Seeds/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI can't capture
 
 ---

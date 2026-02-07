@@ -109,7 +109,7 @@ These strategies aren't about "positive thinking" or denial. They're about:
 
 - [[02 DEVELOP/🌿 Plants/Mindfulness\|Mindfulness]] — Complementary practice
 - [[02 DEVELOP/🌱 Seeds/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Working with the unknown
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — Applying these tools in digital contexts
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Applying these tools in digital contexts
 
 ---
 

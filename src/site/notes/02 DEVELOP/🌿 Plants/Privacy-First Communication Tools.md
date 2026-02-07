@@ -125,7 +125,7 @@ Before choosing tools, understand what makes communication "privacy by design":
 ## Related
 
 - [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Detailed platform comparison
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — The philosophy
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — The philosophy
 - [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Full tool catalog
 - [[Signal\|Signal]] — Deep dive on Signal
 - [[Matrix\|Matrix]] — Deep dive on Matrix

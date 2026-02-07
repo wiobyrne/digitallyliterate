@@ -141,7 +141,7 @@ Start where you're comfortable. You can always level up.
 
 ## The Privacy Connection
 
-Self-hosting directly supports [[02 DEVELOP/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]]:
+Self-hosting directly supports [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]]:
 
 - **Your data** stays on **your hardware**
 - **No corporate surveillance** of your photos, files, habits
@@ -162,10 +162,10 @@ Self-hosting directly supports [[02 DEVELOP/🪴 Groves/Digital Sovereignty\|Dig
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — The philosophy
+- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — The philosophy
 - [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Nextcloud deep dive
 - [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Full tool catalog
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Why this matters
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Why this matters
 
 ---
 

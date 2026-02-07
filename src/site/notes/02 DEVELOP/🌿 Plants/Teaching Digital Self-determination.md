@@ -174,7 +174,7 @@ Rather than individual test scores, success measured through:
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Parent Grove
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Parent Grove
 - [[02 DEVELOP/🗂️ MOCs/Teaching Philosophy MOC\|Teaching Philosophy MOC]] — Broader teaching framework
 - [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]] — Skills for staying safe online
 

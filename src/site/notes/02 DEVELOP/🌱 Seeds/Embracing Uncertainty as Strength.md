@@ -70,7 +70,7 @@ Resilience isn't about eliminating uncertainty — it's about:
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — Staying strong in a digital world
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Staying strong in a digital world
 - [[02 DEVELOP/🌱 Seeds/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Making decisions with limited information
 
 ---

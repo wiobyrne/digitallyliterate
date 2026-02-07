@@ -61,4 +61,4 @@ Digital privacy is not just a technical issue—it is about **power, consent, au
 
 - [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|03 CREATE/🌲 Evergreens/Digital Sovereignty]] 🔹 - Control over your digital destiny, Proton/Signal, and Big Tech alternatives
 - [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] 🔸 - Normalization of surveillance in K-12 and higher ed
-- [[03 CREATE/🌲 Evergreens/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] 🔸 - Digital gardens, plain text, and escaping platform lock-in  
+- [[02 DEVELOP/🌱 Seeds/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] 🔸 - Digital gardens, plain text, and escaping platform lock-in  

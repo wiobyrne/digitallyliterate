@@ -96,7 +96,7 @@ Being literate in the future extends beyond technical skills to include:
 - [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]] — Framework for curriculum
 - [[02 DEVELOP/🌿 Plants/Critical Citizenship\|Critical Citizenship]] — Civic engagement online
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogical approach
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
 
 ---
 

@@ -137,9 +137,9 @@ A digital commonplace book should help you:
 
 ## Related
 
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Owning your digital life
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Owning your digital life
 - [[02 DEVELOP/🌿 Plants/Self-Hosting for Digital Sovereignty\|Self-Hosting for Digital Sovereignty]] — Full control of your tools
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — Sustainable practices
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Sustainable practices
 
 ---
 

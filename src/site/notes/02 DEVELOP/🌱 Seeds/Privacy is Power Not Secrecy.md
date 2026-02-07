@@ -46,8 +46,8 @@ Instead of asking "What do you have to hide?" ask:
 ## Related
 
 - [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
-- [[02 DEVELOP/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
 
 ---
 

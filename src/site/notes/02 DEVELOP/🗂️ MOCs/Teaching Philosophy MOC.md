@@ -58,7 +58,7 @@ My comprehensive [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosoph
 
 ### AI in Education
 - [[03 CREATE/🌲 Evergreens/AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] - Framework for human-AI boundary work in learning
-- [[03 CREATE/🌲 Evergreens/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] - Human-in-the-loop prompts, activities, and classroom practices
+- [[02 DEVELOP/🌱 Seeds/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] - Human-in-the-loop prompts, activities, and classroom practices
 - [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] - Beyond detection tools to meaningful assessment
 - [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] - Bentoism, contingency, and evaluating AI claims
 - [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] - Identity and subjectivity in the age of generative AI

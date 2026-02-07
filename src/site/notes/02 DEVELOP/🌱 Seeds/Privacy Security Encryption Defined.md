@@ -84,8 +84,8 @@ We lock our doors without thinking. We close our curtains without guilt. We shou
 ## Related
 
 - [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — The philosophical foundation
-- [[02 DEVELOP/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
-- [[02 DEVELOP/🪴 Groves/Digital Resilience\|Digital Resilience]] — Building sustainable security habits
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Building sustainable security habits
 
 ---
 
