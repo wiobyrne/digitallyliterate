@@ -131,7 +131,7 @@ Practical tools for taking back control:
 
 ## Potential Forest
 
-This Grove contributes to: **[[03 CREATE/🌳 Forests/Forest - Digital Literacy\|Forest - Digital Literacy]]**
+This Grove contributes to: **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]**
 
 ---
 

@@ -160,7 +160,7 @@ Banksy's wisdom about rest versus quitting resonates profoundly with this issue'
 - [[Trust in Students\|Trust in Students]] — [[Amy Hasinoff\|Amy Hasinoff]] in [[Hybrid Pedagogy\|Hybrid Pedagogy]] questions whether educators genuinely trust students with responsibility in digital spaces requiring patience flexibility and respect for transitory nature of [[Online Learning Environments\|Online Learning Environments]].
 - [[Grit as Emotional Labour\|Grit as Emotional Labour]] — [[Benjamin Doxtdator\|Benjamin Doxtdator]] examines how mindset and passion narratives demand unrealistic emotional labour from educators expected to maintain endless enthusiasm despite being humans who need boundaries in [[Teacher Wellbeing\|Teacher Wellbeing]].
 - [[Teaching About Race\|Teaching About Race]] — [[Andre Perry\|Andre Perry]] argues good teachers engage with N-word contextually in literature and discussion rather than avoiding difficult conversations reflecting broader evasion of race power and history in [[Critical Pedagogy\|Critical Pedagogy]].
-- [[InstaNovels\|InstaNovels]] — [[NYPL\|NYPL]] experiment turning Instagram into ebook reader sparks debates about appropriate platforms for sustained reading and whether meeting readers where they are expands access in [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]].
+- [[InstaNovels\|InstaNovels]] — [[NYPL\|NYPL]] experiment turning Instagram into ebook reader sparks debates about appropriate platforms for sustained reading and whether meeting readers where they are expands access in [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]].
 
 ---
 

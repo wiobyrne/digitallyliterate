@@ -26,7 +26,7 @@ This MOC is designed to guide you through the world of digital resilience, offer
 ## 🌱 Foundations of Digital Resilience
 This section explores foundational concepts crucial for building resilience in the digital age. It covers core skills, principles, and practices that underpin safe and responsible technology use.
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]] 🔹🪜
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] 🔹🪜
 - [[Digital Agency\|Digital Agency]] 🔹🪜 
 - [[Digital Wellbeing\|Digital Wellbeing]] 🔹🪜 
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] 🔹🪜 

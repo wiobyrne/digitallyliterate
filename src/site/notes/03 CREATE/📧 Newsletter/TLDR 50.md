@@ -131,7 +131,7 @@ Love all, trust a few, do wrong to none.
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]** — #niuslc16 workshop moving from consumers to curators to creators with Kahoot Hypothes.is and Thimble.
+- **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** — #niuslc16 workshop moving from consumers to curators to creators with Kahoot Hypothes.is and Thimble.
 - **[[Calvin and Hobbes\|Calvin and Hobbes]]** — KaptainKristian video on Bill Watterson belief in art before commerce while tackling thorny topics.
 - **[[Atul Gawande\|Atul Gawande]]** — Caltech commencement on mistrust of science, truth-seeking as group effort not individual authority.
 - **[[Doug Belshaw\|Doug Belshaw]]** — View source for digital literacy frameworks, know who writes standards and what discussions happened.

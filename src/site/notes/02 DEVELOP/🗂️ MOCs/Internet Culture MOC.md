@@ -14,7 +14,7 @@ Internet culture encompasses the norms, practices, and patterns of meaning-makin
 ## 🧭 Core Frameworks
 
 ### Cultural Analysis
-- **[[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]** - Foundation for critical engagement with online spaces
+- **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** - Foundation for critical engagement with online spaces
 - **[[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]]** - When internet participation becomes primary identity
 - **[[02 DEVELOP/🌱 Seeds/Digital Identity Construction\|Digital Identity Construction]]** - How people build identity through digital participation
 - **[[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]]** - Framework for understanding levels of internet participation
@@ -107,7 +107,7 @@ Internet culture encompasses the norms, practices, and patterns of meaning-makin
 ## 📚 Learning Pathways
 
 ### 🔹 Beginner: Understanding Online Spaces
-1. **[[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]** - Foundation concepts and critical thinking skills
+1. **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** - Foundation concepts and critical thinking skills
 2. **[[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]]** - Understanding levels of internet participation
 3. **[[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]]** - Basic framework for digital identity
 4. **[[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]]** - Recognition of deep internet engagement patterns

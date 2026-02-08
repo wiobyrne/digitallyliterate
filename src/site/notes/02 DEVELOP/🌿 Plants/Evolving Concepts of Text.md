@@ -271,7 +271,7 @@ The reflection framework presented here offers a starting point for exploring th
 
 ## Related Topics
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Multimodal Communication\|Multimodal Communication]]
 - [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]

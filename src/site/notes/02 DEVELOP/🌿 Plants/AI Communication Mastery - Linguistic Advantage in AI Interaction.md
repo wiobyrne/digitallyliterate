@@ -167,7 +167,7 @@ This framework connects to several important areas:
 - **[[Cognitive Load Theory\|Cognitive Load Theory]]**: Understanding human information processing limitations
 - **[[Metacognition\|Metacognition]]**: Awareness and understanding of thought processes
 - **[[Professional Development\|Professional Development]]**: Career advancement through skill building
-- **[[02 DEVELOP/🌿 Plants/Digital Literacy\|Digital Literacy]]**: Broader framework of technology competence
+- **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]**: Broader framework of technology competence
 
 ## Future Implications
 
@@ -187,5 +187,5 @@ The linguistic advantage in AI interaction represents a fundamental shift in how
 **Source**: Original framework developed from observations of differential AI interaction success rates
 **Validation**: Empirical observation of user performance differences
 **Applications**: Professional development, educational curriculum design, AI literacy training
-**Related Frameworks**: [[AI Pedagogical Mastery\|AI Pedagogical Mastery]], [[Digital Literacy Framework\|Digital Literacy Framework]], [[Communication Competence Model\|Communication Competence Model]]
+**Related Frameworks**: [[AI Pedagogical Mastery\|AI Pedagogical Mastery]], [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]], [[Communication Competence Model\|Communication Competence Model]]
 **Update Frequency**: Quarterly review recommended due to rapid AI development
