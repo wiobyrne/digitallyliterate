@@ -1,23 +1,65 @@
-<div class="search-container" id="globalsearch" onclick="toggleSearch()">
-    <div class="search-box">
-        <input type="search" id="term" placeholder="Start typing...">
-        <div id="search-results"></div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch(event)">
+    <div class="search-box" onclick="event.stopPropagation()">
+        <div id="pagefind-search"></div>
         <footer class="search-box-footer">
-            <div class="navigation-hint">
-                <span>Enter to select</span>
-            </div>
-
-            <div class="navigation-hint align-icon">
-                <i  icon-name="arrow-up" aria-hidden="true"></i>
-                <i  icon-name="arrow-down" aria-hidden="true"></i>
-                <span>to navigate</span>
-            </div>
-
             <div class="navigation-hint">
                 <span>ESC to close</span>
             </div>
-
         </footer>
     </div>
 </div>
-{%include "components/searchScript.njk"%}
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function() {
+        new PagefindUI({
+            element: "#pagefind-search",
+            showSubResults: true,
+            showImages: false,
+            resetStyles: false
+        });
+
+        // Focus the search input when modal opens
+        var observer = new MutationObserver(function() {
+            if (document.getElementById('globalsearch').classList.contains('active')) {
+                var input = document.querySelector('#pagefind-search input');
+                if (input) input.focus();
+            }
+        });
+        observer.observe(document.getElementById('globalsearch'), { attributes: true, attributeFilter: ['class'] });
+    });
+
+    window.toggleSearch = function(evt) {
+        if (evt && evt.target && evt.target.closest && evt.target.closest('.search-box')) return;
+        var el = document.getElementById('globalsearch');
+        if (el.classList.contains('active')) {
+            el.classList.remove('active');
+        } else {
+            el.classList.add('active');
+            var input = document.querySelector('#pagefind-search input');
+            if (input) input.focus();
+        }
+    };
+
+    window.toggleTagSearch = function(evt) {
+        var term = evt.textContent;
+        if (term) {
+            var input = document.querySelector('#pagefind-search input');
+            if (input) {
+                input.value = term.trim();
+                input.dispatchEvent(new Event('input', { bubbles: true }));
+            }
+            document.getElementById('globalsearch').classList.add('active');
+        }
+    };
+
+    document.addEventListener('keydown', function(e) {
+        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+            e.preventDefault();
+            toggleSearch();
+        }
+        if (e.key === 'Escape') {
+            document.getElementById('globalsearch').classList.remove('active');
+        }
+    });
+</script>
