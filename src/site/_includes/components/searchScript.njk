@@ -151,9 +151,13 @@
         if(shouldFetch){
             let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '{{meta.buildDate|isoDate}}', docs}));
-            window.docs = docs
+            window.docs = docs;
             window.index = index;
+            try {
+                localStorage.setItem("searchIndex", JSON.stringify({date: '{{meta.buildDate|isoDate}}', docs}));
+            } catch(e) {
+                // Search index too large for localStorage — search still works, just won't cache
+            }
         }
 
         //open searchmodal when ctrl + k is pressed, cmd + k on mac
