@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy-by-design","permalink":"/privacy-by-design/","title":"Privacy by Design","tags":["grove","privacy-by-design","privacy","encryption","tools","zero-knowledge"]}
+{"dg-publish":true,"dg-permalink":"privacy-by-design","permalink":"/privacy-by-design/","title":"Privacy by Design","tags":["grove","privacy-by-design","privacy","encryption","tools","zero-knowledge"],"created":"2026-01-31","updated":"2026-01-31"}
 ---
 
 

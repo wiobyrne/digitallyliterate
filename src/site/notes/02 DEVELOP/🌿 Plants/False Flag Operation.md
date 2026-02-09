@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/false-flag-operation/","title":"False Flag Operation","tags":["fallacies","deception","information-literacy","conspiracy-theories"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/false-flag-operation/","title":"False Flag Operation","tags":["fallacies","deception","information-literacy","conspiracy-theories"],"created":"2025-07-19","updated":"2025-07-19"}
 ---
 
 # False Flag Operation

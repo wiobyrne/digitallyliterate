@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-57","permalink":"/tldr-57/","title":"Too Long; Didn't Read Issue 57","tags":["digital-literacy","education-technology","seymour-papert","paulo-freire","constructionism","blockchain","edtech","digital-citizenship","john-dewey","artificial-intelligence","virtual-school","video-annotation"]}
+{"dg-publish":true,"dg-permalink":"tldr-57","permalink":"/tldr-57/","title":"Too Long; Didn't Read Issue 57","tags":["digital-literacy","education-technology","seymour-papert","paulo-freire","constructionism","blockchain","edtech","digital-citizenship","john-dewey","artificial-intelligence","virtual-school","video-annotation"],"created":"2016-08-05","updated":"2025-12-17"}
 ---
 
 # TLDR 57

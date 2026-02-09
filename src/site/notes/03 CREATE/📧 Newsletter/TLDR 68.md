@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-68","permalink":"/tldr-68/","title":"Too Long; Didn't Read Issue 68","tags":["digital-literacy","education-technology","open-education","creative-commons","domain-of-ones-own","stoicism","badgechain","online-harassment","educator-characteristics"]}
+{"dg-publish":true,"dg-permalink":"tldr-68","permalink":"/tldr-68/","title":"Too Long; Didn't Read Issue 68","tags":["digital-literacy","education-technology","open-education","creative-commons","domain-of-ones-own","stoicism","badgechain","online-harassment","educator-characteristics"],"created":"2016-10-21","updated":"2025-12-17"}
 ---
 
 # TLDR 68

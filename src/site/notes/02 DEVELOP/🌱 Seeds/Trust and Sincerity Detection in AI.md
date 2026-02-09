@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"trust-sincerity-detection-ai","permalink":"/trust-sincerity-detection-ai/","title":"Trust and Sincerity Detection in AI","tags":["AI","trust","sincerity","security","misinformation","browser-extension"]}
+{"dg-publish":true,"dg-permalink":"trust-sincerity-detection-ai","permalink":"/trust-sincerity-detection-ai/","title":"Trust and Sincerity Detection in AI","tags":["AI","trust","sincerity","security","misinformation","browser-extension"],"created":"2023-07-14","updated":"2026-02-02"}
 ---
 
 

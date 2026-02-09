@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"why-digital-sovereignty-matters","permalink":"/why-digital-sovereignty-matters/","title":"Why Digital Sovereignty Matters","tags":["digital-sovereignty","privacy","Signal","Proton","Big-Tech","data-ownership"]}
+{"dg-publish":true,"dg-permalink":"why-digital-sovereignty-matters","permalink":"/why-digital-sovereignty-matters/","title":"Why Digital Sovereignty Matters","tags":["digital-sovereignty","privacy","Signal","Proton","Big-Tech","data-ownership"],"created":"2025-12-08","updated":"2026-02-02"}
 ---
 
 

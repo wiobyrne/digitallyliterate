@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-divide","permalink":"/digital-divide/","title":"Digital Divide","tags":["technology","access","digital-divide"]}
+{"dg-publish":true,"dg-permalink":"digital-divide","permalink":"/digital-divide/","title":"Digital Divide","tags":["technology","access","digital-divide"],"created":"2025-08-23","updated":"2025-08-24"}
 ---
 
 # Digital Divide

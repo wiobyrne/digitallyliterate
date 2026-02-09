@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-95","permalink":"/tldr-95/","title":"Too Long; Didn't Read Issue 95","tags":["digital-literacy","education-technology","curiosity","net-neutrality","big-data","purdue-kaplan","lightweight-credentials","digital-literacy-units","google-earth"]}
+{"dg-publish":true,"dg-permalink":"tldr-95","permalink":"/tldr-95/","title":"Too Long; Didn't Read Issue 95","tags":["digital-literacy","education-technology","curiosity","net-neutrality","big-data","purdue-kaplan","lightweight-credentials","digital-literacy-units","google-earth"],"created":"2017-04-29","updated":"2025-12-18"}
 ---
 
 # TLDR 95

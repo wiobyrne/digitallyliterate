@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-outputs/","title":"Co-Constructing AI Boundaries Framework Component - Outputs","tags":["framework-component","outputs","critical-evaluation","AI-literacy","hallucination","bias"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-outputs/","title":"Co-Constructing AI Boundaries Framework Component - Outputs","tags":["framework-component","outputs","critical-evaluation","AI-literacy","hallucination","bias"],"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Outputs

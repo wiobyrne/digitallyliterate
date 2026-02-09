@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-literacy","permalink":"/ai-literacy/","title":"AI Literacy","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"]}
+{"dg-publish":true,"dg-permalink":"ai-literacy","permalink":"/ai-literacy/","title":"AI Literacy","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"],"created":"2026-02-07","updated":"2026-02-07"}
 ---
 
 

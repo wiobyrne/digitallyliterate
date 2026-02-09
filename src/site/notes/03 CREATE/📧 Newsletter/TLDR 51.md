@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-51","permalink":"/tldr-51/","title":"Too Long; Didn't Read Issue 51","tags":["digital-literacy","education-technology","connections","growth","brexit","connected-learning","domain-of-ones-own","iste2016","badgesummit","professional-development","paper-circuits","blockchain"]}
+{"dg-publish":true,"dg-permalink":"tldr-51","permalink":"/tldr-51/","title":"Too Long; Didn't Read Issue 51","tags":["digital-literacy","education-technology","connections","growth","brexit","connected-learning","domain-of-ones-own","iste2016","badgesummit","professional-development","paper-circuits","blockchain"],"created":"2016-06-25","updated":"2025-12-17"}
 ---
 
 # TLDR 51

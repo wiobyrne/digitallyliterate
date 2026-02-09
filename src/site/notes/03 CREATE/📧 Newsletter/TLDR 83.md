@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-83","permalink":"/tldr-83/","title":"Too Long; Didn't Read Issue 83","tags":["digital-literacy","education-technology","share-our-needs","personalized-handshakes","digital-rights-youth","automation-robots","audrey-watters","muslim-ban","mindful-facilitation","privacy-paradox"]}
+{"dg-publish":true,"dg-permalink":"tldr-83","permalink":"/tldr-83/","title":"Too Long; Didn't Read Issue 83","tags":["digital-literacy","education-technology","share-our-needs","personalized-handshakes","digital-rights-youth","automation-robots","audrey-watters","muslim-ban","mindful-facilitation","privacy-paradox"],"created":"2017-02-02","updated":"2025-12-18"}
 ---
 
 # TLDR 83

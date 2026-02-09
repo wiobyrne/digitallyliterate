@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-79","permalink":"/tldr-79/","title":"Too Long; Didn't Read Issue 79","tags":["digital-literacy","education-technology","truth-hurts","digital-identity","fake-news","screens-in-classroom","digital-rights","superager","productivity","hypothesis"]}
+{"dg-publish":true,"dg-permalink":"tldr-79","permalink":"/tldr-79/","title":"Too Long; Didn't Read Issue 79","tags":["digital-literacy","education-technology","truth-hurts","digital-identity","fake-news","screens-in-classroom","digital-rights","superager","productivity","hypothesis"],"created":"2017-01-06","updated":"2025-12-18"}
 ---
 
 # TLDR 79

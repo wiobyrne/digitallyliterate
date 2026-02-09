@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"document-collaboration-tools","permalink":"/document-collaboration-tools/","title":"Document Collaboration Tools","tags":["privacy-by-design","collaboration","cryptpad","hedgedoc","nextcloud","document-editing"]}
+{"dg-publish":true,"dg-permalink":"document-collaboration-tools","permalink":"/document-collaboration-tools/","title":"Document Collaboration Tools","tags":["privacy-by-design","collaboration","cryptpad","hedgedoc","nextcloud","document-editing"],"created":"2025-07-19","updated":"2026-01-31"}
 ---
 
 

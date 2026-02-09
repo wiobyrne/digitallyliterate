@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-75","permalink":"/tldr-75/","title":"Too Long; Didn't Read Issue 75","tags":["digital-literacy","education-technology","facts-vs-opinion","google-autocomplete","pisa-assessment","information-overload","computer-literacy","screen-time","brain-breaks","climate-change"]}
+{"dg-publish":true,"dg-permalink":"tldr-75","permalink":"/tldr-75/","title":"Too Long; Didn't Read Issue 75","tags":["digital-literacy","education-technology","facts-vs-opinion","google-autocomplete","pisa-assessment","information-overload","computer-literacy","screen-time","brain-breaks","climate-change"],"created":"2016-12-10","updated":"2025-12-18"}
 ---
 
 # TLDR 75

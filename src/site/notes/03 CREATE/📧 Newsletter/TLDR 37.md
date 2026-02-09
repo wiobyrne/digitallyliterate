@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-37","permalink":"/tldr-37/","title":"Too Long; Didn't Read Issue 37","tags":["digital-literacy","education-technology","blockchain","badgechain","mooc","tedx","kurt-becker","stem","walkmyworld","john-oliver","encryption","asapbio","open-science","twitter","sarcasm","emoticons","podcasts","sandstorm","google-drive","doug-belshaw"]}
+{"dg-publish":true,"dg-permalink":"tldr-37","permalink":"/tldr-37/","title":"Too Long; Didn't Read Issue 37","tags":["digital-literacy","education-technology","blockchain","badgechain","mooc","tedx","kurt-becker","stem","walkmyworld","john-oliver","encryption","asapbio","open-science","twitter","sarcasm","emoticons","podcasts","sandstorm","google-drive","doug-belshaw"],"created":"2016-03-18","updated":"2025-12-17"}
 ---
 
 # TLDR 37

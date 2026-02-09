@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-36","permalink":"/tldr-36/","title":"Too Long; Didn't Read Issue 36","tags":["digital-literacy","education-technology","tltcon","pecha-kucha","walkmyworld","jane-mcgonigal","badgechain","blockchain","ai","alphago","big-data","healthcare","stephen-wolfram","amazon","oer","flickr","google-photos","fat-bombs","keto"]}
+{"dg-publish":true,"dg-permalink":"tldr-36","permalink":"/tldr-36/","title":"Too Long; Didn't Read Issue 36","tags":["digital-literacy","education-technology","tltcon","pecha-kucha","walkmyworld","jane-mcgonigal","badgechain","blockchain","ai","alphago","big-data","healthcare","stephen-wolfram","amazon","oer","flickr","google-photos","fat-bombs","keto"],"created":"2016-03-11","updated":"2025-12-17"}
 ---
 
 # TLDR 36

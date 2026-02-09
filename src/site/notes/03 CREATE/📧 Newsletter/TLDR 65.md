@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-65","permalink":"/tldr-65/","title":"Too Long; Didn't Read Issue 65","tags":["digital-literacy","education-technology","healing","spacex","mindfulness","protest-education","implicit-bias","brain-research","global-collaboration","john-spencer"]}
+{"dg-publish":true,"dg-permalink":"tldr-65","permalink":"/tldr-65/","title":"Too Long; Didn't Read Issue 65","tags":["digital-literacy","education-technology","healing","spacex","mindfulness","protest-education","implicit-bias","brain-research","global-collaboration","john-spencer"],"created":"2016-09-30","updated":"2025-12-17"}
 ---
 
 # TLDR 65

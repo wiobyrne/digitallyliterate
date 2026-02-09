@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-35","permalink":"/tldr-35/","title":"Too Long; Didn't Read Issue 35","tags":["digital-literacy","education-technology","walkmyworld","soundcloud","podcasts","boston-dynamics","robots","apple-fbi","privacy","encryption","artists-workspaces","creativity","bernard-roth","d-school","language","neuroscience","glymphatic-system","future-of-professions","ai","raspberry-pi"]}
+{"dg-publish":true,"dg-permalink":"tldr-35","permalink":"/tldr-35/","title":"Too Long; Didn't Read Issue 35","tags":["digital-literacy","education-technology","walkmyworld","soundcloud","podcasts","boston-dynamics","robots","apple-fbi","privacy","encryption","artists-workspaces","creativity","bernard-roth","d-school","language","neuroscience","glymphatic-system","future-of-professions","ai","raspberry-pi"],"created":"2016-03-06","updated":"2025-12-17"}
 ---
 
 # TLDR 35

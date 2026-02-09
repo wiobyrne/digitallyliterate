@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-77","permalink":"/tldr-77/","title":"Too Long; Didn't Read Issue 77","tags":["digital-literacy","education-technology","process-vs-product","growth-mindset","carol-dweck","assessment","signal-messenger","formative-assessment","time-management","bread-making"]}
+{"dg-publish":true,"dg-permalink":"tldr-77","permalink":"/tldr-77/","title":"Too Long; Didn't Read Issue 77","tags":["digital-literacy","education-technology","process-vs-product","growth-mindset","carol-dweck","assessment","signal-messenger","formative-assessment","time-management","bread-making"],"created":"2016-12-23","updated":"2025-12-18"}
 ---
 
 # TLDR 77

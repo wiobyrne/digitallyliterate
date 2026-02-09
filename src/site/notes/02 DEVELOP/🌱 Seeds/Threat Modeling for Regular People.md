@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"threat-modeling-regular-people","permalink":"/threat-modeling-regular-people/","title":"Threat Modeling for Regular People","tags":["privacy","security","threat-modeling","risk-assessment"]}
+{"dg-publish":true,"dg-permalink":"threat-modeling-regular-people","permalink":"/threat-modeling-regular-people/","title":"Threat Modeling for Regular People","tags":["privacy","security","threat-modeling","risk-assessment"],"created":"2026-02-01","updated":"2026-02-01"}
 ---
 
 

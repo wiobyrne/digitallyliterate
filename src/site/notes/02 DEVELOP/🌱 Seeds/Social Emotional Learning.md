@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"social-emotional-learning","permalink":"/social-emotional-learning/","title":"Social Emotional Learning","tags":["SEL","education","emotional-intelligence","social-skills","wellbeing"]}
+{"dg-publish":true,"dg-permalink":"social-emotional-learning","permalink":"/social-emotional-learning/","title":"Social Emotional Learning","tags":["SEL","education","emotional-intelligence","social-skills","wellbeing"],"created":"2024-04-20","updated":"2026-02-01"}
 ---
 
 

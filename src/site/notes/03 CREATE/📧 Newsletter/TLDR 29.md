@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-29","permalink":"/tldr-29/","title":"Too Long; Didn't Read Issue 29","tags":["digital-literacy","education-technology","walkmyworld","twitter","steven-johnson","innovation","penn-teller","teaching","false-expertise","growth-mindset","carol-dweck","disconnection","creativity","magnetic-poetry"]}
+{"dg-publish":true,"dg-permalink":"tldr-29","permalink":"/tldr-29/","title":"Too Long; Didn't Read Issue 29","tags":["digital-literacy","education-technology","walkmyworld","twitter","steven-johnson","innovation","penn-teller","teaching","false-expertise","growth-mindset","carol-dweck","disconnection","creativity","magnetic-poetry"],"created":"2016-01-22","updated":"2025-12-16"}
 ---
 
 # TLDR 29

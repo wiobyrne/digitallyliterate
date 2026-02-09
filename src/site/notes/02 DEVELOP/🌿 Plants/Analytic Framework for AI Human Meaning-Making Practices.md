@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/analytic-framework-for-ai-human-meaning-making-practices/","title":"Analytic Framework for AI Human Meaning-Making Practices","tags":["analytic-framework","mollick-mollick","AI-literacy","qualitative-research","preservice-teachers","NotebookLM","agency","boundary-work","epistemic-stance"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/analytic-framework-for-ai-human-meaning-making-practices/","title":"Analytic Framework for AI Human Meaning-Making Practices","tags":["analytic-framework","mollick-mollick","AI-literacy","qualitative-research","preservice-teachers","NotebookLM","agency","boundary-work","epistemic-stance"],"updated":"2025-12-02"}
 ---
 
 # Analytic Framework for AI Human Meaning-Making Practices

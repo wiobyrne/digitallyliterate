@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/mental-health-prompts/","title":"Mental Health Prompts","tags":["mental-health","assessment","psychological-wellbeing","self-reflection","stress-management"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/mental-health-prompts/","title":"Mental Health Prompts","tags":["mental-health","assessment","psychological-wellbeing","self-reflection","stress-management"],"created":"2025-02-03"}
 ---
 
 

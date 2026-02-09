@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/devil-s-advocate-methodology/","title":"Devil's Advocate Methodology","tags":["devils-advocate","pedagogical-technique","critical-thinking","cognitive-dissonance","classroom-methodology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/devil-s-advocate-methodology/","title":"Devil's Advocate Methodology","tags":["devils-advocate","pedagogical-technique","critical-thinking","cognitive-dissonance","classroom-methodology"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

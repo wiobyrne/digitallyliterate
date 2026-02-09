@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/digital-minimalism/","title":"Digital Minimalism"}
+{"dg-publish":true,"permalink":"/01-consume/books/digital-minimalism/","title":"Digital Minimalism","created":"2025-07-26","updated":"2025-07-26"}
 ---
 
 ![cover|300](https://m.media-amazon.com/images/I/81x+9opgESL._SL1500_.jpg)

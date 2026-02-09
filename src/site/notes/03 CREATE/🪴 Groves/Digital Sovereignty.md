@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"]}
+{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"],"created":"2026-01-31","updated":"2026-01-31"}
 ---
 
 

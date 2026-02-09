@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/chronological-vs-networked-publishing/","title":"Chronological vs Networked Publishing","tags":["digital-gardening","blogging","publishing","web-history","information-architecture"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/chronological-vs-networked-publishing/","title":"Chronological vs Networked Publishing","tags":["digital-gardening","blogging","publishing","web-history","information-architecture"],"created":"2025-11-04"}
 ---
 
 

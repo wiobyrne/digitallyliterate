@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-33","permalink":"/tldr-33/","title":"Too Long; Didn't Read Issue 33","tags":["digital-literacy","education-technology","blockchain","personal-learning-ledger","creative-commons","walkmyworld","medium","big-data","bias","introverts","genius-hour","plagiarism","remix-culture","apple","fbi","privacy","tim-cook","hearmyhome","soundscapes"]}
+{"dg-publish":true,"dg-permalink":"tldr-33","permalink":"/tldr-33/","title":"Too Long; Didn't Read Issue 33","tags":["digital-literacy","education-technology","blockchain","personal-learning-ledger","creative-commons","walkmyworld","medium","big-data","bias","introverts","genius-hour","plagiarism","remix-culture","apple","fbi","privacy","tim-cook","hearmyhome","soundscapes"],"created":"2016-02-19","updated":"2025-12-16"}
 ---
 
 # TLDR 33

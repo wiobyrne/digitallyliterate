@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-30","permalink":"/tldr-30/","title":"Too Long; Didn't Read Issue 30","tags":["digital-literacy","education-technology","walkmyworld","podcasting","evernote","marvin-minsky","artificial-intelligence","moxie","teacher-pay","twitter","side-projects","humor","makerspaces","amber","link-archiving"]}
+{"dg-publish":true,"dg-permalink":"tldr-30","permalink":"/tldr-30/","title":"Too Long; Didn't Read Issue 30","tags":["digital-literacy","education-technology","walkmyworld","podcasting","evernote","marvin-minsky","artificial-intelligence","moxie","teacher-pay","twitter","side-projects","humor","makerspaces","amber","link-archiving"],"created":"2016-01-29","updated":"2025-12-16"}
 ---
 
 # TLDR 30

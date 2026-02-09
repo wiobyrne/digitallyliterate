@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-49","permalink":"/tldr-49/","title":"Too Long; Didn't Read Issue 49","tags":["digital-literacy","education-technology","impossible-problems","jerome-bruner","muhammad-ali","hip-hop","literacy","podcasts","hypothesisis","blockchain","badgechain","cultural-competence","hamilton-musical","four-questions-for"]}
+{"dg-publish":true,"dg-permalink":"tldr-49","permalink":"/tldr-49/","title":"Too Long; Didn't Read Issue 49","tags":["digital-literacy","education-technology","impossible-problems","jerome-bruner","muhammad-ali","hip-hop","literacy","podcasts","hypothesisis","blockchain","badgechain","cultural-competence","hamilton-musical","four-questions-for"],"created":"2016-06-10","updated":"2025-12-17"}
 ---
 
 # TLDR 49

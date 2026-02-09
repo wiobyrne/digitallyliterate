@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-92","permalink":"/tldr-92/","title":"Too Long; Didn't Read Issue 92","tags":["digital-literacy","education-technology","silence","encryption","internet-privacy","twitter-anonymity","openness","unpaywall","meditation"]}
+{"dg-publish":true,"dg-permalink":"tldr-92","permalink":"/tldr-92/","title":"Too Long; Didn't Read Issue 92","tags":["digital-literacy","education-technology","silence","encryption","internet-privacy","twitter-anonymity","openness","unpaywall","meditation"],"created":"2017-04-07","updated":"2025-12-18"}
 ---
 
 # TLDR 92

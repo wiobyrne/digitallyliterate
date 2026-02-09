@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-reflection/","title":"Co-Constructing AI Boundaries Framework Component - Reflection","tags":["framework-component","reflection","metacognition","ethics","epistemic-stance","AI-literacy"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-reflection/","title":"Co-Constructing AI Boundaries Framework Component - Reflection","tags":["framework-component","reflection","metacognition","ethics","epistemic-stance","AI-literacy"],"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Reflection 

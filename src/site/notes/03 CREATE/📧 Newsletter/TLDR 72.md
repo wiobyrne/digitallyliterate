@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-72","permalink":"/tldr-72/","title":"Too Long; Didn't Read Issue 72","tags":["digital-literacy","education-technology","healthy-skepticism","filter-bubble","fake-news","digital-security","tinkering-mindset","machine-learning","african-american-teens"]}
+{"dg-publish":true,"dg-permalink":"tldr-72","permalink":"/tldr-72/","title":"Too Long; Didn't Read Issue 72","tags":["digital-literacy","education-technology","healthy-skepticism","filter-bubble","fake-news","digital-security","tinkering-mindset","machine-learning","african-american-teens"],"created":"2016-11-19","updated":"2025-12-17"}
 ---
 
 # TLDR 72

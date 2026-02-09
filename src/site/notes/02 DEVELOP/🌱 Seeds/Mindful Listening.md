@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mindful-listening","permalink":"/mindful-listening/","title":"Mindful Listening","tags":["communication","mindfulness","listening","presence","relationships"]}
+{"dg-publish":true,"dg-permalink":"mindful-listening","permalink":"/mindful-listening/","title":"Mindful Listening","tags":["communication","mindfulness","listening","presence","relationships"],"created":"2024-05-12","updated":"2026-02-01"}
 ---
 
 

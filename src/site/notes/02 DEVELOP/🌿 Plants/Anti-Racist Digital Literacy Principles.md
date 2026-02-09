@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"anti-racist-digital-literacy-principles","permalink":"/anti-racist-digital-literacy-principles/","title":"Anti-Racist Digital Literacy Principles","tags":["anti-racism","digital-literacy","equity","education","principles"]}
+{"dg-publish":true,"dg-permalink":"anti-racist-digital-literacy-principles","permalink":"/anti-racist-digital-literacy-principles/","title":"Anti-Racist Digital Literacy Principles","tags":["anti-racism","digital-literacy","equity","education","principles"],"created":"2025-04-17","updated":"2026-02-01"}
 ---
 
 

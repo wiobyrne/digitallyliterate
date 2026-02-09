@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-31","permalink":"/tldr-31/","title":"Too Long; Didn't Read Issue 31","tags":["digital-literacy","education-technology","walkmyworld","screencasts","maha-bali","doug-belshaw","sally-ride","pew-research","digital-divide","mobile-access","nathan-jurgenson","sherry-turkle","digital-identity","misinformation","domain-of-ones-own","jeremy-dean","hypothesis"]}
+{"dg-publish":true,"dg-permalink":"tldr-31","permalink":"/tldr-31/","title":"Too Long; Didn't Read Issue 31","tags":["digital-literacy","education-technology","walkmyworld","screencasts","maha-bali","doug-belshaw","sally-ride","pew-research","digital-divide","mobile-access","nathan-jurgenson","sherry-turkle","digital-identity","misinformation","domain-of-ones-own","jeremy-dean","hypothesis"],"created":"2016-02-05","updated":"2025-12-16"}
 ---
 
 # TLDR 31

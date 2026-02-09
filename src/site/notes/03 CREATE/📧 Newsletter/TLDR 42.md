@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-42","permalink":"/tldr-42/","title":"Too Long; Didn't Read Issue 42","tags":["digital-literacy","education-technology","podcasts","prince","copyright","open-access","creative-commons","moderation","emoji","multitasking","default-state","3mt","qr-codes"]}
+{"dg-publish":true,"dg-permalink":"tldr-42","permalink":"/tldr-42/","title":"Too Long; Didn't Read Issue 42","tags":["digital-literacy","education-technology","podcasts","prince","copyright","open-access","creative-commons","moderation","emoji","multitasking","default-state","3mt","qr-codes"],"created":"2016-04-22","updated":"2025-12-17"}
 ---
 
 # TLDR 42

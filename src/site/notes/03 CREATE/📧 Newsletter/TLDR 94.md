@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-94","permalink":"/tldr-94/","title":"Too Long; Didn't Read Issue 94","tags":["digital-literacy","education-technology","tolerance","internet-rights","usa-facts","open-textbooks","language-democracy","financial-literacy","research-methods"]}
+{"dg-publish":true,"dg-permalink":"tldr-94","permalink":"/tldr-94/","title":"Too Long; Didn't Read Issue 94","tags":["digital-literacy","education-technology","tolerance","internet-rights","usa-facts","open-textbooks","language-democracy","financial-literacy","research-methods"],"created":"2017-04-21","updated":"2025-12-18"}
 ---
 
 # TLDR 94

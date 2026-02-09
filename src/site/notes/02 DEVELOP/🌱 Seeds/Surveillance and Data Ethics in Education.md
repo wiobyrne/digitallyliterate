@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"surveillance-data-ethics-education","permalink":"/surveillance-data-ethics-education/","title":"Surveillance and Data Ethics in Education","tags":["privacy","surveillance","education","data-ethics","institutions"]}
+{"dg-publish":true,"dg-permalink":"surveillance-data-ethics-education","permalink":"/surveillance-data-ethics-education/","title":"Surveillance and Data Ethics in Education","tags":["privacy","surveillance","education","data-ethics","institutions"],"created":"2026-01-31","updated":"2026-02-01"}
 ---
 
 

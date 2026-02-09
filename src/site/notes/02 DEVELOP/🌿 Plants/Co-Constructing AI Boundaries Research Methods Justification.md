@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-research-methods-justification/","title":"Co-Constructing AI Boundaries Research Methods Justification","tags":["research-methods","qualitative-case-study","micro-interactional-analysis","triangulation","rigor","methodology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-research-methods-justification/","title":"Co-Constructing AI Boundaries Research Methods Justification","tags":["research-methods","qualitative-case-study","micro-interactional-analysis","triangulation","rigor","methodology"],"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Research Methods Justification

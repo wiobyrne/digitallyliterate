@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-48","permalink":"/tldr-48/","title":"Too Long; Didn't Read Issue 48","tags":["digital-literacy","education-technology","understanding-the-web","margaret-atwood","storytelling","mary-meeker","internet-trends","submarine-cables","infrastructure","nsa","privacy","coding-camps","mimi-ito","podcasts"]}
+{"dg-publish":true,"dg-permalink":"tldr-48","permalink":"/tldr-48/","title":"Too Long; Didn't Read Issue 48","tags":["digital-literacy","education-technology","understanding-the-web","margaret-atwood","storytelling","mary-meeker","internet-trends","submarine-cables","infrastructure","nsa","privacy","coding-camps","mimi-ito","podcasts"],"created":"2016-06-03","updated":"2025-12-17"}
 ---
 
 # TLDR 48

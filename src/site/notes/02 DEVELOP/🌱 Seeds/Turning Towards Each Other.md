@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"turning-towards-each-other","permalink":"/turning-towards-each-other/","title":"Turning Towards Each Other","tags":["relationships","empathy","vulnerability","connection","brene-brown"]}
+{"dg-publish":true,"dg-permalink":"turning-towards-each-other","permalink":"/turning-towards-each-other/","title":"Turning Towards Each Other","tags":["relationships","empathy","vulnerability","connection","brene-brown"],"created":"2024-06-15","updated":"2026-02-01"}
 ---
 
 

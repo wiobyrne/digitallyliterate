@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-self-determination","permalink":"/digital-self-determination/","title":"Digital Self-determination","tags":["grove","digital-self-determination","digital-literacy","privacy","agency","data-sovereignty"]}
+{"dg-publish":true,"dg-permalink":"digital-self-determination","permalink":"/digital-self-determination/","title":"Digital Self-determination","tags":["grove","digital-self-determination","digital-literacy","privacy","agency","data-sovereignty"],"created":"2026-01-31","updated":"2026-02-01"}
 ---
 
 

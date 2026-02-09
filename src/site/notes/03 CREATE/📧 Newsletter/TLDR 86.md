@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-86","permalink":"/tldr-86/","title":"Too Long; Didn't Read Issue 86","tags":["digital-literacy","education-technology","new-perspectives","trappist-1","social-media-class","web-literacy","fake-news-taxonomy","neuromyths","google-expeditions"]}
+{"dg-publish":true,"dg-permalink":"tldr-86","permalink":"/tldr-86/","title":"Too Long; Didn't Read Issue 86","tags":["digital-literacy","education-technology","new-perspectives","trappist-1","social-media-class","web-literacy","fake-news-taxonomy","neuromyths","google-expeditions"],"created":"2017-02-24","updated":"2025-12-18"}
 ---
 
 # TLDR 86

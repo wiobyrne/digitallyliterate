@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-5-storage-and-backup-strategy/","title":"💾 Homelab Journey, Part 5: Storage & Backup Strategy","tags":["homelab","storage","zfs","backup"]}
+{"dg-publish":true,"permalink":"/03-create/blog/homelab-journey-part-5-storage-and-backup-strategy/","title":"💾 Homelab Journey, Part 5: Storage & Backup Strategy","tags":["homelab","storage","zfs","backup"],"created":"2025-10-09"}
 ---
 
 

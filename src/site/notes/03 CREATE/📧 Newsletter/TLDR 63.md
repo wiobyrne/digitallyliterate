@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-63","permalink":"/tldr-63/","title":"Too Long; Didn't Read Issue 63","tags":["digital-literacy","education-technology","nature-and-nurture","you-suck-at-cooking","stop-motion","parenting","doug-belshaw","domain-of-ones-own","maha-bali","open-pedagogy","privilege","reading-benefits","screencasts","cold-brew"]}
+{"dg-publish":true,"dg-permalink":"tldr-63","permalink":"/tldr-63/","title":"Too Long; Didn't Read Issue 63","tags":["digital-literacy","education-technology","nature-and-nurture","you-suck-at-cooking","stop-motion","parenting","doug-belshaw","domain-of-ones-own","maha-bali","open-pedagogy","privilege","reading-benefits","screencasts","cold-brew"],"created":"2016-09-16","updated":"2025-12-17"}
 ---
 
 # TLDR 63

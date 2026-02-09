@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-44","permalink":"/tldr-44/","title":"Too Long; Didn't Read Issue 44","tags":["digital-literacy","education-technology","unlearning","future-studies","vr","tilt-brush","amy-burvall","mistakes","stereotypes","academia","women","snowden","whistleblowing","css"]}
+{"dg-publish":true,"dg-permalink":"tldr-44","permalink":"/tldr-44/","title":"Too Long; Didn't Read Issue 44","tags":["digital-literacy","education-technology","unlearning","future-studies","vr","tilt-brush","amy-burvall","mistakes","stereotypes","academia","women","snowden","whistleblowing","css"],"created":"2016-05-06","updated":"2025-12-17"}
 ---
 
 # TLDR 44

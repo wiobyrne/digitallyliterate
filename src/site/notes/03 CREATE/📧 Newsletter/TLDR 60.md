@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-60","permalink":"/tldr-60/","title":"Too Long; Didn't Read Issue 60","tags":["digital-literacy","education-technology","narrative","school-of-life","teens","social-media","play","noam-chomsky","domain-of-ones-own","audrey-watters","maha-bali","ted-talks"]}
+{"dg-publish":true,"dg-permalink":"tldr-60","permalink":"/tldr-60/","title":"Too Long; Didn't Read Issue 60","tags":["digital-literacy","education-technology","narrative","school-of-life","teens","social-media","play","noam-chomsky","domain-of-ones-own","audrey-watters","maha-bali","ted-talks"],"created":"2016-08-26","updated":"2025-12-17"}
 ---
 
 # TLDR 60

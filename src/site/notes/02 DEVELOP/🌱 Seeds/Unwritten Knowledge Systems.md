@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"unwritten-knowledge-systems","permalink":"/unwritten-knowledge-systems/","title":"Unwritten Knowledge Systems","tags":["knowledge","embodied-learning","AI","epistemology","oral-tradition"]}
+{"dg-publish":true,"dg-permalink":"unwritten-knowledge-systems","permalink":"/unwritten-knowledge-systems/","title":"Unwritten Knowledge Systems","tags":["knowledge","embodied-learning","AI","epistemology","oral-tradition"],"created":"2026-02-01","updated":"2026-02-01"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-84","permalink":"/tldr-84/","title":"Too Long; Didn't Read Issue 84","tags":["digital-literacy","education-technology","facts-and-emotions","how-not-to-be-boring","algorithm-age","news-literacy","milo-trolling","ryan-holiday","coding-jobs"]}
+{"dg-publish":true,"dg-permalink":"tldr-84","permalink":"/tldr-84/","title":"Too Long; Didn't Read Issue 84","tags":["digital-literacy","education-technology","facts-and-emotions","how-not-to-be-boring","algorithm-age","news-literacy","milo-trolling","ryan-holiday","coding-jobs"],"created":"2017-02-10","updated":"2025-12-18"}
 ---
 
 # TLDR 84

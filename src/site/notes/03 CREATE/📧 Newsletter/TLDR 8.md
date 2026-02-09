@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-8","permalink":"/tldr-8/","title":"Too Long; Didn't Read Issue 8","tags":["digital-literacy","education-technology","open-badges","unh-transition","teen-technology","ebooks","facebook","google-alphabet","sesame-street","moocs","hemingway-editor","blab","periscope"]}
+{"dg-publish":true,"dg-permalink":"tldr-8","permalink":"/tldr-8/","title":"Too Long; Didn't Read Issue 8","tags":["digital-literacy","education-technology","open-badges","unh-transition","teen-technology","ebooks","facebook","google-alphabet","sesame-street","moocs","hemingway-editor","blab","periscope"],"created":"2015-08-15","updated":"2025-12-15"}
 ---
 
 # TLDR 8

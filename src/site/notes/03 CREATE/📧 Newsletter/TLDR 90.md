@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-90","permalink":"/tldr-90/","title":"Too Long; Didn't Read Issue 90","tags":["digital-literacy","education-technology","building-awareness","internet-privacy","mars","online-culture","bullying","cybersecurity","autism-awareness","google-docs"]}
+{"dg-publish":true,"dg-permalink":"tldr-90","permalink":"/tldr-90/","title":"Too Long; Didn't Read Issue 90","tags":["digital-literacy","education-technology","building-awareness","internet-privacy","mars","online-culture","bullying","cybersecurity","autism-awareness","google-docs"],"created":"2017-03-24","updated":"2025-12-18"}
 ---
 
 # TLDR 90
