@@ -1,9 +1,685 @@
-body { /*** ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.) IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE. ***/
-  // background-color: white;
-  // .content {
-  //   font-size: 14px;
-  // }
-  // h1 {
-  //   color: black;
-  // }
+/*
+ * Digitally Literate — Custom Theme
+ * Based on Pico CSS principles: clean typography, responsive spacing, minimal classes
+ * Fonts: Lora (headings), Inter (body), JetBrains Mono (code)
+ * Accent: #FE5F55 (orange-red)
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ============================== CSS Reset ============================== */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* ========================== Design Tokens ============================== */
+:root {
+  /* Typography */
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-heading: 'Lora', Georgia, 'Times New Roman', serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+  --font-size-base: 16px;
+  --line-height: 1.7;
+
+  /* Spacing */
+  --spacing: 1rem;
+  --content-width: 720px;
+  --content-width-wide: 900px;
+
+  /* Transitions */
+  --transition: 0.2s ease-in-out;
+}
+
+/* Responsive font sizing */
+@media (min-width: 576px)  { :root { --font-size-base: 17px; } }
+@media (min-width: 768px)  { :root { --font-size-base: 18px; } }
+@media (min-width: 1200px) { :root { --font-size-base: 19px; } }
+
+/* ========================= Light Theme ================================= */
+.theme-light {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --bg-tertiary: #f0f1f3;
+  --text-primary: #2c3e50;
+  --text-secondary: #5a6c7d;
+  --text-muted: #8899a6;
+  --accent: #FE5F55;
+  --accent-hover: #e54940;
+  --accent-subtle: rgba(254, 95, 85, 0.08);
+  --link-color: #FE5F55;
+  --border-color: #e8ecf0;
+  --code-bg: #f5f6f8;
+  --code-text: #c7254e;
+  --blockquote-border: #FE5F55;
+  --blockquote-bg: rgba(254, 95, 85, 0.04);
+  --heading-1: #1a2634;
+  --heading-2: #2c3e50;
+  --heading-3: #3d5166;
+  --heading-4: #4e647c;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+/* ========================= Dark Theme ================================== */
+.theme-dark {
+  --bg-primary: #1a1e24;
+  --bg-secondary: #22272e;
+  --bg-tertiary: #2d333b;
+  --text-primary: #e0e0e0;
+  --text-secondary: #a0aab4;
+  --text-muted: #6b7785;
+  --accent: #FE5F55;
+  --accent-hover: #ff7b73;
+  --accent-subtle: rgba(254, 95, 85, 0.12);
+  --link-color: #ff8a82;
+  --border-color: #373e47;
+  --code-bg: #2d333b;
+  --code-text: #ff8a82;
+  --blockquote-border: #FE5F55;
+  --blockquote-bg: rgba(254, 95, 85, 0.06);
+  --heading-1: #f0f0f0;
+  --heading-2: #e0e0e0;
+  --heading-3: #c8cfd6;
+  --heading-4: #b0bac4;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+/* ========================== Base Typography ============================= */
+body {
+  font-family: var(--font-body);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-wrap: break-word;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--heading-1);
+  letter-spacing: -0.02em;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.7rem;
+  color: var(--heading-2);
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border-color);
+}
+
+h3 {
+  font-size: 1.35rem;
+  color: var(--heading-3);
+}
+
+h4 {
+  font-size: 1.15rem;
+  color: var(--heading-4);
+}
+
+h5, h6 {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Paragraphs */
+p {
+  margin-bottom: 1.2em;
+}
+
+/* ============================== Links ================================== */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color var(--transition), border-color var(--transition);
+}
+
+a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent-hover);
+}
+
+a.is-unresolved {
+  color: var(--text-muted);
+  border-bottom: 1px dashed var(--text-muted);
+}
+
+/* Internal links — subtle underline */
+a.internal-link {
+  border-bottom: 1px solid var(--accent-subtle);
+}
+
+a.internal-link:hover {
+  border-bottom-color: var(--accent);
+  background-color: var(--accent-subtle);
+  border-radius: 2px;
+}
+
+/* External links */
+.external-link {
+  background-image: none;
+  padding-right: 0;
+}
+
+.external-link::after {
+  content: " \2197";
+  font-size: 0.75em;
+  color: var(--text-muted);
+}
+
+/* ========================== Block Elements ============================= */
+
+/* Blockquotes */
+blockquote {
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-left: 4px solid var(--blockquote-border);
+  background: var(--blockquote-bg);
+  border-radius: 0 4px 4px 0;
+  font-style: italic;
+  color: var(--text-secondary);
+}
+
+blockquote::before {
+  content: none;
+}
+
+blockquote p {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2.5em 0;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.2em;
+}
+
+li {
+  margin-bottom: 0.3em;
+}
+
+li > ul, li > ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+/* ============================== Code =================================== */
+code, kbd, samp {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+}
+
+/* Inline code */
+p > code, li > code, td > code {
+  color: var(--code-text);
+  background-color: var(--code-bg);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+  font-size: 0.85em;
+}
+
+/* Code blocks */
+pre {
+  background-color: var(--code-bg);
+  border-radius: 6px;
+  padding: 1.2em;
+  overflow-x: auto;
+  margin: 1.5em 0;
+  border: 1px solid var(--border-color);
+  line-height: 1.5;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+  font-size: 0.85em;
+}
+
+/* ============================== Tables ================================= */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.9em;
+}
+
+thead th {
+  background-color: var(--bg-secondary);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.8em 1em;
+  border-bottom: 2px solid var(--border-color);
+}
+
+td {
+  padding: 0.6em 1em;
+  border-bottom: 1px solid var(--border-color);
+}
+
+tbody tr:hover {
+  background-color: var(--accent-subtle);
+}
+
+/* ============================== Images ================================= */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1em 0;
+}
+
+/* ========================= Callouts ==================================== */
+.callout {
+  --callout-color: 254, 95, 85;
+  overflow: hidden;
+  border-style: solid;
+  border-color: rgba(var(--callout-color), 0.2);
+  border-width: 0 0 0 4px;
+  border-radius: 4px;
+  margin: 1.5em 0;
+  background-color: rgba(var(--callout-color), 0.05);
+  padding: 1em 1.2em;
+}
+
+.callout[data-callout="info"],
+.callout[data-callout="todo"] {
+  --callout-color: 0, 184, 212;
+}
+
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --callout-color: 0, 191, 165;
+}
+
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-color: 0, 200, 83;
+}
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --callout-color: 255, 145, 0;
+}
+
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"],
+.callout[data-callout="danger"],
+.callout[data-callout="error"],
+.callout[data-callout="bug"] {
+  --callout-color: 255, 82, 82;
+}
+
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --callout-color: 0, 176, 255;
+}
+
+.callout[data-callout="example"] {
+  --callout-color: 124, 77, 255;
+}
+
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-color: 158, 158, 158;
+}
+
+.callout-title {
+  display: flex;
+  gap: 6px;
+  font-weight: 600;
+  color: rgb(var(--callout-color));
+  margin-bottom: 0.3em;
+}
+
+.callout-content {
+  color: var(--text-primary);
+  font-style: normal;
+}
+
+.callout-icon {
+  flex: 0 0 auto;
+  display: flex;
+  align-self: center;
+}
+
+.callout-icon .svg-icon {
+  color: rgb(var(--callout-color));
+}
+
+.callout-fold {
+  display: flex;
+  align-items: center;
+}
+
+.callout.is-collapsed .callout-fold .svg-icon {
+  transform: rotate(-90deg);
+}
+
+/* ========================== Tags ======================================= */
+.header-tags {
+  margin: 0.5em 0 1.5em;
+}
+
+.tag {
+  display: inline-block;
+  font-size: 0.8em;
+  color: var(--accent);
+  background: var(--accent-subtle);
+  padding: 0.2em 0.6em;
+  border-radius: 3px;
+  margin: 0.15em 0.25em 0.15em 0;
+  cursor: pointer;
+  transition: background var(--transition);
+  text-decoration: none;
+  border: none;
+}
+
+.tag:hover {
+  background: rgba(254, 95, 85, 0.18);
+  border: none;
+}
+
+/* ========================= Timestamps ================================== */
+.timestamps {
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-bottom: 1.5em;
+  display: flex;
+  gap: 1.5em;
+}
+
+.timestamps i {
+  margin-right: 0.3em;
+}
+
+/* ========================== Layout ===================================== */
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: var(--bg-primary);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0 var(--spacing);
+  backdrop-filter: blur(10px);
+  background-color: rgba(var(--bg-primary), 0.9);
+}
+
+.navbar-inner {
+  max-width: var(--content-width-wide);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.navbar h1 {
+  font-family: var(--font-heading);
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0.8em 0 !important;
+  border: none;
+}
+
+.navbar a {
+  border-bottom: none;
+}
+
+.navbar a:hover h1 {
+  color: var(--accent);
+}
+
+/* Search button */
+.search-button {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 0.4em 0.8em;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: border-color var(--transition);
+  font-size: 0.85em;
+}
+
+.search-button:hover {
+  border-color: var(--accent);
+}
+
+/* Content area */
+.content {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 90px var(--spacing) 4em;
+  font-size: var(--font-size-base);
+  line-height: var(--line-height);
+  position: relative;
+
+  @media (max-width: 800px) {
+    padding-top: 75px;
+  }
+}
+
+/* ========================== Sidebar → Bottom =========================== */
+/* Move sidebar content (TOC, graph, backlinks) from fixed right to below content */
+aside {
+  position: static !important;
+}
+
+.sidebar {
+  position: static !important;
+  max-width: var(--content-width);
+  margin: 3em auto 0;
+  padding: 0 var(--spacing);
+  height: auto !important;
+  min-width: auto !important;
+  display: block !important;
+  border-top: 1px solid var(--border-color);
+  padding-top: 2em;
+}
+
+.sidebar-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2em;
+}
+
+/* Graph */
+.sidebar .graph {
+  width: 100% !important;
+  min-height: 300px;
+
+  #link-graph {
+    width: 100% !important;
+    height: 300px;
+  }
+}
+
+/* Table of Contents */
+.toc {
+  padding: 1em 1.5em;
+  background: var(--bg-secondary);
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+}
+
+.toc-title {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.5em;
+  color: var(--text-primary);
+}
+
+.toc a {
+  color: var(--text-secondary);
+  font-size: 0.9em;
+  border-bottom: none;
+}
+
+.toc a:hover {
+  color: var(--accent);
+}
+
+/* Backlinks */
+.backlinks {
+  padding: 1.5em 0;
+}
+
+.backlink-title {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--text-primary);
+  margin-bottom: 0.8em !important;
+}
+
+.backlink-card {
+  padding: 0.4em 0;
+}
+
+.backlink-card a {
+  color: var(--link-color);
+  font-size: 0.9em;
+}
+
+.backlink-card i {
+  color: var(--text-muted);
+  margin-right: 0.3em;
+}
+
+.no-backlinks-message {
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+/* ======================== Task Lists =================================== */
+ul.task-list {
+  list-style: none;
+  padding-left: 0.5em;
+}
+
+ul.task-list li {
+  position: relative;
+  padding-left: 1.8em;
+}
+
+input[type="checkbox"] {
+  accent-color: var(--accent);
+}
+
+/* ======================== Transclusions ================================ */
+div.transclusion {
+  position: relative;
+  padding: 1em;
+  margin: 1em 0;
+  border-left: 3px solid var(--border-color);
+  background: var(--bg-secondary);
+  border-radius: 0 4px 4px 0;
+
+  .markdown-embed-link {
+    z-index: 99;
+    display: block;
+    width: auto !important;
+  }
+}
+
+/* ========================= File Tree =================================== */
+.filetree-sidebar {
+  background: var(--bg-secondary);
+  border-right: 1px solid var(--border-color);
+}
+
+.filetree-sidebar a {
+  color: var(--text-secondary);
+  border-bottom: none;
+}
+
+.filetree-sidebar a:hover {
+  color: var(--accent);
+}
+
+/* ========================== Footer / Meta ============================== */
+.content > footer {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85em;
+  color: var(--text-muted);
+}
+
+/* ========================= Print Styles ================================ */
+@media print {
+  .navbar, .sidebar, .search-button, .search-container {
+    display: none !important;
+  }
+
+  .content {
+    max-width: 100%;
+    padding-top: 0;
+  }
+
+  a { color: inherit; border-bottom: 1px solid #999; }
+  a::after { content: " (" attr(href) ")"; font-size: 0.8em; color: #666; }
+  a.internal-link::after { content: none; }
+}
+
+/* ======================== Mermaid Diagrams ============================== */
+.markdown-preview-view pre.mermaid {
+  background: var(--bg-secondary);
+  border-radius: 6px;
+  padding: 1em;
+  border: 1px solid var(--border-color);
+}
+
+/* ======================== Selection ===================================== */
+::selection {
+  background: var(--accent-subtle);
+  color: var(--text-primary);
+}
+
+/* ====================== Smooth Scrolling =============================== */
+html {
+  scroll-behavior: smooth;
 }

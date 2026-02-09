@@ -1,13 +1,14 @@
 {%if settings.dgHomeLink === true%}
     <nav class="navbar">
         <div class="navbar-inner">
-            <a href="/" style="text-decoration: none;">
-                <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+            <a href="/" style="text-decoration: none; border-bottom: none;">
+                <h1 style="margin: 15px 0 !important;">{{meta.siteName}}</h1>
             </a>
+            <div class="navbar-spacer" style="flex: 1;"></div>
+            {% if settings.dgEnableSearch === true%}
+                {% include "components/searchButton.njk" %}
+            {%endif%}
         </div>
-        {% if settings.dgEnableSearch === true%}
-            {% include "components/searchButton.njk" %}
-        {%endif%}
     </nav>
     {%else%}
     <div class="empty-navbar" >
