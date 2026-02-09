@@ -393,6 +393,69 @@ img {
   transform: rotate(-90deg);
 }
 
+/* ==================== Growth Badges & Reading Time ===================== */
+.header-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 0.6em;
+  flex-wrap: wrap;
+}
+
+.growth-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.8em;
+  font-weight: 500;
+  padding: 0.2em 0.7em;
+  border-radius: 12px;
+  border: 1px solid;
+  line-height: 1.4;
+}
+
+.growth-badge--seed {
+  color: #5a9e3e;
+  background: rgba(90, 158, 62, 0.1);
+  border-color: rgba(90, 158, 62, 0.3);
+}
+
+.growth-badge--plant {
+  color: #3db88c;
+  background: rgba(61, 184, 140, 0.1);
+  border-color: rgba(61, 184, 140, 0.3);
+}
+
+.growth-badge--evergreen {
+  color: #2d7d46;
+  background: rgba(45, 125, 70, 0.1);
+  border-color: rgba(45, 125, 70, 0.3);
+}
+
+.growth-badge--grove {
+  color: #d4a853;
+  background: rgba(212, 168, 83, 0.1);
+  border-color: rgba(212, 168, 83, 0.3);
+}
+
+.growth-badge--forest {
+  color: #8b6d3f;
+  background: rgba(139, 109, 63, 0.1);
+  border-color: rgba(139, 109, 63, 0.3);
+}
+
+.reading-time {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.85em;
+  color: var(--text-muted);
+  gap: 0.3em;
+}
+
+.reading-time svg {
+  width: 14px;
+  height: 14px;
+}
+
 /* ========================== Tags ======================================= */
 .header-tags {
   margin: 0.5em 0 1.5em;

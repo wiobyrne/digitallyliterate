@@ -32,6 +32,20 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
         <div class="header-meta">
+          <div class="header-meta-row">
+            {%- set stage = page.url | growthStage -%}
+            {%- if stage %}
+            <span class="growth-badge growth-badge--{{ stage }}">
+              {%- if stage === "seed" %}🌱 Seed
+              {%- elif stage === "plant" %}🌿 Plant
+              {%- elif stage === "evergreen" %}🌲 Evergreen
+              {%- elif stage === "grove" %}🪴 Grove
+              {%- elif stage === "forest" %}🌳 Forest
+              {%- endif -%}
+            </span>
+            {%- endif %}
+            <span class="reading-time"><i icon-name="clock"></i> {{ content | readingTime }}</span>
+          </div>
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
               {% for tag in tags %}
