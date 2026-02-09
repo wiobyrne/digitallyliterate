@@ -1,4 +1,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  // Prevent flash of wrong theme — runs before body renders
+  (function() {
+    var saved = localStorage.getItem('dg-theme');
+    if (saved) {
+      document.documentElement.className = saved;
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+      document.documentElement.className = 'theme-light';
+    }
+  })();
+</script>
 <script async type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 </script>

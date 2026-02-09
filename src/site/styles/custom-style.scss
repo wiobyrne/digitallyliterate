@@ -640,6 +640,40 @@ div.transclusion {
   color: var(--accent);
 }
 
+/* ======================== Theme Toggle ================================= */
+.theme-toggle {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 0.4em 0.55em;
+  cursor: pointer;
+  transition: border-color var(--transition), background var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.5em;
+  color: var(--text-secondary);
+  line-height: 1;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.theme-toggle svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* In dark mode: show sun icon (click to go light), hide moon */
+.theme-dark .theme-icon-dark { display: none; }
+.theme-dark .theme-icon-light { display: flex; }
+
+/* In light mode: show moon icon (click to go dark), hide sun */
+.theme-light .theme-icon-light { display: none; }
+.theme-light .theme-icon-dark { display: flex; }
+
 /* ========================== Footer / Meta ============================== */
 .content > footer {
   margin-top: 3em;
@@ -649,9 +683,69 @@ div.transclusion {
   color: var(--text-muted);
 }
 
+/* ========================== Site Footer ================================ */
+.site-footer {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 2em var(--spacing) 3em;
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85em;
+  color: var(--text-muted);
+}
+
+.site-footer-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.8em;
+}
+
+.footer-left {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+
+.footer-site-name {
+  color: var(--text-secondary);
+  font-weight: 500;
+  border-bottom: none !important;
+}
+
+.footer-site-name:hover {
+  color: var(--accent);
+}
+
+.footer-separator {
+  color: var(--border-color);
+}
+
+.footer-right a {
+  color: var(--text-muted);
+  border-bottom: 1px solid transparent;
+}
+
+.footer-right a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+@media (max-width: 500px) {
+  .site-footer-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@media print {
+  .site-footer { display: none; }
+}
+
 /* ========================= Print Styles ================================ */
 @media print {
-  .navbar, .sidebar, .search-button, .search-container {
+  .navbar, .sidebar, .search-button, .search-container, .theme-toggle {
     display: none !important;
   }
 

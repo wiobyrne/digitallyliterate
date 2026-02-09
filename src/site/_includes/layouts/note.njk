@@ -91,6 +91,30 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
+    <script>
+    function toggleTheme() {
+      var body = document.body;
+      var isCurrentlyDark = body.classList.contains('theme-dark');
+      var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
+
+      body.classList.remove('theme-dark', 'theme-light');
+      body.classList.add(newTheme);
+      document.documentElement.className = newTheme;
+      localStorage.setItem('dg-theme', newTheme);
+
+      // Re-init icons since Lucide may need to redraw
+      if (window.lucide) { window.lucide.createIcons(); }
+    }
+
+    // On page load, apply saved theme to body (the <html> script runs first to prevent flash)
+    (function() {
+      var saved = localStorage.getItem('dg-theme');
+      if (saved) {
+        document.body.classList.remove('theme-dark', 'theme-light');
+        document.body.classList.add(saved);
+      }
+    })();
+    </script>
     {%include "components/lucideIcons.njk"%}
   </body>
 </html>

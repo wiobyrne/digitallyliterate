@@ -5,6 +5,10 @@
                 <h1 style="margin: 15px 0 !important;">{{meta.siteName}}</h1>
             </a>
             <div class="navbar-spacer" style="flex: 1;"></div>
+            <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light mode" title="Toggle dark/light mode">
+                <i icon-name="sun" class="theme-icon-light"></i>
+                <i icon-name="moon" class="theme-icon-dark"></i>
+            </button>
             {% if settings.dgEnableSearch === true%}
                 {% include "components/searchButton.njk" %}
             {%endif%}
@@ -12,6 +16,10 @@
     </nav>
     {%else%}
     <div class="empty-navbar" >
+        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light mode" title="Toggle dark/light mode">
+            <i icon-name="sun" class="theme-icon-light"></i>
+            <i icon-name="moon" class="theme-icon-dark"></i>
+        </button>
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
