@@ -4,7 +4,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
   <head>
-    <title>{% if title %}{{ title }} — {{meta.siteName}}{% else %}{{ page.fileSlug }} — {{meta.siteName}}{% endif %}</title>
+    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
     {% for imp in dynamics.common.head %}
       {% include imp %}
@@ -13,7 +13,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
@@ -26,29 +26,12 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <main class="content cm-s-obsidian {{contentClasses}}" data-pagefind-body>
+    <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
-        {%- if connections and connections.length > 0 -%}
-          <div class="note-breadcrumb">Part of: {{ connections[0] | stripWikilink }}</div>
-        {%- endif -%}
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
         <div class="header-meta">
-          <div class="header-meta-row">
-            {%- set stage = page.url | growthStage -%}
-            {%- if stage %}
-            <span class="growth-badge growth-badge--{{ stage }}">
-              {%- if stage === "seed" %}🌱 Seed
-              {%- elif stage === "plant" %}🌿 Plant
-              {%- elif stage === "evergreen" %}🌲 Evergreen
-              {%- elif stage === "grove" %}🪴 Grove
-              {%- elif stage === "forest" %}🌳 Forest
-              {%- endif -%}
-            </span>
-            {%- endif %}
-            <span class="reading-time"><i icon-name="clock"></i> {{ content | readingTime }}</span>
-          </div>
           {% if settings.dgShowTags === true and tags %}
             <div class="header-tags">
               {% for tag in tags %}
@@ -63,10 +46,10 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
           {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
           <div class="timestamps">
             {%- if meta.timestampSettings.showCreated and created -%}
-            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
+            <div><i data-lucide="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
-            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
+            <div><i data-lucide="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
           </div>
           {%- endif -%}
@@ -108,30 +91,9 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
-    <script>
-    function toggleTheme() {
-      var body = document.body;
-      var isCurrentlyDark = body.classList.contains('theme-dark');
-      var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
-
-      body.classList.remove('theme-dark', 'theme-light');
-      body.classList.add(newTheme);
-      document.documentElement.className = newTheme;
-      localStorage.setItem('dg-theme', newTheme);
-
-      // Re-init icons since Lucide may need to redraw
-      if (window.lucide) { window.lucide.createIcons(); }
-    }
-
-    // On page load, apply saved theme to body (the <html> script runs first to prevent flash)
-    (function() {
-      var saved = localStorage.getItem('dg-theme');
-      if (saved) {
-        document.body.classList.remove('theme-dark', 'theme-light');
-        document.body.classList.add(saved);
-      }
-    })();
-    </script>
     {%include "components/lucideIcons.njk"%}
+    {% if contentClasses and "canvas-page" in contentClasses %}
+      {%include "components/canvasScript.njk"%}
+    {% endif %}
   </body>
 </html>
