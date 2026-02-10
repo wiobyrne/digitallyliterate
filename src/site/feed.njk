@@ -17,8 +17,7 @@
         <uri>https://wiobyrne.com</uri>
     </author>
     <icon>{{ meta.siteBaseUrl }}/favicon.svg</icon>
-    {%- for note in collections.note | reverse %}
-    {%- if loop.index0 < 50 %}
+    {%- for note in collections.feedEntries %}
         <entry>
             <title>{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
             <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
@@ -35,7 +34,6 @@
             {%- endfor %}
             {%- endif %}
         </entry>
-    {%- endif %}
     {%- endfor %}
 </feed>
 {% endif %}

@@ -12,11 +12,20 @@ function userEleventySetup(eleventyConfig) {
     return minutes + " min read";
   });
 
-  // Books collection — pre-filtered to avoid Nunjucks stack overflow on large collections
+  // Pre-filtered collections to avoid Nunjucks stack overflow on large collections.
+  // Nunjucks iterates recursively — looping 1,300+ items blows the stack on Netlify.
+
   eleventyConfig.addCollection("books", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
       return item.url && item.url.startsWith("/01-consume/books/") && item.url !== "/books-folder-note/";
     });
+  });
+
+  // Feed: latest 50 notes, pre-sliced so Nunjucks only iterates 50 items
+  eleventyConfig.addCollection("feedEntries", function (collectionApi) {
+    return collectionApi.getFilteredByTag("note").sort(function (a, b) {
+      return (b.date || 0) - (a.date || 0);
+    }).slice(0, 50);
   });
 
   // Growth stage filter — derives stage from permalink path
