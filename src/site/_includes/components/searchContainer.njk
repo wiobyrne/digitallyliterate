@@ -1,65 +1,38 @@
-<div class="search-container" id="globalsearch" onclick="toggleSearch(event)">
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
     <div class="search-box" onclick="event.stopPropagation()">
-        <div id="pagefind-search"></div>
+        <div class="search-header">
+            <input type="search" id="term" placeholder="{{ meta.uiStrings.searchPlaceholder }}">
+        </div>
+
+        <div class="search-layout no-preview" id="search-layout">
+            <!-- Left panel: Results list -->
+            <div class="search-results-panel" id="search-results"></div>
+
+            <!-- Right panel: Content preview (hidden until search starts) -->
+            <div class="search-preview-panel" id="search-preview">
+                <div class="preview-placeholder">
+                    <i data-lucide="file-text"></i>
+                    <p>{{ meta.uiStrings.searchPreviewPlaceholder | default("Select a result to preview") }}</p>
+                </div>
+                <div class="preview-content" id="preview-content"></div>
+            </div>
+        </div>
+
         <footer class="search-box-footer">
             <div class="navigation-hint">
-                <span>ESC to close</span>
+                <span>{{ meta.uiStrings.searchEnterHint }}</span>
+            </div>
+
+            <div class="navigation-hint align-icon">
+                <i data-lucide="arrow-up" aria-hidden="true"></i>
+                <i data-lucide="arrow-down" aria-hidden="true"></i>
+                <span>{{ meta.uiStrings.searchNavigateHint }}</span>
+            </div>
+
+            <div class="navigation-hint">
+                <span>{{ meta.uiStrings.searchCloseHint }}</span>
             </div>
         </footer>
     </div>
 </div>
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<script>
-    window.addEventListener('DOMContentLoaded', function() {
-        new PagefindUI({
-            element: "#pagefind-search",
-            showSubResults: true,
-            showImages: false,
-            resetStyles: false
-        });
-
-        // Focus the search input when modal opens
-        var observer = new MutationObserver(function() {
-            if (document.getElementById('globalsearch').classList.contains('active')) {
-                var input = document.querySelector('#pagefind-search input');
-                if (input) input.focus();
-            }
-        });
-        observer.observe(document.getElementById('globalsearch'), { attributes: true, attributeFilter: ['class'] });
-    });
-
-    window.toggleSearch = function(evt) {
-        if (evt && evt.target && evt.target.closest && evt.target.closest('.search-box')) return;
-        var el = document.getElementById('globalsearch');
-        if (el.classList.contains('active')) {
-            el.classList.remove('active');
-        } else {
-            el.classList.add('active');
-            var input = document.querySelector('#pagefind-search input');
-            if (input) input.focus();
-        }
-    };
-
-    window.toggleTagSearch = function(evt) {
-        var term = evt.textContent;
-        if (term) {
-            var input = document.querySelector('#pagefind-search input');
-            if (input) {
-                input.value = term.trim();
-                input.dispatchEvent(new Event('input', { bubbles: true }));
-            }
-            document.getElementById('globalsearch').classList.add('active');
-        }
-    };
-
-    document.addEventListener('keydown', function(e) {
-        if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-            e.preventDefault();
-            toggleSearch();
-        }
-        if (e.key === 'Escape') {
-            document.getElementById('globalsearch').classList.remove('active');
-        }
-    });
-</script>
+{%include "components/searchScript.njk"%}
