@@ -12,6 +12,13 @@ function userEleventySetup(eleventyConfig) {
     return minutes + " min read";
   });
 
+  // Books collection — pre-filtered to avoid Nunjucks stack overflow on large collections
+  eleventyConfig.addCollection("books", function (collectionApi) {
+    return collectionApi.getFilteredByTag("note").filter(function (item) {
+      return item.url && item.url.startsWith("/01-consume/books/") && item.url !== "/books-folder-note/";
+    });
+  });
+
   // Growth stage filter — derives stage from permalink path
   eleventyConfig.addFilter("growthStage", function (permalink) {
     if (!permalink) return "";

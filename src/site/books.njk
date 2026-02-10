@@ -24,7 +24,7 @@ eleventyExcludeFromCollections: true
         <h1>Book Notes</h1>
         <div class="header-meta">
           <div class="header-meta-row">
-            <span class="reading-time"><i icon-name="book-open"></i> {{ collections.note | length }} notes in the garden</span>
+            <span class="reading-time"><i icon-name="book-open"></i> {{ collections.books | length }} book notes</span>
           </div>
         </div>
       </header>
@@ -45,8 +45,7 @@ eleventyExcludeFromCollections: true
           </tr>
         </thead>
         <tbody>
-          {%- for note in collections.note -%}
-            {%- if note.url and note.url.startsWith('/01-consume/books/') and note.url !== '/books-folder-note/' -%}
+          {%- for note in collections.books -%}
             <tr class="book-row" data-title="{{ note.data.title | lower }}" data-tags="{{ note.data.tags | join(' ') | lower }}">
               <td><a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a></td>
               <td class="book-tags">
@@ -59,7 +58,6 @@ eleventyExcludeFromCollections: true
                 {%- endif -%}
               </td>
             </tr>
-            {%- endif -%}
           {%- endfor -%}
         </tbody>
       </table>
