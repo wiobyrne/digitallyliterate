@@ -26,15 +26,15 @@ Digitally Literate is a **digital garden**.
 Notes grow here over time.  
 Nothing is finished. Everything is evolving.
 
-Ideas usually move through stages:
+Ideas move through stages of maturity:
 
 - 🌱 **Seeds** — quick notes, questions, fragments
 - 🌿 **Plants** — developing connections and patterns
-- 🌳 **Evergreens** — ideas that feel sturdy enough to reuse and share
+- 🌲 **Evergreens** — durable insights, polished and ready to share
+- 🪴 **Groves** — curated clusters of related notes on a theme
+- 🌳 **Forests** — big-picture syntheses across multiple groves
 
-You’re welcome to wander.
-
-Start anywhere. Follow links. See what connects.
+Not sure where to start? Try the [Start Here](/start/) page, explore the [Groves](/groves/), or just wander. Follow links. See what connects.
 
 ---
 

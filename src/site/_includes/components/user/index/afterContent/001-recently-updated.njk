@@ -1,0 +1,9 @@
+<hr>
+<h2>🌱 Recently updated</h2>
+<ul class="recent-list">
+{%- for note in collections.recentlyUpdated -%}
+  <li>
+    <a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a>
+  </li>
+{%- endfor -%}
+</ul>

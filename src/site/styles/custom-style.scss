@@ -533,6 +533,37 @@ img {
   color: var(--accent);
 }
 
+/* Nav links */
+.navbar-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.2em;
+  margin-left: 1.5em;
+}
+
+.nav-link {
+  font-size: 0.85em;
+  font-weight: 500;
+  color: var(--text-secondary);
+  padding: 0.3em 0.6em;
+  border-radius: 4px;
+  border-bottom: none !important;
+  transition: color var(--transition), background var(--transition);
+  white-space: nowrap;
+}
+
+.nav-link:hover {
+  color: var(--link-color);
+  background: var(--accent-subtle);
+  border-bottom: none !important;
+}
+
+@media (max-width: 800px) {
+  .navbar-nav {
+    display: none;
+  }
+}
+
 /* Search button */
 .search-button {
   background: var(--bg-secondary);
@@ -1096,6 +1127,140 @@ div.transclusion {
   a {
     font-weight: 500;
   }
+}
+
+/* ====================== Landing Pages ================================== */
+.landing-subtitle {
+  font-size: 1.1em;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-top: -0.5em;
+  margin-bottom: 1.5em;
+}
+
+.landing-list {
+  display: grid;
+  gap: 0;
+}
+
+.landing-item {
+  padding: 0.5em 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.landing-item a {
+  font-weight: 500;
+}
+
+/* ====================== Grove Cards ==================================== */
+.grove-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1em;
+  margin: 1.5em 0;
+}
+
+.grove-card {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  padding: 1em 1.2em;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  transition: border-color var(--transition), box-shadow var(--transition);
+  text-decoration: none !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
+
+.grove-card:hover {
+  border-color: var(--link-color) !important;
+  box-shadow: var(--shadow-sm);
+}
+
+.grove-card-icon {
+  font-size: 1.4em;
+  flex-shrink: 0;
+}
+
+.grove-card-title {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 1rem;
+}
+
+/* ====================== Start Here Page ================================ */
+.start-paths {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.2em;
+  margin: 1.5em 0;
+}
+
+.start-path {
+  padding: 1.2em;
+  background: var(--bg-secondary);
+  border-radius: 6px;
+  border: 1px solid var(--border-color);
+}
+
+.start-path h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-size: 1.1rem;
+}
+
+.start-path p {
+  margin-bottom: 0;
+  font-size: 0.95em;
+}
+
+kbd {
+  display: inline-block;
+  padding: 0.15em 0.4em;
+  font-family: var(--font-mono);
+  font-size: 0.8em;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+}
+
+/* ====================== Breadcrumbs ==================================== */
+.note-breadcrumb {
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-bottom: 0.5em;
+}
+
+.note-breadcrumb a {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.note-breadcrumb a:hover {
+  color: var(--link-color);
+}
+
+/* ====================== Recently Updated =============================== */
+.recent-list {
+  list-style: none;
+  padding: 0;
+}
+
+.recent-list li {
+  padding: 0.4em 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.recent-list a {
+  font-weight: 500;
+}
+
+.recent-date {
+  font-size: 0.8em;
+  color: var(--text-muted);
+  margin-left: 0.5em;
 }
 
 /* ====================== Smooth Scrolling =============================== */

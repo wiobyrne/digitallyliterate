@@ -4,6 +4,14 @@
             <a href="/" style="text-decoration: none; border-bottom: none;">
                 <h1 style="margin: 15px 0 !important;">{{meta.siteName}}</h1>
             </a>
+            <div class="navbar-nav">
+                <a href="/start/" class="nav-link">Start Here</a>
+                <a href="/evergreens/" class="nav-link">Evergreens</a>
+                <a href="/groves/" class="nav-link">Groves</a>
+                <a href="/books/" class="nav-link">Books</a>
+                <a href="/newsletter/" class="nav-link">Newsletter</a>
+                <a href="/about/" class="nav-link">About</a>
+            </div>
             <div class="navbar-spacer" style="flex: 1;"></div>
             {% if settings.dgEnableSearch === true%}
                 {% include "components/searchButton.njk" %}

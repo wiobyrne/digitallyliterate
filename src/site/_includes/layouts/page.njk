@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+  <head>
+    <title>{% if title %}{{ title }} — {% endif %}{{ meta.siteName }}</title>
+    {%include "components/pageheader.njk"%}
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+    {%include "components/notegrowthhistory.njk"%}
+    {% if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
+    {% endif %}
+    {% if settings.dgEnableSearch === true %}
+      {%include "components/searchContainer.njk"%}
+    {% endif %}
+
+    <main class="content cm-s-obsidian" data-pagefind-body>
+      {{ content | safe }}
+    </main>
+
+    {% for imp in dynamics.common.footer %}
+      {% include imp %}
+    {% endfor %}
+    <script>
+    function toggleTheme() {
+      var body = document.body;
+      var isCurrentlyDark = body.classList.contains('theme-dark');
+      var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
+      body.classList.remove('theme-dark', 'theme-light');
+      body.classList.add(newTheme);
+      document.documentElement.className = newTheme;
+      localStorage.setItem('dg-theme', newTheme);
+      if (window.lucide) { window.lucide.createIcons(); }
+    }
+    (function() {
+      var saved = localStorage.getItem('dg-theme');
+      if (saved) {
+        document.body.classList.remove('theme-dark', 'theme-light');
+        document.body.classList.add(saved);
+      }
+    })();
+    </script>
+    {%include "components/lucideIcons.njk"%}
+  </body>
+</html>

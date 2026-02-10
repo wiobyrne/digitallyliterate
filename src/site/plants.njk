@@ -1,0 +1,38 @@
+---
+layout: layouts/page.njk
+title: Plant Notes
+permalink: /plants/
+eleventyExcludeFromCollections: true
+---
+<header>
+  <h1>Plant Notes</h1>
+  <p class="landing-subtitle">Ideas taking root — developing connections and patterns.</p>
+</header>
+
+<p><strong>Plants</strong> have grown past the initial seed stage. These are concepts I'm actively researching and developing, building structure and evidence as they move toward becoming evergreen. They're not finished, but they're taking shape.</p>
+
+<p class="book-count">{{ collections.plants | length }} plant notes</p>
+
+<div class="book-filters">
+  <input type="text" id="landing-filter" placeholder="Filter by title..." class="book-filter-input" autocomplete="off">
+</div>
+
+<div class="landing-list" id="landing-list">
+  {%- for note in collections.plants -%}
+    <div class="landing-item" data-title="{{ note.data.title | lower }}">
+      <a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a>
+    </div>
+  {%- endfor -%}
+</div>
+
+<script>
+(function() {
+  var items = Array.from(document.querySelectorAll('.landing-item'));
+  document.getElementById('landing-filter').addEventListener('input', function() {
+    var q = this.value.toLowerCase();
+    items.forEach(function(item) {
+      item.style.display = item.dataset.title.indexOf(q) !== -1 ? '' : 'none';
+    });
+  });
+})();
+</script>

@@ -1,0 +1,38 @@
+---
+layout: layouts/page.njk
+title: Evergreen Notes
+permalink: /evergreens/
+eleventyExcludeFromCollections: true
+---
+<header>
+  <h1>Evergreen Notes</h1>
+  <p class="landing-subtitle">Durable ideas — polished, reusable, and ready to share.</p>
+</header>
+
+<p><strong>Evergreens</strong> are the mature notes in this garden. They've been developed from seeds and plants into ideas I trust enough to build on and share. Each one is structurally complete, grounded in evidence, and connected to the broader network of this garden.</p>
+
+<p class="book-count">{{ collections.evergreens | length }} evergreen notes</p>
+
+<div class="book-filters">
+  <input type="text" id="landing-filter" placeholder="Filter by title..." class="book-filter-input" autocomplete="off">
+</div>
+
+<div class="landing-list" id="landing-list">
+  {%- for note in collections.evergreens -%}
+    <div class="landing-item" data-title="{{ note.data.title | lower }}">
+      <a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a>
+    </div>
+  {%- endfor -%}
+</div>
+
+<script>
+(function() {
+  var items = Array.from(document.querySelectorAll('.landing-item'));
+  document.getElementById('landing-filter').addEventListener('input', function() {
+    var q = this.value.toLowerCase();
+    items.forEach(function(item) {
+      item.style.display = item.dataset.title.indexOf(q) !== -1 ? '' : 'none';
+    });
+  });
+})();
+</script>
