@@ -1,28 +1,54 @@
-
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
     <head>
-        <title>Nothing here</title>
-        <link href="/styles/digital-garden-base.css" rel="stylesheet">
-        {%-if meta.themeStyle%}
-            <link href="/styles/obsidian-base.css" rel="stylesheet">
-    	    <link href="{{meta.themeStyle}}" rel="stylesheet">
-        {% else %}
-            <link href="/styles/style.css" rel="stylesheet">
-        {%endif%}
-
-        <link href="/styles/custom-style.css" rel="stylesheet">
-        
+        <title>Page not found — {{meta.siteName}}</title>
+        {%include "components/pageheader.njk"%}
     </head>
     <body class="theme-{{meta.baseTheme}} markdown-preview-view">
-        <div class="content centered">
+        {%include "components/navbar.njk"%}
+        <main class="content four-oh-four">
+            <h1>This note hasn't grown yet</h1>
+            <p>The page you're looking for doesn't exist — it may be a private note, or the link may have changed.</p>
 
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
-        </div>
+            <div class="four-oh-four-actions">
+                <a href="/" class="four-oh-four-btn">Back to the garden</a>
+                <button class="four-oh-four-btn four-oh-four-btn--outline" onclick="toggleSearch()">Search notes</button>
+            </div>
+
+            <div class="four-oh-four-suggestions">
+                <h2>Places to start</h2>
+                <ul>
+                    <li><a href="/newsletter/">Newsletter archive</a> — 420+ issues on digital literacy</li>
+                    <li><a href="/notes/evergreens/">Evergreen notes</a> — developed ideas and frameworks</li>
+                    <li><a href="/notes/books/">Book notes</a> — summaries and reflections</li>
+                    <li><a href="/notes/blog/">Blog posts</a> — writing and essays</li>
+                </ul>
+            </div>
+        </main>
+
+        {% if settings.dgEnableSearch === true %}
+            {%include "components/searchContainer.njk"%}
+        {% endif %}
+
+        <script>
+        (function() {
+            var saved = localStorage.getItem('dg-theme');
+            if (saved) {
+                document.body.classList.remove('theme-dark', 'theme-light');
+                document.body.classList.add(saved);
+            }
+        })();
+        function toggleTheme() {
+            var body = document.body;
+            var isCurrentlyDark = body.classList.contains('theme-dark');
+            var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
+            body.classList.remove('theme-dark', 'theme-light');
+            body.classList.add(newTheme);
+            document.documentElement.className = newTheme;
+            localStorage.setItem('dg-theme', newTheme);
+            if (window.lucide) { window.lucide.createIcons(); }
+        }
+        </script>
+        {%include "components/lucideIcons.njk"%}
     </body>
 </html>

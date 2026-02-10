@@ -1,39 +1,35 @@
 ---
-{"dg-publish":true,"dg-permalink":"evergreens","permalink":"/evergreens/","title":"🌲 Evergreens Index","tags":["index","evergreens","strategic-frameworks","digital-literacy","implementation-ready"]}
+{"dg-publish":true,"permalink":"/notes/evergreens/","title":"Evergreen Notes","tags":["evergreen","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
 ---
 
 
-# 🌲 Evergreens
+# Evergreen Notes
 
-**Evergreens** are the finished products of my digital garden. These are the mature, polished, and ready-to-use frameworks that have grown from **[[02 DEVELOP/🌱 Seeds/🌱 Seeds\|🌱 Seeds]]** and been cultivated as **[[02 DEVELOP/🌿 Plants/🌿 Plants\|🌿 Plants]]**. They are my core insights and expertise, organized here for easy use.
+Evergreen notes are ideas that have been developed, tested, and refined over time. They represent my most considered thinking on a topic — the kind of notes I'd feel comfortable sharing, citing, or building on.
 
-You can review all current evergreens at the bottom of this note.
+In the growth model of this garden:
 
-## The Cultivation Process
-An evergreen note reaches its final form when it is:
-- **Structurally Complete**: The framework has a clear, organized architecture and is fully documented.
-- **Evidence-Based**: It is thoroughly supported by research, case studies, and real-world application.
-- **Refined and Polished**: The content has been edited and refined to a professional, publication-ready standard.
-- **Practically Tested**: The framework has been applied and tested, and its value has been validated.
-- **Fully Integrated**: It is linked and contextualized within the larger network of my garden.
+- 🌱 **Seeds** are fragments and questions
+- 🌿 **Plants** are developing connections
+- 🌲 **Evergreens** are sturdy, reusable ideas
 
-## Using This Index
-This index is designed to guide you through the network of evergreen notes in this vault. This comprehensive catalog provides systematic access to implementation-ready strategic frameworks. I use it to:
-- **Make Decisions**: Get quick access to authoritative frameworks for important choices.
-- **Plan Implementation**: Find a complete reference for deploying proven methodologies.
-- **Assess Risk**: Select the right security and resilience frameworks for your needs.
-- **Grow Professionally**: Access industry-defining competency models and training frameworks.
-- **Find a Partner**: Identify frameworks for potential organizational collaboration.
+These notes aren't finished — nothing in a garden is. But they've been tended enough to stand on their own.
 
-## The Evergreen Philosophy
-Evergreens are more than just finished products; they represent the culmination of a rigorous process.
+---
 
-- **Durability and Trust**: These frameworks are built to be reliable, providing a trustworthy foundation for both decision-making and practical application.
-- **Building Blocks**: While they are complete, evergreens are not static. They serve as foundational concepts that I use as building blocks to generate new insights and tackle complex challenges.
-- **Shared Expertise**: By making these frameworks accessible, I am sharing the validated outcomes of my intellectual work, providing a resource that others can confidently use and learn from.
+## What you'll find here
 
-## 🔗 All Evergreen Notes
+- Frameworks for thinking about digital literacy and education
+- Arguments about AI, privacy, and technology ethics
+- Pedagogical approaches and classroom strategies
+- Theories connecting research to practice
 
-The table below identifies all evergreen notes in the garden.
+---
 
-![[Evergreens.base]]
+## How to explore
+
+Browse the file tree, or search for a topic. Each evergreen links to the seeds and plants that helped shape it, and to other evergreens that connect.
+
+---
+
+*Currently growing 90+ evergreen notes.*

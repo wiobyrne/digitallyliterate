@@ -6,25 +6,36 @@
 ---
 {%if meta.siteBaseUrl %}<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ meta.siteBaseUrl }}">
-    <title>{{ meta.siteName}}</title>
-    <link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self" /////>
+    <title>{{ meta.siteName }}</title>
+    <subtitle>A digital garden by Ian O'Byrne — notes on digital literacy, education, and building a more open web.</subtitle>
+    <link href="{{ meta.siteBaseUrl }}/feed.xml" rel="self" type="application/atom+xml" /////>
     <link href="{{ meta.siteBaseUrl }}" /////>
     <updated>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-    <id>{{ meta.siteBaseUrl }}</id>
+    <id>{{ meta.siteBaseUrl }}/</id>
+    <author>
+        <name>Ian O'Byrne</name>
+        <uri>https://wiobyrne.com</uri>
+    </author>
+    <icon>{{ meta.siteBaseUrl }}/favicon.svg</icon>
     {%- for note in collections.note | reverse %}
+    {%- if loop.index0 < 50 %}
         <entry>
-            <title>
-                {% if note.title %}{{ note.title }}
-                {% else %}{{ note.fileSlug }}
-                {% endif %}
-            </title>
+            <title>{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</title>
             <updated>{%if note.data.updated %}{{ note.data.updated | dateToZulu }}{%else%}{{ note.date | dateToRfc3339 }}{%endif%}</updated>
-            <id>{{ meta.siteBaseUrl }}{{note.url | url }}</id>
+            <id>{{ meta.siteBaseUrl }}{{ note.url | url }}</id>
+            <link href="{{ meta.siteBaseUrl }}{{ note.url | url }}" /////>
             <content type="html">
                 {{ note.templateContent | hideDataview | taggify | link | htmlToAbsoluteUrls(meta.siteBaseUrl) }}
             </content>
-            <link href="{{ meta.siteBaseUrl }}{{note.url | url }}" /////>
+            {%- if note.data.tags %}
+            {%- for tag in note.data.tags %}
+            {%- if tag != 'gardenEntry' and tag != 'note' %}
+            <category term="{{ tag }}" /////>
+            {%- endif %}
+            {%- endfor %}
+            {%- endif %}
         </entry>
+    {%- endif %}
     {%- endfor %}
 </feed>
 {% endif %}

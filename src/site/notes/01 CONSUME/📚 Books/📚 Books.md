@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/books/","title":"📚 Books","tags":["books","reading","library","folder-note"]}
+{"dg-publish":true,"permalink":"/notes/books/","title":"Book Notes","tags":["books","reading","library","folder-note"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
 ---
 
 

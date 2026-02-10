@@ -925,6 +925,89 @@ div.transclusion {
   color: var(--text-primary);
 }
 
+/* ========================== 404 Page =================================== */
+.four-oh-four {
+  text-align: center;
+  padding-top: 120px;
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+  }
+
+  p {
+    color: var(--text-secondary);
+    font-size: 1.1em;
+    max-width: 480px;
+    margin: 0 auto 2em;
+  }
+}
+
+.four-oh-four-actions {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  margin-bottom: 3em;
+  flex-wrap: wrap;
+}
+
+.four-oh-four-btn {
+  display: inline-block;
+  padding: 0.7em 1.5em;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.95em;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+  background: var(--accent);
+  color: white;
+  font-family: var(--font-body);
+}
+
+.four-oh-four-btn:hover {
+  background: var(--accent-hover);
+  color: white;
+  border-bottom: none;
+}
+
+.four-oh-four-btn--outline {
+  background: transparent;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+}
+
+.four-oh-four-btn--outline:hover {
+  background: var(--accent);
+  color: white;
+}
+
+.four-oh-four-suggestions {
+  text-align: left;
+  max-width: 480px;
+  margin: 0 auto;
+
+  h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.8em;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    padding: 0.6em 0;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  a {
+    font-weight: 500;
+  }
+}
+
 /* ====================== Smooth Scrolling =============================== */
 html {
   scroll-behavior: smooth;
