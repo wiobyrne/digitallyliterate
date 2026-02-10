@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/scalable-oversight-in-ai-systems/","title":"Scalable Oversight in AI Systems","tags":["ai","oversight","governance","ai-safety","ethics","transparency"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/scalable-oversight-in-ai-systems/","title":"Scalable Oversight in AI Systems","tags":["ai","oversight","governance","ai-safety","ethics","transparency"],"created":"2025-01-01"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"challenge-of-self-story","permalink":"/challenge-of-self-story/","title":"The Challenge of Self-Story","tags":["identity","narrative","self-reflection","authenticity","growth"]}
+{"dg-publish":true,"dg-permalink":"challenge-of-self-story","permalink":"/challenge-of-self-story/","title":"The Challenge of Self-Story","tags":["identity","narrative","self-reflection","authenticity","growth"],"created":"2024-02-20","updated":"2026-02-01"}
 ---
 
 

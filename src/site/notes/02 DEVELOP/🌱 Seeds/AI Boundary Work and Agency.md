@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-boundary-work-agency","permalink":"/ai-boundary-work-agency/","title":"AI Boundary Work and Agency","tags":["AI","agency","boundary-work","HITL","teacher-education","ethics"]}
+{"dg-publish":true,"dg-permalink":"ai-boundary-work-agency","permalink":"/ai-boundary-work-agency/","title":"AI Boundary Work and Agency","tags":["AI","agency","boundary-work","HITL","teacher-education","ethics"],"created":"2025-12-30","updated":"2026-02-02"}
 ---
 
 

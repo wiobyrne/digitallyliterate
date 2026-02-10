@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-ethics-education-policy","permalink":"/ai-ethics-education-policy/","title":"AI Ethics in Education Policy","tags":["AI","ethics","education","policy","academic-integrity","pedagogy"]}
+{"dg-publish":true,"dg-permalink":"ai-ethics-education-policy","permalink":"/ai-ethics-education-policy/","title":"AI Ethics in Education Policy","tags":["AI","ethics","education","policy","academic-integrity","pedagogy"],"created":"2025-02-09","updated":"2026-02-02"}
 ---
 
 

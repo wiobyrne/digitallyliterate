@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"literacy-tech-social-justice","permalink":"/literacy-tech-social-justice/","title":"Literacy Technology and Social Justice","tags":["literacy","technology","social-justice","digital-citizenship","equity"]}
+{"dg-publish":true,"dg-permalink":"literacy-tech-social-justice","permalink":"/literacy-tech-social-justice/","title":"Literacy Technology and Social Justice","tags":["literacy","technology","social-justice","digital-citizenship","equity"],"created":"2023-09-01","updated":"2026-02-01"}
 ---
 
 

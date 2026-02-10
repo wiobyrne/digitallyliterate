@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/digital-overwhelm/","title":"Personal Digital Overwhelm Story","tags":["personal-narrative","digital-overwhelm","authentic-communication","ghosting"]}
+{"dg-publish":true,"permalink":"/02-develop/seeds/digital-overwhelm/","title":"Personal Digital Overwhelm Story","tags":["personal-narrative","digital-overwhelm","authentic-communication","ghosting"],"created":"2025-08-02","updated":"2025-08-02"}
 ---
 
 

@@ -50,6 +50,8 @@ Tools and services built to **protect your privacy by default**, so you don't ha
 ### [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] 🌿
 The skills and habits to **stay safe and strong online**, even when technology or threats change. Building capacity, not dependency.
 
+**Security Culture** (practice layer) — How communities enact privacy, sovereignty, and resilience together through shared norms. See [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]].
+
 ---
 
 ## Core Questions

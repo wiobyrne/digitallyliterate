@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy-is-power","permalink":"/privacy-is-power/","title":"Privacy is Power Not Secrecy","tags":["privacy","digital-self-determination","power","human-rights"]}
+{"dg-publish":true,"dg-permalink":"privacy-is-power","permalink":"/privacy-is-power/","title":"Privacy is Power Not Secrecy","tags":["privacy","digital-self-determination","power","human-rights"],"created":"2025-04-08","updated":"2026-01-31"}
 ---
 
 

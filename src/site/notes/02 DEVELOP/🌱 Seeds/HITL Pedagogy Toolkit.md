@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"hitl-pedagogy-toolkit","permalink":"/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["HITL","pedagogy","AI-literacy","education","prompts","classroom"]}
+{"dg-publish":true,"dg-permalink":"hitl-pedagogy-toolkit","permalink":"/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["HITL","pedagogy","AI-literacy","education","prompts","classroom"],"created":"2025-06-18","updated":"2026-02-02"}
 ---
 
 

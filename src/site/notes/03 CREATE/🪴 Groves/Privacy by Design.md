@@ -168,11 +168,27 @@ This is different from "we promise not to look" — it's "we literally cannot lo
 
 ---
 
+Privacy by Design reduces risk through architecture, but tools alone can't protect people from poor communication practices.
+
+## Messaging as Privacy by Design (Worked Example)
+
+Signal illustrates what privacy by design looks like in everyday communication:
+
+- **[[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]** — How encryption and minimal metadata work by default
+- **[[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]** — How shared habits protect people, not just messages
+- **[[02 DEVELOP/🌿 Plants/Disappearing Messages as a Care Practice\|Disappearing Messages as a Care Practice]]** — Why message decay supports consent and reduces harm
+- **[[Signal Usernames: Access, Boundaries, and Care\|Signal Usernames: Access, Boundaries, and Care]]** — How flexible contact paths support healthy boundaries
+
+Together, these notes show how tool design and communication norms work best when they reinforce each other.
+
+---
+
 ## Related
 
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent Grove
 - [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — Owning your infrastructure
 - [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Skills for staying safe online
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — Shared norms that protect people, not just data
 - [[02 DEVELOP/🌿 Plants/Self-Hosting for Digital Sovereignty\|Self-Hosting for Digital Sovereignty]] — Taking control of your infrastructure
 
 ---

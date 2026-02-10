@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"educator-advocacy-networks","permalink":"/educator-advocacy-networks/","title":"Building Educator Advocacy Networks","tags":["advocacy","community","education","organizing","policy"]}
+{"dg-publish":true,"dg-permalink":"educator-advocacy-networks","permalink":"/educator-advocacy-networks/","title":"Building Educator Advocacy Networks","tags":["advocacy","community","education","organizing","policy"],"created":"2025-01-10","updated":"2026-02-01"}
 ---
 
 

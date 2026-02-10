@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-22","permalink":"/tldr-22/","title":"Too Long; Didn't Read Issue 22","tags":["digital-literacy","education-technology","pecha-kucha","lra","paris-attacks","bataclan","snowden","jennifer-granick","internet-freedom","digital-badges","job-searching","internet-archive","annotation","hypothesis","diigo"]}
+{"dg-publish":true,"dg-permalink":"tldr-22","permalink":"/tldr-22/","title":"Too Long; Didn't Read Issue 22","tags":["digital-literacy","education-technology","pecha-kucha","lra","paris-attacks","bataclan","snowden","jennifer-granick","internet-freedom","digital-badges","job-searching","internet-archive","annotation","hypothesis","diigo"],"created":"2015-11-20","updated":"2025-12-16"}
 ---
 
 # TLDR 22

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-23","permalink":"/tldr-23/","title":"Too Long; Didn't Read Issue 23","tags":["digital-literacy","education-technology","screencasts","youtube","transparency","higher-education","veronica-belmont","memes","privacy","laura-hilliger","safe-spaces","starting-small","vlogging","raspberry-pi","soundtrap"]}
+{"dg-publish":true,"dg-permalink":"tldr-23","permalink":"/tldr-23/","title":"Too Long; Didn't Read Issue 23","tags":["digital-literacy","education-technology","screencasts","youtube","transparency","higher-education","veronica-belmont","memes","privacy","laura-hilliger","safe-spaces","starting-small","vlogging","raspberry-pi","soundtrap"],"created":"2015-11-28","updated":"2025-12-16"}
 ---
 
 # TLDR 23

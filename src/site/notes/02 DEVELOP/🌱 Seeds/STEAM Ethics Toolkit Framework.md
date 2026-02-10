@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"steam-ethics-toolkit","permalink":"/steam-ethics-toolkit/","title":"STEAM Ethics Toolkit Framework","tags":["STEAM","ethics","wicked-problems","education","AI","project-based-learning"]}
+{"dg-publish":true,"dg-permalink":"steam-ethics-toolkit","permalink":"/steam-ethics-toolkit/","title":"STEAM Ethics Toolkit Framework","tags":["STEAM","ethics","wicked-problems","education","AI","project-based-learning"],"created":"2025-04-10","updated":"2026-02-02"}
 ---
 
 

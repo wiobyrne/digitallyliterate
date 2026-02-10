@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-88","permalink":"/tldr-88/","title":"Too Long; Didn't Read Issue 88","tags":["digital-literacy","education-technology","power-holders-middlemen","casey-neistat","wikileaks","big-data","blockchain","news-literacy","twitter-algorithm","domain-of-ones-own"]}
+{"dg-publish":true,"dg-permalink":"tldr-88","permalink":"/tldr-88/","title":"Too Long; Didn't Read Issue 88","tags":["digital-literacy","education-technology","power-holders-middlemen","casey-neistat","wikileaks","big-data","blockchain","news-literacy","twitter-algorithm","domain-of-ones-own"],"created":"2017-03-10","updated":"2025-12-18"}
 ---
 
 # TLDR 88

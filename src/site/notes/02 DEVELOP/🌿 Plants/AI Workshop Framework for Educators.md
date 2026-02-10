@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-workshop-framework-educators","permalink":"/ai-workshop-framework-educators/","title":"AI Workshop Framework for Educators","tags":["AI","workshop","professional-development","teaching","K-8"]}
+{"dg-publish":true,"dg-permalink":"ai-workshop-framework-educators","permalink":"/ai-workshop-framework-educators/","title":"AI Workshop Framework for Educators","tags":["AI","workshop","professional-development","teaching","K-8"],"created":"2025-06-01","updated":"2026-02-01"}
 ---
 
 

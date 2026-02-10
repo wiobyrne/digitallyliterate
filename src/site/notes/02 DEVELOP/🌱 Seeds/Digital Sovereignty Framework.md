@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-sovereignty-framework","permalink":"/digital-sovereignty-framework/","title":"Digital Sovereignty Framework","tags":["digital-sovereignty","privacy","digital-resilience","community","empowerment"]}
+{"dg-publish":true,"dg-permalink":"digital-sovereignty-framework","permalink":"/digital-sovereignty-framework/","title":"Digital Sovereignty Framework","tags":["digital-sovereignty","privacy","digital-resilience","community","empowerment"],"created":"2026-01-31","updated":"2026-02-02"}
 ---
 
 

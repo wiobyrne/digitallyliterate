@@ -26,6 +26,8 @@
 - Training members so everyone's comfortable with the tools
 - Keeping operations running safely even if platforms change or hackers target you
 
+Digital resilience focuses on sustainability and adaptation; security culture focuses on shared norms that prevent harm in the first place.
+
 ---
 
 ## The Privacy Fatigue Problem
@@ -83,6 +85,7 @@ It's about **staying strong in a digital world, together**.
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework
 - [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — Owning your infrastructure
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — Shared norms that protect people together
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — How to teach these concepts
 - [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Tools to build your resilience toolkit
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/seeds/student-response-management/","title":"Student Response Management","tags":["student-responses","confusion-management","discomfort-handling","teachable-moments","classroom-management"]}
+{"dg-publish":true,"permalink":"/02-develop/seeds/student-response-management/","title":"Student Response Management","tags":["student-responses","confusion-management","discomfort-handling","teachable-moments","classroom-management"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 

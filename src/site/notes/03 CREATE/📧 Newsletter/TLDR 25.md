@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-25","permalink":"/tldr-25/","title":"Too Long; Didn't Read Issue 25","tags":["digital-literacy","education-technology","lra","badges","blockchain","cyberforensics","advocated","cory-doctorow","surveillance","digital-identity","writing-online","internet-loop","facebook-memory","algorithms","google-photos"]}
+{"dg-publish":true,"dg-permalink":"tldr-25","permalink":"/tldr-25/","title":"Too Long; Didn't Read Issue 25","tags":["digital-literacy","education-technology","lra","badges","blockchain","cyberforensics","advocated","cory-doctorow","surveillance","digital-identity","writing-online","internet-loop","facebook-memory","algorithms","google-photos"],"created":"2015-12-11","updated":"2025-12-16"}
 ---
 
 # TLDR 25

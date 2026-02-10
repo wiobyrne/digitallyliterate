@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-67","permalink":"/tldr-67/","title":"Too Long; Didn't Read Issue 67","tags":["digital-literacy","education-technology","brain-technology","coding","computational-thinking","badgechain","blockchain","meditation","hurricane-matthew","weather-visualization"]}
+{"dg-publish":true,"dg-permalink":"tldr-67","permalink":"/tldr-67/","title":"Too Long; Didn't Read Issue 67","tags":["digital-literacy","education-technology","brain-technology","coding","computational-thinking","badgechain","blockchain","meditation","hurricane-matthew","weather-visualization"],"created":"2016-10-14","updated":"2025-12-17"}
 ---
 
 # TLDR 67

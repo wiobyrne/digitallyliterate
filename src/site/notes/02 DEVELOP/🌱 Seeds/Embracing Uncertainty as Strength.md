@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"embracing-uncertainty","permalink":"/embracing-uncertainty/","title":"Embracing Uncertainty as Strength","tags":["resilience","uncertainty","mindset","wellbeing"]}
+{"dg-publish":true,"dg-permalink":"embracing-uncertainty","permalink":"/embracing-uncertainty/","title":"Embracing Uncertainty as Strength","tags":["resilience","uncertainty","mindset","wellbeing"],"created":"2024-01-28","updated":"2026-02-01"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cognitive-therapy-strategies","permalink":"/cognitive-therapy-strategies/","title":"Cognitive Therapy Strategies","tags":["mental-health","CBT","cognitive","therapy","self-talk"]}
+{"dg-publish":true,"dg-permalink":"cognitive-therapy-strategies","permalink":"/cognitive-therapy-strategies/","title":"Cognitive Therapy Strategies","tags":["mental-health","CBT","cognitive","therapy","self-talk"],"created":"2024-03-10","updated":"2026-02-01"}
 ---
 
 

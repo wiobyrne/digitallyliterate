@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"21st-century-educational-justice","permalink":"/21st-century-educational-justice/","title":"21st Century Educational Justice","tags":["civil-rights","education","digital-literacy","activism","equity"]}
+{"dg-publish":true,"dg-permalink":"21st-century-educational-justice","permalink":"/21st-century-educational-justice/","title":"21st Century Educational Justice","tags":["civil-rights","education","digital-literacy","activism","equity"],"created":"2025-01-15","updated":"2026-02-01"}
 ---
 
 

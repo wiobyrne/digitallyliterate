@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cognitive-amplification-ai","permalink":"/cognitive-amplification-ai/","title":"Cognitive Amplification with AI","tags":["AI","cognition","HITL","wisdom","human-AI"]}
+{"dg-publish":true,"dg-permalink":"cognitive-amplification-ai","permalink":"/cognitive-amplification-ai/","title":"Cognitive Amplification with AI","tags":["AI","cognition","HITL","wisdom","human-AI"],"created":"2025-06-05","updated":"2026-02-02"}
 ---
 
 

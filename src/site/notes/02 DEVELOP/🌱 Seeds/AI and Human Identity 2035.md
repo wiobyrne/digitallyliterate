@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-human-identity-2035","permalink":"/ai-human-identity-2035/","title":"AI and Human Identity 2035","tags":["AI","identity","future","human-traits","technology","ethics"]}
+{"dg-publish":true,"dg-permalink":"ai-human-identity-2035","permalink":"/ai-human-identity-2035/","title":"AI and Human Identity 2035","tags":["AI","identity","future","human-traits","technology","ethics"],"created":"2025-01-26","updated":"2026-02-02"}
 ---
 
 

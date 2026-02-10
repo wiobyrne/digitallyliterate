@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-46","permalink":"/tldr-46/","title":"Too Long; Didn't Read Issue 46","tags":["digital-literacy","education-technology","learning-vs-training","podcasts","minuteearth","ai","coding","privacy","security","snapchat","authenticity","reading","dr-seuss","emily-dickinson","backyard-science","pixel-synth"]}
+{"dg-publish":true,"dg-permalink":"tldr-46","permalink":"/tldr-46/","title":"Too Long; Didn't Read Issue 46","tags":["digital-literacy","education-technology","learning-vs-training","podcasts","minuteearth","ai","coding","privacy","security","snapchat","authenticity","reading","dr-seuss","emily-dickinson","backyard-science","pixel-synth"],"created":"2016-05-20","updated":"2025-12-17"}
 ---
 
 # TLDR 46

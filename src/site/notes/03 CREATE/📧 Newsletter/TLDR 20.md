@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-20","permalink":"/tldr-20/","title":"Too Long; Didn't Read Issue 20","tags":["digital-literacy","education-technology","hybrid-learning","medium","essena-oneill","instagram","digital-rights","ageism","digital-divide","deliberate-practice","mozfest","sociality-barbie","smart-mirror","arduino"]}
+{"dg-publish":true,"dg-permalink":"tldr-20","permalink":"/tldr-20/","title":"Too Long; Didn't Read Issue 20","tags":["digital-literacy","education-technology","hybrid-learning","medium","essena-oneill","instagram","digital-rights","ageism","digital-divide","deliberate-practice","mozfest","sociality-barbie","smart-mirror","arduino"],"created":"2015-11-06","updated":"2025-12-16"}
 ---
 
 # TLDR 20

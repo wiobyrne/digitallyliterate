@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/ai-and-digital-resilience-index/","title":"AI and Digital Resilience Index","tags":["index","ai","privacy","digital-resilience","ethics"]}
+{"dg-publish":true,"permalink":"/02-develop/mo-cs/ai-and-digital-resilience-index/","title":"AI and Digital Resilience Index","tags":["index","ai","privacy","digital-resilience","ethics"],"created":"2025-07-16","updated":"2025-07-16"}
 ---
 
 

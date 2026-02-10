@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"irish-identity-creative-expression","permalink":"/irish-identity-creative-expression/","title":"Irish Identity and Creative Expression","tags":["identity","creativity","Ireland","mythology","poetry","study-abroad","education"]}
+{"dg-publish":true,"dg-permalink":"irish-identity-creative-expression","permalink":"/irish-identity-creative-expression/","title":"Irish Identity and Creative Expression","tags":["identity","creativity","Ireland","mythology","poetry","study-abroad","education"],"created":"2024-01-10","updated":"2026-02-02"}
 ---
 
 

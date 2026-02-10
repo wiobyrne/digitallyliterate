@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"generative-ai-identity","permalink":"/generative-ai-identity/","title":"Generative AI and Identity","tags":["AI","identity","self","subjectivity","philosophy"]}
+{"dg-publish":true,"dg-permalink":"generative-ai-identity","permalink":"/generative-ai-identity/","title":"Generative AI and Identity","tags":["AI","identity","self","subjectivity","philosophy"],"created":"2024-08-15","updated":"2026-02-01"}
 ---
 
 
