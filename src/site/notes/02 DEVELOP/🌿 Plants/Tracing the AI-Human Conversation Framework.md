@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/tracing-the-ai-human-conversation-framework/","title":"Tracing the AI-Human Conversation Framework","tags":["framework-analysis","boundary-work","agency","AI-human-interaction","qualitative-research"],"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/tracing-the-ai-human-conversation-framework/","title":"Tracing the AI-Human Conversation Framework","tags":["framework-analysis","boundary-work","agency","AI-human-interaction","qualitative-research"]}
 ---
 
 # Tracing the AI-Human Conversation Framework

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-98","permalink":"/tldr-98/","title":"Too Long; Didn't Read Issue 98","tags":["digital-literacy","education-technology","manipulation-misinformation","psychology-hacks","ransomware","media-manipulation","google-classroom","professor-communication","authentic-audience","productivity"],"created":"2017-05-19","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-98","permalink":"/tldr-98/","title":"Too Long; Didn't Read Issue 98","tags":["digital-literacy","education-technology","manipulation-misinformation","psychology-hacks","ransomware","media-manipulation","google-classroom","professor-communication","authentic-audience","productivity"]}
 ---
 
 # TLDR 98

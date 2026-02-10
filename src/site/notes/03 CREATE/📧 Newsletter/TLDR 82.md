@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-82","permalink":"/tldr-82/","title":"Too Long; Didn't Read Issue 82","tags":["digital-literacy","education-technology","trust-one-another","neuroscience-imagination","trust-crisis","cybersecurity","betsy-devos","wayback-machine","student-psas"],"created":"2017-01-27","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-82","permalink":"/tldr-82/","title":"Too Long; Didn't Read Issue 82","tags":["digital-literacy","education-technology","trust-one-another","neuroscience-imagination","trust-crisis","cybersecurity","betsy-devos","wayback-machine","student-psas"]}
 ---
 
 # TLDR 82

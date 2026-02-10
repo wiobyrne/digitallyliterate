@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-9","permalink":"/tldr-9/","title":"Too Long; Didn't Read Issue 9","tags":["digital-literacy","education-technology","cofc-transition","computational-participation","coding","the-martian","horizon-reports","pew-research","creative-commons","chrome-apps","teacher-shortage","vhs-camcorder"],"created":"2015-08-22","updated":"2025-12-15"}
+{"dg-publish":true,"dg-permalink":"tldr-9","permalink":"/tldr-9/","title":"Too Long; Didn't Read Issue 9","tags":["digital-literacy","education-technology","cofc-transition","computational-participation","coding","the-martian","horizon-reports","pew-research","creative-commons","chrome-apps","teacher-shortage","vhs-camcorder"]}
 ---
 
 # TLDR 9

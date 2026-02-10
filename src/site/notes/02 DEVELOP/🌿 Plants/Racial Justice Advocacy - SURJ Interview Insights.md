@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/racial-justice-advocacy-surj-interview-insights/","title":"Racial Justice Advocacy - SURJ Interview Insights","tags":["social-justice","racial-equity","activism","community-organizing","interviews","anti-racism","white-allyship"],"created":"2025-07-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/racial-justice-advocacy-surj-interview-insights/","title":"Racial Justice Advocacy - SURJ Interview Insights","tags":["social-justice","racial-equity","activism","community-organizing","interviews","anti-racism","white-allyship"]}
 ---
 
 

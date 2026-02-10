@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-70","permalink":"/tldr-70/","title":"Too Long; Didn't Read Issue 70","tags":["digital-literacy","education-technology","communication","google-ai","encryption","typography","blogging","blockchain","hyperledger","what-works-clearinghouse"],"created":"2016-11-04","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-70","permalink":"/tldr-70/","title":"Too Long; Didn't Read Issue 70","tags":["digital-literacy","education-technology","communication","google-ai","encryption","typography","blogging","blockchain","hyperledger","what-works-clearinghouse"]}
 ---
 
 # TLDR 70

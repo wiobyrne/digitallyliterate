@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-55","permalink":"/tldr-55/","title":"Too Long; Didn't Read Issue 55","tags":["digital-literacy","education-technology","privacy","digital-identity","twitter","harassment","digital-citizenship","screencasts","screencaptures","360-video","reality-pedagogy","christopher-emdin","veronica-belmont","leslie-jones"],"created":"2016-07-22","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-55","permalink":"/tldr-55/","title":"Too Long; Didn't Read Issue 55","tags":["digital-literacy","education-technology","privacy","digital-identity","twitter","harassment","digital-citizenship","screencasts","screencaptures","360-video","reality-pedagogy","christopher-emdin","veronica-belmont","leslie-jones"]}
 ---
 
 # TLDR 55

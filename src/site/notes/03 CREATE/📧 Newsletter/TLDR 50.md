@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-50","permalink":"/tldr-50/","title":"Too Long; Didn't Read Issue 50","tags":["digital-literacy","education-technology","trust","distrust","calvin-hobbes","bill-watterson","atul-gawande","science","doug-belshaw","view-source","pln","podcasts","niuslc16"],"created":"2016-06-18","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-50","permalink":"/tldr-50/","title":"Too Long; Didn't Read Issue 50","tags":["digital-literacy","education-technology","trust","distrust","calvin-hobbes","bill-watterson","atul-gawande","science","doug-belshaw","view-source","pln","podcasts","niuslc16"]}
 ---
 
 # TLDR 50

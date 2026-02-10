@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-3","permalink":"/tldr-3/","title":"Too Long; Didn't Read Issue 3","tags":["screen-reading-neuroscience","pedagogy-first-social-change","xmooc-video-critique","google-deepdream-ai","reddit-community-revolt"],"created":"2015-07-10","updated":"2025-12-13"}
+{"dg-publish":true,"dg-permalink":"tldr-3","permalink":"/tldr-3/","title":"Too Long; Didn't Read Issue 3","tags":["screen-reading-neuroscience","pedagogy-first-social-change","xmooc-video-critique","google-deepdream-ai","reddit-community-revolt"]}
 ---
 
 # TLDR 3

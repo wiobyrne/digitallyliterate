@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-53","permalink":"/tldr-53/","title":"Too Long; Didn't Read Issue 53","tags":["digital-literacy","education-technology","intelligence","emotion","one-year-anniversary","existential-crisis","screen-time","quiet-kids","introverts","multitasking","web-literacy","mozilla","tile-sig"],"created":"2016-07-09","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-53","permalink":"/tldr-53/","title":"Too Long; Didn't Read Issue 53","tags":["digital-literacy","education-technology","intelligence","emotion","one-year-anniversary","existential-crisis","screen-time","quiet-kids","introverts","multitasking","web-literacy","mozilla","tile-sig"]}
 ---
 
 # TLDR 53

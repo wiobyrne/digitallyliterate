@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-91","permalink":"/tldr-91/","title":"Too Long; Didn't Read Issue 91","tags":["digital-literacy","education-technology","surveillance","feynman-technique","internet-privacy","vpn","obfuscation","fake-news","critical-thinking"],"created":"2017-04-01","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-91","permalink":"/tldr-91/","title":"Too Long; Didn't Read Issue 91","tags":["digital-literacy","education-technology","surveillance","feynman-technique","internet-privacy","vpn","obfuscation","fake-news","critical-thinking"]}
 ---
 
 # TLDR 91

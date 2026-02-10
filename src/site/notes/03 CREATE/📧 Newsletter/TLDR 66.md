@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-66","permalink":"/tldr-66/","title":"Too Long; Didn't Read Issue 66","tags":["digital-literacy","education-technology","surveillance","privacy","yahoo","google-home","blogfolios","rubrics","james-gleick","hurricane-matthew"],"created":"2016-10-07","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-66","permalink":"/tldr-66/","title":"Too Long; Didn't Read Issue 66","tags":["digital-literacy","education-technology","surveillance","privacy","yahoo","google-home","blogfolios","rubrics","james-gleick","hurricane-matthew"]}
 ---
 
 # TLDR 66

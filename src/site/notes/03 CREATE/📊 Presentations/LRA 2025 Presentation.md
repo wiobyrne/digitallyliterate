@@ -53,4 +53,4 @@ The presentation is built around an adapted analytic framework from Mollick & Mo
 ## Related Projects
 
 
-[[03 CREATE/🎯 Projects/🟢 Active/AI Boundaries Research/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]
+[[02 DEVELOP/🌿 Plants/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-21","permalink":"/tldr-21/","title":"Too Long; Didn't Read Issue 21","tags":["digital-literacy","education-technology","medium","syndication","web-literacy","philosophy","alain-de-botton","salman-rushdie","the-message","running","meditation","jane-mcgonigal","gameful-mindset","clay-shirky","coding-literacy","paulo-freire","star-wars"],"created":"2015-11-13","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-21","permalink":"/tldr-21/","title":"Too Long; Didn't Read Issue 21","tags":["digital-literacy","education-technology","medium","syndication","web-literacy","philosophy","alain-de-botton","salman-rushdie","the-message","running","meditation","jane-mcgonigal","gameful-mindset","clay-shirky","coding-literacy","paulo-freire","star-wars"]}
 ---
 
 # TLDR 21

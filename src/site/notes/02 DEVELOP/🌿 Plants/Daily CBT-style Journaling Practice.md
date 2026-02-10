@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/daily-cbt-style-journaling-practice/","title":"Daily CBT-style Journaling Practice","tags":["cognitive-behavioral-therapy","journaling","mindfulness","emotional-regulation","self-reflection"],"created":"2025-05-15"}
+{"dg-publish":true,"permalink":"/02-develop/plants/daily-cbt-style-journaling-practice/","title":"Daily CBT-style Journaling Practice","tags":["cognitive-behavioral-therapy","journaling","mindfulness","emotional-regulation","self-reflection"]}
 ---
 
 

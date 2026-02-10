@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-59","permalink":"/tldr-59/","title":"Too Long; Didn't Read Issue 59","tags":["digital-literacy","education-technology","back-to-school","bilingual-brain","social-media","race","blacklivesmatter","homework","audiobooks","sir-ken-robinson","google-docs","evernote"],"created":"2016-08-19","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-59","permalink":"/tldr-59/","title":"Too Long; Didn't Read Issue 59","tags":["digital-literacy","education-technology","back-to-school","bilingual-brain","social-media","race","blacklivesmatter","homework","audiobooks","sir-ken-robinson","google-docs","evernote"]}
 ---
 
 # TLDR 59

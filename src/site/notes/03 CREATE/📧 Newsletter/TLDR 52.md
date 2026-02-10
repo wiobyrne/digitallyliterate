@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-52","permalink":"/tldr-52/","title":"Too Long; Didn't Read Issue 52","tags":["digital-literacy","education-technology","possible-futures","alvin-toffler","digitally-agile","public-intellectuals","bonnie-stewart","aaron-davis","oer","danah-boyd","google-for-education"],"created":"2016-07-01","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-52","permalink":"/tldr-52/","title":"Too Long; Didn't Read Issue 52","tags":["digital-literacy","education-technology","possible-futures","alvin-toffler","digitally-agile","public-intellectuals","bonnie-stewart","aaron-davis","oer","danah-boyd","google-for-education"]}
 ---
 
 # TLDR 52

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-28","permalink":"/tldr-28/","title":"Too Long; Didn't Read Issue 28","tags":["digital-literacy","education-technology","computational-thinking","coding","tom-liam-lynch","walkmyworld","fishbowl-discussion","snapchat","obama","computer-science","beauty-and-joy-of-computing","four-cs","mvp","minimum-viable-product","cooking-as-coding","brain-size","hypothesis","annotation"],"created":"2016-01-15","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-28","permalink":"/tldr-28/","title":"Too Long; Didn't Read Issue 28","tags":["digital-literacy","education-technology","computational-thinking","coding","tom-liam-lynch","walkmyworld","fishbowl-discussion","snapchat","obama","computer-science","beauty-and-joy-of-computing","four-cs","mvp","minimum-viable-product","cooking-as-coding","brain-size","hypothesis","annotation"]}
 ---
 
 # TLDR 28

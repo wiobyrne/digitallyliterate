@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-5","permalink":"/tldr-5/","title":"Too Long; Didn't Read Issue 5","tags":["digital-literacy","education-technology","educator-advocacy","social-justice","kanban","pedagogy","reading-neuroscience","screen-time","accessibility","maker-culture","typography","digital-publishing"],"created":"2015-07-24","updated":"2025-12-13"}
+{"dg-publish":true,"dg-permalink":"tldr-5","permalink":"/tldr-5/","title":"Too Long; Didn't Read Issue 5","tags":["digital-literacy","education-technology","educator-advocacy","social-justice","kanban","pedagogy","reading-neuroscience","screen-time","accessibility","maker-culture","typography","digital-publishing"]}
 ---
 
 # TLDR 5

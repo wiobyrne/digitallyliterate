@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"group-architecture-trust","permalink":"/group-architecture-trust/","title":"Group Architecture & Trust","tags":["grove","security-culture","group-norms","trust","communication","community-care"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"group-architecture-trust","permalink":"/group-architecture-trust/","title":"Group Architecture & Trust","tags":["grove","security-culture","group-norms","trust","communication","community-care"]}
 ---
 
 

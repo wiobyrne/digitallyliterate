@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-89","permalink":"/tldr-89/","title":"Too Long; Didn't Read Issue 89","tags":["digital-literacy","education-technology","escaping-addictions","privacy","gaslighting","video-games","smartphone-addiction","ebooks","blockchain","open-badges"],"created":"2017-03-17","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-89","permalink":"/tldr-89/","title":"Too Long; Didn't Read Issue 89","tags":["digital-literacy","education-technology","escaping-addictions","privacy","gaslighting","video-games","smartphone-addiction","ebooks","blockchain","open-badges"]}
 ---
 
 # TLDR 89

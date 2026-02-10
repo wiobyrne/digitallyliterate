@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"communication-platforms","permalink":"/communication-platforms/","title":"Communication Platforms","tags":["privacy-by-design","communication","matrix","signal","messaging","federation"],"created":"2025-07-19","updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"communication-platforms","permalink":"/communication-platforms/","title":"Communication Platforms","tags":["privacy-by-design","communication","matrix","signal","messaging","federation"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-resilience","permalink":"/digital-resilience/","title":"Digital Resilience","tags":["grove","digital-resilience","security","habits","sustainability"],"created":"2026-01-31","updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"digital-resilience","permalink":"/digital-resilience/","title":"Digital Resilience","tags":["grove","digital-resilience","security","habits","sustainability"]}
 ---
 
 

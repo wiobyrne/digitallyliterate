@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"disinformation","permalink":"/disinformation/","title":"Disinformation","tags":["disinformation","misinformation","malinformation","media-literacy","information-warfare","propaganda","digital-manipulation","critical-thinking"],"created":"2025-01-01","updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"disinformation","permalink":"/disinformation/","title":"Disinformation","tags":["disinformation","misinformation","malinformation","media-literacy","information-warfare","propaganda","digital-manipulation","critical-thinking"]}
 ---
 
 

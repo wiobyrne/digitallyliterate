@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-74","permalink":"/tldr-74/","title":"Too Long; Didn't Read Issue 74","tags":["digital-literacy","education-technology","empathy","literacy-practices","visual-learning","post-literate-age","digital-leadership","map-projections","will-schwalbe","chimamanda-ngozi-adichie"],"created":"2016-12-04","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-74","permalink":"/tldr-74/","title":"Too Long; Didn't Read Issue 74","tags":["digital-literacy","education-technology","empathy","literacy-practices","visual-learning","post-literate-age","digital-leadership","map-projections","will-schwalbe","chimamanda-ngozi-adichie"]}
 ---
 
 # TLDR 74

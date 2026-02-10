@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-26","permalink":"/tldr-26/","title":"Too Long; Didn't Read Issue 26","tags":["digital-literacy","education-technology","time-management","makers-vs-managers","creativity","jim-groom","punk-rock","diy-ethos","john-spencer","dyslexia","bryan-mathers","star-wars","remix-culture","childrens-books","pew-research","gaming","periscope","live-streaming","privacy","advocated","open-scholarship"],"created":"2015-12-18","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-26","permalink":"/tldr-26/","title":"Too Long; Didn't Read Issue 26","tags":["digital-literacy","education-technology","time-management","makers-vs-managers","creativity","jim-groom","punk-rock","diy-ethos","john-spencer","dyslexia","bryan-mathers","star-wars","remix-culture","childrens-books","pew-research","gaming","periscope","live-streaming","privacy","advocated","open-scholarship"]}
 ---
 
 # TLDR 26

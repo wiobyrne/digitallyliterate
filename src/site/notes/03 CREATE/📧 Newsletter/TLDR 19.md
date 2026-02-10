@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-19","permalink":"/tldr-19/","title":"Too Long; Didn't Read Issue 19","tags":["digital-literacy","education-technology","web-literacy","mozilla","medium","oer","open-education","gifting","academia-edu","adaptive-learning","digital-writing","animated-gifs","standardized-testing"],"created":"2015-10-30","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-19","permalink":"/tldr-19/","title":"Too Long; Didn't Read Issue 19","tags":["digital-literacy","education-technology","web-literacy","mozilla","medium","oer","open-education","gifting","academia-edu","adaptive-learning","digital-writing","animated-gifs","standardized-testing"]}
 ---
 
 # TLDR 19

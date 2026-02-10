@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-97","permalink":"/tldr-97/","title":"Too Long; Didn't Read Issue 97","tags":["digital-literacy","education-technology","bots-disinformation","net-neutrality","french-election","chatbots","edmodo-breach","protest-movements","antigonish"],"created":"2017-05-12","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-97","permalink":"/tldr-97/","title":"Too Long; Didn't Read Issue 97","tags":["digital-literacy","education-technology","bots-disinformation","net-neutrality","french-election","chatbots","edmodo-breach","protest-movements","antigonish"]}
 ---
 
 # TLDR 97

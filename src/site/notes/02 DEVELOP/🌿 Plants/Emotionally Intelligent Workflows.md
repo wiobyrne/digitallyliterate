@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/emotionally-intelligent-workflows/","title":"Descriptive Title","tags":["emotional-intelligence","collaboration","epistemology","empathy","ethics","authenticity","communication","inclusivity","emotional-honesty","sustainability"],"created":"2025-07-18","updated":"2025-07-18"}
+{"dg-publish":true,"permalink":"/02-develop/plants/emotionally-intelligent-workflows/","title":"Descriptive Title","tags":["emotional-intelligence","collaboration","epistemology","empathy","ethics","authenticity","communication","inclusivity","emotional-honesty","sustainability"]}
 ---
 
 # Emotionally Intelligent Workflows

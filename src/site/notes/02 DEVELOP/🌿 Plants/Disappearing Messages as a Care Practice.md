@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"disappearing-messages-care","permalink":"/disappearing-messages-care/","title":"Disappearing Messages as a Care Practice","tags":["disappearing-messages","signal","security-culture","information-hygiene","care"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"disappearing-messages-care","permalink":"/disappearing-messages-care/","title":"Disappearing Messages as a Care Practice","tags":["disappearing-messages","signal","security-culture","information-hygiene","care"]}
 ---
 
 

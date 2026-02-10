@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-62","permalink":"/tldr-62/","title":"Too Long; Didn't Read Issue 62","tags":["digital-literacy","education-technology","little-things","kubo","stop-motion","libraries","pew-research","empowered-readers","student-debt","professional-development","work-manual","daft-punk"],"created":"2016-09-09","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-62","permalink":"/tldr-62/","title":"Too Long; Didn't Read Issue 62","tags":["digital-literacy","education-technology","little-things","kubo","stop-motion","libraries","pew-research","empowered-readers","student-debt","professional-development","work-manual","daft-punk"]}
 ---
 
 # TLDR 62

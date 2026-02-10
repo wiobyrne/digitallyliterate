@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/build-your-own-federated-garden/","title":"Build Your Own Federated Garden","tags":["digital-gardening","pkm","self-hosting","federation","open-web"],"created":"2025-11-04"}
+{"dg-publish":true,"permalink":"/02-develop/plants/build-your-own-federated-garden/","title":"Build Your Own Federated Garden","tags":["digital-gardening","pkm","self-hosting","federation","open-web"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-39","permalink":"/tldr-39/","title":"Too Long; Didn't Read Issue 39","tags":["digital-literacy","education-technology","walkmyworld","carl-sagan","extraterrestrials","douglas-rushkoff","coding","microlearning","millennials","snapchat","grammar","typos","hyper-island","opentoonz","animation","doug-belshaw"],"created":"2016-04-01","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-39","permalink":"/tldr-39/","title":"Too Long; Didn't Read Issue 39","tags":["digital-literacy","education-technology","walkmyworld","carl-sagan","extraterrestrials","douglas-rushkoff","coding","microlearning","millennials","snapchat","grammar","typos","hyper-island","opentoonz","animation","doug-belshaw"]}
 ---
 
 # TLDR 39

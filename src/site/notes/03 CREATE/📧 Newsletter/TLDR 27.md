@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-27","permalink":"/tldr-27/","title":"Too Long; Didn't Read Issue 27","tags":["digital-literacy","education-technology","walkmyworld","digital-identity","computational-thinking","coding","transmedia-storytelling","privacy","slack","trello","podcasting","ted-ed","nypl","public-domain","pew-research","parental-monitoring","chromebooks","ipads","moocs","barbara-oakley","eye-contact","video-editing"],"created":"2016-01-08","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-27","permalink":"/tldr-27/","title":"Too Long; Didn't Read Issue 27","tags":["digital-literacy","education-technology","walkmyworld","digital-identity","computational-thinking","coding","transmedia-storytelling","privacy","slack","trello","podcasting","ted-ed","nypl","public-domain","pew-research","parental-monitoring","chromebooks","ipads","moocs","barbara-oakley","eye-contact","video-editing"]}
 ---
 
 # TLDR 27

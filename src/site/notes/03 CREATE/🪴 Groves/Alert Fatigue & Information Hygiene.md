@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"alert-fatigue-information-hygiene","permalink":"/alert-fatigue-information-hygiene/","title":"Alert Fatigue & Information Hygiene","tags":["grove","security-culture","information-hygiene","media-literacy","critical-thinking","digital-literacy"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"alert-fatigue-information-hygiene","permalink":"/alert-fatigue-information-hygiene/","title":"Alert Fatigue & Information Hygiene","tags":["grove","security-culture","information-hygiene","media-literacy","critical-thinking","digital-literacy"]}
 ---
 
 

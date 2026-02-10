@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-prompts/","title":"Co-Constructing AI Boundaries Framework Component - Prompts","tags":["framework-component","prompts","cognitive-demand","agency","AI-literacy","prompt-engineering"],"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-prompts/","title":"Co-Constructing AI Boundaries Framework Component - Prompts","tags":["framework-component","prompts","cognitive-demand","agency","AI-literacy","prompt-engineering"]}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Prompts

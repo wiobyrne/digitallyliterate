@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-41","permalink":"/tldr-41/","title":"Too Long; Didn't Read Issue 41","tags":["digital-literacy","education-technology","bots","web-literacy","mozilla","surveillance","digital-storytelling","gender","film","math","fingers","maker-movement","gifs"],"created":"2016-04-15","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-41","permalink":"/tldr-41/","title":"Too Long; Didn't Read Issue 41","tags":["digital-literacy","education-technology","bots","web-literacy","mozilla","surveillance","digital-storytelling","gender","film","math","fingers","maker-movement","gifs"]}
 ---
 
 # TLDR 41

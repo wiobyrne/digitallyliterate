@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"signal-private-messaging","permalink":"/signal-private-messaging/","title":"Signal: Private Messaging by Design","tags":["signal","privacy-by-design","encryption","communication"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"signal-private-messaging","permalink":"/signal-private-messaging/","title":"Signal: Private Messaging by Design","tags":["signal","privacy-by-design","encryption","communication"]}
 ---
 
 
-# Signal: Private Messaging by Design
+# Signal - Private Messaging by Design
 
 *A practical example of privacy by design in everyday communication.*
 

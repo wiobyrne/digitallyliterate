@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"moltbook-ai-social-networks","permalink":"/moltbook-ai-social-networks/","title":"Moltbook and the Rise of AI Social Networks","tags":["AI","emergent-behavior","social-networks","autonomous-agents","security","Moltbook","OpenClaw"],"created":"2026-02-01","updated":"2026-02-01"}
+{"dg-publish":true,"dg-permalink":"moltbook-ai-social-networks","permalink":"/moltbook-ai-social-networks/","title":"Moltbook and the Rise of AI Social Networks","tags":["AI","emergent-behavior","social-networks","autonomous-agents","security","Moltbook","OpenClaw"]}
 ---
 
 

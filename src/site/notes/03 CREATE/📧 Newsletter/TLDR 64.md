@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-64","permalink":"/tldr-64/","title":"Too Long; Didn't Read Issue 64","tags":["digital-literacy","education-technology","digital-readiness","duty","pew-research","horizon-report","youtube-learning","neural-decoding","student-evaluations","twine","gratitude-journal"],"created":"2016-09-22","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-64","permalink":"/tldr-64/","title":"Too Long; Didn't Read Issue 64","tags":["digital-literacy","education-technology","digital-readiness","duty","pew-research","horizon-report","youtube-learning","neural-decoding","student-evaluations","twine","gratitude-journal"]}
 ---
 
 # TLDR 64

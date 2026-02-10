@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-80","permalink":"/tldr-80/","title":"Too Long; Didn't Read Issue 80","tags":["digital-literacy","education-technology","learning-approachable","david-bowie","instagram-privacy","screen-time","racism-discussions","makerspace","standardized-tests","public-intellectuals"],"created":"2017-01-13","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-80","permalink":"/tldr-80/","title":"Too Long; Didn't Read Issue 80","tags":["digital-literacy","education-technology","learning-approachable","david-bowie","instagram-privacy","screen-time","racism-discussions","makerspace","standardized-tests","public-intellectuals"]}
 ---
 
 # TLDR 80

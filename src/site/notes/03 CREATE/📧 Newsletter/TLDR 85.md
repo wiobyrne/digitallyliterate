@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-85","permalink":"/tldr-85/","title":"Too Long; Didn't Read Issue 85","tags":["digital-literacy","education-technology","interacting-with-settings","babies-facetime","horizon-report","chromebooks","john-spencer","pixar-storytelling"],"created":"2017-02-17","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-85","permalink":"/tldr-85/","title":"Too Long; Didn't Read Issue 85","tags":["digital-literacy","education-technology","interacting-with-settings","babies-facetime","horizon-report","chromebooks","john-spencer","pixar-storytelling"]}
 ---
 
 # TLDR 85

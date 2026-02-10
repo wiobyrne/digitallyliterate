@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/constructivism-and-cognitive-dissonance/","title":"Constructivism and Cognitive Dissonance","tags":["constructivism","cognitive-dissonance","learning-theory","schema-revision","pedagogical-foundation"],"created":"2025-01-29","updated":"2025-01-29"}
+{"dg-publish":true,"permalink":"/02-develop/plants/constructivism-and-cognitive-dissonance/","title":"Constructivism and Cognitive Dissonance","tags":["constructivism","cognitive-dissonance","learning-theory","schema-revision","pedagogical-foundation"]}
 ---
 
 

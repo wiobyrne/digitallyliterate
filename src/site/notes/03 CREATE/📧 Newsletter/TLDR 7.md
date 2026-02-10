@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-7","permalink":"/tldr-7/","title":"Too Long; Didn't Read Issue 7","tags":["digital-literacy","education-technology","maria-popova","oer","open-badges","privacy","pew-research","teen-technology","graphic-design","pisa","privacy-badger","racial-justice"],"created":"2015-08-07","updated":"2025-12-15"}
+{"dg-publish":true,"dg-permalink":"tldr-7","permalink":"/tldr-7/","title":"Too Long; Didn't Read Issue 7","tags":["digital-literacy","education-technology","maria-popova","oer","open-badges","privacy","pew-research","teen-technology","graphic-design","pisa","privacy-badger","racial-justice"]}
 ---
 
 # TLDR 7

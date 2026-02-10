@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy-tools-quick-reference","permalink":"/privacy-tools-quick-reference/","title":"Privacy Tools Quick Reference","tags":["privacy-by-design","tools","quick-reference","comparison"],"created":"2026-01-31","updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"privacy-tools-quick-reference","permalink":"/privacy-tools-quick-reference/","title":"Privacy Tools Quick Reference","tags":["privacy-by-design","tools","quick-reference","comparison"]}
 ---
 
 

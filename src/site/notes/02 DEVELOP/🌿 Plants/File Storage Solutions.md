@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"file-storage-solutions","permalink":"/file-storage-solutions/","title":"File Storage Solutions","tags":["privacy-by-design","file-storage","nextcloud","data-sovereignty","cloud-storage"],"created":"2025-07-19","updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"file-storage-solutions","permalink":"/file-storage-solutions/","title":"File Storage Solutions","tags":["privacy-by-design","file-storage","nextcloud","data-sovereignty","cloud-storage"]}
 ---
 
 

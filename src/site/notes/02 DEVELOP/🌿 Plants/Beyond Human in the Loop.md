@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"beyond-human-in-the-loop","permalink":"/beyond-human-in-the-loop/","title":"Beyond Human in the Loop","tags":["AI","HITL","human-agency","ethics","cognitive-amplification"],"created":"2025-06-09","updated":"2026-02-01"}
+{"dg-publish":true,"dg-permalink":"beyond-human-in-the-loop","permalink":"/beyond-human-in-the-loop/","title":"Beyond Human in the Loop","tags":["AI","HITL","human-agency","ethics","cognitive-amplification"]}
 ---
 
 

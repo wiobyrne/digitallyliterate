@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-69","permalink":"/tldr-69/","title":"Too Long; Didn't Read Issue 69","tags":["digital-literacy","education-technology","internet-privacy","fcc","ddos-attack","internet-of-things","webcam-security","digital-portfolios","tim-ferriss","horizon-report"],"created":"2016-10-28","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-69","permalink":"/tldr-69/","title":"Too Long; Didn't Read Issue 69","tags":["digital-literacy","education-technology","internet-privacy","fcc","ddos-attack","internet-of-things","webcam-security","digital-portfolios","tim-ferriss","horizon-report"]}
 ---
 
 # TLDR 69

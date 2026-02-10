@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-78","permalink":"/tldr-78/","title":"Too Long; Didn't Read Issue 78","tags":["digital-literacy","education-technology","position-ourselves","privacy-security","fact-checking","snopes","facebook-privacy","wikipedia","tim-ferriss","green-tea"],"created":"2016-12-30","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-78","permalink":"/tldr-78/","title":"Too Long; Didn't Read Issue 78","tags":["digital-literacy","education-technology","position-ourselves","privacy-security","fact-checking","snopes","facebook-privacy","wikipedia","tim-ferriss","green-tea"]}
 ---
 
 # TLDR 78

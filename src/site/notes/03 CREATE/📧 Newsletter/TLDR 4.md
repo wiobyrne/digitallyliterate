@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-4","permalink":"/tldr-4/","title":"Too Long; Didn't Read Issue 4","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"],"created":"2015-07-17","updated":"2025-12-13"}
+{"dg-publish":true,"dg-permalink":"tldr-4","permalink":"/tldr-4/","title":"Too Long; Didn't Read Issue 4","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"]}
 ---
 
 # TLDR  4

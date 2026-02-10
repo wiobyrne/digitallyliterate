@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-34","permalink":"/tldr-34/","title":"Too Long; Didn't Read Issue 34","tags":["digital-literacy","education-technology","privacy","encryption","apple-fbi","blockchain","badges","walkmyworld","mozilla","oer","facebook-reactions","emoji","linkedin","seth-godin","podcasts","raspberry-pi","edward-snowden","surveillance","cognitive-authority","jaal"],"created":"2016-02-26","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-34","permalink":"/tldr-34/","title":"Too Long; Didn't Read Issue 34","tags":["digital-literacy","education-technology","privacy","encryption","apple-fbi","blockchain","badges","walkmyworld","mozilla","oer","facebook-reactions","emoji","linkedin","seth-godin","podcasts","raspberry-pi","edward-snowden","surveillance","cognitive-authority","jaal"]}
 ---
 
 # TLDR 34

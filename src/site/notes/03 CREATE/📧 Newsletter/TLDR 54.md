@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-54","permalink":"/tldr-54/","title":"Too Long; Didn't Read Issue 54","tags":["digital-literacy","education-technology","augmented-reality","virtual-reality","pokemon-go","cross-racial-friendships","compassion","facebook-live","livestreaming","higher-ed-personas"],"created":"2016-07-14","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-54","permalink":"/tldr-54/","title":"Too Long; Didn't Read Issue 54","tags":["digital-literacy","education-technology","augmented-reality","virtual-reality","pokemon-go","cross-racial-friendships","compassion","facebook-live","livestreaming","higher-ed-personas"]}
 ---
 
 # TLDR 54

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-56","permalink":"/tldr-56/","title":"Too Long; Didn't Read Issue 56","tags":["digital-literacy","education-technology","creative-commons","oer","growth-mindset","carol-dweck","privacy","parenting","edward-snowden","alan-levine","mozilla-thimble","science-journal","financial-literacy"],"created":"2016-07-29","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-56","permalink":"/tldr-56/","title":"Too Long; Didn't Read Issue 56","tags":["digital-literacy","education-technology","creative-commons","oer","growth-mindset","carol-dweck","privacy","parenting","edward-snowden","alan-levine","mozilla-thimble","science-journal","financial-literacy"]}
 ---
 
 # TLDR 56

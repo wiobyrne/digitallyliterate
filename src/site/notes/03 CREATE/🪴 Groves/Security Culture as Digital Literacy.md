@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"security-culture","permalink":"/security-culture/","title":"Security Culture as Digital Literacy","tags":["grove","security-culture","digital-literacy","community-care","trust","communication-norms"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"security-culture","permalink":"/security-culture/","title":"Security Culture as Digital Literacy","tags":["grove","security-culture","digital-literacy","community-care","trust","communication-norms"]}
 ---
 
 

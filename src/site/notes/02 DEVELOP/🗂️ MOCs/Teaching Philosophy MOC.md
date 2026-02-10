@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/teaching-philosophy-moc/","title":"Teaching Philosophy MOC","tags":["teaching","philosophy","education","pedagogy","moc"],"created":"2025-01-29","updated":"2025-01-29"}
+{"dg-publish":true,"permalink":"/02-develop/mo-cs/teaching-philosophy-moc/","title":"Teaching Philosophy MOC","tags":["teaching","philosophy","education","pedagogy","moc"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-58","permalink":"/tldr-58/","title":"Too Long; Didn't Read Issue 58","tags":["digital-literacy","education-technology","digital-citizenship","seth-godin","tim-ferriss","serious-academic","civic-education","participatory-politics","digital-divide","municipal-broadband","tim-berners-lee","decentralized-web","voice-dictation"],"created":"2016-08-12","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-58","permalink":"/tldr-58/","title":"Too Long; Didn't Read Issue 58","tags":["digital-literacy","education-technology","digital-citizenship","seth-godin","tim-ferriss","serious-academic","civic-education","participatory-politics","digital-divide","municipal-broadband","tim-berners-lee","decentralized-web","voice-dictation"]}
 ---
 
 # TLDR 58

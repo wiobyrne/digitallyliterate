@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-61","permalink":"/tldr-61/","title":"Too Long; Didn't Read Issue 61","tags":["digital-literacy","education-technology","getting-to-know-you","dwayne-reed","book-reading","ebooks","facebook-privacy","hipaa","algorithms","cathy-oneil","iwishmyteacherknew","google-certified-trainer"],"created":"2016-09-02","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-61","permalink":"/tldr-61/","title":"Too Long; Didn't Read Issue 61","tags":["digital-literacy","education-technology","getting-to-know-you","dwayne-reed","book-reading","ebooks","facebook-privacy","hipaa","algorithms","cathy-oneil","iwishmyteacherknew","google-certified-trainer"]}
 ---
 
 # TLDR 61

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-76","permalink":"/tldr-76/","title":"Too Long; Didn't Read Issue 76","tags":["digital-literacy","education-technology","intervening-in-situations","critical-literacy","fake-news","online-privacy","yahoo-hack","bias-attacks","hypothesis","photography"],"created":"2016-12-16","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-76","permalink":"/tldr-76/","title":"Too Long; Didn't Read Issue 76","tags":["digital-literacy","education-technology","intervening-in-situations","critical-literacy","fake-news","online-privacy","yahoo-hack","bias-attacks","hypothesis","photography"]}
 ---
 
 # TLDR 76

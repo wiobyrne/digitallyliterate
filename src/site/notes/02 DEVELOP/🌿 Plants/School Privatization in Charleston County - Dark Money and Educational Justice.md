@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/school-privatization-in-charleston-county-dark-money-and-educational-justice/","title":"School Privatization in Charleston County - Dark Money and Educational Justice","tags":["education-policy","privatization","dark-money","educational-justice","charleston","south-carolina","school-governance","coalition-analysis"],"created":"2025-07-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/school-privatization-in-charleston-county-dark-money-and-educational-justice/","title":"School Privatization in Charleston County - Dark Money and Educational Justice","tags":["education-policy","privatization","dark-money","educational-justice","charleston","south-carolina","school-governance","coalition-analysis"]}
 ---
 
 

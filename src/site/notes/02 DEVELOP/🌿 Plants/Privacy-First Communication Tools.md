@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy-first-communication","permalink":"/privacy-first-communication/","title":"Privacy-First Communication Tools","tags":["privacy","communication","signal","matrix","voice-messaging","encryption"],"created":"2026-01-26","updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"privacy-first-communication","permalink":"/privacy-first-communication/","title":"Privacy-First Communication Tools","tags":["privacy","communication","signal","matrix","voice-messaging","encryption"]}
 ---
 
 

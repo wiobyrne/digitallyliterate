@@ -19,7 +19,7 @@ With Obsidian as my main note-taking app, I aimed to share selected notes public
 
 Here’s the process I followed:
 
-1. **Digital Garden Plugin:** I installed the [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden) in Obsidian. This plugin allows you to mark notes for publishing with a simple `dg-publish: true` YAML property. [A YAML property](https://help.obsidian.md/properties) is a bunch of metadata, or information about the information in a note.
+1. **Digital Garden Plugin:** I installed the [Digital Garden plugin](https://github.com/oleeskild/obsidian-digital-garden) in Obsidian. This plugin allows you to mark notes for publishing with a simple `dg-publish: false` YAML property. [A YAML property](https://help.obsidian.md/properties) is a bunch of metadata, or information about the information in a note.
 2. **GitHub Repository:** I created [a public GitHub repo](https://github.com/wiobyrne/digitallyliterate) to store my published notes. This gave me version control and a backup of everything I wanted to share.
 3. **Netlify Hosting:** I connected the GitHub repo to [Netlify](https://www.netlify.com/), a free and easy-to-use hosting service that automatically rebuilds the site whenever I push updates.
 4. **Custom Domain:** I already owned a domain from [Reclaim Hosting](https://reclaimhosting.com/). I pointed the domain to Netlify following their DNS configuration instructions.
@@ -33,7 +33,7 @@ Here’s the process I followed:
 
 ## Challenges and How I Overcame Them
 
-**Challenge 1: Managing Publish Status**. At first, I forgot which notes I had already published. To solve this, I used Obsidian search queries to build a “Published Notes” dashboard based on the `dg-publish: true` property.
+**Challenge 1: Managing Publish Status**. At first, I forgot which notes I had already published. To solve this, I used Obsidian search queries to build a “Published Notes” dashboard based on the `dg-publish: false` property.
 
 As I indicated earlier, the YAML property is information about the information in each note. For example, a note in Obsidian might include metadata like a movie’s title, year, or cast members. This front matter allows me to describe each note in a structured way.
 

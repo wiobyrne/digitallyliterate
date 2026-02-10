@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-87","permalink":"/tldr-87/","title":"Too Long; Didn't Read Issue 87","tags":["digital-literacy","education-technology","test-patterns","cloudpets-breach","cybersecurity","teen-vogue","signal-messenger","open-scholarship","reading-levels","emoji-assessments","google-keep"],"created":"2017-03-03","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-87","permalink":"/tldr-87/","title":"Too Long; Didn't Read Issue 87","tags":["digital-literacy","education-technology","test-patterns","cloudpets-breach","cybersecurity","teen-vogue","signal-messenger","open-scholarship","reading-levels","emoji-assessments","google-keep"]}
 ---
 
 # TLDR 87

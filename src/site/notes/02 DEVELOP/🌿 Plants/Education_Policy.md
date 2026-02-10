@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/education-policy/","title":"Education Policy and Academic Blogging: Bridging Research, Practice, and Public Engagement","tags":["education-policy","academic-blogging","public-scholarship","research-communication","academic-writing","public-engagement","educational-research","scholar-advocacy","knowledge-translation"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/education-policy/","title":"Education Policy and Academic Blogging: Bridging Research, Practice, and Public Engagement","tags":["education-policy","academic-blogging","public-scholarship","research-communication","academic-writing","public-engagement","educational-research","scholar-advocacy","knowledge-translation"]}
 ---
 
 

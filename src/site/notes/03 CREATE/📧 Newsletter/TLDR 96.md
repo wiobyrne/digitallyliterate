@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-96","permalink":"/tldr-96/","title":"Too Long; Didn't Read Issue 96","tags":["digital-literacy","education-technology","focus-control","cassini","web-annotation","phishing","future-jobs","challenging-students","dnd-therapy","homebrewing"],"created":"2017-05-06","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-96","permalink":"/tldr-96/","title":"Too Long; Didn't Read Issue 96","tags":["digital-literacy","education-technology","focus-control","cassini","web-annotation","phishing","future-jobs","challenging-students","dnd-therapy","homebrewing"]}
 ---
 
 # TLDR 96

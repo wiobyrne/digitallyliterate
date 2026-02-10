@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"],"created":"2026-01-31","updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"]}
 ---
 
 
@@ -48,6 +48,8 @@ This isn't about paranoia. It's about recognizing that data is valuable, and you
 | **Full** | Owning the hardware, software, and network connection |
 
 Most people don't need "full" sovereignty. Even small steps matter.
+
+*Note: Sovereignty provides control; security culture determines how safely that control is exercised.*
 
 ---
 

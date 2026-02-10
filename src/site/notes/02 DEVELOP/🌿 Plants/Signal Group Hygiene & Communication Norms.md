@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"signal-group-hygiene","permalink":"/signal-group-hygiene/","title":"Signal Group Hygiene & Communication Norms","tags":["signal","security-culture","communication","group-norms","trust"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"signal-group-hygiene","permalink":"/signal-group-hygiene/","title":"Signal Group Hygiene & Communication Norms","tags":["signal","security-culture","communication","group-norms","trust"]}
 ---
 
 

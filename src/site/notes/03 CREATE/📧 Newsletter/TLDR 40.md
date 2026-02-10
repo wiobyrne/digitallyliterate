@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-40","permalink":"/tldr-40/","title":"Too Long; Didn't Read Issue 40","tags":["digital-literacy","education-technology","panama-papers","encryption","privacy","china","great-firewall","amy-burvall","credentials","digital-badges","ai","virtual-assistants","curation","candy"],"created":"2016-04-08","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-40","permalink":"/tldr-40/","title":"Too Long; Didn't Read Issue 40","tags":["digital-literacy","education-technology","panama-papers","encryption","privacy","china","great-firewall","amy-burvall","credentials","digital-badges","ai","virtual-assistants","curation","candy"]}
 ---
 
 # TLDR 40

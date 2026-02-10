@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-24","permalink":"/tldr-24/","title":"Too Long; Didn't Read Issue 24","tags":["digital-literacy","education-technology","lra","buster-keaton","visual-comedy","mit-media-lab","games-for-learning","google-tracking","student-privacy","eff","facebook","algorithms","makerspaces","raspberry-pi"],"created":"2015-12-04","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-24","permalink":"/tldr-24/","title":"Too Long; Didn't Read Issue 24","tags":["digital-literacy","education-technology","lra","buster-keaton","visual-comedy","mit-media-lab","games-for-learning","google-tracking","student-privacy","eff","facebook","algorithms","makerspaces","raspberry-pi"]}
 ---
 
 # TLDR 24

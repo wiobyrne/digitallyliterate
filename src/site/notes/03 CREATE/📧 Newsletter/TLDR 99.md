@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-99","permalink":"/tldr-99/","title":"Too Long; Didn't Read Issue 99","tags":["digital-literacy","education-technology","life-death","morning-routine","broken-internet","facebook-moderation","net-neutrality","librarians-opioid","journalism"],"created":"2017-05-26","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-99","permalink":"/tldr-99/","title":"Too Long; Didn't Read Issue 99","tags":["digital-literacy","education-technology","life-death","morning-routine","broken-internet","facebook-moderation","net-neutrality","librarians-opioid","journalism"]}
 ---
 
 # TLDR 99

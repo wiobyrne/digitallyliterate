@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-47","permalink":"/tldr-47/","title":"Too Long; Didn't Read Issue 47","tags":["digital-literacy","education-technology","lego","gender","grit","remix","star-wars","digital-redlining","access","hypothesisis","annotation","angela-duckworth","four-questions-for","podcasts"],"created":"2016-05-27","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-47","permalink":"/tldr-47/","title":"Too Long; Didn't Read Issue 47","tags":["digital-literacy","education-technology","lego","gender","grit","remix","star-wars","digital-redlining","access","hypothesisis","annotation","angela-duckworth","four-questions-for","podcasts"]}
 ---
 
 # TLDR 47

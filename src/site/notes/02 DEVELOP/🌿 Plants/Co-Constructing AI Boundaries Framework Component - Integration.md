@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-integration/","title":"Co-Constructing AI Boundaries Framework Component - Integration","tags":["framework-component","integration","authorship","transformation","boundary-work","AI-literacy"],"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-integration/","title":"Co-Constructing AI Boundaries Framework Component - Integration","tags":["framework-component","integration","authorship","transformation","boundary-work","AI-literacy"]}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Integration 

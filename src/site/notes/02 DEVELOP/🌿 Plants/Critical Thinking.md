@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critical-thinking","permalink":"/critical-thinking/","title":"Critical Thinking","tags":["critical-thinking","reasoning","logic","decision-making","problem-solving","cognitive-skills","metacognition","bias-awareness"],"created":"2025-01-01","updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"critical-thinking","permalink":"/critical-thinking/","title":"Critical Thinking","tags":["critical-thinking","reasoning","logic","decision-making","problem-solving","cognitive-skills","metacognition","bias-awareness"]}
 ---
 
 

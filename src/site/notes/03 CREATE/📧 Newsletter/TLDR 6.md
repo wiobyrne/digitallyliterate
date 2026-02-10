@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-6","permalink":"/tldr-6/","title":"Too Long; Didn't Read Issue 6","tags":["digital-literacy","education-technology","creative-commons","oer","open-badges","privacy","windows-10","remix-culture","hip-hop","digital-security","coffee","personal-transitions"],"created":"2015-07-31","updated":"2025-12-13"}
+{"dg-publish":true,"dg-permalink":"tldr-6","permalink":"/tldr-6/","title":"Too Long; Didn't Read Issue 6","tags":["digital-literacy","education-technology","creative-commons","oer","open-badges","privacy","windows-10","remix-culture","hip-hop","digital-security","coffee","personal-transitions"]}
 ---
 
 # TLDR 6

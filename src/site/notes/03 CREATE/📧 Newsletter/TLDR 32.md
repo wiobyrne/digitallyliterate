@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-32","permalink":"/tldr-32/","title":"Too Long; Didn't Read Issue 32","tags":["digital-literacy","education-technology","known","digitally-literate-courses","walkmyworld","gravitational-waves","einstein","video-games","github","gender-bias","badgechain","blockchain","badges","doug-belshaw","snapchat","meditation","coloring","journaling"],"created":"2016-02-12","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-32","permalink":"/tldr-32/","title":"Too Long; Didn't Read Issue 32","tags":["digital-literacy","education-technology","known","digitally-literate-courses","walkmyworld","gravitational-waves","einstein","video-games","github","gender-bias","badgechain","blockchain","badges","doug-belshaw","snapchat","meditation","coloring","journaling"]}
 ---
 
 # TLDR 32

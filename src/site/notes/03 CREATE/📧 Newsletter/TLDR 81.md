@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-81","permalink":"/tldr-81/","title":"Too Long; Didn't Read Issue 81","tags":["digital-literacy","education-technology","learn-to-dream","spacex","fake-news","internet-health","hypothesis","social-biases","news-literacy","networked-learning"],"created":"2017-01-20","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-81","permalink":"/tldr-81/","title":"Too Long; Didn't Read Issue 81","tags":["digital-literacy","education-technology","learn-to-dream","spacex","fake-news","internet-health","hypothesis","social-biases","news-literacy","networked-learning"]}
 ---
 
 # TLDR 81

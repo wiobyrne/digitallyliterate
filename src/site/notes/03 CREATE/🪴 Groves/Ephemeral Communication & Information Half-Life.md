@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ephemeral-communication","permalink":"/ephemeral-communication/","title":"Ephemeral Communication & Information Half-Life","tags":["grove","security-culture","ephemeral-communication","information-hygiene","consent","digital-literacy"],"created":"2026-02-10","updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"ephemeral-communication","permalink":"/ephemeral-communication/","title":"Ephemeral Communication & Information Half-Life","tags":["grove","security-culture","ephemeral-communication","information-hygiene","consent","digital-literacy"]}
 ---
 
 
