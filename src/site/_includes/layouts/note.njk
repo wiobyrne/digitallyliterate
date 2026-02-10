@@ -91,6 +91,28 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
+    <script>
+    function toggleTheme() {
+      var body = document.body;
+      var isCurrentlyDark = body.classList.contains('theme-dark');
+      var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
+
+      body.classList.remove('theme-dark', 'theme-light');
+      body.classList.add(newTheme);
+      document.documentElement.className = newTheme;
+      localStorage.setItem('dg-theme', newTheme);
+
+      if (window.lucide) { window.lucide.createIcons(); }
+    }
+
+    (function() {
+      var saved = localStorage.getItem('dg-theme');
+      if (saved) {
+        document.body.classList.remove('theme-dark', 'theme-light');
+        document.body.classList.add(saved);
+      }
+    })();
+    </script>
     {%include "components/lucideIcons.njk"%}
     {% if contentClasses and "canvas-page" in contentClasses %}
       {%include "components/canvasScript.njk"%}
