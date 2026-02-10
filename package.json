@@ -11,14 +11,13 @@
         "build:eleventy": "cross-env ELEVENTY_ENV=prod NODE_OPTIONS=--max-old-space-size=4096 eleventy",
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
-        "build:pagefind": "npx pagefind --site dist",
-        "build": "npm-run-all get-theme build:eleventy build:sass build:pagefind"
+        "build": "npm-run-all get-theme build:*"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "engines": {
-        "node": "22.x"
+      "node": "22.x"
     },
     "devDependencies": {
         "@11ty/eleventy": "^3.1.2",
@@ -26,7 +25,6 @@
         "cross-env": "^7.0.3",
         "html-minifier-terser": "^7.2.0",
         "node-html-parser": "^6.1.13",
-        "pagefind": "^1.4.0",
         "sass": "^1.49.9"
     },
     "dependencies": {
