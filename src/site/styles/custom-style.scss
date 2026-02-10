@@ -2,7 +2,7 @@
  * Digitally Literate — Custom Theme
  * Based on Pico CSS principles: clean typography, responsive spacing, minimal classes
  * Fonts: Lora (headings), Inter (body), JetBrains Mono (code)
- * Accent: #FE5F55 (orange-red)
+ * Palette: Steel Teal / Teal Blue / Midnight Green / Beige / Orange-Red accent
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
@@ -35,27 +35,27 @@
 
 /* ========================= Light Theme ================================= */
 .theme-light {
-  --bg-primary: #ffffff;
-  --bg-secondary: #f8f9fa;
-  --bg-tertiary: #f0f1f3;
-  --text-primary: #2c3e50;
-  --text-secondary: #5a6c7d;
-  --text-muted: #8899a6;
+  --bg-primary: #f6f5f0;
+  --bg-secondary: #eeedea;
+  --bg-tertiary: #e5e4e0;
+  --text-primary: #2b4c4e;
+  --text-secondary: #4a7c7f;
+  --text-muted: #7fa3a5;
   --accent: #FE5F55;
   --accent-hover: #e54940;
-  --accent-subtle: rgba(254, 95, 85, 0.08);
-  --link-color: #FE5F55;
-  --border-color: #e8ecf0;
-  --code-bg: #f5f6f8;
-  --code-text: #c7254e;
-  --blockquote-border: #FE5F55;
-  --blockquote-bg: rgba(254, 95, 85, 0.04);
-  --heading-1: #1a2634;
-  --heading-2: #2c3e50;
-  --heading-3: #3d5166;
-  --heading-4: #4e647c;
-  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.06);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --accent-subtle: rgba(26, 122, 122, 0.08);
+  --link-color: #1a7a7a;
+  --border-color: #d5d4cf;
+  --code-bg: #eeedea;
+  --code-text: #1a7a7a;
+  --blockquote-border: #3a9fa0;
+  --blockquote-bg: rgba(26, 122, 122, 0.04);
+  --heading-1: #0b3536;
+  --heading-2: #14585a;
+  --heading-3: #2b6e70;
+  --heading-4: #3a8688;
+  --shadow-sm: 0 1px 3px rgba(11, 53, 54, 0.06);
+  --shadow-md: 0 4px 12px rgba(11, 53, 54, 0.08);
 
   background: var(--bg-primary);
   color: var(--text-primary);
@@ -63,27 +63,27 @@
 
 /* ========================= Dark Theme ================================== */
 .theme-dark {
-  --bg-primary: #1a1e24;
-  --bg-secondary: #22272e;
-  --bg-tertiary: #2d333b;
-  --text-primary: #e0e0e0;
-  --text-secondary: #a0aab4;
-  --text-muted: #6b7785;
+  --bg-primary: #0f1a1a;
+  --bg-secondary: #162424;
+  --bg-tertiary: #1e3030;
+  --text-primary: #d8e8e8;
+  --text-secondary: #94b8b8;
+  --text-muted: #5e8585;
   --accent: #FE5F55;
   --accent-hover: #ff7b73;
-  --accent-subtle: rgba(254, 95, 85, 0.12);
-  --link-color: #ff8a82;
-  --border-color: #373e47;
-  --code-bg: #2d333b;
-  --code-text: #ff8a82;
-  --blockquote-border: #FE5F55;
-  --blockquote-bg: rgba(254, 95, 85, 0.06);
-  --heading-1: #f0f0f0;
-  --heading-2: #e0e0e0;
-  --heading-3: #c8cfd6;
-  --heading-4: #b0bac4;
-  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
-  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --accent-subtle: rgba(110, 196, 196, 0.10);
+  --link-color: #6ec4c4;
+  --border-color: #2a4040;
+  --code-bg: #1e3030;
+  --code-text: #6ec4c4;
+  --blockquote-border: #4da8a8;
+  --blockquote-bg: rgba(110, 196, 196, 0.06);
+  --heading-1: #e8f4f4;
+  --heading-2: #d8e8e8;
+  --heading-3: #b0d0d0;
+  --heading-4: #8eb8b8;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
 
   background: var(--bg-primary);
   color: var(--text-primary);
@@ -303,7 +303,7 @@ img {
 
 /* ========================= Callouts ==================================== */
 .callout {
-  --callout-color: 254, 95, 85;
+  --callout-color: 58, 159, 160;
   overflow: hidden;
   border-style: solid;
   border-color: rgba(var(--callout-color), 0.2);
@@ -476,7 +476,7 @@ img {
 }
 
 .tag:hover {
-  background: rgba(254, 95, 85, 0.18);
+  background: rgba(26, 122, 122, 0.18);
   border: none;
 }
 
