@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/ideological-clarity/","title":"Ideological Clarity","tags":["education","beliefs","values","pedagogy","linguistics","critical-theory"]}
+{"title":"Ideological Clarity","tags":["education","beliefs","values","pedagogy","linguistics","critical-theory"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-01-01","related":["[[Critical Pedagogy]]","[[Teacher Education]]","[[Linguistic Justice]]"],"permalink":"/02-develop/plants/ideological-clarity/","dgPassFrontmatter":true}
 ---
 
 

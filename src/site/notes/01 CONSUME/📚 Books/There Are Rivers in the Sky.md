@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/there-are-rivers-in-the-sky/","title":"There Are Rivers in the Sky","tags":["family","identity","culture","cultural-heritage"]}
+{"title":"There Are Rivers in the Sky","author":"[[Elif Shafak\|Elif Shafak]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/91MY7m-aiyL._SL1500_.jpg","pages":"465","tags":["family","identity","culture","cultural-heritage"],"publisher":"Random House","date":"2025-07-01","permalink":"/01-consume/books/there-are-rivers-in-the-sky/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](https://m.media-amazon.com/images/I/91MY7m-aiyL._SL1500_.jpg)
 
 # There Are Rivers in the Sky
-**Author:** [[Elif Shafak\|Elif Shafak]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Elif Shafak]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - - A single drop of water travels across centuries—from ancient Mesopotamia to contemporary London—binding four lives through its magical “aquatic memory.”
 - We meet: an Assyrian ruler and his library of clay tablets; Arthur, a Thames‑born slum child turned Assyriologist; Narin, a Yazidi girl fleeing persecution in 2014; and Zaleekhah, a hydrologist in modern London wrestling with grief and climate science. 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-sum-of-us/","title":"The Sum of Us","tags":["social-policy","racial-inequality","economic-inequality","american-politics","social-justice"]}
+{"title":"The Sum of Us","author":"[[Heather McGhee\|Heather McGhee]]","categories":["Books"],"status":["🌲_evergreen"],"shelf":"active","rating":4,"cover":"https://books.google.com/books/publisher/content/images/frontcover/DLhPEAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"465","tags":["social-policy","racial-inequality","economic-inequality","american-politics","social-justice"],"publisher":"One World","date":"2022-02-08","dg-publish":true,"permalink":"/01-consume/books/the-sum-of-us/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=DLhPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # The Sum of Us
-**Author:** [[Heather McGhee\|Heather McGhee]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Heather McGhee]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

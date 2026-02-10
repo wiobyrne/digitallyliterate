@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/learning-in-public/","title":"Learning in Public","tags":["learning","cognition"]}
+{"title":"Learning in Public","tags":["learning","cognition"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"active","connections":null,"permalink":"/02-develop/plants/learning-in-public/","dgPassFrontmatter":true}
 ---
 
 

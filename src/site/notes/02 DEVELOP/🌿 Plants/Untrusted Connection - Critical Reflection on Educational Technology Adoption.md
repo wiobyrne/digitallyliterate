@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/untrusted-connection-critical-reflection-on-educational-technology-adoption/","title":"Untrusted Connection - Critical Reflection on Educational Technology Adoption","tags":["education","educational-technology","critical-pedagogy","online-learning","pandemic-response","institutional-critique"]}
+{"title":"Untrusted Connection - Critical Reflection on Educational Technology Adoption","aliases":["Untrusted Connection","Educational Technology Critique","Pandemic Online Teaching Analysis"],"tags":["education","educational-technology","critical-pedagogy","online-learning","pandemic-response","institutional-critique"],"categories":["Educational Theory","Critical Analysis","Technology Ethics"],"status":"🌿_plant","dg-publish":true,"date":"2025-07-02","updated":"2025-07-02","related":["[[Critical Pedagogy]]","[[Educational Technology Ethics]]","[[Pandemic Educational Response]]","[[Digital Literacies]]","[[Institutional Change]]"],"shelf":"critical-analysis","priority":"high","review_frequency":"annually","source":"https://theory.cribchronicles.com/2020-06-22/redesign-for-online-3-easy-steps-to-questioning-everything-you-do-as-an-educator/","author":"Bonnie Stewart","permalink":"/02-develop/plants/untrusted-connection-critical-reflection-on-educational-technology-adoption/","dgPassFrontmatter":true}
 ---
 
 

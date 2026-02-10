@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-identity","permalink":"/digital-identity/","title":"Digital Identity","created":"2025-08-03","updated":"2025-08-03"}
+{"title":"Digital Identity","created":"2025-08-03","last_updated":"2025-08-03","categories":"Notes","status":["🌿_plant"],"tags":[],"related":[],"dg-publish":true,"shelf":"active","dg-permalink":"digital-identity","permalink":"/digital-identity/","dgPassFrontmatter":true,"updated":"2025-08-03"}
 ---
 
 # Digital Identity

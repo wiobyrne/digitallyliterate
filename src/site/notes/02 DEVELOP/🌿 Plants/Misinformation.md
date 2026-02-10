@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/misinformation/","title":"Misinformation","tags":["misinformation","disinformation","propaganda","media-literacy"]}
+{"title":"Misinformation","tags":["misinformation","disinformation","propaganda","media-literacy"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2025-06-30","updated":"2025-06-30","shelf":"processed","related":["[[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]","[[Propaganda\|Propaganda]]","[[Media Literacy]]"],"permalink":"/02-develop/plants/misinformation/","dgPassFrontmatter":true}
 ---
 
 
@@ -51,5 +51,5 @@ Wikipedia link: [Misinformation](https://en.wikipedia.org/wiki/Misinformation)
 
 
 ## **Related Terms**  
-- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]
-- [[Propaganda\|Propaganda]]
+- [[Disinformation]]
+- [[Propaganda]]

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/autocracy-inc/","title":"Autocracy, Inc.","tags":["autocracy","politics","power"]}
+{"title":"Autocracy, Inc.","author":"[[Anne Applebaum\|Anne Applebaum]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/91mmEMWo40L._SL1500_.jpg","pages":"273","tags":["autocracy","politics","power"],"publisher":"Random House","date":"2024-07-23","permalink":"/01-consume/books/autocracy-inc/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](https://m.media-amazon.com/images/I/91mmEMWo40L._SL1500_.jpg)
 
 # Autocracy, Inc
-**Author:** [[Anne Applebaum\|Anne Applebaum]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Anne Applebaum]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 - "Autocracy, Inc." by Anne Applebaum delves into the mechanisms and structures that uphold authoritarian regimes around the world.

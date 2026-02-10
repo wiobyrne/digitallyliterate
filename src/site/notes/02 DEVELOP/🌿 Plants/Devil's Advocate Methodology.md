@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/devil-s-advocate-methodology/","title":"Devil's Advocate Methodology","tags":["devils-advocate","pedagogical-technique","critical-thinking","cognitive-dissonance","classroom-methodology"],"created":"2025-01-29","updated":"2025-01-29"}
+{"title":"Devil's Advocate Methodology","created":"2025-01-29","last_updated":"2025-01-29","status":"🌿_plant","tags":["devils-advocate","pedagogical-technique","critical-thinking","cognitive-dissonance","classroom-methodology"],"categories":"Notes","connections":["[[Teaching Philosophy MOC]]","[[02 DEVELOP/🌿 Plants/Constructivism and Cognitive Dissonance\|Constructivism and Cognitive Dissonance]]","[[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]]","[[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]]","[[02 DEVELOP/🌿 Plants/Critical Pedagogy Framework\|Critical Pedagogy Framework]]"],"dg-publish":true,"permalink":"/02-develop/plants/devil-s-advocate-methodology/","dgPassFrontmatter":true,"updated":"2025-01-29"}
 ---
 
 
@@ -16,19 +16,19 @@
 - **"Feigned ignorance"** externalized as direct intellectual confrontation
 - Teacher becomes **active intellectual sparring partner** vs. neutral guide
 - Creates **"productive discomfort"** rather than passive listening
-- Connects to [[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]]
+- Connects to [[Socratic Method Applications]]
 
 ### Constructivist Catalyst
 - **Direct method for creating cognitive dissonance**
 - Forces students to "revise and redevelop existing schemas"
 - Student confusion = **manifestation of necessary psychological discomfort**
-- Foundation in [[02 DEVELOP/🌿 Plants/Constructivism and Cognitive Dissonance\|Constructivism and Cognitive Dissonance]]
+- Foundation in [[Constructivism and Cognitive Dissonance]]
 
 ### Critical Pedagogy Tool
 - **Challenges unquestioned norms** and hegemonic assumptions
 - Transcends teacher bias for higher pedagogical purpose
 - Demonstrates democratic process in action
-- Builds on [[02 DEVELOP/🌿 Plants/Critical Pedagogy Framework\|Critical Pedagogy Framework]]
+- Builds on [[Critical Pedagogy Framework]]
 
 ## Primary Benefits
 
@@ -100,7 +100,7 @@ Must be implemented with awareness of insights from [[02 DEVELOP/🌿 Plants/Cri
 - [ ] Establish mastery-oriented classroom culture first
 - [ ] Frame technique purpose transparently 
 - [ ] Challenge ideas, not individuals
-- [ ] Monitor for student distress - see [[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
+- [ ] Monitor for student distress - see [[Risk Mitigation Strategies]]
 - [ ] Use structured debate format
 - [ ] Provide metacognitive reflection opportunities
 - [ ] Consider progression to dialectical inquiry

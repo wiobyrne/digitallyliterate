@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/purpose-of-blogging/","title":"Purpose of Blogging: Building Identity, Network, and Voice in Digital Communities","tags":["blogging","digital-identity","online-communities","networked-learning","web-presence","scale-vs-intimacy","social-media","digital-writing","educational-technology"],"created":"2025-07-01"}
+{"title":"Purpose of Blogging: Building Identity, Network, and Voice in Digital Communities","created":"2025-07-01","modified":"2025-07-01","source":"https://bavatuesdays.com/blogging/","tags":["blogging","digital-identity","online-communities","networked-learning","web-presence","scale-vs-intimacy","social-media","digital-writing","educational-technology"],"categories":["Digital Communication","Online Communities","Educational Technology","Digital Identity"],"status":"🌿_plant","dg-publish":true,"related":["[[Discourse 2.0]]","[[Social Media Activity]]","[[Digital Identity Formation]]","[[Networked Learning]]"],"summary":"Analysis of blogging's authentic purpose as networked tool for voice development, community building, and identity formation, contrasting intimate connection with scale-obsessed approaches","permalink":"/02-develop/plants/purpose-of-blogging/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/making-your-work-accessible-and-approachable/","title":"Making your work accessible and approachable","tags":["blogging","accessible","approachable","writing","content-creation","user-experience"]}
+{"title":"Making your work accessible and approachable","tags":["blogging","accessible","approachable","writing","content-creation","user-experience"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2025-06-30","updated":"2025-06-30","shelf":"processed","related":["[[Content Strategy]]","[[Writing Process]]"],"permalink":"/02-develop/plants/making-your-work-accessible-and-approachable/","dgPassFrontmatter":true}
 ---
 
 

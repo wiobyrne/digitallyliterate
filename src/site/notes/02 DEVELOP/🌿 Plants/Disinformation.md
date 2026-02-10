@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"disinformation","permalink":"/disinformation/","title":"Disinformation","tags":["disinformation","misinformation","malinformation","media-literacy","information-warfare","propaganda","digital-manipulation","critical-thinking"],"created":"2025-01-01","updated":"2025-08-10"}
+{"title":"Disinformation","created":"2025-01-01","last_updated":"2025-08-10","status":"🌿_plant","tags":["disinformation","misinformation","malinformation","media-literacy","information-warfare","propaganda","digital-manipulation","critical-thinking"],"categories":"Notes","source":"Synthesized from media literacy and information warfare research","connections":["[[02 DEVELOP/🌿 Plants/Information War\|Information War]]","[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]","[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]","[[01 CONSUME/🔗 Web Clippings/Misinformation, Disinformation and Mal-information\|Misinformation, Disinformation and Mal-information]]","[[01 CONSUME/📹 Videos/The Disinformation Playbook\|The Disinformation Playbook]]"],"dg-publish":true,"shelf":"active","dg-permalink":"disinformation","permalink":"/disinformation/","dgPassFrontmatter":true,"updated":"2025-08-10"}
 ---
 
 
@@ -416,9 +416,9 @@ Disinformation campaigns represent a key tactic in broader information warfare s
 - [InVID](https://www.invid-project.eu/) - Video verification tools
 
 ### Related Concepts
-- [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Broader strategic framework for information manipulation
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Critical skills for information evaluation and creation
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible participation in digital society
-- [[01 CONSUME/🔗 Web Clippings/Misinformation, Disinformation and Mal-information\|Misinformation, Disinformation and Mal-information]] - Comprehensive taxonomy
-- [[01 CONSUME/📹 Videos/The Disinformation Playbook\|The Disinformation Playbook]] - Tactical analysis of influence operations
+- [[Information War]] - Broader strategic framework for information manipulation
+- [[Media Literacy]] - Critical skills for information evaluation and creation
+- [[Digital Citizenship]] - Responsible participation in digital society
+- [[Misinformation, Disinformation and Mal-information]] - Comprehensive taxonomy
+- [[The Disinformation Playbook]] - Tactical analysis of influence operations
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/red-mars/","title":"Red Mars","tags":["science-fiction","environmentalism","political-systems","economic-inequality","human-nature"]}
+{"title":"Red Mars","author":"[[Kim Stanley Robinson\|Kim Stanley Robinson]]","categories":["Books"],"status":["🌿_plant"],"rating":0,"shelf":"inbox","dg-publish":true,"cover":"http://books.google.com/books/content?id=R8OTfyIAmdEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"629","tags":["science-fiction","environmentalism","political-systems","economic-inequality","human-nature"],"publisher":"Spectra","date":"2003-05-27","permalink":"/01-consume/books/red-mars/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=R8OTfyIAmdEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -7,7 +7,7 @@
 # Red Mars
 
 ## Overview
-- **Author:** [[Kim Stanley Robinson\|Kim Stanley Robinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[Kim Stanley Robinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - Red Mars is a science fiction novel that chronicles the colonization and terraforming of the planet Mars by humans, focusing on political, sociological, and scientific challenges. The novel explores the lives of the "First Hundred" settlers and their descendants as they navigate these challenges to create a new society. The themes revolve around environmentalism, political systems, economic inequality, and human nature.
 

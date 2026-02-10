@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/rogue-code/","title":"Rogue Code","tags":["technology","cybersecurity"]}
+{"title":"Rogue Code","author":"[[Mark Russinovich\|Mark Russinovich]]","categories":["Books"],"status":["🌿_plant"],"rating":0,"shelf":"inbox","dg-publish":true,"cover":"http://books.google.com/books/content?id=uc1iAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"398","tags":["technology","cybersecurity"],"publisher":"Macmillan","date":"2014-05-20","permalink":"/01-consume/books/rogue-code/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=uc1iAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Rogue Code
-- **Author:** [[Mark Russinovich\|Mark Russinovich]]  
+- **Author:** [[Mark Russinovich]]  
 - 
 ## Three-Sentence Summary
 - Rogue Code is a thrilling tech-based novel that explores the vulnerabilities of high-tech systems, specifically within the financial industry. The protagonist, Jeff Aiken, is a cybersecurity expert who gets caught in a web of deceit and danger as he uncovers a malicious code that could potentially cause global financial meltdown. The book skillfully blends real-world technology with suspenseful fiction, delivering an engaging narrative about the risks and responsibilities associated with cybersecurity.

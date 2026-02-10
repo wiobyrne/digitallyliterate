@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/after/","title":"After","tags":["near-death-experiences","life-after-death","spirituality","medical-research"]}
+{"title":"After","author":"[[Bruce Greyson\|Bruce Greyson]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/71DLETgGIFL._SL1500_.jpg","pages":"299","tags":["near-death-experiences","life-after-death","spirituality","medical-research"],"publisher":"Random House","date":"2021-03-04","permalink":"/01-consume/books/after/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # After
 ## A Doctor Explores What Near-Death Experiences Reveal about Life and Beyond
-**Author:** [[Bruce Greyson\|Bruce Greyson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Bruce Greyson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "After" delves into the world of near-death experiences, exploring what these encounters reveal about life and the afterlife. Dr. Bruce Greyson, a renowned expert in the field, provides insights based on his research and interactions with individuals who have had near-death experiences. Through compelling narratives and scientific analysis, the book offers a thought-provoking perspective on existence beyond this life.
 

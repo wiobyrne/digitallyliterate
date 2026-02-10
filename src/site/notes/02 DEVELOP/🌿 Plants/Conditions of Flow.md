@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/conditions-of-flow/","title":"Conditions of Flow","tags":["flow","cognition","psychology","productivity","optimal-experience"],"created":"2025-01-01"}
+{"title":"Conditions of Flow","tags":["flow","cognition","psychology","productivity","optimal-experience"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-06-30","related":["[[Flow Stoppers]]","[[Mental Health Prompts]]","[[Personal Growth Tenets]]"],"permalink":"/02-develop/plants/conditions-of-flow/","dgPassFrontmatter":true}
 ---
 
 

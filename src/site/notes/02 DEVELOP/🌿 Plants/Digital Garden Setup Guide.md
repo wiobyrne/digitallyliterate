@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/digital-garden-setup-guide/","title":"Digital Garden Setup Guide","tags":["howto","tutorial","digital-gardening","obsidian","publishing","technical-guide"],"created":"2025-11-04"}
+{"title":"Digital Garden Setup Guide","tags":["howto","tutorial","digital-gardening","obsidian","publishing","technical-guide"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"connections":["[[02 DEVELOP/🌿 Plants/My PKM Stack and Workflow\|My PKM Stack and Workflow]]","[[Tools for Federated Publishing\|Tools for Federated Publishing]]","[[02 DEVELOP/🌿 Plants/Build Your Own Federated Garden\|Build Your Own Federated Garden]]","[[Federating Your Second Brain]]"],"permalink":"/02-develop/plants/digital-garden-setup-guide/","dgPassFrontmatter":true}
 ---
 
 
@@ -753,9 +753,9 @@ dg-publish: true
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/My PKM Stack and Workflow\|My PKM Stack and Workflow]] – How I use these tools
-- [[Tools for Federated Publishing\|Tools for Federated Publishing]] – Tool comparisons
-- [[02 DEVELOP/🌿 Plants/Build Your Own Federated Garden\|Build Your Own Federated Garden]] – Broader guide
+- [[My PKM Stack and Workflow]] – How I use these tools
+- [[Tools for Federated Publishing]] – Tool comparisons
+- [[Build Your Own Federated Garden]] – Broader guide
 - [[Publishing Workflows\|Publishing Workflows]] – Different approaches
 
 ---

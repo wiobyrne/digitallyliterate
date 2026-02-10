@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/critical-pedagogy-framework/","title":"Critical Pedagogy Framework","tags":["critical-pedagogy","educational-theory","power-dynamics","democratic-learning","student-empowerment"],"created":"2025-01-29","updated":"2025-01-29"}
+{"title":"Critical Pedagogy Framework","created":"2025-01-29","last_updated":"2025-01-29","status":"🌿_plant","tags":["critical-pedagogy","educational-theory","power-dynamics","democratic-learning","student-empowerment"],"categories":"Notes","connections":["[[Teaching Philosophy MOC]]","[[Student Empowerment]]","[[Democratic Learning]]","[[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]]","[[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]]"],"dg-publish":true,"permalink":"/02-develop/plants/critical-pedagogy-framework/","dgPassFrontmatter":true,"updated":"2025-01-29"}
 ---
 
 
@@ -57,10 +57,10 @@ Education as **tool for liberation and social transformation**. Critiques tradit
 - Promote social justice through critical inquiry
 
 ## Connection to My Teaching Philosophy
-This framework directly supports my emphasis in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] on "amplifying marginalized voices," "questioning power structures," and "developing critical perspectives on educational equity and justice."
+This framework directly supports my emphasis in [[Teaching Philosophy]] on "amplifying marginalized voices," "questioning power structures," and "developing critical perspectives on educational equity and justice."
 
 ## Critical Examination
-My analysis in [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] reveals how this framework can be misused to avoid accountability. The key is ensuring the framework serves students rather than protecting institutional/teacher interests.
+My analysis in [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] reveals how this framework can be misused to avoid accountability. The key is ensuring the framework serves students rather than protecting institutional/teacher interests.
 
 ---
 

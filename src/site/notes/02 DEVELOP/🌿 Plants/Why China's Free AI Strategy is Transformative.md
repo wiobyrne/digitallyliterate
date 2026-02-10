@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/why-china-s-free-ai-strategy-is-transformative/","title":"Why China's Free AI Strategy is Transformative","tags":["china","deepseek","ai","strategy","data-collection","market-disruption"]}
+{"title":"Why China's Free AI Strategy is Transformative","tags":["china","deepseek","ai","strategy","data-collection","market-disruption"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-06-30","related":["[[AI Global Competition]]","[[Technology Market Disruption]]","[[Data as Strategic Asset]]"],"permalink":"/02-develop/plants/why-china-s-free-ai-strategy-is-transformative/","dgPassFrontmatter":true}
 ---
 
 

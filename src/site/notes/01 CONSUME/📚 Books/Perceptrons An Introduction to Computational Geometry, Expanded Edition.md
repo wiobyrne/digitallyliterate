@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/perceptrons-an-introduction-to-computational-geometry-expanded-edition/","title":"Perceptrons: An Introduction to Computational Geometry, Expanded Edition","tags":["artificial-intelligence","machine-learning","neural-networks"]}
+{"title":"Perceptrons: An Introduction to Computational Geometry, Expanded Edition","author":"[[Marvin Minsky, Seymour A. Papert\|Marvin Minsky, Seymour A. Papert]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/51-Rg3IuYrL._SL1481_.jpg","pages":"317","tags":["artificial-intelligence","machine-learning","neural-networks"],"publisher":"MIT Press","date":"2017-09-22","permalink":"/01-consume/books/perceptrons-an-introduction-to-computational-geometry-expanded-edition/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](https://m.media-amazon.com/images/I/51-Rg3IuYrL._SL1481_.jpg)
 
 # Perceptrons: An Introduction to Computational Geometry, Expanded Edition
-**Author:** [[Marvin Minsky, Seymour A. Papert\|Marvin Minsky, Seymour A. Papert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Marvin Minsky, Seymour A. Papert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 Perceptrons, written by [[Marvin Minsky\|Marvin Minsky]] and [[Seymour A. Papert\|Seymour A. Papert]], delves into the concept of artificial neural networks and their limitations. The book explores the capabilities of perceptrons, single-layer neural networks, and discusses the challenges they face in solving complex problems. With a new foreword by Léon Bottou in this reissue of the 1988 Expanded Edition, readers can gain insights into the foundational principles of machine learning.
 

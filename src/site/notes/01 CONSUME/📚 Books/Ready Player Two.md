@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/ready-player-two/","title":"Ready Player Two","tags":["science-fiction","virtual-reality","dystopia","adventure"]}
+{"title":"Ready Player Two","author":"[[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]]","categories":["Books"],"status":["🌿_plant"],"shelf":"archived","rating":0,"dg-publish":true,"cover":"http://books.google.com/books/content?id=2Z4LEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","pages":"385","tags":["science-fiction","virtual-reality","dystopia","adventure"],"publisher":"Ballantine Books","date":"2020-11-24","permalink":"/01-consume/books/ready-player-two/","dgPassFrontmatter":true}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 # Ready Player Two
-**Author:** [[01 CONSUME/👥 People/Ernest Cline\|Ernest Cline]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Ernest Cline]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

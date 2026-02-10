@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critical-thinking","permalink":"/critical-thinking/","title":"Critical Thinking","tags":["critical-thinking","reasoning","logic","decision-making","problem-solving","cognitive-skills","metacognition","bias-awareness"],"created":"2025-01-01","updated":"2025-08-10"}
+{"title":"Critical Thinking","created":"2025-01-01","last_updated":"2025-08-10","status":"🌿_plant","tags":["critical-thinking","reasoning","logic","decision-making","problem-solving","cognitive-skills","metacognition","bias-awareness"],"categories":"Notes","connections":["[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]","[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]","[[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]","[[02 DEVELOP/🌿 Plants/Information War\|Information War]]","[[02 DEVELOP/🌿 Plants/AI and Education Research Ideas\|AI and Education Research Ideas]]"],"dg-publish":true,"shelf":"active","dg-permalink":"critical-thinking","permalink":"/critical-thinking/","dgPassFrontmatter":true,"updated":"2025-08-10"}
 ---
 
 
@@ -490,9 +490,9 @@ Critical thinking serves as a primary defense against information manipulation b
 - Tetlock, P. E., & Gardner, D. (2015). Superforecasting: The Art and Science of Prediction
 
 ### Related Concepts
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Critical evaluation of media content and messages
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible reasoning in digital environments
-- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]] - Application of critical thinking to false information
-- [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Strategic thinking about information manipulation
-- [[02 DEVELOP/🌿 Plants/AI and Education Research Ideas\|AI and Education Research Ideas]] - Critical thinking in AI-enhanced learning environments
+- [[Media Literacy]] - Critical evaluation of media content and messages
+- [[Digital Citizenship]] - Responsible reasoning in digital environments
+- [[Disinformation]] - Application of critical thinking to false information
+- [[Information War]] - Strategic thinking about information manipulation
+- [[AI and Education Research Ideas]] - Critical thinking in AI-enhanced learning environments
 

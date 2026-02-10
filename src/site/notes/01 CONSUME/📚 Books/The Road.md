@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-road/","title":"The Road","tags":["post-apocalyptic","fiction","survival","relationships","despair","hope","humanity","decay"]}
+{"title":"The Road","author":"[[Cormac McCarthy\|Cormac McCarthy]]","categories":["Books"],"status":["🌿_plant"],"shelf":"archived","rating":4,"dg-publish":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/owFWa3p5h28C?fife=w600-h900&source=gbs_api","pages":"297","tags":["post-apocalyptic","fiction","survival","relationships","despair","hope","humanity","decay"],"publisher":"Vintage Books","date":"2007-01-01","permalink":"/01-consume/books/the-road/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=owFWa3p5h28C&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Road
-**Author:** [[Cormac McCarthy\|Cormac McCarthy]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Cormac McCarthy]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

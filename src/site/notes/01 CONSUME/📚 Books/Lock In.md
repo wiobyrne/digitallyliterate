@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/lock-in/","title":"Lock In","tags":["technology","disability","mystery","greed","conspiracy"]}
+{"title":"Lock In","author":"[[John Scalzi\|John Scalzi]]","categories":["Books"],"status":["🌿_plant"],"rating":3,"shelf":"archived","dg-publish":true,"cover":"http://books.google.com/books/content?id=-u5uAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"284","tags":["technology","disability","mystery","greed","conspiracy"],"publisher":"Macmillan","date":"2014-08-26","permalink":"/01-consume/books/lock-in/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=-u5uAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
@@ -7,7 +7,7 @@
 # Lock In
 
 ## Overview
-- **Author:** [[John Scalzi\|John Scalzi]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[John Scalzi]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Lock In" is a riveting sci-fi thriller set in a future where a pandemic, known as Haden's Syndrome, has left its victims fully awake but unable to move their bodies. The book follows Chris Shane, a Haden-afflicted FBI agent, as he navigates through this new world using an advanced robot body. The story delves into the implications of technology, disability, and the human experience while exploring a mystery involving corporate greed and political conspiracy.
 

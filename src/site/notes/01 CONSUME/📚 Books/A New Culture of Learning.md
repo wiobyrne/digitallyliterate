@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/a-new-culture-of-learning/","title":"A New Culture of Learning","tags":["education","learning","culture","digital","age","innovation","technology","in","education"]}
+{"title":"A New Culture of Learning","author":"[[Douglas Thomas, John Seely Brown\|Douglas Thomas, John Seely Brown]]","categories":["[[Book Index]]"],"status":["🌿_plant"],"shelf":"archived","rating":0,"dg-publish":true,"cover":"http://books.google.com/books/content?id=p1tBYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","pages":"137","tags":["education","learning","culture","digital","age","innovation","technology","in","education"],"publisher":"CreateSpace","date":"2011-01-01","permalink":"/01-consume/books/a-new-culture-of-learning/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=p1tBYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # A New Culture of Learning
-**Author:** [[Douglas Thomas, John Seely Brown\|Douglas Thomas, John Seely Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Douglas Thomas, John Seely Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/ancillary-justice/","title":"Ancillary Justice","tags":["science-fiction","artificial-intelligence","gender-identity","space-opera","social-justice"]}
+{"title":"Ancillary Justice","author":"[[Ann Leckie]]","categories":["Books"],"status":["🌿_plant"],"shelf":"archived","rating":3,"dg-publish":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/obAHf43THvQC?fife=w600-h900&source=gbs_api","pages":"304","tags":["science-fiction","artificial-intelligence","gender-identity","space-opera","social-justice"],"publisher":"Orbit","date":"2013-10-01","permalink":"/01-consume/books/ancillary-justice/","dgPassFrontmatter":true}
 ---
 
 

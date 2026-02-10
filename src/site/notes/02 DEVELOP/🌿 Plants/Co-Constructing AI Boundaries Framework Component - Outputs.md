@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-outputs/","title":"Co-Constructing AI Boundaries Framework Component - Outputs","tags":["framework-component","outputs","critical-evaluation","AI-literacy","hallucination","bias"],"updated":"2025-12-02"}
+{"title":"Co-Constructing AI Boundaries Framework Component - Outputs","date":"2025-12-02","last_updated":"2025-12-02","categories":"Notes","status":["🌿_plant"],"tags":["framework-component","outputs","critical-evaluation","AI-literacy","hallucination","bias"],"dg-publish":true,"shelf":"active","related":["[[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]","[[03 CREATE/🌲 Evergreens/Agency\|Agency]]","[[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]","[[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]"],"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-outputs/","dgPassFrontmatter":true,"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Outputs
@@ -191,8 +191,8 @@ Output evaluation reveals epistemic stance:
 
 ## Relationship to Other Framework Components
 
-- **← [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]:** Prompt quality influences output quality
-- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** Output evaluation determines integration approach
+- **← [[Co-Constructing AI Boundaries Framework Component - Prompts]]:** Prompt quality influences output quality
+- **→ [[Co-Constructing AI Boundaries Framework Component - Integration]]:** Output evaluation determines integration approach
 - **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]:** Students may reflect on output problems
 
 ---
@@ -236,11 +236,11 @@ The Outputs component operationalizes this principle by analyzing:
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[Analytic Framework for AI Human Meaning-Making Practices]]
 - [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
-- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
-- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
-- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+- [[Agency]]
+- [[Boundary-work]]
+- [[Epistemic Stance]]
 
 ---
 

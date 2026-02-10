@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"anti-racist-digital-literacy-principles","permalink":"/anti-racist-digital-literacy-principles/","title":"Anti-Racist Digital Literacy Principles","tags":["anti-racism","digital-literacy","equity","education","principles"],"created":"2025-04-17","updated":"2026-02-01"}
+{"title":"Anti-Racist Digital Literacy Principles","created":"2025-04-17","last_updated":"2026-02-01","status":"🌿_plant","categories":["Framework"],"tags":["anti-racism","digital-literacy","equity","education","principles"],"connections":["[[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]","[[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]]"],"related":["[[02 DEVELOP/🌿 Plants/Critical Citizenship\|Critical Citizenship]]","[[Digital Resilience]]"],"dg-publish":true,"dg-permalink":"anti-racist-digital-literacy-principles","source":"ChatGPT conversation \"Anti-Racist Digital Literacy Principles\" (Apr 2025)","permalink":"/anti-racist-digital-literacy-principles/","dgPassFrontmatter":true,"updated":"2026-02-01"}
 ---
 
 
@@ -95,9 +95,9 @@ Mental well-being enhances the ability to engage in anti-racist work effectively
 
 ## Related
 
-- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogical approach
-- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
-- [[02 DEVELOP/🌿 Plants/Critical Citizenship\|Critical Citizenship]] — Civic engagement online
+- [[Teaching Digital Self-determination]] — Pedagogical approach
+- [[Digital Self-determination]] — The broader framework
+- [[Critical Citizenship]] — Civic engagement online
 - [[02 DEVELOP/🌱 Seeds/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — Power dynamics in schools
 
 ---

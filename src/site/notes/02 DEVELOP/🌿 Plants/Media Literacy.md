@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"media-literacy","permalink":"/media-literacy/","title":"Media Literacy","tags":["media-literacy","critical-thinking","digital-literacy","information-literacy","misinformation","digital-citizenship","critical-pedagogy"],"created":"2025-08-03","updated":"2025-08-10"}
+{"title":"Media Literacy","created":"2025-08-03","last_updated":"2025-08-10","status":"🌿_plant","tags":["media-literacy","critical-thinking","digital-literacy","information-literacy","misinformation","digital-citizenship","critical-pedagogy"],"categories":"Notes","connections":["[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]","[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]","[[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]","[[03 CREATE/📝 Blog/IT&DML Syllabus for Foundations in Media Literacy\|IT&DML Syllabus for Foundations in Media Literacy]]","[[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]]"],"dg-publish":true,"shelf":"active","dg-permalink":"media-literacy","permalink":"/media-literacy/","dgPassFrontmatter":true,"updated":"2025-08-10"}
 ---
 
 
@@ -336,9 +336,9 @@ Media literacy education draws from critical pedagogy traditions, emphasizing:
 - [First Draft](https://firstdraftnews.org/) - Verification and disinformation research
 
 ### Related Concepts
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Ethical participation in digital society
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] - Technical and critical skills for digital participation  
-- [[03 CREATE/📝 Blog/IT&DML Syllabus for Foundations in Media Literacy\|IT&DML Syllabus for Foundations in Media Literacy]] - Academic curriculum framework
-- [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]] - Building capacity to navigate digital challenges
-- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]] - Analytical skills underlying media literacy
+- [[Digital Citizenship]] - Ethical participation in digital society
+- [[Digital Literacy Framework]] - Technical and critical skills for digital participation  
+- [[IT&DML Syllabus for Foundations in Media Literacy]] - Academic curriculum framework
+- [[Digital Resilience MOC]] - Building capacity to navigate digital challenges
+- [[Critical Thinking]] - Analytical skills underlying media literacy
 

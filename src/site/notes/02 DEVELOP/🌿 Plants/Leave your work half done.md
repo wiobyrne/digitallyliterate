@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/leave-your-work-half-done/","title":"Leave your work half done","tags":["productivity","gtd","psychology","zeigarnik-effect"]}
+{"title":"Leave your work half done","tags":["productivity","gtd","psychology","zeigarnik-effect"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","date":"2025-06-29","last_review":"2025-06-29","development_needed":["Improve formatting and structure","Add section headers","Include more research references","Add practical implementation guide"],"target_evergreen_date":"2025-08-01","related":["[[Productivity]]","[[Psychology]]","[[Work-Life Balance]]","[[Getting Things Done]]"],"permalink":"/02-develop/plants/leave-your-work-half-done/","dgPassFrontmatter":true}
 ---
 
 # Leave your work half done

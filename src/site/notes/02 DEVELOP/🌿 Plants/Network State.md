@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/network-state/","title":"Network State","tags":["network-state","digital-community","community","governance","sovereignty","blockchain-technology","decentralized-governance"]}
+{"title":"Network State","tags":["network-state","digital-community","community","governance","sovereignty","blockchain-technology","decentralized-governance"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","related":[],"permalink":"/02-develop/plants/network-state/","dgPassFrontmatter":true}
 ---
 
 # Network State

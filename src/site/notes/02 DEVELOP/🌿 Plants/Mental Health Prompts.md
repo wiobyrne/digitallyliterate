@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/mental-health-prompts/","title":"Mental Health Prompts","tags":["mental-health","assessment","psychological-wellbeing","self-reflection","stress-management"],"created":"2025-02-03"}
+{"title":"Mental Health Prompts","tags":["mental-health","assessment","psychological-wellbeing","self-reflection","stress-management"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-02-03","last_modified":"2025-06-30","related":["[[Daily CBT-style journaling practice]]","[[Self-Confidence]]","[[Understanding Shame]]"],"permalink":"/02-develop/plants/mental-health-prompts/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/gish-gallop/","title":"Gish Gallop","tags":["logical-fallacies","debate-tactics","rhetoric","argumentation","critical-thinking","misinformation"]}
+{"title":"Gish Gallop","created":"2025-07-19","last_updated":"2025-07-19","categories":["Notes"],"status":"🌿_plant","tags":["logical-fallacies","debate-tactics","rhetoric","argumentation","critical-thinking","misinformation"],"related":[],"dg-publish":true,"shelf":"processed","permalink":"/02-develop/plants/gish-gallop/","dgPassFrontmatter":true,"updated":"2025-07-19"}
 ---
 
 

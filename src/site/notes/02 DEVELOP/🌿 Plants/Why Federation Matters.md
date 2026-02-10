@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/why-federation-matters/","title":"Why Federation Matters","tags":["federation","indieweb","open-web","decentralization","knowledge-work"]}
+{"title":"Why Federation Matters","tags":["federation","indieweb","open-web","decentralization","knowledge-work"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"connections":["[[Second Brain vs Knowledge Ecosystem]]","[[ActivityPub and Fediverse\|ActivityPub and Fediverse]]","[[IndieWeb Principles\|IndieWeb Principles]]","[[Federating Your Second Brain]]"],"permalink":"/02-develop/plants/why-federation-matters/","dgPassFrontmatter":true}
 ---
 
 
@@ -253,8 +253,8 @@ Federation enables **sustainable knowledge work**:
 
 ## Related Concepts
 
-- [[ActivityPub and Fediverse\|ActivityPub and Fediverse]] – Technical deep dive
-- [[IndieWeb Principles\|IndieWeb Principles]] – Community and philosophy
+- [[ActivityPub and Fediverse]] – Technical deep dive
+- [[IndieWeb Principles]] – Community and philosophy
 - [[POSSE and Syndication\|POSSE and Syndication]] – Publishing strategies
 - [[Open Protocols for Knowledge Work\|Open Protocols for Knowledge Work]] – Technical standards
 

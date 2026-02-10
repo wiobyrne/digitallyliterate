@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-literacy-framework","permalink":"/digital-literacy-framework/","title":"Digital Literacy Framework","tags":["digital-literacy","information-literacy","technology-skills","critical-thinking","digital-citizenship","media-literacy","computational-thinking","digital-fluency"],"created":"2025-08-10","updated":"2025-08-10"}
+{"title":"Digital Literacy Framework","created":"2025-08-10","last_updated":"2025-08-10","status":"🌿_plant","tags":["digital-literacy","information-literacy","technology-skills","critical-thinking","digital-citizenship","media-literacy","computational-thinking","digital-fluency"],"categories":"Notes","connections":["[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]","[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]","[[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]","[[02 DEVELOP/🌿 Plants/Evolving Concepts of Text\|Evolving Concepts of Text]]","[[02 DEVELOP/🌿 Plants/Information War\|Information War]]"],"dg-publish":true,"shelf":"active","dg-permalink":"digital-literacy-framework","permalink":"/digital-literacy-framework/","dgPassFrontmatter":true,"updated":"2025-08-10"}
 ---
 
 
@@ -270,9 +270,9 @@ Digital literacy provides the knowledge and skills foundation that enables respo
 - [Microsoft Digital Literacy](https://www.microsoft.com/en-us/digital-literacy) - Curriculum and assessment tools
 
 ### Related Concepts
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible and ethical participation in digital society
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Critical analysis and creation of media content
-- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]] - Analytical skills underlying digital literacy
-- [[02 DEVELOP/🌿 Plants/Evolving Concepts of Text\|Evolving Concepts of Text]] - Theoretical framework for text in digital environments
-- [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Understanding information manipulation and building resistance
+- [[Digital Citizenship]] - Responsible and ethical participation in digital society
+- [[Media Literacy]] - Critical analysis and creation of media content
+- [[Critical Thinking]] - Analytical skills underlying digital literacy
+- [[Evolving Concepts of Text]] - Theoretical framework for text in digital environments
+- [[Information War]] - Understanding information manipulation and building resistance
 

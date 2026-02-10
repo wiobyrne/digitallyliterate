@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/china-s-strategic-ai-approach-with-deep-seek/","title":"China's Strategic AI Approach with DeepSeek","tags":["ai","deepseek","china","ai-competition","cost-efficiency","open-source"],"created":"2025-01-01"}
+{"title":"China's Strategic AI Approach with DeepSeek","tags":["ai","deepseek","china","ai-competition","cost-efficiency","open-source"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-06-30","related":["[[AI Global Competition]]","[[Open Source AI Models]]","[[Cost-Effective AI Development]]"],"permalink":"/02-develop/plants/china-s-strategic-ai-approach-with-deep-seek/","dgPassFrontmatter":true}
 ---
 
 

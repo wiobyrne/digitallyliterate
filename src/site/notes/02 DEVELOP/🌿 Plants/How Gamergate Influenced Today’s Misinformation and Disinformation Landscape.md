@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/how-gamergate-influenced-today-s-misinformation-and-disinformation-landscape/","title":"How Gamergate Influenced Today’s Misinformation and Disinformation Landscape","tags":["GamerGate"],"created":"2025-07-19","updated":"2025-07-19"}
+{"title":"How Gamergate Influenced Today’s Misinformation and Disinformation Landscape","created":"2025-07-19","last_updated":"2025-07-19","categories":["Notes"],"status":"🌿_plant","tags":["GamerGate"],"related":[],"dg-publish":true,"shelf":"processed","permalink":"/02-develop/plants/how-gamergate-influenced-today-s-misinformation-and-disinformation-landscape/","dgPassFrontmatter":true,"updated":"2025-07-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/bluetooth-not-working-ubuntu/","title":"Bluetooth Not Working Ubuntu","tags":["bluetooth","ubuntu","tech-support","troubleshooting","linux","hardware"]}
+{"title":"Bluetooth Not Working Ubuntu","tags":["bluetooth","ubuntu","tech-support","troubleshooting","linux","hardware"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-01-01","related":["[[Linux]]","[[Hardware Troubleshooting]]","[[Ubuntu]]"],"permalink":"/02-develop/plants/bluetooth-not-working-ubuntu/","dgPassFrontmatter":true}
 ---
 
 

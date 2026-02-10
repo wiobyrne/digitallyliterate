@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/ai-and-digital-resilience-index/","title":"AI and Digital Resilience Index","tags":["index","ai","privacy","digital-resilience","ethics"],"created":"2025-07-16","updated":"2025-07-16"}
+{"title":"AI and Digital Resilience Index","created":"2025-07-16","last_updated":"2025-07-16","status":"🌿_plant","tags":["index","ai","privacy","digital-resilience","ethics"],"aliases":["AI Privacy and Ethics","AI and Surveillance Index","Artificial Intelligence and Digital Autonomy"],"related":["[[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]]","[[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]]","[[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]"],"dg-publish":true,"categories":["Index"],"shelf":"active","index-type":"thematic-hub","audience":"researchers, students, privacy advocates","permalink":"/02-develop/mo-cs/ai-and-digital-resilience-index/","dgPassFrontmatter":true,"updated":"2025-07-16"}
 ---
 
 
@@ -33,9 +33,9 @@ Use this hub to explore:
 
 ## 🔗 Related Maps of Content
 
-- [[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]]  
-- [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]]  
-- [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]  
+- [[AI and Machine Learning MOC]]  
+- [[Digital Resilience MOC]]  
+- [[Privacy and Security MOC]]  
 
 ---
 

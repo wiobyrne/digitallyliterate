@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/altered-carbon/","title":"Altered Carbon","tags":["science-fiction","life","death","identity","mortality"]}
+{"title":"Altered Carbon","author":"[[Richard K. Morgan]]","categories":["[[Book Index]]"],"status":["🌿_plant"],"rating":4,"shelf":"archived","dg-publish":true,"cover":"http://books.google.com/books/content?id=iQE5AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"498","tags":["science-fiction","life","death","identity","mortality"],"publisher":"Gollancz","date":"2008-12-09","permalink":"/01-consume/books/altered-carbon/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=iQE5AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)

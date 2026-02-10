@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/on-bullshit/","title":"On Bullshit","tags":["philosophy","truth","deception"]}
+{"title":"On Bullshit","author":"[[Harry G. Frankfurt\|Harry G. Frankfurt]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","rating":0,"cover":"https://m.media-amazon.com/images/I/41fnjGmUNcL._SL1500_.jpg","pages":"80","tags":["philosophy","truth","deception"],"publisher":"Princeton University Press","date":"2021-02-02","dg-publish":true,"permalink":"/01-consume/books/on-bullshit/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](https://m.media-amazon.com/images/I/41fnjGmUNcL._SL1500_.jpg)
 
 # On Bullshit
-**Author:** [[Harry G. Frankfurt\|Harry G. Frankfurt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Harry G. Frankfurt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

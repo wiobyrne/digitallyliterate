@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-road-to-unfreedom/","title":"The Road to Unfreedom","tags":["politics","history","authoritarianism"]}
+{"title":"The Road to Unfreedom","author":"[[Timothy Snyder\|Timothy Snyder]]","categories":["Books"],"status":["🌱_seed","🌿_plant","🌲_evergreen"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/OeMxDwAAQBAJ?fife=w600-h900&source=gbs_api","pages":"385","tags":["politics","history","authoritarianism"],"publisher":"Crown","date":"2018-04-03","permalink":"/01-consume/books/the-road-to-unfreedom/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=OeMxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Road to Unfreedom
-**Author:** [[Timothy Snyder\|Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Road to Unfreedom" by Timothy Snyder explores the rise of authoritarianism in the 21st century, focusing on Russia and the United States. The book delves into the manipulation of truth, the erosion of democracy, and the spread of disinformation as tools used by leaders to consolidate power. Through a detailed analysis of historical events and current political landscapes, Snyder warns about the dangers of ignoring warning signs of authoritarianism.
 

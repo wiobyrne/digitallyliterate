@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"document-collaboration-tools","permalink":"/document-collaboration-tools/","title":"Document Collaboration Tools","tags":["privacy-by-design","collaboration","cryptpad","hedgedoc","nextcloud","document-editing"],"created":"2025-07-19","updated":"2026-01-31"}
+{"title":"Document Collaboration Tools","created":"2025-07-19","last_updated":"2026-01-31","status":"🌿_plant","categories":["Tools"],"tags":["privacy-by-design","collaboration","cryptpad","hedgedoc","nextcloud","document-editing"],"connections":["[[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]","[[Digital Self-determination]]"],"related":["[[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]","[[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]"],"dg-publish":true,"dg-permalink":"document-collaboration-tools","confidence":"high","impact":"high","permalink":"/document-collaboration-tools/","dgPassFrontmatter":true,"updated":"2026-01-31"}
 ---
 
 
@@ -123,9 +123,9 @@ Comprehensive data migration tools prevent loss.
 
 ## Related
 
-- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Parent Grove
-- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Messaging and community tools
-- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Cloud storage alternatives
+- [[Privacy by Design]] — Parent Grove
+- [[Communication Platforms]] — Messaging and community tools
+- [[File Storage Solutions]] — Cloud storage alternatives
 
 ---
 

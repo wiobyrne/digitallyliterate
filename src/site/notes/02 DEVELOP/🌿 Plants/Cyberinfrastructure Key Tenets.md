@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/cyberinfrastructure-key-tenets/","title":"Cyberinfrastructure Key Tenets","tags":["cyberinfrastructure","digital-minimalism","minimal-computing","digital-humanities","open-source","sustainability","cybersecurity","digital-infrastructure","resource-consciousness","accessibility"]}
+{"title":"Cyberinfrastructure Key Tenets","tags":["cyberinfrastructure","digital-minimalism","minimal-computing","digital-humanities","open-source","sustainability","cybersecurity","digital-infrastructure","resource-consciousness","accessibility"],"status":["🌿_plant"],"dg-publish":true,"categories":["Technology Infrastructure","Digital Humanities","Sustainability"],"date":"2025-07-01, 11:00","related":["[[Digital Minimalism]]","[[Minimal Computing]]","[[Open Source Philosophy]]","[[Sustainable Technology]]","[[Digital Security]]","[[Accessible Technology]]"],"shelf":"processed","permalink":"/02-develop/plants/cyberinfrastructure-key-tenets/","dgPassFrontmatter":true}
 ---
 
 

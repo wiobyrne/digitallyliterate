@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/mo-cs/","title":"🗂️ MOCs Index","tags":["index","mocs","navigation","learning-pathways","strategic-guidance"]}
+{"title":"🗂️ MOCs Index","created":"2025-08-08","last_updated":"2025-08-08","status":"🌲_evergreen","tags":["index","mocs","navigation","learning-pathways","strategic-guidance"],"categories":["Index"],"related":["[[🌱 Seeds Index]]","[[🌿 Plants Index]]","[[🌲 Evergreens Index]]"],"aliases":["Navigation Index","Learning Pathways Index","Strategic Navigation Guide"],"dg-publish":true,"shelf":"active","permalink":"/02-develop/mo-cs/mo-cs/","dgPassFrontmatter":true,"updated":"2025-08-08"}
 ---
 
 

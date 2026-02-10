@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-promise-of-politics/","title":"The Promise of Politics","tags":["politics","promise","philosophy","democracy"]}
+{"title":"The Promise of Politics","author":"[[Hannah Arendt\|Hannah Arendt]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/91ApYpa8QrL._SL1500_.jpg","pages":"258","tags":["politics","promise","philosophy","democracy"],"publisher":"Schocken","date":"2009-01-16","permalink":"/01-consume/books/the-promise-of-politics/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](https://m.media-amazon.com/images/I/91ApYpa8QrL._SL1500_.jpg)
 # The Promise of Politics
-**Author:** [[Hannah Arendt\|Hannah Arendt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Hannah Arendt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Promise of Politics" delves into the essence of politics and its role in society, exploring themes of power, freedom, and responsibility.
 - Through her insightful analysis, Hannah Arendt challenges readers to rethink their understanding of political action and the potential for positive change within a democratic framework.

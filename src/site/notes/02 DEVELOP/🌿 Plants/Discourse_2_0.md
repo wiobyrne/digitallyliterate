@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/discourse-2-0/","title":"Discourse 2.0: Evolution of Communication in Web 2.0 Environments","tags":["discourse-analysis","web-2-0","computer-mediated-communication","social-media","digital-communication","multimodal-discourse","user-generated-content","collaborative-media","network-communication"],"created":"2025-07-01"}
+{"title":"Discourse 2.0: Evolution of Communication in Web 2.0 Environments","created":"2025-07-01","modified":"2025-07-01","tags":["discourse-analysis","web-2-0","computer-mediated-communication","social-media","digital-communication","multimodal-discourse","user-generated-content","collaborative-media","network-communication"],"categories":["Digital Communication","Discourse Analysis","Web 2.0 Studies","Social Media Research"],"status":"🌿_plant","dg-publish":true,"related":["[[Purpose of Blogging]]","[[Social Media Activity]]","[[Network Communication Patterns]]","[[Digital Literacy Framework]]"],"summary":"Comprehensive analysis of how communication discourse has evolved in Web 2.0 environments, examining new content types, contexts, usage patterns, and collaborative production methods","permalink":"/02-develop/plants/discourse-2-0/","dgPassFrontmatter":true}
 ---
 
 

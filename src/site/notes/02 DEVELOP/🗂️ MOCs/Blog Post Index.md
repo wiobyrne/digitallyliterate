@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/mo-cs/blog-post-index/","title":"Blog Post Index","tags":["blog-posts","index"]}
+{"title":"Blog Post Index","status":"🌲_evergreen","categories":"index","dg-publish":true,"tags":["blog-posts","index"],"permalink":"/02-develop/mo-cs/blog-post-index/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/21-lessons-for-the-21st-century/","title":"21 Lessons for the 21st Century","tags":["technology","politics","human-nature","values","beliefs"]}
+{"title":"21 Lessons for the 21st Century","author":"[[Yuval Noah Harari\|Yuval Noah Harari]]","categories":["[[Book Index]]"],"status":["🌿_plant"],"rating":4,"shelf":"archived","dg-publish":true,"cover":"http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"360","tags":["technology","politics","human-nature","values","beliefs"],"publisher":"Random House","date":"2019-01-29","permalink":"/01-consume/books/21-lessons-for-the-21st-century/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=MSKEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 # 21 Lessons for the 21st Century
 
 ## Overview
-- **Author:** [[Yuval Noah Harari\|Yuval Noah Harari]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[Yuval Noah Harari]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "21 Lessons for the 21st Century" by Yuval Noah Harari offers an exploration of what the future holds in terms of technology, politics, and human nature. It examines how we can navigate today's fast-changing landscape and prepare ourselves for what's to come. The book challenges readers to question their values, beliefs, and identities in order to better understand the world and our place in it.
 

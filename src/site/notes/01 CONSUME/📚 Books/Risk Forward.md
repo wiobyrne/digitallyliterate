@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/risk-forward/","title":"Risk Forward","tags":["personal-growth","self-help","motivation","entrepreneurship","life-transitions"]}
+{"title":"Risk Forward","author":"[[Victoria Labalme\|Victoria Labalme]]","categories":["Books"],"status":["🌿_plant"],"shelf":"archived","rating":3,"dg-publish":true,"cover":"http://books.google.com/books/content?id=8MT8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","pages":"177","tags":["personal-growth","self-help","motivation","entrepreneurship","life-transitions"],"publisher":"Hay House, Inc","date":"2021-03-30","permalink":"/01-consume/books/risk-forward/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=8MT8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Risk Forward
-**Author:** [[Victoria Labalme\|Victoria Labalme]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Victoria Labalme]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

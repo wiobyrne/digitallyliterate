@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/daily-cbt-style-journaling-practice/","title":"Daily CBT-style Journaling Practice","tags":["cognitive-behavioral-therapy","journaling","mindfulness","emotional-regulation","self-reflection"],"created":"2025-05-15"}
+{"title":"Daily CBT-style Journaling Practice","tags":["cognitive-behavioral-therapy","journaling","mindfulness","emotional-regulation","self-reflection"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-05-15","last_modified":"2025-06-30","related":["[[Mental Health Prompts]]","[[Understanding Shame]]","[[Self-Confidence]]"],"permalink":"/02-develop/plants/daily-cbt-style-journaling-practice/","dgPassFrontmatter":true}
 ---
 
 

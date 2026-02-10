@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-4-hour-work-week/","title":"The 4-Hour Work Week","tags":["work-life-balance","outsourcing","hacks","work","culture","entrepreneurship"]}
+{"title":"The 4-Hour Work Week","author":"[[Timothy Ferriss\|Timothy Ferriss]]","categories":["Books"],"status":["🌿_plant"],"rating":4,"shelf":"archived","dg-publish":true,"cover":"http://books.google.com/books/content?id=E3HVzZQh88wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"322","tags":["work-life-balance","outsourcing","hacks","work","culture","entrepreneurship"],"publisher":"Crown","date":"2007-01-01","permalink":"/01-consume/books/the-4-hour-work-week/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=E3HVzZQh88wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 # The 4-Hour Work Week
 
 ## Overview
-- **Author:** [[Timothy Ferriss\|Timothy Ferriss]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[Timothy Ferriss]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The 4-Hour Work Week" is a guide to escaping the traditional "9 to 5" work week by becoming more productive and outsourcing non-core tasks. The author, Tim Ferriss, shares his experiences and strategies for achieving this while maintaining a healthy work-life balance. The book offers practical tips on how to live a 'luxurious' lifestyle without being tied down by the constraints of a regular job.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/reinforcement-learning-from-human-feedback/","title":"Reinforcement Learning from Human Feedback","tags":["ai"]}
+{"title":"Reinforcement Learning from Human Feedback","tags":["ai"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"active","related":null,"permalink":"/02-develop/plants/reinforcement-learning-from-human-feedback/","dgPassFrontmatter":true}
 ---
 
 # Reinforcement Learning from Human Feedback

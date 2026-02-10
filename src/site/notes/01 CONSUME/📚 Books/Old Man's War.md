@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/old-man-s-war/","title":"Old Man's War","tags":["science-fiction","military-strategy","space-exploration","human-condition"]}
+{"title":"Old Man's War","author":"[[John Scalzi\|John Scalzi]]","categories":["Books"],"status":["🌿_plant"],"rating":0,"shelf":"inbox","dg-publish":true,"cover":"http://books.google.com/books/content?id=XVwOEeHTU4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"324","tags":["science-fiction","military-strategy","space-exploration","human-condition"],"publisher":"Macmillan","date":"2007-04-01","permalink":"/01-consume/books/old-man-s-war/","dgPassFrontmatter":true}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=XVwOEeHTU4QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # Old Man's War
-- **Author:** [[John Scalzi\|John Scalzi]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[John Scalzi]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Old Man's War" is a military science fiction novel that follows a 75-year-old man, John Perry, who joins the Colonial Defense Forces to fight alien species for human colonization of space. The novel explores themes of mortality, war, love, and identity with humor and sharp wit. It creates a universe where old age is not an end but a beginning to an exciting new life in the cosmos.
 

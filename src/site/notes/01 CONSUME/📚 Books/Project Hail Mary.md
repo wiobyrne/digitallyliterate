@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/project-hail-mary/","title":"Project Hail Mary","tags":["thriller","space-exploration","survival","aliens","friendship","apocalypse","science-fiction"]}
+{"title":"Project Hail Mary","author":"[[Andy Weir]]","categories":["Books"],"status":["🌱_seed"],"shelf":"archived","rating":4,"dg-publish":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/GrYsEAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"497","tags":["thriller","space-exploration","survival","aliens","friendship","apocalypse","science-fiction"],"publisher":"Ballantine Books","date":"2021-05-04","permalink":"/01-consume/books/project-hail-mary/","dgPassFrontmatter":true}
 ---
 
 ![cover|150](https://books.google.com/books/publisher/content/images/frontcover/GrYsEAAAQBAJ?fife=w600-h900&source=gbs_api)

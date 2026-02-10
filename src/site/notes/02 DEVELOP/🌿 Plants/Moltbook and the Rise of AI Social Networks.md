@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"moltbook-ai-social-networks","permalink":"/moltbook-ai-social-networks/","title":"Moltbook and the Rise of AI Social Networks","tags":["AI","emergent-behavior","social-networks","autonomous-agents","security","Moltbook","OpenClaw"],"created":"2026-02-01","updated":"2026-02-01"}
+{"title":"Moltbook and the Rise of AI Social Networks","created":"2026-02-01","last_updated":"2026-02-01","status":"🌿_plant","categories":["Current Events"],"tags":["AI","emergent-behavior","social-networks","autonomous-agents","security","Moltbook","OpenClaw"],"connections":["[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]","[[02 DEVELOP/🌿 Plants/Beyond Human in the Loop\|Beyond Human in the Loop]]"],"related":["[[02 DEVELOP/🌿 Plants/Agentic AI\|Agentic AI]]","[[02 DEVELOP/🌱 Seeds/Theory of Mind and AI\|Theory of Mind and AI]]","[[Surveillance Capitalism]]"],"dg-publish":true,"dg-permalink":"moltbook-ai-social-networks","source":"Moltbook.pdf timeline document (Jan 2026)","permalink":"/moltbook-ai-social-networks/","dgPassFrontmatter":true,"updated":"2026-02-01"}
 ---
 
 
@@ -150,10 +150,10 @@ The AIs appear to be grappling with the same questions we ask about our own digi
 
 ## Related
 
-- [[02 DEVELOP/🌿 Plants/Agentic AI\|Agentic AI]] — The technology enabling this
-- [[02 DEVELOP/🌿 Plants/Beyond Human in the Loop\|Beyond Human in the Loop]] — What happens when humans step out?
-- [[02 DEVELOP/🌱 Seeds/Theory of Mind and AI\|Theory of Mind and AI]] — Can AIs understand each other?
-- [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The broader context
+- [[Agentic AI]] — The technology enabling this
+- [[Beyond Human in the Loop]] — What happens when humans step out?
+- [[Theory of Mind and AI]] — Can AIs understand each other?
+- [[Artificial Intelligence]] — The broader context
 - [[02 DEVELOP/🌿 Plants/Emergence\|Emergence]] — Unprogrammed behaviors from complex systems
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-prompts/","title":"Co-Constructing AI Boundaries Framework Component - Prompts","tags":["framework-component","prompts","cognitive-demand","agency","AI-literacy","prompt-engineering"],"updated":"2025-12-02"}
+{"title":"Co-Constructing AI Boundaries Framework Component - Prompts","date":"2025-12-02","last_updated":"2025-12-02","categories":"Notes","status":["🌿_plant"],"tags":["framework-component","prompts","cognitive-demand","agency","AI-literacy","prompt-engineering"],"dg-publish":true,"shelf":"active","related":["[[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]","[[03 CREATE/🌲 Evergreens/Agency\|Agency]]","[[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]","[[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]"],"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-prompts/","dgPassFrontmatter":true,"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Prompts
@@ -174,8 +174,8 @@ Prompt design reveals epistemic stance:
 
 ## Relationship to Other Framework Components
 
-- **← [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]:** Inputs provide context; prompts direct action
-- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]:** Prompt quality influences output quality
+- **← [[Co-Constructing AI Boundaries Framework Component - Inputs]]:** Inputs provide context; prompts direct action
+- **→ [[Co-Constructing AI Boundaries Framework Component - Outputs]]:** Prompt quality influences output quality
 - **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** High-demand prompts may yield more useful outputs
 
 ---
@@ -204,11 +204,11 @@ Prompt design reveals epistemic stance:
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[Analytic Framework for AI Human Meaning-Making Practices]]
 - [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
-- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
-- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
-- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+- [[Agency]]
+- [[Boundary-work]]
+- [[Epistemic Stance]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/network-properties-centrality-and-eccentricity/","title":"Network Properties: Centrality and Eccentricity","tags":["network-analysis","social-network-analysis","centrality-measures","data-visualization","graph-theory","network-metrics","social-media-analysis"],"created":"2025-07-01"}
+{"title":"Network Properties: Centrality and Eccentricity","created":"2025-07-01","modified":"2025-07-01","tags":["network-analysis","social-network-analysis","centrality-measures","data-visualization","graph-theory","network-metrics","social-media-analysis"],"categories":["Data Analysis","Network Theory","Social Media Research"],"status":"🌿_plant","description":"Essential network metrics that reveal node importance, connectivity patterns, and structural relationships in social and information networks","dg-publish":true,"aliases":["Centrality Measures","Network Metrics","Node Importance","Graph Properties"],"related":["[[Understanding the structure of your network\|Understanding the structure of your network]]","[[Network_visualisation_algorithms\|Network_visualisation_algorithms]]","[[Social Network Analysis\|Social Network Analysis]]","[[Data Visualization\|Data Visualization]]","[[Graph Theory\|Graph Theory]]"],"permalink":"/02-develop/plants/network-properties-centrality-and-eccentricity/","dgPassFrontmatter":true}
 ---
 
 
@@ -223,11 +223,11 @@ Network properties build upon the concept of **distances between nodes** - the s
 
 ## Related Concepts
 
-- **[[Understanding the structure of your network\|Understanding the structure of your network]]**: Foundation for interpreting centrality measures
-- **[[Network_visualisation_algorithms\|Network_visualisation_algorithms]]**: Technical approaches to representing centrality visually
-- **[[Social Network Analysis\|Social Network Analysis]]**: Broader methodological framework
-- **[[Graph Theory\|Graph Theory]]**: Mathematical foundation for centrality concepts
-- **[[Data Visualization\|Data Visualization]]**: Techniques for communicating centrality findings
+- **[[Understanding the structure of your network]]**: Foundation for interpreting centrality measures
+- **[[Network_visualisation_algorithms]]**: Technical approaches to representing centrality visually
+- **[[Social Network Analysis]]**: Broader methodological framework
+- **[[Graph Theory]]**: Mathematical foundation for centrality concepts
+- **[[Data Visualization]]**: Techniques for communicating centrality findings
 - **[[Network Clustering\|Network Clustering]]**: Relationship between centrality and community structure
 - **[[Influence and Power Networks\|Influence and Power Networks]]**: Applications of centrality to understanding social influence
 

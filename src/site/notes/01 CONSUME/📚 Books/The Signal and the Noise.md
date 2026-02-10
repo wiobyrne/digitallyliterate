@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-signal-and-the-noise/","title":"The Signal and the Noise","tags":["data-analysis","prediction","statistics","decision-making","information-theory"]}
+{"title":"The Signal and the Noise","author":"[[Nate Silver\|Nate Silver]]","categories":["Books"],"status":["🌿_plant"],"shelf":"archived","rating":4,"dg-publish":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/ekWLDQAAQBAJ?fife=w600-h900&source=gbs_api","pages":"577","tags":["data-analysis","prediction","statistics","decision-making","information-theory"],"publisher":"Penguin","date":"2015-02-03","permalink":"/01-consume/books/the-signal-and-the-noise/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=ekWLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Signal and the Noise
-**Author:** [[Nate Silver\|Nate Silver]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Nate Silver]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ---
 

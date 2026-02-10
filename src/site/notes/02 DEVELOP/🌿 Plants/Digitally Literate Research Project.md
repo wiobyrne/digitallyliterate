@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/digitally-literate-research-project/","title":"Digitally Literate Research Project","tags":["research","digital-literacy","instrument-design","education-technology","survey-research"],"created":"2025-01-01"}
+{"title":"Digitally Literate Research Project","tags":["research","digital-literacy","instrument-design","education-technology","survey-research"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-06-30","related":["[[Project-based learning]]","[[Teaching Literacies with Technology]]"],"source":"https://cofc.qualtrics.com/jfe/form/SV_d08stZ0o2NwWLWd?Q_JFE=qdg","permalink":"/02-develop/plants/digitally-literate-research-project/","dgPassFrontmatter":true}
 ---
 
 

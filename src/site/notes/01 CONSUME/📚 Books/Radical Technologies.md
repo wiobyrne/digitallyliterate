@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/radical-technologies/","title":"Radical Technologies","tags":["technology-criticism","urbanism","digital-society","internet-of-things","futurism"]}
+{"title":"Radical Technologies","author":"[[Adam Greenfield\|Adam Greenfield]]","categories":["Books"],"status":["🌿_plant"],"shelf":"archived","rating":4,"dg-publish":true,"cover":"https://books.google.com/books/publisher/content/images/frontcover/g1hcDAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"407","tags":["technology-criticism","urbanism","digital-society","internet-of-things","futurism"],"publisher":"Verso Books","date":"2017-06-13","permalink":"/01-consume/books/radical-technologies/","dgPassFrontmatter":true}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=g1hcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Radical Technologies
-**Author:** [[Adam Greenfield\|Adam Greenfield]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Adam Greenfield]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 ## Three-Sentence Summary
 > "Radical Technologies" offers a critical analysis of the Internet of Things (IoT) and its implications for contemporary society, questioning the utopian promises made by technology companies while examining their potential impact on urban spaces. The book argues that these technologies should be reimagined to prioritize human agency and avoid perpetuating existing inequalities.
