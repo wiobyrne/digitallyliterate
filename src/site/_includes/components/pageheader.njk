@@ -1,15 +1,4 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script>
-  // Prevent flash of wrong theme — runs before body renders
-  (function() {
-    var saved = localStorage.getItem('dg-theme');
-    if (saved) {
-      document.documentElement.className = saved;
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
-      document.documentElement.className = 'theme-light';
-    }
-  })();
-</script>
 <script async type="module">
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
 </script>
@@ -18,25 +7,25 @@
 
 {%include "components/calloutScript.njk"%}
 
-<script async src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
+<script defer src="https://fastly.jsdelivr.net/npm/force-graph@1.43.0/dist/force-graph.min.js"></script>
 
-<script async src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
-<script src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js" async></script>
+<script defer src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script defer src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js"></script>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async/>
 <script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
 
-<link href="/styles/digital-garden-base.css" rel="stylesheet">
 {%-if meta.themeStyle%}
     <link href="/styles/obsidian-base.css" rel="stylesheet">
     <link href="{{meta.themeStyle}}" rel="stylesheet">
 {% else %}
     <link href="/styles/style.css" rel="stylesheet">
 {%endif%}
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
 
 <link href="/styles/custom-style.css" rel="stylesheet">
 {%- for style in dynamics.styles -%}
-<link href="{{style}}" rel="stylesheet">
+<link href="{{style}}?v={{meta.buildDate|isoDate}}" rel="stylesheet">
 {%- endfor -%}
 
 {% favicons './src/site/favicon.svg', appleIconBgColor='#123' %}
@@ -46,22 +35,6 @@
         <meta name="{{ name }}" content="{{ content }}">
     {% endfor %}
 {% endif %}
-
-{%- set ogTitle = title or page.fileSlug or meta.siteName -%}
-{%- set ogDescription = description or "A digital garden by Ian O'Byrne — notes on digital literacy, education, and building a more open web." -%}
-{%- set ogUrl = meta.siteBaseUrl + page.url -%}
-<meta property="og:title" content="{{ ogTitle }}">
-<meta property="og:description" content="{{ ogDescription }}">
-<meta property="og:url" content="{{ ogUrl }}">
-<meta property="og:site_name" content="{{ meta.siteName }}">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="{{ ogTitle }}">
-<meta name="twitter:description" content="{{ ogDescription }}">
-<meta name="description" content="{{ ogDescription }}">
-<link rel="canonical" href="{{ ogUrl }}">
-<link rel="alternate" type="application/atom+xml" title="{{ meta.siteName }}" href="{{ meta.siteBaseUrl }}/feed.xml">
 
 {% if meta.styleSettingsCss %}
     <style>
