@@ -1,35 +1,22 @@
 {%if settings.dgHomeLink === true%}
     <nav class="navbar">
         <div class="navbar-inner">
-            <a href="/" style="text-decoration: none; border-bottom: none;">
-                <h1 style="margin: 15px 0 !important;">{{meta.siteName}}</h1>
+            <a href="/" style="text-decoration: none;">
+                {% if meta.siteLogoPath %}
+                    <img class="site-logo" src="{{meta.siteLogoPath}}" alt="{{meta.siteName}}">
+                {% else %}
+                    <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+                {% endif %}
             </a>
-            <div class="navbar-nav">
-                <a href="/start/" class="nav-link">Start Here</a>
-                <a href="/evergreens/" class="nav-link">Evergreens</a>
-                <a href="/groves/" class="nav-link">Groves</a>
-                <a href="/books/" class="nav-link">Books</a>
-                <a href="/newsletter/" class="nav-link">Newsletter</a>
-                <a href="/about/" class="nav-link">About</a>
-            </div>
-            <div class="navbar-spacer" style="flex: 1;"></div>
-            {% if settings.dgEnableSearch === true%}
-                {% include "components/searchButton.njk" %}
-            {%endif%}
-            <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light mode" title="Toggle dark/light mode">
-                <i icon-name="sun" class="theme-icon-light"></i>
-                <i icon-name="moon" class="theme-icon-dark"></i>
-            </button>
         </div>
+        {% if settings.dgEnableSearch === true%}
+            {% include "components/searchButton.njk" %}
+        {%endif%}
     </nav>
     {%else%}
     <div class="empty-navbar" >
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
         {%endif%}
-        <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light mode" title="Toggle dark/light mode">
-            <i icon-name="sun" class="theme-icon-light"></i>
-            <i icon-name="moon" class="theme-icon-dark"></i>
-        </button>
     </div>
 {%endif%}
