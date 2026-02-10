@@ -1,5 +1,5 @@
 ---
-{"title":"No Quick Fixes to Personal Growth","tags":["personal-growth","emotional-intelligence","self-awareness","mindfulness","resilience","slow-living","well-being","reflection","mental-health","inner-work","patience","mindset","self-compassion","transformation"],"status":["🌿_plant"],"dg-publish":true,"categories":["Personal Development","Mental Health","Self-Improvement"],"date":"2025-05-19","modified":"2024-01-15","related":["[[Personal Growth\|Personal Growth]]","[[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]]","[[Self-Compassion\|Self-Compassion]]","[[Mindful Living\|Mindful Living]]","[[Resilience Building\|Resilience Building]]"],"shelf":"processed","aliases":["Garden of Growth","Slow Personal Growth","Patient Development"],"permalink":"/02-develop/plants/no-quick-fixes-to-personal-growth/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/no-quick-fixes-to-personal-growth/","title":"No Quick Fixes to Personal Growth","tags":["personal-growth","emotional-intelligence","self-awareness","mindfulness","resilience","slow-living","well-being","reflection","mental-health","inner-work","patience","mindset","self-compassion","transformation"]}
 ---
 
 
@@ -151,10 +151,10 @@ Remember regularly:
 Embrace the process of growth and change over time. Trust that the seeds you plant today will bloom in their own perfect timing, creating a life of greater authenticity, resilience, and fulfillment.
 
 ## Related Concepts
-- [[Personal Growth]]
-- [[Emotional Intelligence MOC]]
-- [[Self-Compassion]]
-- [[Mindful Living]]
-- [[Resilience Building]]
+- [[Personal Growth\|Personal Growth]]
+- [[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Self-Compassion\|Self-Compassion]]
+- [[Mindful Living\|Mindful Living]]
+- [[Resilience Building\|Resilience Building]]
 - [[Patience as Practice\|Patience as Practice]]
 - [[Sustainable Change\|Sustainable Change]]

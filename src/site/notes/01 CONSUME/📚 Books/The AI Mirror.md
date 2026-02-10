@@ -1,12 +1,12 @@
 ---
-{"title":"The AI Mirror","author":"[[Shannon Vallor\|Shannon Vallor]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/uqD_EAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"273","tags":["ai","technology","ethics"],"publisher":"Oxford University Press","date":"2024","permalink":"/01-consume/books/the-ai-mirror/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/the-ai-mirror/","title":"The AI Mirror","tags":["ai","technology","ethics"]}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=uqD_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The AI Mirror
-**Author:** [[Shannon Vallor]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Shannon Vallor\|Shannon Vallor]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The AI Mirror" by Shannon Vallor delves into the ethical implications of artificial intelligence in today's society.
 - Through thoughtful analysis, the book explores how AI reflects and amplifies human values, biases, and ethical considerations.

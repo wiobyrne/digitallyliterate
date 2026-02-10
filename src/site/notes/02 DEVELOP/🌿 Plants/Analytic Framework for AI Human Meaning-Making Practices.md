@@ -1,5 +1,5 @@
 ---
-{"title":"Analytic Framework for AI Human Meaning-Making Practices","date":"2025-12-02","last_updated":"2025-12-02","categories":"Notes","status":["🌿_plant"],"tags":["analytic-framework","mollick-mollick","AI-literacy","qualitative-research","preservice-teachers","NotebookLM","agency","boundary-work","epistemic-stance"],"dg-publish":true,"shelf":"active","related":["[[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]","[[03 CREATE/🌲 Evergreens/Agency\|Agency]]","[[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]","[[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]","[[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]"],"connections":["[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]"],"permalink":"/02-develop/plants/analytic-framework-for-ai-human-meaning-making-practices/","dgPassFrontmatter":true,"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/analytic-framework-for-ai-human-meaning-making-practices/","title":"Analytic Framework for AI Human Meaning-Making Practices","tags":["analytic-framework","mollick-mollick","AI-literacy","qualitative-research","preservice-teachers","NotebookLM","agency","boundary-work","epistemic-stance"],"updated":"2025-12-02"}
 ---
 
 # Analytic Framework for AI Human Meaning-Making Practices
@@ -28,9 +28,9 @@ This framework allowed me to analyze authentic AI–human meaning-making practic
 
 This framework centers on three interconnected concepts:
 
-- **[[Agency]]** – Student capacity for intentional decision-making and control over AI interactions
-- **[[Boundary-work]]** – Active negotiation of boundaries between human and AI contributions
-- **[[Epistemic Stance]]** – How students position themselves as knowledge constructors vs. consumers
+- **[[03 CREATE/🌲 Evergreens/Agency\|Agency]]** – Student capacity for intentional decision-making and control over AI interactions
+- **[[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]** – Active negotiation of boundaries between human and AI contributions
+- **[[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]** – How students position themselves as knowledge constructors vs. consumers
 
 ---
 
@@ -40,26 +40,26 @@ The five steps of this framework are each grounded in specific pedagogical guida
 
 1.  **Inputs** – What students uploaded, curated, or selected as context
     * *M&M Connection:* Emphasis on providing context and goal-setting.
-    * [[Co-Constructing AI Boundaries Framework Component - Inputs]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]
 2.  **Prompts** – How students directed, constrained, or collaborated with the model
     * *M&M Connection:* Mirrors the function of "assignment roles" (Tutor, Coach, etc.).
-    * [[Co-Constructing AI Boundaries Framework Component - Prompts]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]
 3.  **Outputs** – What the model generated and how students evaluated it
     * *M&M Connection:* Corresponds to cautions about hallucination, bias, and necessity for human oversight.
-    * [[Co-Constructing AI Boundaries Framework Component - Outputs]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
 4.  **Integration** – How students incorporated, revised, resisted, or transformed AI outputs
     * *M&M Connection:* Resonates with the mandate to "remain the human in the loop."
-    * [[Co-Constructing AI Boundaries Framework Component - Integration]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
 5.  **Reflection** – Evidence of metacognition, ethical reasoning, boundaries, and epistemic stance
     * *M&M Connection:* Echoes the explicit requirement for structured reflection in the Coach/Mentor roles.
-    * [[Co-Constructing AI Boundaries Framework Component - Reflection]]
+    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
 
 ---
 
 ## 📚 Foundational Justification
 
 The detailed theoretical argument for this adaptation is housed here:
-[[How learners should engage Large Language Models framework]]
+[[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
 
 ---
 
@@ -67,10 +67,10 @@ The detailed theoretical argument for this adaptation is housed here:
 
 - **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Research Methods Justification\|Co-Constructing AI Boundaries Research Methods Justification]]** – Methodological rigor and approach
 - **[[02 DEVELOP/🌿 Plants/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]** – Additional framework analysis
-- **[[02 DEVELOP/🌿 Plants/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]** – Conceptual notes on co-construction
+- **[[03 CREATE/🎯 Projects/🟢 Active/AI Boundaries Research/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]** – Conceptual notes on co-construction
 
 ---
 
 ## 🏠 Related
 
-- **[[LRA 2025 Presentation]]** – Conference presentation context
+- **[[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]** – Conference presentation context

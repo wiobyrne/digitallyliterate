@@ -1,5 +1,5 @@
 ---
-{"title":"Newsletter Evolution and Platform Dynamics","tags":["newsletters","publishing-history","substack","email-marketing","media-evolution"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"connections":["[[02 DEVELOP/🌿 Plants/History of Digital Gardens\|History of Digital Gardens]]","[[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]","[[Platform Consolidation Problems\|Platform Consolidation Problems]]","[[Federating Your Second Brain]]"],"permalink":"/02-develop/plants/newsletter-evolution-and-platform-dynamics/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/newsletter-evolution-and-platform-dynamics/","title":"Newsletter Evolution and Platform Dynamics","tags":["newsletters","publishing-history","substack","email-marketing","media-evolution"]}
 ---
 
 
@@ -441,9 +441,9 @@ Despite digital freedom, **new consolidation problems:**
 
 ## Related Concepts
 
-- [[History of Digital Gardens]] – Parallel evolution
-- [[Platform Consolidation Problems]] – Why federation matters
-- [[Chronological vs Networked Publishing]] – Structural limitations
+- [[02 DEVELOP/🌿 Plants/History of Digital Gardens\|History of Digital Gardens]] – Parallel evolution
+- [[Platform Consolidation Problems\|Platform Consolidation Problems]] – Why federation matters
+- [[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]] – Structural limitations
 - [[POSSE and Syndication Strategies\|POSSE and Syndication Strategies]] – Using newsletters federally
 
 ## Key Sources

@@ -1,5 +1,5 @@
 ---
-{"title":"File Storage Solutions","created":"2025-07-19","last_updated":"2026-01-31","status":"🌿_plant","categories":["Tools"],"tags":["privacy-by-design","file-storage","nextcloud","data-sovereignty","cloud-storage"],"connections":["[[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]","[[Digital Self-determination]]","[[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]]"],"related":["[[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]]","[[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]"],"dg-publish":true,"dg-permalink":"file-storage-solutions","confidence":"high","impact":"high","permalink":"/file-storage-solutions/","dgPassFrontmatter":true,"updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"file-storage-solutions","permalink":"/file-storage-solutions/","title":"File Storage Solutions","tags":["privacy-by-design","file-storage","nextcloud","data-sovereignty","cloud-storage"],"created":"2025-07-19","updated":"2026-01-31"}
 ---
 
 
@@ -143,10 +143,10 @@
 
 ## Related
 
-- [[Privacy by Design]] — Parent Grove
-- [[Document Collaboration Tools]] — Collaborative editing
-- [[Communication Platforms]] — Messaging alternatives
-- [[Digital Sovereignty]] — Concept note
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Parent Grove
+- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]] — Collaborative editing
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Messaging alternatives
+- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — Concept note
 
 ---
 

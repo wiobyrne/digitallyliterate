@@ -1,5 +1,5 @@
 ---
-{"title":"Empathy and Compassion","tags":["empathy","compassion","emotional-intelligence","psychology","human-connection"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2024-04-22","last_modified":"2025-06-30","related":["[[Understanding Shame]]","[[Emotional Intelligence MOC]]","[[Human Connection]]"],"permalink":"/02-develop/plants/empathy-and-compassion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/empathy-and-compassion/","title":"Empathy and Compassion","tags":["empathy","compassion","emotional-intelligence","psychology","human-connection"],"created":"2024-04-22"}
 ---
 
 

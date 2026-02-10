@@ -1,5 +1,5 @@
 ---
-{"title":"Internet Culture MOC","created":"2025-09-14","last_updated":"2025-09-14","status":"🌲_evergreen","tags":["moc","internet-culture","digital-anthropology","online-communities","platform-studies"],"connections":["[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]","[[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]]","[[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]]","[[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]]","[[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]]"],"categories":"MOC","dg-publish":true,"shelf":"active","permalink":"/02-develop/mo-cs/internet-culture-moc/","dgPassFrontmatter":true,"updated":"2025-09-14"}
+{"dg-publish":true,"permalink":"/02-develop/mo-cs/internet-culture-moc/","title":"Internet Culture MOC","tags":["moc","internet-culture","digital-anthropology","online-communities","platform-studies"]}
 ---
 
 
@@ -107,18 +107,18 @@ Internet culture encompasses the norms, practices, and patterns of meaning-makin
 ## 📚 Learning Pathways
 
 ### 🔹 Beginner: Understanding Online Spaces
-1. **[[Digital Literacy Framework]]** - Foundation concepts and critical thinking skills
+1. **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** - Foundation concepts and critical thinking skills
 2. **[[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]]** - Understanding levels of internet participation
-3. **[[Posting Publicly Online]]** - Basic framework for digital identity
-4. **[[Extremely Online Culture]]** - Recognition of deep internet engagement patterns
+3. **[[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]]** - Basic framework for digital identity
+4. **[[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]]** - Recognition of deep internet engagement patterns
 
 ### 🔸 Intermediate: Analyzing Cultural Dynamics  
 5. **[[02 DEVELOP/🌱 Seeds/Platform Culture Analysis\|Platform Culture Analysis]]** - How different platforms shape behavior and norms
 6. **[[02 DEVELOP/🌱 Seeds/Digital Identity Construction\|Digital Identity Construction]]** - Psychology and mechanisms of online identity formation
 7. **[[02 DEVELOP/🌱 Seeds/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]]** - Understanding digital communication and cultural production
 8. **[[02 DEVELOP/🌱 Seeds/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]]** - One-sided connections and their implications
-9. **[[Online Harassment and Activism]]** - Power dynamics and intersectional analysis
-10. **[[Gamergate as Digital Misinformation Blueprint]]** - Coordinated manipulation case study
+9. **[[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]]** - Power dynamics and intersectional analysis
+10. **[[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]]** - Coordinated manipulation case study
 
 ### 🧭 Advanced: Research and Application
 11. **Theoretical framework development** - Contributing new analytical approaches

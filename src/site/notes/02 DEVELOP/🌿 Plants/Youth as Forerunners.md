@@ -1,5 +1,5 @@
 ---
-{"title":"Youth as Forerunners: Navigating Technology and Digital Literacy in Progressive Households","created":"2025-07-01","modified":"2025-07-01","tags":["youth-development","digital-literacy","media-mentorship","technology-use","family-dynamics","screen-time","forerunner-families","digital-citizenship","generational-dynamics","progressive-parenting"],"categories":["Youth Development","Digital Literacy","Family Studies","Media Education"],"status":"🌿_plant","dg-publish":true,"related":["[[Get Proximate]]","[[Intersectionality String Game Activity]]","[[Digital Citizenship]]","[[Media Mentorship]]"],"summary":"Exploration of how children in progressive, technology-forward households navigate the privileges and challenges of being digital forerunners alongside their parents","permalink":"/02-develop/plants/youth-as-forerunners/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/youth-as-forerunners/","title":"Youth as Forerunners: Navigating Technology and Digital Literacy in Progressive Households","tags":["youth-development","digital-literacy","media-mentorship","technology-use","family-dynamics","screen-time","forerunner-families","digital-citizenship","generational-dynamics","progressive-parenting"]}
 ---
 
 

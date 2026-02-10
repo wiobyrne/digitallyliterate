@@ -1,5 +1,5 @@
 ---
-{"title":"Generating Animations from Screenplays - AI-Powered Text-to-Animation Systems","aliases":["Generating Animations from Screenplays","Text to Animation AI","Screenplay Animation Generation","AI Storyboarding"],"tags":["artificial-intelligence","animation","screenwriting","text-to-video","natural-language-processing","educational-technology","content-creation","multimedia-production"],"categories":["AI and Media Production","Educational Technology","Creative Tools"],"status":"🌿_plant","dg-publish":true,"date":"2025-07-02","updated":"2025-07-02","related":["[[AI Video Generation]]","[[Natural Language Processing]]","[[Educational Content Creation]]","[[Multimodal AI Systems]]","[[Creative AI Applications]]"],"shelf":"ai-applications","priority":"medium","review_frequency":"quarterly","permalink":"/02-develop/plants/generating-animations-from-screenplays-ai-powered-text-to-animation-systems/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/generating-animations-from-screenplays-ai-powered-text-to-animation-systems/","title":"Generating Animations from Screenplays - AI-Powered Text-to-Animation Systems","tags":["artificial-intelligence","animation","screenwriting","text-to-video","natural-language-processing","educational-technology","content-creation","multimedia-production"]}
 ---
 
 

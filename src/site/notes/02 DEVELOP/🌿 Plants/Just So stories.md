@@ -1,5 +1,5 @@
 ---
-{"title":"Just So Stories","tags":["evolutionary-theory","biological-determinism","adaptationism","empirical-evidence","human-nature","social-roles","critical-thinking","scientific-method"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2023-05-10","updated":"2025-06-30","shelf":"processed","related":["[[Evolutionary Theory]]","[[Scientific Method]]","[[Biological Determinism]]"],"permalink":"/02-develop/plants/just-so-stories/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/just-so-stories/","title":"Just So Stories","tags":["evolutionary-theory","biological-determinism","adaptationism","empirical-evidence","human-nature","social-roles","critical-thinking","scientific-method"]}
 ---
 
 

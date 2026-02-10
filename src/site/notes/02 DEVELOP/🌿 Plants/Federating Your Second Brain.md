@@ -1,5 +1,5 @@
 ---
-{"title":"Federating Your Second Brain","subtitle":"Rewilding Notes into Gardens, Newsletters, and Networks","tags":["digital-gardening","pkm","open-web","reclaim-open","federation"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"dg-permalink":"federating-second-brain","connections":["[[02 DEVELOP/🌿 Plants/Build Your Own Federated Garden\|Build Your Own Federated Garden]]","[[Digital Literacies and Open Knowledge Practices]]"],"categories":"Notes","permalink":"/federating-second-brain/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"federating-second-brain","permalink":"/federating-second-brain/","title":"Federating Your Second Brain","tags":["digital-gardening","pkm","open-web","reclaim-open","federation"],"created":"2025-11-04"}
 ---
 
 
@@ -215,7 +215,7 @@ This presentation itself is a **living document**. After today:
 - What kind of garden would you grow?
 ### Continue Learning
 
-Dive deeper with the companion guide: [[Build Your Own Federated Garden]]
+Dive deeper with the companion guide: [[02 DEVELOP/🌿 Plants/Build Your Own Federated Garden\|Build Your Own Federated Garden]]
 
 ---
 

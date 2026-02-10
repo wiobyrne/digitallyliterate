@@ -1,5 +1,5 @@
 ---
-{"title":"Constructivism and Cognitive Dissonance","created":"2025-01-29","last_updated":"2025-01-29","status":"🌿_plant","tags":["constructivism","cognitive-dissonance","learning-theory","schema-revision","pedagogical-foundation"],"categories":"Notes","connections":["[[Teaching Philosophy MOC]]","[[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]]","[[Student Engagement Strategies]]","[[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]]"],"dg-publish":true,"permalink":"/02-develop/plants/constructivism-and-cognitive-dissonance/","dgPassFrontmatter":true,"updated":"2025-01-29"}
+{"dg-publish":true,"permalink":"/02-develop/plants/constructivism-and-cognitive-dissonance/","title":"Constructivism and Cognitive Dissonance","tags":["constructivism","cognitive-dissonance","learning-theory","schema-revision","pedagogical-foundation"],"created":"2025-01-29","updated":"2025-01-29"}
 ---
 
 
@@ -33,7 +33,7 @@ Learners are not passive recipients of information but **active builders of know
 - Forced to "consider other explanations" rather than maintain status quo
 
 ## Connection to Devil's Advocate Method
-The [[Devil's Advocate Methodology]] is a **deliberate method for creating necessary cognitive dissonance**. Student discomfort/confusion is observable manifestation of cognitive dissonance - indicator that technique is achieving theoretical goal.
+The [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]] is a **deliberate method for creating necessary cognitive dissonance**. Student discomfort/confusion is observable manifestation of cognitive dissonance - indicator that technique is achieving theoretical goal.
 
 ## Practical Applications
 - Challenge student assumptions directly
@@ -42,7 +42,7 @@ The [[Devil's Advocate Methodology]] is a **deliberate method for creating neces
 - Frame discomfort as normal part of learning process
 
 ## Links to My Teaching Practice
-This theoretical foundation directly supports my approach in [[Teaching Philosophy]] where I emphasize that learning involves "acquisition and construction of knowledge" through active engagement. The framework validates my use of questioning and challenging techniques.
+This theoretical foundation directly supports my approach in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] where I emphasize that learning involves "acquisition and construction of knowledge" through active engagement. The framework validates my use of questioning and challenging techniques.
 
 ## Connections to Existing Work
 - Complements [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] by providing theoretical foundation for why discomfort doesn't equal harm

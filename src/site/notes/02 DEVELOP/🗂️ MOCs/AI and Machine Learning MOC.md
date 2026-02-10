@@ -1,5 +1,5 @@
 ---
-{"title":"AI and Machine Learning MOC","created":"2025-07-17","last_updated":"2025-07-17","status":"🌲_evergreen","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"],"dg-publish":true,"dg-permalink":"ai","categories":["MOC"],"aliases":["Artificial Intelligence MOC","ML MOC","AI Literacy"],"related":["[[02 DEVELOP/🗂️ MOCs/AI and Digital Resilience Index\|AI and Digital Resilience Index]]","[[02 DEVELOP/🗂️ MOCs/Technology & Society Index\|Technology & Society Index]]","[[Critical Digital Literacy]]"],"shelf":"active","permalink":"/ai/","dgPassFrontmatter":true,"updated":"2025-07-17"}
+{"dg-publish":true,"dg-permalink":"ai","permalink":"/ai/","title":"AI and Machine Learning MOC","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"]}
 ---
 
 
@@ -104,8 +104,8 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 
 ## 🔗 Related MOCs and Indexes
 
-- [[AI and Digital Resilience Index]]  
-- [[Technology & Society Index]]  
+- [[02 DEVELOP/🗂️ MOCs/AI and Digital Resilience Index\|AI and Digital Resilience Index]]  
+- [[02 DEVELOP/🗂️ MOCs/Technology & Society Index\|Technology & Society Index]]  
 - [[Platform Studies MOC\|Platform Studies MOC]]  
 - [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]  
 - [[Digital Literacy MOC\|Digital Literacy MOC]]  

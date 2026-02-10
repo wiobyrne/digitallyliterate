@@ -1,5 +1,5 @@
 ---
-{"title":"Human and AI Co-Thinking","tags":["cognitive-amplifier","human-in-the-loop","ai"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"active","connections":null,"permalink":"/02-develop/plants/human-and-ai-co-thinking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/human-and-ai-co-thinking/","title":"Human and AI Co-Thinking","tags":["cognitive-amplifier","human-in-the-loop","ai"]}
 ---
 
 # Human and AI Co-Thinking

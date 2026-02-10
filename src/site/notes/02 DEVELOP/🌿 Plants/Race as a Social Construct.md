@@ -1,5 +1,5 @@
 ---
-{"title":"Race as a Social Construct","created":"2025-07-01","modified":"2025-07-01","tags":["race-theory","social-construction","anti-racism","critical-race-theory","sociology","racial-justice","social-systems","cultural-analysis"],"categories":["Social Justice","Critical Theory","Race & Ethnicity"],"status":"🌿_plant","description":"Analysis of race as a socially constructed system that requires active maintenance through institutional practices, cultural norms, and ideological frameworks","dg-publish":true,"aliases":["Social Construction of Race","Race Theory","Racial Categories"],"related":["[[Critical Race Theory\|Critical Race Theory]]","[[02 DEVELOP/🌿 Plants/Racial Socialization\|Racial Socialization]]","[[02 DEVELOP/🌿 Plants/Implicit Bias\|Implicit Bias]]","[[Systemic Racism\|Systemic Racism]]","[[White Supremacy\|White Supremacy]]"],"permalink":"/02-develop/plants/race-as-a-social-construct/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/race-as-a-social-construct/","title":"Race as a Social Construct","tags":["race-theory","social-construction","anti-racism","critical-race-theory","sociology","racial-justice","social-systems","cultural-analysis"]}
 ---
 
 
@@ -234,13 +234,13 @@ Educators must navigate the complexity of teaching about race while not reinforc
 
 ## Related Concepts
 
-- **[[Racial Socialization]]**: How children learn about racial categories and their social meanings
-- **[[Implicit Bias]]**: Unconscious associations that reinforce racial stereotypes
-- **[[White Supremacy]]**: The system of beliefs and practices that maintain white racial dominance
+- **[[02 DEVELOP/🌿 Plants/Racial Socialization\|Racial Socialization]]**: How children learn about racial categories and their social meanings
+- **[[02 DEVELOP/🌿 Plants/Implicit Bias\|Implicit Bias]]**: Unconscious associations that reinforce racial stereotypes
+- **[[White Supremacy\|White Supremacy]]**: The system of beliefs and practices that maintain white racial dominance
 - **[[Intersectionality\|Intersectionality]]**: Framework recognizing multiple, overlapping systems of oppression
-- **[[Critical Race Theory]]**: Academic framework analyzing race, power, and law
+- **[[Critical Race Theory\|Critical Race Theory]]**: Academic framework analyzing race, power, and law
 - **[[Colorblind Racism\|Colorblind Racism]]**: Contemporary form of racism that denies the significance of race
-- **[[Systemic Racism]]**: Institutional practices that maintain racial inequality
+- **[[Systemic Racism\|Systemic Racism]]**: Institutional practices that maintain racial inequality
 
 ## Conclusion
 

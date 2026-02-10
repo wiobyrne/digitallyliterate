@@ -1,5 +1,5 @@
 ---
-{"title":"Community-Centered AI","tags":["ai-governance","community-control","democratic-technology","alternative-tech"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"active","related":["[[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]","[[03 CREATE/🌲 Evergreens/AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]","[[Digital Divide]]"],"permalink":"/02-develop/plants/community-centered-ai/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/community-centered-ai/","title":"Community-Centered AI","tags":["ai-governance","community-control","democratic-technology","alternative-tech"]}
 ---
 
 
@@ -32,6 +32,6 @@ Community-centered AI represents an alternative to both unrestricted corporate A
 *In-depth resource:* [Shoshana Zuboff: The Age of Surveillance Capitalism](https://shoshanazuboff.com/book/about/) - Analysis of extractive technology models and alternatives
 
 ## **Related Terms**
-- "[[03 CREATE/🌲 Evergreens/Human in the Loop]]"
+- "[[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]"
 - "[[Democratic Technology Design\|Democratic Technology Design]]"
-- "[[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]"
+- "[[03 CREATE/🌲 Evergreens/AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]"

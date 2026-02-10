@@ -1,5 +1,5 @@
 ---
-{"title":"Evolving Concepts of Text","created":"2025-07-03","updated":"2025-07-14","type":"plant","status":"🌿_plant","tags":["digital-literacy","multimodal-communication","text-definition","media-literacy","educational-framework","critical-thinking"],"category":"Digital Literacy","connections":["[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]","[[Multimodal Communication\|Multimodal Communication]]","[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]","[[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]","[[Discourse 2.0 Digital Communication Framework]]","[[Educational Technology\|Educational Technology]]"],"dg-publish":true,"dg-permalink":"evolving-concepts-of-text","permalink":"/evolving-concepts-of-text/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"evolving-concepts-of-text","permalink":"/evolving-concepts-of-text/","title":"Evolving Concepts of Text","tags":["digital-literacy","multimodal-communication","text-definition","media-literacy","educational-framework","critical-thinking"],"created":"2025-07-03"}
 ---
 
 
@@ -271,11 +271,11 @@ The reflection framework presented here offers a starting point for exploring th
 
 ## Related Topics
 
-- [[Digital Literacy Framework]]
-- [[Multimodal Communication]]
-- [[Media Literacy]]
-- [[Critical Thinking]]
-- [[Educational Technology]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[Multimodal Communication\|Multimodal Communication]]
+- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]
+- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]
+- [[Educational Technology\|Educational Technology]]
 - [[Social Media Studies\|Social Media Studies]]
 - [[Composition Studies\|Composition Studies]]
 - [[Accessibility\|Accessibility]]

@@ -1,5 +1,5 @@
 ---
-{"title":"Access Is Capture","author":"[[Roderic N Crooks\|Roderic N Crooks]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/zfT-EAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"226","tags":["technology","access","data","surveillance"],"publisher":"Univ of California Press","date":"2024-08-27","permalink":"/01-consume/books/access-is-capture/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/access-is-capture/","title":"Access Is Capture","tags":["technology","access","data","surveillance"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 # Access Is Capture
-**Author:** [[Roderic N Crooks]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Roderic N Crooks\|Roderic N Crooks]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

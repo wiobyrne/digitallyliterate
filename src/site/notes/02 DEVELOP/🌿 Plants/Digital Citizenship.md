@@ -1,5 +1,5 @@
 ---
-{"title":"Digital Citizenship","created":"2025-08-03","last_updated":"2025-08-10","status":"🌿_plant","tags":["digital-citizenship","digital-literacy","online-ethics","internet-safety","media-literacy","digital-responsibility"],"categories":"Notes","connections":["[[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]]","[[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]","[[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]]","[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]","[[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]"],"dg-publish":true,"shelf":"active","dg-permalink":"digital-citizenship","permalink":"/digital-citizenship/","dgPassFrontmatter":true,"updated":"2025-08-10"}
+{"dg-publish":true,"dg-permalink":"digital-citizenship","permalink":"/digital-citizenship/","title":"Digital Citizenship","tags":["digital-citizenship","digital-literacy","online-ethics","internet-safety","media-literacy","digital-responsibility"],"created":"2025-08-03","updated":"2025-08-10"}
 ---
 
 
@@ -213,9 +213,9 @@ Research supports several effective approaches:
 - Choi, M. (2016). A concept analysis of digital citizenship for democratic citizenship education
 
 ### Related Concepts
-- [[Teaching Digital Citizenship]] - Comprehensive pedagogical framework for educators
-- [[Privacy]] - Foundational understanding of digital privacy rights and practices
-- [[03 CREATE/🌲 Evergreens/Digital Resilience]] - Building capacity to navigate digital challenges
-- [[Digital Literacy Framework]] - Technical and critical skills for digital participation
-- [[Privacy and Security MOC]] - Comprehensive resource collection for digital safety
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]] - Comprehensive pedagogical framework for educators
+- [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]] - Foundational understanding of digital privacy rights and practices
+- [[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]] - Building capacity to navigate digital challenges
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] - Technical and critical skills for digital participation
+- [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] - Comprehensive resource collection for digital safety
 

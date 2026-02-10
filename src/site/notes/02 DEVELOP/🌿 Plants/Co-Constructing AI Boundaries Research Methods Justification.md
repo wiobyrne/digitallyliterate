@@ -1,5 +1,5 @@
 ---
-{"title":"Co-Constructing AI Boundaries Research Methods Justification","date":"2025-12-02","last_updated":"2025-12-02","categories":"Notes","status":["🌿_plant"],"tags":["research-methods","qualitative-case-study","micro-interactional-analysis","triangulation","rigor","methodology"],"dg-publish":true,"shelf":"active","related":["[[Analytic Framework for AI Human Meaning-Making Practices]]","[[How learners should engage Large Language Models framework]]","[[LRA 2025 Presentation]]"],"permalink":"/02-develop/plants/co-constructing-ai-boundaries-research-methods-justification/","dgPassFrontmatter":true,"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-research-methods-justification/","title":"Co-Constructing AI Boundaries Research Methods Justification","tags":["research-methods","qualitative-case-study","micro-interactional-analysis","triangulation","rigor","methodology"],"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Research Methods Justification

@@ -1,5 +1,5 @@
 ---
-{"title":"The Promise of Access","author":"[[Daniel Greene\|Daniel Greene]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/fDoiEAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"269","tags":["technology","access","equity"],"publisher":"MIT Press","date":"2021-04-06","permalink":"/01-consume/books/the-promise-of-access/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/the-promise-of-access/","title":"The Promise of Access","tags":["technology","access","equity"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 # The Promise of Access
-**Author:** [[Daniel Greene]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Daniel Greene\|Daniel Greene]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Promise of Access" delves into the intersection of technology and access, exploring how advancements in tech can either bridge or widen the gap between individuals. The book highlights the importance of ensuring equitable access to technology for all members of society. Through real-world examples and insightful analysis, it emphasizes the potential benefits and drawbacks of technological access.
 

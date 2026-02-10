@@ -1,5 +1,5 @@
 ---
-{"title":"Education Policy and Academic Blogging: Bridging Research, Practice, and Public Engagement","created":"2025-07-01","modified":"2025-07-01","source":"https://educationpolicy.blog/blog/","tags":["education-policy","academic-blogging","public-scholarship","research-communication","academic-writing","public-engagement","educational-research","scholar-advocacy","knowledge-translation"],"categories":["Educational Policy","Academic Communication","Public Scholarship","Research Translation"],"status":"🌿_plant","dg-publish":true,"related":["[[Purpose of Blogging]]","[[Discourse 2.0]]","[[Academic Writing Translation]]","[[Public Scholarship]]"],"summary":"Exploration of academic blogging in education policy, examining challenges and opportunities for scholars to engage public audiences through accessible writing and open publishing","permalink":"/02-develop/plants/education-policy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/education-policy/","title":"Education Policy and Academic Blogging: Bridging Research, Practice, and Public Engagement","tags":["education-policy","academic-blogging","public-scholarship","research-communication","academic-writing","public-engagement","educational-research","scholar-advocacy","knowledge-translation"],"created":"2025-07-01"}
 ---
 
 

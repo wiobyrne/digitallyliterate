@@ -1,5 +1,5 @@
 ---
-{"title":"Chronological vs Networked Publishing","tags":["digital-gardening","blogging","publishing","web-history","information-architecture"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"connections":["[[02 DEVELOP/🌿 Plants/History of Digital Gardens\|History of Digital Gardens]]","[[Blog Evolution and Platform Dynamics\|Blog Evolution and Platform Dynamics]]","[[Why Federation Matters]]","[[Federating Your Second Brain]]"],"permalink":"/02-develop/plants/chronological-vs-networked-publishing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/chronological-vs-networked-publishing/","title":"Chronological vs Networked Publishing","tags":["digital-gardening","blogging","publishing","web-history","information-architecture"],"created":"2025-11-04"}
 ---
 
 
@@ -326,8 +326,8 @@ Moving from chronological to networked publishing means:
 
 ## Related Concepts
 
-- [[History of Digital Gardens]] – How we got here
-- [[Blog Evolution and Platform Dynamics]] – Broader context
+- [[02 DEVELOP/🌿 Plants/History of Digital Gardens\|History of Digital Gardens]] – How we got here
+- [[Blog Evolution and Platform Dynamics\|Blog Evolution and Platform Dynamics]] – Broader context
 - [[02 DEVELOP/🌿 Plants/Information Architecture\|Information Architecture]] – Organizing knowledge
 - [[Garden vs Stream Metaphor\|Garden vs Stream Metaphor]] – Conceptual framework
 

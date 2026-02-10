@@ -1,5 +1,5 @@
 ---
-{"title":"Public Citizens: The Attack on Big Government and the Remaking of American Liberalism","author":"[[Paul Sabin\|Paul Sabin]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/61jCwuyOwRL.jpg","pages":"296","tags":["liberalism","big-government","abundance"],"publisher":"W. W. Norton & Company","date":"2021-08-10","permalink":"/01-consume/books/public-citizens-the-attack-on-big-government-and-the-remaking-of-american-liberalism/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/public-citizens-the-attack-on-big-government-and-the-remaking-of-american-liberalism/","title":"Public Citizens: The Attack on Big Government and the Remaking of American Liberalism","tags":["liberalism","big-government","abundance"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 # Public Citizens: The Attack on Big Government and the Remaking of American Liberalism
-**Author:** [[Paul Sabin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Paul Sabin\|Paul Sabin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "Public Citizens: The Attack on Big Government and the Remaking of American Liberalism" delves into the challenges faced by liberalism in the United States as it grappled with the concept of big government. Author Paul Sabin explores how public perceptions of government size and intervention shifted over time, influencing the liberal agenda. Through a historical lens, the book examines how these shifts shaped American politics and society.
 

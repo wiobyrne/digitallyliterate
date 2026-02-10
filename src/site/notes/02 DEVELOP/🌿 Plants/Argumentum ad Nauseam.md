@@ -1,5 +1,5 @@
 ---
-{"title":"Argumentum ad Nauseam","created":"2025-07-19","last_updated":"2025-07-19","categories":["Notes"],"status":"🌿_plant","tags":["logical-fallacies","rhetoric","argumentation","media-literacy","repetition"],"related":[],"dg-publish":true,"shelf":"processed","permalink":"/02-develop/plants/argumentum-ad-nauseam/","dgPassFrontmatter":true,"updated":"2025-07-19"}
+{"dg-publish":true,"permalink":"/02-develop/plants/argumentum-ad-nauseam/","title":"Argumentum ad Nauseam","tags":["logical-fallacies","rhetoric","argumentation","media-literacy","repetition"],"created":"2025-07-19","updated":"2025-07-19"}
 ---
 
 # Argumentum ad Nauseam

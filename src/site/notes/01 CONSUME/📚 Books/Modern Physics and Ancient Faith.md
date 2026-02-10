@@ -1,12 +1,12 @@
 ---
-{"title":"Modern Physics and Ancient Faith","author":"[[Stephen M. Barr\|Stephen M. Barr]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://m.media-amazon.com/images/I/71rY2XnpPVL._SL1500_.jpg","pages":"476","tags":["religion","science","scientific-materialism","physics","faith"],"publisher":"University of Notre Dame Pess","date":"2003-02-28","permalink":"/01-consume/books/modern-physics-and-ancient-faith/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/modern-physics-and-ancient-faith/","title":"Modern Physics and Ancient Faith","tags":["religion","science","scientific-materialism","physics","faith"]}
 ---
 
 
 ![cover|300](https://m.media-amazon.com/images/I/71rY2XnpPVL._SL1500_.jpg)
 
 # Modern Physics and Ancient Faith
-**Author:** [[Stephen M. Barr]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Stephen M. Barr\|Stephen M. Barr]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Modern Physics and Ancient Faith" by Stephen M. Barr explores the intersection of modern physics and ancient religious beliefs, delving into how these seemingly disparate fields can coexist and even complement each other.
 - The book discusses how scientific discoveries can enhance our understanding of faith and spirituality, challenging readers to consider the connections between the physical world and metaphysical beliefs.

@@ -1,5 +1,5 @@
 ---
-{"title":"Network Visualization Algorithms: Mathematical Approaches to Spatial Network Layout","created":"2025-07-01","modified":"2025-07-01","tags":["network-visualization","algorithms","gephi","force-atlas","graph-layout","mathematical-modeling","data-visualization","network-analysis","spatial-analysis"],"categories":["Network Analysis","Data Visualization","Mathematical Modeling","Research Tools"],"status":"🌿_plant","dg-publish":true,"related":["[[Understanding Network Structure]]","[[Participant Researcher]]","[[Network Analysis Methods]]","[[Data Visualization Tools]]"],"summary":"Comprehensive exploration of mathematical algorithms used for network visualization, focusing on spatial positioning strategies, force-directed models, and the ForceAtlas 2 algorithm","permalink":"/02-develop/plants/network-visualization-algorithms/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/network-visualization-algorithms/","title":"Network Visualization Algorithms: Mathematical Approaches to Spatial Network Layout","tags":["network-visualization","algorithms","gephi","force-atlas","graph-layout","mathematical-modeling","data-visualization","network-analysis","spatial-analysis"],"created":"2025-07-01"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Beyond Human in the Loop","created":"2025-06-09","last_updated":"2026-02-01","status":"🌿_plant","categories":["Concepts"],"tags":["AI","HITL","human-agency","ethics","cognitive-amplification"],"connections":["[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]","[[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]"],"related":["[[02 DEVELOP/🌱 Seeds/Generative AI and Identity\|Generative AI and Identity]]","[[02 DEVELOP/🌱 Seeds/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]]"],"dg-publish":true,"dg-permalink":"beyond-human-in-the-loop","permalink":"/beyond-human-in-the-loop/","dgPassFrontmatter":true,"updated":"2026-02-01"}
+{"dg-publish":true,"dg-permalink":"beyond-human-in-the-loop","permalink":"/beyond-human-in-the-loop/","title":"Beyond Human in the Loop","tags":["AI","HITL","human-agency","ethics","cognitive-amplification"],"created":"2025-06-09","updated":"2026-02-01"}
 ---
 
 
@@ -102,10 +102,10 @@ The goal isn't to automate thinking away. It's to augment human cognitive capabi
 
 ## Related
 
-- [[Artificial Intelligence]] — The technology
-- [[Digital Self-determination]] — Choosing how we engage
-- [[Generative AI and Identity]] — Who we become with AI
-- [[Unwritten Knowledge Systems]] — What AI can't capture
+- [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The technology
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Choosing how we engage
+- [[02 DEVELOP/🌱 Seeds/Generative AI and Identity\|Generative AI and Identity]] — Who we become with AI
+- [[02 DEVELOP/🌱 Seeds/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI can't capture
 
 ---
 

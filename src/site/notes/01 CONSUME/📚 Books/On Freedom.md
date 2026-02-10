@@ -1,5 +1,5 @@
 ---
-{"title":"On Freedom","author":"[[Timothy Snyder\|Timothy Snyder]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/Jp35EAAAQBAJ?fife=w600-h900&source=gbs_api","pages":"369","tags":["freedom","philosophy","political-theory"],"publisher":"Crown","date":"2024-09-17","permalink":"/01-consume/books/on-freedom/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/on-freedom/","title":"On Freedom","tags":["freedom","philosophy","political-theory"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 # On Freedom
-**Author:** [[Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Timothy Snyder\|Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "On Freedom" by Timothy Snyder delves into the concept of freedom from multiple perspectives, exploring its philosophical and political implications.
 - Through a series of essays, Snyder examines how freedom is understood, defended, and threatened in modern society.

@@ -1,5 +1,5 @@
 ---
-{"title":"History of Digital Gardens","tags":["digital-gardening","web-history","hypertext","pkm-history"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"connections":["[[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]","[[Blog Evolution and Platform Dynamics]]","[[Hypertext Theory]]","[[Federating Your Second Brain]]"],"permalink":"/02-develop/plants/history-of-digital-gardens/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/history-of-digital-gardens/","title":"History of Digital Gardens","tags":["digital-gardening","web-history","hypertext","pkm-history"]}
 ---
 
 
@@ -377,7 +377,7 @@ Gardens are **counter-movement to platform capitalism:**
 
 ## Related Concepts
 
-- [[Chronological vs Networked Publishing]]
+- [[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]
 - [[Hypertext Theory and Practice\|Hypertext Theory and Practice]]
 - [[IndieWeb Principles\|IndieWeb Principles]]
 - [[Personal Knowledge Management History\|Personal Knowledge Management History]]

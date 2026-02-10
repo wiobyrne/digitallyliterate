@@ -1,5 +1,5 @@
 ---
-{"title":"GenAI for Everyone - Coursera Course Overview","tags":["ai","generative-ai","machine-learning","education","coursera","phil-gold"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","created":"2025-01-01","last_modified":"2025-06-30","related":["[[AI Applications]]","[[Machine Learning Fundamentals]]","[[Generative AI Ethics]]"],"permalink":"/02-develop/plants/gen-ai-for-everyone-coursera-course-overview/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/gen-ai-for-everyone-coursera-course-overview/","title":"GenAI for Everyone - Coursera Course Overview","tags":["ai","generative-ai","machine-learning","education","coursera","phil-gold"],"created":"2025-01-01"}
 ---
 
 

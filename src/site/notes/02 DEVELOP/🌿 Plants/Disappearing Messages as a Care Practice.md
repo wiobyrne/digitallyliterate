@@ -1,5 +1,5 @@
 ---
-{"title":"Disappearing Messages as a Care Practice","created":"2026-02-10","last_updated":"2026-02-10","status":"🌿_plant","categories":["Notes"],"tags":["disappearing-messages","signal","security-culture","information-hygiene","care"],"connections":["[[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]","[[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]","[[03 CREATE/🪴 Groves/Ephemeral Communication & Information Half-Life\|Ephemeral Communication & Information Half-Life]]"],"related":["[[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]"],"dg-publish":true,"dg-permalink":"disappearing-messages-care","permalink":"/disappearing-messages-care/","dgPassFrontmatter":true,"updated":"2026-02-10"}
+{"dg-publish":true,"dg-permalink":"disappearing-messages-care","permalink":"/disappearing-messages-care/","title":"Disappearing Messages as a Care Practice","tags":["disappearing-messages","signal","security-culture","information-hygiene","care"],"created":"2026-02-10","updated":"2026-02-10"}
 ---
 
 
@@ -79,7 +79,7 @@ This is digital literacy applied to care.
 
 ## Related
 
-- [[Security Culture as Digital Literacy]]
-- [[Ephemeral Communication & Information Half-Life]]
-- [[Signal Group Hygiene & Communication Norms]]
-- [[Signal: Private Messaging by Design]]
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]
+- [[03 CREATE/🪴 Groves/Ephemeral Communication & Information Half-Life\|Ephemeral Communication & Information Half-Life]]
+- [[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]
+- [[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]

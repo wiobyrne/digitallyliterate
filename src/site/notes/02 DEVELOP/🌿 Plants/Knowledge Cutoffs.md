@@ -1,5 +1,5 @@
 ---
-{"title":"Knowledge Cutoffs","tags":["ai","machine-learning","llms"],"categories":["Notes"],"status":["🌿_plant"],"dg-publish":true,"shelf":"processed","related":["[[Related Link 1]]","[[Related Link 2]]"],"permalink":"/02-develop/plants/knowledge-cutoffs/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/knowledge-cutoffs/","title":"Knowledge Cutoffs","tags":["ai","machine-learning","llms"]}
 ---
 
 # Knowledge Cutoffs

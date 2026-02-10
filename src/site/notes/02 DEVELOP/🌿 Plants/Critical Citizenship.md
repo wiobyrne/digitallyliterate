@@ -1,5 +1,5 @@
 ---
-{"title":"Critical Citizenship","tags":["citizenship","democracy","race","social-justice","education"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"shelf":"processed","date":"2025-06-29","last_review":"2025-06-29","development_needed":["Add practical examples and applications","Expand on pedagogical approaches","Include contemporary examples","Add implementation strategies"],"target_evergreen_date":"2025-08-15","related":["[[Democracy]]","[[Social Justice]]","[[Critical Pedagogy]]","[[Civic Education]]"],"permalink":"/02-develop/plants/critical-citizenship/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/critical-citizenship/","title":"Critical Citizenship","tags":["citizenship","democracy","race","social-justice","education"]}
 ---
 
 # Critical Citizenship 

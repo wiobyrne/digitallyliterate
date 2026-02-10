@@ -1,12 +1,12 @@
 ---
-{"title":"Redshirts","author":"[[John Scalzi\|John Scalzi]]","categories":["Books"],"status":["🌿_plant"],"rating":0,"shelf":"inbox","dg-publish":true,"cover":"http://books.google.com/books/content?id=2myG-uWq5zQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"318","tags":["science-fiction","free-will","determinism"],"publisher":"Macmillan","date":"2012-06-05","permalink":"/01-consume/books/red-shirts/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/red-shirts/","title":"Redshirts","tags":["science-fiction","free-will","determinism"]}
 ---
 
 ![cover|300](http://books.google.com/books/content?id=2myG-uWq5zQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 # Red Shirts
 
 ## Overview
-- **Author:** [[John Scalzi]] 
+- **Author:** [[John Scalzi\|John Scalzi]] 
 
 ## Three-Sentence Summary
 - "Red Shirts" is a satirical science fiction novel that explores the trope of expendable characters in TV shows, particularly those in Star Trek. The story follows a group of new recruits on the starship Intrepid who soon realize that their roles as low-ranking crew members put them at high risk during away missions. Through a blend of humor, metafiction, and existential philosophy, author John Scalzi critiques narrative conventions and highlights the value of each individual life.

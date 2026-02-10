@@ -1,5 +1,5 @@
 ---
-{"title":"How learners should engage Large Language Models framework","date":"2025-12-02","last_updated":"2025-12-02","categories":"Notes","status":["🌿_plant"],"tags":["mollick-mollick","theoretical-framework","pedagogical-adaptation","AI-literacy","qualitative-analysis","research-methods"],"dg-publish":true,"shelf":"active","related":["[[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]","[[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]","[[03 CREATE/🌲 Evergreens/Agency\|Agency]]","[[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]","[[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]"],"permalink":"/02-develop/plants/how-learners-should-engage-large-language-models-framework/","dgPassFrontmatter":true,"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/how-learners-should-engage-large-language-models-framework/","title":"How learners should engage Large Language Models framework","tags":["mollick-mollick","theoretical-framework","pedagogical-adaptation","AI-literacy","qualitative-analysis","research-methods"]}
 ---
 
 # How learners should engage Large Language Models framework
@@ -99,6 +99,6 @@ Your framework effectively captures the three core concepts you mentioned by bre
 
 ## 🏠 Related Notes
 
-* [[Analytic Framework for AI Human Meaning-Making Practices]]
-* [[LRA 2025 Presentation]]
-* [[Agency]] | [[Boundary-work]] | [[Epistemic Stance]]
+* [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+* [[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]
+* [[03 CREATE/🌲 Evergreens/Agency\|Agency]] | [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]] | [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]

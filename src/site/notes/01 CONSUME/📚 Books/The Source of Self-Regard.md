@@ -1,11 +1,11 @@
 ---
-{"title":"The Source of Self-Regard","author":"[[01 CONSUME/👥 People/Toni Morrison\|Toni Morrison]]","categories":["Books"],"status":["🌲_evergreen"],"shelf":"inbox","rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/K-jEDwAAQBAJ?fife=w600-h900&source=gbs_api","pages":"370","tags":["literature","self-esteem","self-perception","personal","growth","self-awareness"],"publisher":"Vintage","date":"2020-01-14","dg-publish":true,"permalink":"/01-consume/books/the-source-of-self-regard/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/the-source-of-self-regard/","title":"The Source of Self-Regard","tags":["literature","self-esteem","self-perception","personal","growth","self-awareness"]}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=K-jEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # The Source of Self-Regard
-**Author:** [[Toni Morrison]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Toni Morrison\|Toni Morrison]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

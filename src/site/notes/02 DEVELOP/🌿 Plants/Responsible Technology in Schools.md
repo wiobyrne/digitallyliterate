@@ -1,5 +1,5 @@
 ---
-{"title":"Responsible Technology in Schools","tags":["technology","education-technology","digital-citizenship","education"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2025-06-30","updated":"2025-06-30","shelf":"draft","related":[],"permalink":"/02-develop/plants/responsible-technology-in-schools/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/responsible-technology-in-schools/","title":"Responsible Technology in Schools","tags":["technology","education-technology","digital-citizenship","education"]}
 ---
 
 # Responsible Technology in Schools

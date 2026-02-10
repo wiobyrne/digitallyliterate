@@ -1,5 +1,5 @@
 ---
-{"title":"How Would you Describe Me","tags":["ai","self"],"categories":"Notes","status":["🌿_plant"],"dg-publish":true,"date":"2025-01-27, 09:00","shelf":"published","related":["[[Related Link 1]]","[[Related Link 2]]"],"permalink":"/02-develop/plants/how-would-you-describe-me/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/how-would-you-describe-me/","title":"How Would you Describe Me","tags":["ai","self"]}
 ---
 
 # How Would you Describe Me

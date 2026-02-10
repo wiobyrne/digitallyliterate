@@ -1,5 +1,5 @@
 ---
-{"title":"Building My Personal Cyberinfrastructure","tags":["cyberinfrastructure"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2025-01-24","updated":"2025-06-30","shelf":"draft","related":["[[Related Link 1]]","[[Related Link 2]]"],"permalink":"/02-develop/plants/building-my-personal-cyberinfrastructure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/building-my-personal-cyberinfrastructure/","title":"Building My Personal Cyberinfrastructure","tags":["cyberinfrastructure"]}
 ---
 
 # Building My Personal Cyberinfrastructure

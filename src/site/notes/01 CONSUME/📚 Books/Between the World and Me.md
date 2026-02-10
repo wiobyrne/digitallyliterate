@@ -1,5 +1,5 @@
 ---
-{"title":"Between the World and Me","author":"[[Ta-Nehisi Coates]]","categories":["Books"],"status":["🌿_plant"],"rating":4,"shelf":"archived","dg-publish":true,"cover":"http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","pages":"163","tags":["racism","systemic-discrimination","prejudice"],"publisher":"One World","publish":"2015-07-14","permalink":"/01-consume/books/between-the-world-and-me/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/between-the-world-and-me/","title":"Between the World and Me","tags":["racism","systemic-discrimination","prejudice"]}
 ---
 
 

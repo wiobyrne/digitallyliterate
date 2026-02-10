@@ -1,5 +1,5 @@
 ---
-{"title":"Lessons from Gamergate to Help Spot Fake News Early","created":"2025-07-19","last_updated":"2025-07-19","status":"🌿_plant","tags":["gamergate","misinformation","disinformation","media-literacy"],"connections":[],"categories":"Digital Literacy","dg-publish":true,"shelf":"archived","permalink":"/02-develop/plants/lessons-from-gamergate-to-help-spot-fake-news-early/","dgPassFrontmatter":true,"updated":"2025-07-19"}
+{"dg-publish":true,"permalink":"/02-develop/plants/lessons-from-gamergate-to-help-spot-fake-news-early/","title":"Lessons from Gamergate to Help Spot Fake News Early","tags":["gamergate","misinformation","disinformation","media-literacy"]}
 ---
 
 # Lessons from Gamergate to Help Spot Fake News Early

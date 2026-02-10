@@ -1,5 +1,5 @@
 ---
-{"title":"Just Asking Questions","created":"2025-07-19","last_updated":"2025-07-19","categories":["Notes"],"status":"🌿_plant","tags":["GamerGate","discourse"],"related":[],"dg-publish":true,"shelf":"processed","source":"https://rationalwiki.org/wiki/Just_asking_questions","permalink":"/02-develop/plants/just-asking-questions-ja-qing-off/","dgPassFrontmatter":true,"updated":"2025-07-19"}
+{"dg-publish":true,"permalink":"/02-develop/plants/just-asking-questions-ja-qing-off/","title":"Just Asking Questions","tags":["GamerGate","discourse"]}
 ---
 
 # Just Asking Questions (JAQing Off)

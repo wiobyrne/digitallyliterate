@@ -1,5 +1,5 @@
 ---
-{"title":"Co-Constructing AI Boundaries Framework Component - Integration","date":"2025-12-02","last_updated":"2025-12-02","categories":"Notes","status":["🌿_plant"],"tags":["framework-component","integration","authorship","transformation","boundary-work","AI-literacy"],"dg-publish":true,"shelf":"active","related":["[[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]","[[03 CREATE/🌲 Evergreens/Agency\|Agency]]","[[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]","[[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]","[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]"],"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-integration/","dgPassFrontmatter":true,"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/co-constructing-ai-boundaries-framework-component-integration/","title":"Co-Constructing AI Boundaries Framework Component - Integration","tags":["framework-component","integration","authorship","transformation","boundary-work","AI-literacy"],"updated":"2025-12-02"}
 ---
 
 # Co-Constructing AI Boundaries Framework Component - Integration 
@@ -213,8 +213,8 @@ Integration reveals epistemic stance about knowledge authority:
 
 ## Relationship to Other Framework Components
 
-- **← [[Co-Constructing AI Boundaries Framework Component - Outputs]]:** Output quality influences integration approach
-- **→ [[Co-Constructing AI Boundaries Framework Component - Reflection]]:** Students may reflect on integration decisions
+- **← [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]:** Output quality influences integration approach
+- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]:** Students may reflect on integration decisions
 - Integration is the **culmination** of earlier components (Inputs → Prompts → Outputs → **Integration**)
 
 ---
@@ -273,11 +273,11 @@ Compare NotebookLM outputs → Final project text → Student reflections
 
 ## Related Notes
 
-- [[Analytic Framework for AI Human Meaning-Making Practices]]
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
 - [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
-- [[Agency]]
-- [[Boundary-work]]
-- [[Epistemic Stance]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"title":"How Gamergate’s Harassment Patterns Inform Misinformation Defense","created":"2025-07-19","last_updated":"2025-07-19","categories":["Notes"],"status":"🌿_plant","tags":["GamerGate"],"related":[],"dg-publish":true,"shelf":"processed","permalink":"/02-develop/plants/how-gamergate-s-harassment-patterns-inform-misinformation-defense/","dgPassFrontmatter":true,"updated":"2025-07-19"}
+{"dg-publish":true,"permalink":"/02-develop/plants/how-gamergate-s-harassment-patterns-inform-misinformation-defense/","title":"How Gamergate’s Harassment Patterns Inform Misinformation Defense","tags":["GamerGate"]}
 ---
 
 # How Gamergate’s Harassment Patterns Inform Misinformation Defense

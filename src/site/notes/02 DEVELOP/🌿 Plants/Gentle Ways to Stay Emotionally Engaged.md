@@ -1,5 +1,5 @@
 ---
-{"title":"Gentle Ways to Stay Emotionally Engaged","tags":["communication","emotional-intelligence","relationship-building","connection","gratitude","self-awareness","mindful-communication","vulnerability","personal-growth","conflict-resolution"],"status":["🌿_plant"],"dg-publish":true,"categories":["Personal Development","Communication","Relationships"],"date":"2025-05-15","modified":"2024-01-15","shelf":"processed","aliases":["Emotional Engagement","Gentle Communication","Relationship Building"],"related":["[[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]]","[[02 DEVELOP/🌿 Plants/Reflective Listening\|Reflective Listening]]","[[Communication Strategies\|Communication Strategies]]","[[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]]","[[Mindful Relationships\|Mindful Relationships]]"],"permalink":"/02-develop/plants/gentle-ways-to-stay-emotionally-engaged/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/gentle-ways-to-stay-emotionally-engaged/","title":"Gentle Ways to Stay Emotionally Engaged","tags":["communication","emotional-intelligence","relationship-building","connection","gratitude","self-awareness","mindful-communication","vulnerability","personal-growth","conflict-resolution"]}
 ---
 
 
@@ -118,10 +118,10 @@ Start with one or two strategies that feel most natural and sustainable. Gentle 
 Remember that staying emotionally engaged is not about being constantly available or perfectly attuned. It's about showing up authentically when possible, communicating with care, and maintaining connections even through difficult periods.
 
 ## Related Concepts
-- [[Courageous Community]]
-- [[Reflective Listening]]
-- [[Communication Strategies]]
-- [[Emotional Intelligence MOC]]
-- [[Mindful Relationships]]
+- [[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]]
+- [[02 DEVELOP/🌿 Plants/Reflective Listening\|Reflective Listening]]
+- [[Communication Strategies\|Communication Strategies]]
+- [[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Mindful Relationships\|Mindful Relationships]]
 - [[Conflict Resolution\|Conflict Resolution]]
 - [[Personal Boundaries\|Personal Boundaries]]

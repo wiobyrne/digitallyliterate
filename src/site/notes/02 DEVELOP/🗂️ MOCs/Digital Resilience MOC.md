@@ -1,5 +1,5 @@
 ---
-{"title":"Digital Resilience MOC","created":"2025-01-31","last_updated":"2025-07-17","status":"🌲_evergreen","tags":["moc","digital-resilience","digital-literacy","privacy","security"],"dg-publish":true,"dg-permalink":"resilience","categories":["MOC"],"aliases":["Digital Wellness MOC","Digital Autonomy MOC"],"related":["[[02 DEVELOP/🗂️ MOCs/AI and Digital Resilience Index\|AI and Digital Resilience Index]]","[[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]"],"shelf":"active","permalink":"/resilience/","dgPassFrontmatter":true,"updated":"2025-07-17"}
+{"dg-publish":true,"dg-permalink":"resilience","permalink":"/resilience/","title":"Digital Resilience MOC","tags":["moc","digital-resilience","digital-literacy","privacy","security"]}
 ---
 
 
@@ -141,8 +141,8 @@ This section collects developing plant notes related to digital resilience, work
 ## 🔗 Related MOCs and Indexes
 This section provides links to other relevant MOCs and indexes within the knowledge vault, facilitating cross-referencing and exploration.
 
-- [[Privacy and Security MOC]]
+- [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]]
 - [[02 DEVELOP/🗂️ MOCs/Technology & Society Index\|Technology & Society Index]]
-- [[AI and Digital Resilience Index]]
+- [[02 DEVELOP/🗂️ MOCs/AI and Digital Resilience Index\|AI and Digital Resilience Index]]
 - [[Platform Studies MOC\|Platform Studies MOC]]
 - [[Digital Literacy MOC\|Digital Literacy MOC]]  

@@ -1,5 +1,5 @@
 ---
-{"title":"My PKM Stack and Workflow","tags":["pkm","workflow","tools","obsidian","publishing","personal-setup"],"status":"🌿_plant","created":"2025-11-04","dg-publish":true,"connections":["[[02 DEVELOP/🌿 Plants/Digital Garden Setup Guide\|Digital Garden Setup Guide]]","[[Tools for Federated Publishing\|Tools for Federated Publishing]]","[[Federating Your Second Brain]]","[[Publishing Workflows\|Publishing Workflows]]"],"permalink":"/02-develop/plants/my-pkm-stack-and-workflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/my-pkm-stack-and-workflow/","title":"My PKM Stack and Workflow","tags":["pkm","workflow","tools","obsidian","publishing","personal-setup"],"created":"2025-11-04"}
 ---
 
 
@@ -384,9 +384,9 @@ git push origin main
 
 ## Related Notes
 
-- [[Digital Garden Setup Guide]] – How to build similar setup
-- [[Tools for Federated Publishing]] – Tool comparisons
-- [[Publishing Workflows]] – Other workflow patterns
+- [[02 DEVELOP/🌿 Plants/Digital Garden Setup Guide\|Digital Garden Setup Guide]] – How to build similar setup
+- [[Tools for Federated Publishing\|Tools for Federated Publishing]] – Tool comparisons
+- [[Publishing Workflows\|Publishing Workflows]] – Other workflow patterns
 - [[Obsidian Configuration\|Obsidian Configuration]] – Detailed Obsidian setup
 
 ## Changelog

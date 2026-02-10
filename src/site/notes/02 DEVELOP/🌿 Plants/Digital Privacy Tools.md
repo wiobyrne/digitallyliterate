@@ -1,5 +1,5 @@
 ---
-{"title":"Privacy Tools Quick Reference","created":"2026-01-31","last_updated":"2026-01-31","status":"🌿_plant","categories":["Reference"],"tags":["privacy-by-design","tools","quick-reference","comparison"],"connections":["[[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]","[[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]"],"related":["[[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]]","[[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]","[[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]"],"dg-publish":true,"dg-permalink":"privacy-tools-quick-reference","permalink":"/privacy-tools-quick-reference/","dgPassFrontmatter":true,"updated":"2026-01-31"}
+{"dg-publish":true,"dg-permalink":"privacy-tools-quick-reference","permalink":"/privacy-tools-quick-reference/","title":"Privacy Tools Quick Reference","tags":["privacy-by-design","tools","quick-reference","comparison"],"created":"2026-01-31","updated":"2026-01-31"}
 ---
 
 
@@ -57,11 +57,11 @@
 
 ## Related
 
-- [[Privacy by Design]] — Full exploration of privacy-first tools
-- [[Digital Self-determination]] — The parent framework
-- [[Document Collaboration Tools]] — Detailed CryptPad comparison
-- [[Communication Platforms]] — Detailed Matrix/Signal comparison
-- [[File Storage Solutions]] — Detailed Nextcloud options
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Full exploration of privacy-first tools
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework
+- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]] — Detailed CryptPad comparison
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Detailed Matrix/Signal comparison
+- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Detailed Nextcloud options
 
 ---
 

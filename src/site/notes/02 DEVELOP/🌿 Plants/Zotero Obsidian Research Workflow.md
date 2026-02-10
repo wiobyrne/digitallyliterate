@@ -1,5 +1,5 @@
 ---
-{"title":"Zotero Obsidian Research Workflow","created":"2024-06-01","last_updated":"2026-02-01","status":"🌿_plant","categories":["Method"],"tags":["PKM","obsidian","zotero","research","workflow","academic"],"connections":["[[02 DEVELOP/🌿 Plants/Building a Digital Commonplace Book\|Building a Digital Commonplace Book]]"],"related":["[[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]"],"dg-publish":true,"dg-permalink":"zotero-obsidian-workflow","source":"ChatGPT conversations \"Zotero Obsidian Workflow Guide\" and \"Obsidian LLM Integration Guide\" (2024)","permalink":"/zotero-obsidian-workflow/","dgPassFrontmatter":true,"updated":"2026-02-01"}
+{"dg-publish":true,"dg-permalink":"zotero-obsidian-workflow","permalink":"/zotero-obsidian-workflow/","title":"Zotero Obsidian Research Workflow","tags":["PKM","obsidian","zotero","research","workflow","academic"]}
 ---
 
 
@@ -143,8 +143,8 @@ For RAG (Retrieval-Augmented Generation) with your vault:
 
 ## Related
 
-- [[Building a Digital Commonplace Book]] — The broader PKM system
-- [[Digital Self-determination]] — Owning your knowledge tools
+- [[02 DEVELOP/🌿 Plants/Building a Digital Commonplace Book\|Building a Digital Commonplace Book]] — The broader PKM system
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Owning your knowledge tools
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-{"title":"The Pacific Circuit","author":"[[Alexis Madrigal\|Alexis Madrigal]]","categories":["Books"],"status":["🌿_plant"],"shelf":"inbox","dg-publish":true,"rating":0,"cover":"https://books.google.com/books/publisher/content/images/frontcover/bn4DEQAAQBAJ?fife=w600-h900&source=gbs_api","pages":"234","tags":["technology","innovation","history"],"publisher":"MCD","date":"2025-03-18","permalink":"/01-consume/books/the-pacific-circuit/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-consume/books/the-pacific-circuit/","title":"The Pacific Circuit","tags":["technology","innovation","history"]}
 ---
 
 
 ![cover|300](http://books.google.com/books/content?id=bn4DEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Pacific Circuit
-**Author:** [[Alexis Madrigal]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[Alexis Madrigal\|Alexis Madrigal]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Pacific Circuit" delves into the history of technology and innovation in the Pacific region, exploring how various advancements have shaped societies and cultures.
 - The book discusses the interconnectedness of different countries in the Pacific and how technological developments have influenced trade, communication, and everyday life.

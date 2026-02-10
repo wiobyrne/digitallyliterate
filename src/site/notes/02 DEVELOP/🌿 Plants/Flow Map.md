@@ -1,5 +1,5 @@
 ---
-{"title":"Flow Map","tags":["flow","psychology","csikszentmihalyi","optimal-experience","state-management"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2025-06-30","updated":"2025-06-30","shelf":"processed","related":["[[02 DEVELOP/🌿 Plants/Flow\|Flow]]","[[02 DEVELOP/🌿 Plants/Conditions of Flow\|Conditions of Flow]]","[[FlowCreation Theory\|FlowCreation Theory]]"],"permalink":"/02-develop/plants/flow-map/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/flow-map/","title":"Flow Map","tags":["flow","psychology","csikszentmihalyi","optimal-experience","state-management"]}
 ---
 
 
@@ -8,7 +8,7 @@ The Flow Map is Dr. Mihaly Csikszentmihalyi's framework for understanding where 
 
 ## Key Insights 
 # Flow Map
-The [[02 DEVELOP/🌿 Plants/Flow Map\|Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
+The [[02 DEVELOP/🌿 Plants/Flow Map\|Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[02 DEVELOP/🌿 Plants/Flow\|Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
 ![Flow Zone Channel.jpg](/img/user/04%20META/%F0%9F%94%97%20Assets/Flow%20Zone%20Channel.jpg)
 
@@ -31,7 +31,7 @@ So you can use the Flow Map as a "State of Mind" Map—a useful guide to manage 
 
 Say, someone is anxious: they can point to "Anxiety" on the Flow Map and then have a few ideas how to get closer to "Optimal Experience" (Flow). See below:
 
-The obvious answer for creating the [[Conditions of Flow]] is to reduce the level of Challenge or to increase the level of Skill (as the map above shows).
+The obvious answer for creating the [[02 DEVELOP/🌿 Plants/Conditions of Flow\|Conditions of Flow]] is to reduce the level of Challenge or to increase the level of Skill (as the map above shows).
 ![Flow Map.png](/img/user/04%20META/%F0%9F%94%97%20Assets/Flow%20Map.png)
 
-The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[FlowCreation Theory]]. 
+The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[FlowCreation Theory\|FlowCreation Theory]]. 

@@ -1,5 +1,5 @@
 ---
-{"title":"Legitimate Peripheral Participation","tags":["learning-theory","communities-of-practice","lave-wenger","apprenticeship","identity-transformation","social-learning"],"categories":"Notes","status":"🌿_plant","dg-publish":true,"date":"2025-06-30","updated":"2025-06-30","shelf":"processed","related":["[[Lurking]]","[[Learning]]","[[Cognition]]","[[Communities of Practice]]"],"permalink":"/02-develop/plants/legitimate-peripheral-participation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/legitimate-peripheral-participation/","title":"Legitimate Peripheral Participation","tags":["learning-theory","communities-of-practice","lave-wenger","apprenticeship","identity-transformation","social-learning"]}
 ---
 
 

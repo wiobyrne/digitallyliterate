@@ -1,5 +1,5 @@
 ---
-{"title":"Put Down Some of the Rocks","tags":["mental-health","emotional-burden","stress-management","self-care","boundaries","gratitude","mindfulness","overwhelm","resilience","letting-go","emotional-wellness","personal-boundaries","crisis-management"],"status":["🌿_plant"],"dg-publish":true,"categories":["Mental Health","Personal Development","Self-Care"],"date":"2024-01-15","modified":"2024-01-15","aliases":["Carrying Too Many Rocks","Emotional Burden Management","Letting Go Practice"],"related":["[[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]","[[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]]","[[Stress Management\|Stress Management]]","[[Boundaries\|Boundaries]]","[[Self-Compassion\|Self-Compassion]]"],"permalink":"/02-develop/plants/put-down-some-of-the-rocks/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-develop/plants/put-down-some-of-the-rocks/","title":"Put Down Some of the Rocks","tags":["mental-health","emotional-burden","stress-management","self-care","boundaries","gratitude","mindfulness","overwhelm","resilience","letting-go","emotional-wellness","personal-boundaries","crisis-management"]}
 ---
 
 
@@ -240,10 +240,10 @@ Every rock you consciously choose to carry becomes meaningful. Every rock you wi
 Put down some of the rocks. Your future self will thank you.
 
 ## Related Concepts
-- [[No Quick Fixes to Personal Growth]]
-- [[Emotional Intelligence MOC]]
-- [[Stress Management]]
-- [[Boundaries]]
-- [[Self-Compassion]]
+- [[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]
+- [[02 DEVELOP/🗂️ MOCs/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Stress Management\|Stress Management]]
+- [[Boundaries\|Boundaries]]
+- [[Self-Compassion\|Self-Compassion]]
 - [[Sustainable Living\|Sustainable Living]]
 - [[Crisis Management\|Crisis Management]]
