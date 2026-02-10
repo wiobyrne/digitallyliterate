@@ -1,0 +1,132 @@
+---
+permalink: /books/
+eleventyExcludeFromCollections: true
+---
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage }}">
+  <head>
+    <title>Book Notes — {{meta.siteName}}</title>
+    {%include "components/pageheader.njk"%}
+  </head>
+  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+    {%include "components/notegrowthhistory.njk"%}
+    {% if settings.dgShowFileTree !== true %}
+      {%include "components/navbar.njk"%}
+    {%else%}
+      {%include "components/filetree.njk"%}
+    {% endif %}
+    {% if settings.dgEnableSearch === true %}
+      {%include "components/searchContainer.njk"%}
+    {% endif %}
+
+    <main class="content cm-s-obsidian" data-pagefind-body>
+      <header>
+        <h1>Book Notes</h1>
+        <div class="header-meta">
+          <div class="header-meta-row">
+            <span class="reading-time"><i icon-name="book-open"></i> {{ collections.note | length }} notes in the garden</span>
+          </div>
+        </div>
+      </header>
+
+      <p>Summaries, reflections, and key takeaways from books I've read. Each note includes a three-sentence summary, extended overview, and connections to other ideas in the garden.</p>
+
+      <div class="book-filters">
+        <input type="text" id="book-filter" placeholder="Filter books by title or tag..." class="book-filter-input" autocomplete="off">
+      </div>
+
+      <div class="book-count" id="book-count"></div>
+
+      <table class="book-table" id="book-table">
+        <thead>
+          <tr>
+            <th class="sortable" data-sort="title" onclick="sortBooks('title')">Title <span class="sort-arrow"></span></th>
+            <th class="sortable" data-sort="tags" onclick="sortBooks('tags')">Topics <span class="sort-arrow"></span></th>
+          </tr>
+        </thead>
+        <tbody>
+          {%- for note in collections.note -%}
+            {%- if note.url and note.url.startsWith('/01-consume/books/') and note.url !== '/books-folder-note/' -%}
+            <tr class="book-row" data-title="{{ note.data.title | lower }}" data-tags="{{ note.data.tags | join(' ') | lower }}">
+              <td><a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a></td>
+              <td class="book-tags">
+                {%- if note.data.tags -%}
+                  {%- for tag in note.data.tags -%}
+                    {%- if tag != 'note' and tag != 'gardenEntry' and tag != 'books' and tag != 'reading' and tag != 'library' and tag != 'folder-note' -%}
+                      <span class="tag">{{ tag }}</span>
+                    {%- endif -%}
+                  {%- endfor -%}
+                {%- endif -%}
+              </td>
+            </tr>
+            {%- endif -%}
+          {%- endfor -%}
+        </tbody>
+      </table>
+
+      <script>
+      (function() {
+        var rows = Array.from(document.querySelectorAll('.book-row'));
+        var countEl = document.getElementById('book-count');
+        countEl.textContent = rows.length + ' books';
+
+        // Filter
+        document.getElementById('book-filter').addEventListener('input', function() {
+          var q = this.value.toLowerCase();
+          var visible = 0;
+          rows.forEach(function(row) {
+            var match = row.dataset.title.indexOf(q) !== -1 || row.dataset.tags.indexOf(q) !== -1;
+            row.style.display = match ? '' : 'none';
+            if (match) visible++;
+          });
+          countEl.textContent = visible + ' of ' + rows.length + ' books';
+        });
+
+        // Sort
+        var currentSort = '';
+        var currentDir = 1;
+        window.sortBooks = function(field) {
+          if (currentSort === field) { currentDir *= -1; } else { currentSort = field; currentDir = 1; }
+          rows.sort(function(a, b) {
+            var aVal = a.dataset[field] || '';
+            var bVal = b.dataset[field] || '';
+            return aVal.localeCompare(bVal) * currentDir;
+          });
+          var tbody = document.querySelector('#book-table tbody');
+          rows.forEach(function(row) { tbody.appendChild(row); });
+        };
+
+        // Sort by title by default
+        window.sortBooks('title');
+      })();
+      </script>
+    </main>
+
+    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
+      {%include "components/sidebar.njk"%}
+    {% endif %}
+    {% for imp in dynamics.common.footer %}
+      {% include imp %}
+    {% endfor %}
+    <script>
+    function toggleTheme() {
+      var body = document.body;
+      var isCurrentlyDark = body.classList.contains('theme-dark');
+      var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
+      body.classList.remove('theme-dark', 'theme-light');
+      body.classList.add(newTheme);
+      document.documentElement.className = newTheme;
+      localStorage.setItem('dg-theme', newTheme);
+      if (window.lucide) { window.lucide.createIcons(); }
+    }
+    (function() {
+      var saved = localStorage.getItem('dg-theme');
+      if (saved) {
+        document.body.classList.remove('theme-dark', 'theme-light');
+        document.body.classList.add(saved);
+      }
+    })();
+    </script>
+    {%include "components/lucideIcons.njk"%}
+  </body>
+</html>

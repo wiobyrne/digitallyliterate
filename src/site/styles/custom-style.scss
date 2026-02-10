@@ -925,6 +925,96 @@ div.transclusion {
   color: var(--text-primary);
 }
 
+/* ======================= Index / Listing Pages ========================= */
+.book-filters {
+  margin: 1.5em 0 1em;
+}
+
+.book-filter-input {
+  width: 100%;
+  padding: 0.6em 1em;
+  font-family: var(--font-body);
+  font-size: 0.95em;
+  color: var(--text-primary);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  transition: border-color var(--transition);
+}
+
+.book-filter-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-subtle);
+}
+
+.book-filter-input::placeholder {
+  color: var(--text-muted);
+}
+
+.book-count {
+  font-size: 0.85em;
+  color: var(--text-muted);
+  margin-bottom: 1em;
+}
+
+.book-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.book-table thead th {
+  text-align: left;
+  padding: 0.6em 0.8em;
+  border-bottom: 2px solid var(--border-color);
+  font-weight: 600;
+  font-size: 0.85em;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.book-table th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.book-table th.sortable:hover {
+  color: var(--accent);
+}
+
+.book-table tbody td {
+  padding: 0.5em 0.8em;
+  border-bottom: 1px solid var(--border-color);
+  vertical-align: top;
+}
+
+.book-table tbody tr:hover {
+  background: var(--accent-subtle);
+}
+
+.book-table a {
+  font-weight: 500;
+}
+
+.book-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em;
+}
+
+.book-tags .tag {
+  font-size: 0.7em;
+  padding: 0.15em 0.45em;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .book-tags {
+    display: none;
+  }
+}
+
 /* ========================== 404 Page =================================== */
 .four-oh-four {
   text-align: center;

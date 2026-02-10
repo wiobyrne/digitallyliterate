@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/books/","title":"Book Notes","tags":["books","reading","library","folder-note"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
+{"dg-publish":true,"permalink":"/books-folder-note/","title":"Book Notes","tags":["books","reading","library","folder-note"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
 ---
 
 
