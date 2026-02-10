@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/seeds/","title":"Seed Notes","tags":["seed","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
+{"dg-publish":true,"permalink":"/seeds/","title":"Seed Notes","tags":["seed","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
 ---
 
 

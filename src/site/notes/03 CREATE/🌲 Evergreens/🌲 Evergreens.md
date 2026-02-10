@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/evergreens/","title":"Evergreen Notes","tags":["evergreen","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
+{"dg-publish":true,"permalink":"/evergreens/","title":"Evergreen Notes","tags":["evergreen","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
 ---
 
 

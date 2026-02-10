@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/groves/","title":"Groves","tags":["grove","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
+{"dg-publish":true,"permalink":"/groves/","title":"Groves","tags":["grove","digital-garden","knowledge-management"],"dg-pinned":true,"created":"2025-01-01","updated":"2026-02-09"}
 ---
 
 
