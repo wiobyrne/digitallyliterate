@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/71C1kId1gIL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/15129921-L.jpg)
 
 
 # Foreign Fruit: A Personal History of the Orange
-**Author:** [[Katie Goh\|Katie Goh]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Katie Goh\|Katie Goh]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 

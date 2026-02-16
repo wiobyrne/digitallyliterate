@@ -122,13 +122,13 @@ A taste of what subscribers see every week:
 
 Explore newsletter issues through connected concepts in the digital garden:
 
-- **[[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI & Machine Learning]]** — Artificial intelligence, ethics, and implications for learning
-- **[[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience]]** — Privacy, security, wellbeing, and agency in digital spaces
-- **[[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy & Security]]** — Data protection, surveillance, and digital rights
-- **[[02 DEVELOP/🗂️ MOCs/Internet Culture MOC\|Internet Culture & Big Tech]]** — Platform dynamics, online behavior, and power structures
-- **[[02 DEVELOP/🗂️ MOCs/Teaching Philosophy MOC\|Education & Pedagogy]]** — Teaching, learning, and digital citizenship
+- **[[04 META/🗄️ Archive/MOCs Migration/AI and Machine Learning MOC\|AI & Machine Learning]]** — Artificial intelligence, ethics, and implications for learning
+- **[[04 META/🗄️ Archive/MOCs Migration/Digital Resilience MOC\|Digital Resilience]]** — Privacy, security, wellbeing, and agency in digital spaces
+- **[[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy & Security]]** — Data protection, surveillance, and digital rights
+- **[[04 META/🗄️ Archive/MOCs Migration/Internet Culture MOC\|Internet Culture & Big Tech]]** — Platform dynamics, online behavior, and power structures
+- **[[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Education & Pedagogy]]** — Teaching, learning, and digital citizenship
 
-**[[02 DEVELOP/🗂️ MOCs/Newsletter Index\|📜 Browse the full archive →]]**
+**[[03 CREATE/📧 Newsletter/Newsletter Index\|📜 Browse the full archive →]]**
 
 
 ---
@@ -146,4 +146,4 @@ Subscribing means you get these insights **first**, with the context to put them
 
 ---
 
-**[[index\|← Home]]** · **[[02 DEVELOP/🗂️ MOCs/Newsletter Index\|Full Archive →]]**
+**[[index\|← Home]]** · **[[03 CREATE/📧 Newsletter/Newsletter Index\|Full Archive →]]**

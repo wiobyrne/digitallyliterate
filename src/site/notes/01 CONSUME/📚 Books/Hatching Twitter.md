@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/hatching-twitter/","title":"Hatching Twitter","tags":["tech-startups","social-media","corporate-drama","entrepreneurship"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=GX8ODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/7275462-L.jpg)
 # Hatching Twitter
 
 ## Overview
-- **Author:** [[Nick Bilton\|Nick Bilton]]  
+- **Author:** [[01 CONSUME/👥 People/Nick Bilton\|Nick Bilton]]  
 
 ## Three-Sentence Summary
 - "Hatching Twitter" is a gripping account of the power struggles and personal betrayals behind the creation of Twitter. The book highlights how four friends - Jack Dorsey, Biz Stone, Evan Williams, and Noah Glass - came together to create a platform that would transform global communication. However, their clashing visions and egos led to bitter rivalries and backstabbing, eventually resulting in a corporate coup.

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/when-violence-is-the-answer/","title":"When Violence is the Answer","tags":["violence","self-defense","vulnerable","aggression","danger"]}
 ---
 
-![cover|300](https://m.media-amazon.com/images/I/71slPi3KDPS.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/8842727-L.jpg)
 # When Violence is the Answer
 
 ## Overview
-- **Author:** [[Tim Larkin\|Tim Larkin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Tim Larkin\|Tim Larkin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "When Violence is the Answer" by Tim Larkin explores the controversial idea that sometimes violence is not just acceptable, but necessary. Larkin, a self-defense expert, argues that society's aversion to violence often leaves individuals vulnerable and unprepared in dangerous situations. He provides insights into recognizing and understanding violence, preparing for it mentally and physically, and using it effectively when there's no other choice.
 

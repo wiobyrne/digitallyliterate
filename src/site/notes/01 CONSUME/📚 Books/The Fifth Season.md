@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://books.google.com/books/publisher/content/images/frontcover/J0tIAgAAQBAJ?fife=w600-h900&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8133598-L.jpg)
 
 # The Fifth Season
-**Author:** [[N. K. Jemisin\|N. K. Jemisin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/N. K. Jemisin\|N. K. Jemisin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

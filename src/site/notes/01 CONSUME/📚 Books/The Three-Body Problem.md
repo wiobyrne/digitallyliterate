@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-three-body-problem/","title":"The Three-Body Problem","tags":["science-fiction","humanity","aliens","science","existence","civilization"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=ZrNzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10526598-L.jpg)
 # The Three-Body Problem
 
 ## Overview
-- **Author:** [[Cixin Liu\|Cixin Liu]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Cixin Liu\|Cixin Liu]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Three-Body Problem" is a groundbreaking science fiction novel that explores the potential consequences of humanity's first contact with an alien civilization. The story unfolds against the backdrop of China's Cultural Revolution, blending historical events with speculative fiction to examine humanity's place in the universe. It challenges readers to consider complex scientific and philosophical questions about our existence.
 

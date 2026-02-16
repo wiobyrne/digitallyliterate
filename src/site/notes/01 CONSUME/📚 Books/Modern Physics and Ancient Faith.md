@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/71rY2XnpPVL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/153507-L.jpg)
 
 # Modern Physics and Ancient Faith
-**Author:** [[Stephen M. Barr\|Stephen M. Barr]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Stephen M. Barr\|Stephen M. Barr]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Modern Physics and Ancient Faith" by Stephen M. Barr explores the intersection of modern physics and ancient religious beliefs, delving into how these seemingly disparate fields can coexist and even complement each other.
 - The book discusses how scientific discoveries can enhance our understanding of faith and spirituality, challenging readers to consider the connections between the physical world and metaphysical beliefs.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/ready-player-one/","title":"Ready Player One","tags":["science-fiction","gaming","dystopian","virtual-reality"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=FY_HWAcm10MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8737626-L.jpg)
 
 # Ready Player One
 

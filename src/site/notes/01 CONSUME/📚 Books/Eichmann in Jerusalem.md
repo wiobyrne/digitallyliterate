@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=yGoxZEdw36oC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=yGoxZEdw36oC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 
 # Eichmann in Jerusalem
-**Author:** [[Hannah Arendt\|Hannah Arendt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Hannah Arendt\|Hannah Arendt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "Eichmann in Jerusalem" explores the trial of Adolf Eichmann, a key figure in the organization and execution of the Holocaust. Hannah Arendt delves into the banality of evil, examining how ordinary people can commit horrific acts under authoritarian regimes. The book raises questions about justice, responsibility, and the moral implications of bureaucratic obedience.
 

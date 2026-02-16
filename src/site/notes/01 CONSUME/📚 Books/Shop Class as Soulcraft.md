@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=oc4XsaqD4qsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/6275823-L.jpg)
 
 # Shop Class as Soulcraft
 

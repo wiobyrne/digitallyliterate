@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=dnUZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/12425953-L.jpg)
 
 # Fugitive Pedagogy
 **Author:** [[01 CONSUME/👥 People/Jarvis R. Givens\|Jarvis R. Givens]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]

@@ -3,9 +3,9 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/91ApYpa8QrL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/581864-L.jpg)
 # The Promise of Politics
-**Author:** [[Hannah Arendt\|Hannah Arendt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Hannah Arendt\|Hannah Arendt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Promise of Politics" delves into the essence of politics and its role in society, exploring themes of power, freedom, and responsibility.
 - Through her insightful analysis, Hannah Arendt challenges readers to rethink their understanding of political action and the potential for positive change within a democratic framework.

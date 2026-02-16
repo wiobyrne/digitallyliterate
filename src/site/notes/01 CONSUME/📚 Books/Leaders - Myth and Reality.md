@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=tj9wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8829841-L.jpg)
 
 # Leaders - Myth and Reality
-**Author:** [[General Stanley McChrystal, Jeff Eggers, Jay Mangone\|General Stanley McChrystal, Jeff Eggers, Jay Mangone]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/General Stanley McChrystal\|General Stanley McChrystal]], [[01 CONSUME/👥 People/Jeff Eggers\|Jeff Eggers]], [[01 CONSUME/👥 People/Jay Mangone\|Jay Mangone]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

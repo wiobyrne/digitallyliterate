@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-almagest/","title":"The Almagest","tags":["astronomy","science"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=M4K4oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8994813-L.jpg)
 
 # The Almagest
 
 ## Overview
-- **Author:** [[Claudius Ptolemy\|Claudius Ptolemy]]  
+- **Author:** [[01 CONSUME/👥 People/Claudius Ptolemy\|Claudius Ptolemy]]  
 
 ## Three-Sentence Summary
 - "The Almagest" is a seminal work on astronomy by Claudius Ptolemy that served as the primary source of astronomical knowledge in the Western world for over a thousand years.

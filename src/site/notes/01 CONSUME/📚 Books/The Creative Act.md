@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=jW5tEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/13316390-L.jpg)
 
 # The Creative Act
 **Author:** [[01 CONSUME/🎙️ Podcasts/Rick Rubin on Unlocking Creativity\|Rick Rubin on Unlocking Creativity]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]

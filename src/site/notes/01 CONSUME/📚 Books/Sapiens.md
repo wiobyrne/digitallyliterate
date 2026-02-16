@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/sapiens/","title":"Sapiens","tags":["society","economy","human-history","history"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=FmyBAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8634250-L.jpg)
 
 # Sapiens
 
 ## Overview
-- **Author:** [[Yuval Noah Harari\|Yuval Noah Harari]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Yuval Noah Harari\|Yuval Noah Harari]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Sapiens" provides a captivating exploration of human history from the dawn of Homo sapiens to the present day, tracing how we became the planet's dominant species. Harari proposes that our ability to believe in shared myths, such as religion, money and nations, is what separates us from other animals. He also examines how these shared beliefs have shaped our societies, economies and personal lives.
 

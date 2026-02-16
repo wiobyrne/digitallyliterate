@@ -7,7 +7,7 @@
 
 
 # Why Nothing Works
-**Author:** [[Marc J. Dunkelman\|Marc J. Dunkelman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Marc J. Dunkelman\|Marc J. Dunkelman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

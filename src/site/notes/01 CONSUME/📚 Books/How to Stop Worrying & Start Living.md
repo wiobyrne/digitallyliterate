@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/how-to-stop-worrying-and-start-living/","title":"How to stop worrying & start living","tags":["attitude","problem-solving","gratitude","relationships"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=WSsXDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10829208-L.jpg)
 # How to Stop Worrying & Start Living
 
 ## Overview

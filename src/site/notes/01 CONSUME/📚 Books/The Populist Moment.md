@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/61V27gjqc4L._SL1360_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/120856-L.jpg)
 
 
 # The Populist Moment
-**Author:** [[Lawrence Goodwyn\|Lawrence Goodwyn]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Lawrence Goodwyn\|Lawrence Goodwyn]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 "The Populist Moment" by Lawrence Goodwyn explores the rise of the populist movement in the United States during the late 19th century. Goodwyn delves into the social, economic, and political factors that led to the emergence of this movement and its impact on American society. The book highlights how populist ideas and strategies continue to influence modern politics.

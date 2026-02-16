@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/01-consume/books/project-hail-mary/","title":"Project Hail Mary","tags":["thriller","space-exploration","survival","aliens","friendship","apocalypse","science-fiction"]}
 ---
 
-![cover|150](https://books.google.com/books/publisher/content/images/frontcover/GrYsEAAAQBAJ?fife=w600-h900&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/11200092-L.jpg)
 # Project Hail Mary
-**Author:** [Andy Weir](https://andyweirauthor.com/)
+**Author:** [[01 CONSUME/👥 People/Andy Weir\|Andy Weir]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ---
 

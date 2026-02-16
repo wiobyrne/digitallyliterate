@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/digital-minimalism/","title":"Digital Minimalism"}
 ---
 
-![cover|300](https://m.media-amazon.com/images/I/81x+9opgESL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/8507540-L.jpg)
 
 # Digital Minimalism
 
-**Author:** [[Cal Newport\|Cal Newport]]  • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Cal Newport\|Cal Newport]]  • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 
 ---

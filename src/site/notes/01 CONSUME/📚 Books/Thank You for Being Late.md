@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/thank-you-for-being-late/","title":"Thank You for Being Late","tags":["technology","climate-change","globalization","workplace","ethics","community"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=r-U2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8043400-L.jpg)
 
 # Thank You for Being Late
 
 ## Overview
-- **Author:** [[Thomas L. Friedman\|Thomas L. Friedman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Thomas L. Friedman\|Thomas L. Friedman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Thank You for Being Late" is an exploration of the accelerating forces in technology, climate change, and globalization that are reshaping our world. The author argues that these simultaneous accelerations are transforming the workplace, politics, geopolitics, ethics and community. Friedman suggests that we should pause and reflect to understand these changes and to reimagine work, politics and community in this age of accelerations.
 

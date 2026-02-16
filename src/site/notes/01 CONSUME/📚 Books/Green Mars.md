@@ -6,7 +6,7 @@
 # Green Mars
 
 ## Overview
-- **Author:** [[Kim Stanley Robinson\|Kim Stanley Robinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Kim Stanley Robinson\|Kim Stanley Robinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Green Mars" is the second installment in Kim Stanley Robinson's Mars Trilogy, focusing on the ongoing terraforming and colonization of the Red Planet. The novel explores themes of political power, environmental responsibility, and human ambition through detailed scientific and sociological narratives. It tells a complex story of struggle, compromise, and survival as humanity attempts to make a new home on a hostile planet.
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/woken-furies/","title":"Woken Furies","tags":["science-fiction","cyberpunk","consciousness"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=RvJMkL8cuw0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/211838-L.jpg)
 # Woken Furies
 
 ## Overview

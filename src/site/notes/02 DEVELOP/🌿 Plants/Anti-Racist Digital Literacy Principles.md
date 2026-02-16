@@ -98,7 +98,7 @@ Mental well-being enhances the ability to engage in anti-racist work effectively
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogical approach
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The broader framework
 - [[02 DEVELOP/🌿 Plants/Critical Citizenship\|Critical Citizenship]] — Civic engagement online
-- [[02 DEVELOP/🌱 Seeds/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — Power dynamics in schools
+- [[02 DEVELOP/🌿 Plants/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — Power dynamics in schools
 
 ---
 

@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-information/","title":"The Information","tags":["information","information-science","language","computer-science"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=617JSFW0D2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/6699475-L.jpg)
 
 # The Information
 
 ## Overview
-- **Author:** [[James Gleick\|James Gleick]]  
+- **Author:** [[01 CONSUME/👥 People/James Gleick\|James Gleick]]  
 
 ## Three-Sentence Summary
 - "The Information" delves into the history and significance of information, exploring how it has influenced and shaped our society over time. The book examines concepts like the development of language, the invention of the alphabet, the evolution of mathematical logic, and the rise of digital technology. It also discusses the role of information in various fields such as biology, quantum mechanics, and chaos theory.

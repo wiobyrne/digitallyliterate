@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=FVJ9tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=FVJ9tQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Destructive Creation
-**Author:** [[Mark R. Wilson\|Mark R. Wilson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Mark R. Wilson\|Mark R. Wilson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 - "Destructive Creation" explores the concept of how destruction can lead to new forms of creation and innovation.

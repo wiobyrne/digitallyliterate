@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-human-division/","title":"The Human Division","tags":["science-fiction","diploimacy","political-intrigue","aliens","war"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=PLeo-jp25pMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/12525091-L.jpg)
 
 # The Human Division
 
 ## Overview
-- **Author:** [[John Scalzi\|John Scalzi]] 
+- **Author:** [[01 CONSUME/👥 People/John Scalzi\|John Scalzi]] 
 
 ## Three-Sentence Summary
 - "The Human Division" is a gripping and thrilling science fiction novel that explores humanity's place in the universe amidst political intrigue, interstellar diplomacy, and war. It follows the journey of a team of diplomats and soldiers serving the interests of Earth amidst an escalating conflict with alien species. With its richly drawn characters, complex plot, and thought-provoking themes about humanity and morality, it offers readers an enthralling exploration of space politics.

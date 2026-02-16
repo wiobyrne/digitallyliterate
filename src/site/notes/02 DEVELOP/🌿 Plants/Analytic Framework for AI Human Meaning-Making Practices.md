@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/analytic-framework-for-ai-human-meaning-making-practices/","title":"Analytic Framework for AI Human Meaning-Making Practices","tags":["analytic-framework","mollick-mollick","AI-literacy","qualitative-research","preservice-teachers","NotebookLM","agency","boundary-work","epistemic-stance"],"updated":"2025-12-02"}
+{"dg-publish":true,"permalink":"/02-develop/plants/analytic-framework-for-ai-human-meaning-making-practices/","title":"Analytic Framework for AI Human Meaning-Making Practices","tags":["analytic-framework","mollick-mollick","AI-literacy","qualitative-research","preservice-teachers","NotebookLM","agency","boundary-work","epistemic-stance"]}
 ---
 
 # Analytic Framework for AI Human Meaning-Making Practices
@@ -67,7 +67,7 @@ The detailed theoretical argument for this adaptation is housed here:
 
 - **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Research Methods Justification\|Co-Constructing AI Boundaries Research Methods Justification]]** – Methodological rigor and approach
 - **[[02 DEVELOP/🌿 Plants/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]** – Additional framework analysis
-- **[[03 CREATE/🎯 Projects/🟢 Active/AI Boundaries Research/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]** – Conceptual notes on co-construction
+- **[[02 DEVELOP/🌿 Plants/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]** – Conceptual notes on co-construction
 
 ---
 

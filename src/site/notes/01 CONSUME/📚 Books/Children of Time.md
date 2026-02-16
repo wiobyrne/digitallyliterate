@@ -4,11 +4,11 @@
 
 
 
-![cover|300](http://books.google.com/books/content?id=n7JfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8264706-L.jpg)
 
 
 # Children of Time
-- **Author:** [[Adrian Tchaikovsky\|Adrian Tchaikovsky]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Adrian Tchaikovsky\|Adrian Tchaikovsky]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

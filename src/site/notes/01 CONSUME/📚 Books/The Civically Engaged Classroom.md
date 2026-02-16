@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=n799zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10599634-L.jpg)
 
 # The Civically Engaged Classroom
-**Author:** [[Mary Ehrenworth, Pablo Wolfe, Marc Todd\|Mary Ehrenworth, Pablo Wolfe, Marc Todd]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Mary Ehrenworth\|Mary Ehrenworth]], [[01 CONSUME/👥 People/Pablo Wolfe\|Pablo Wolfe]], [[01 CONSUME/👥 People/Marc Todd\|Marc Todd]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

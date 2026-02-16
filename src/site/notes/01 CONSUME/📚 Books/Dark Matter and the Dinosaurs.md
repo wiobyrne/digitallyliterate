@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=PAV4BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8844267-L.jpg)
 
 # Dark Matter and the Dinosaurs
-- **Author:** [[Lisa Randall\|Lisa Randall]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Lisa Randall\|Lisa Randall]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 ## Three-Sentence Summary
 - In Dark Matter and the Dinosaurs, physicist Lisa Randall theorizes that a disk of dark matter in the Milky Way plane could have been responsible for sending a shower of comets towards Earth, one of which may have caused the extinction of dinosaurs.

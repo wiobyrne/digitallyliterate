@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](https://books.google.com/books/publisher/content/images/frontcover/GJxLEAAAQBAJ?fife=w600-h900&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/12856674-L.jpg)
 
 # They Want to Kill Americans
 **Author:** Malcolm Nance

@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/71ZeCLHRzvL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/14569476-L.jpg)
 
 # The Network State
-**Author:** [[Balaji Srinivasan\|Balaji Srinivasan]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Balaji Srinivasan\|Balaji Srinivasan]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 
 > - "The Network State" presents a radical vision for creating new sovereign entities built around digital communities that eventually establish physical territories and gain diplomatic recognition.

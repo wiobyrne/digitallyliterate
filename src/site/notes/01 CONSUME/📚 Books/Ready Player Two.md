@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=2Z4LEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10250001-L.jpg)
 
 
 # Ready Player Two

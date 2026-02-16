@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/fear-trump-in-the-white-house/","title":"Fear - Trump in the White House","tags":["politics","infighting","dysfunction","chaos"]}
 ---
 
-![cover|300](https://upload.wikimedia.org/wikipedia/en/a/a4/Fear_by_Woodward_cover.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/8315580-L.jpg)
 # Fear - Trump in the White House
 
 ## Overview
-- **Author:** [[Bob Woodward\|Bob Woodward]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Bob Woodward\|Bob Woodward]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Fear: Trump in the White House" by Bob Woodward is a detailed account of Donald Trump's presidency which portrays an administration consumed by chaos, infighting, and a disregard for established norms. Woodward's rigorous reporting, based on interviews with first-hand sources, presents an image of a president often at odds with his own staff and dismissive of facts that contradict his worldview. The book also provides deep insights into the key events and decisions of Trump’s first years in office.
 

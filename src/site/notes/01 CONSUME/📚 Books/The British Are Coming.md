@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/91CEJafxdBL.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/15107776-L.jpg)
 
 
 # The British Are Coming
-**Author:** [[Rick Atkinson\|Rick Atkinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Rick Atkinson\|Rick Atkinson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 tags:
 - history

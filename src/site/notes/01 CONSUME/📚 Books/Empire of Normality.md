@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=clS6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=clS6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Empire of Normality
-**Author:** [[Robert Chapman\|Robert Chapman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Robert Chapman\|Robert Chapman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Empire of Normality" delves into a society where conformity is paramount, and deviation from the norm is heavily discouraged. The protagonist navigates this world, questioning the status quo and seeking to challenge the oppressive system in place. As they embark on a journey of self-discovery and rebellion, themes of individuality, societal expectations, and the cost of conformity are explored.
 

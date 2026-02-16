@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/weapons-of-math-destruction/","title":"Weapons of Math Destruction","tags":["education","algorithms","mathematics","transparency","regulation"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=CxD-DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8136557-L.jpg)
 
 # Weapons of Math Destruction 
 ## Overview
-- **Author:** [[Cathy O'Neil\|Cathy O'Neil]]  
+- **Author:** [[01 CONSUME/👥 People/Cathy O'Neil\|Cathy O'Neil]]  
 
 ## Three-Sentence Summary
 - "Weapons of Math Destruction" delves into the hidden dangers of mathematical models and algorithms, revealing their potential to perpetuate social inequality. The book explores how these "weapons" can lead to devastating consequences in sectors like education, criminal justice, and employment. O'Neil calls for greater transparency and regulation to prevent these harmful impacts.

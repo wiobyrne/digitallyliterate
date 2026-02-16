@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=-q45DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/13663298-L.jpg)
 
 # In The Wake
-Author: [[Christina Sharpe\|Christina Sharpe]]
+Author: [[01 CONSUME/👥 People/Christina Sharpe\|Christina Sharpe]]
 
 ---
 

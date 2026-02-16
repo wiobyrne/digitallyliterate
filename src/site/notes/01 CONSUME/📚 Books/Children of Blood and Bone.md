@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/children-of-blood-and-bone/","title":"Children of Blood and Bone","tags":["determination","courage","friendship","fighting_injustice","science-fiction"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=Yp9GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8572526-L.jpg)
 # Children of Blood and Bone
 
 ## Overview
-- **Author:** [[Tomi Adeyemi\|Tomi Adeyemi]] 
+- **Author:** [[01 CONSUME/👥 People/Tomi Adeyemi\|Tomi Adeyemi]] 
 
 ## Three-Sentence Summary
 - "Children of Blood and Bone" is a West African inspired fantasy novel that follows the journey of a young girl, Zélie, seeking to restore magic in her kingdom after it was wiped out by a ruthless king. The novel explores themes of oppression, racism, and the struggle for power. Zélie must face immense adversity and confront her own fears to bring justice and equality to her people.

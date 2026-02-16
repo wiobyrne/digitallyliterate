@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-cambridge-concise-history-of-astronomy/","title":"The Cambridge Concise History of Astronomy","tags":["astronomy","science","culture","history"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=qDTSBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/347084-L.jpg)
 # The Cambridge Concise History of Astronomy
 
 ## Overview

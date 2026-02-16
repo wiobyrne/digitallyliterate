@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/seveneves/","title":"Seveneves","tags":["science-fiction","evolution","engineering","society","humanity","survival"]}
 ---
 
-![cover|150](http://books.google.com/books/content?id=0VWdBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|150](http://books.google.com/books/content?id=0VWdBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 # Seveneves
 
 ## Overview
-- **Author:** [[Neal Stephenson\|Neal Stephenson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Neal Stephenson\|Neal Stephenson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Seveneves" is a hard science fiction novel that begins with the moon exploding and humanity's frantic efforts to survive the impending cataclysm. The story then leaps 5,000 years into the future where the descendants of the original survivors have evolved into seven distinct races and are now exploring their engineered habitat in space. The book explores themes of survival, evolution, engineering, and societal organization.
 

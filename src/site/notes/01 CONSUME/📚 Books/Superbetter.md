@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/superbetter/","title":"SuperBetter","tags":["resilience","gaming","video-games","personal-growth"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=j3DMBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10054092-L.jpg)
 # Superbetter
 
 ## Overview
-- **Author:** [[Jane McGonigal\|Jane McGonigal]]  
+- **Author:** [[01 CONSUME/👥 People/Jane McGonigal\|Jane McGonigal]]  
 
 ## Three-Sentence Summary
 - In "Superbetter," Jane McGonigal presents a revolutionary approach to personal growth and resilience based on principles derived from video games. She proposes that by adopting the mindset of a gamer, individuals can enhance their abilities to overcome challenges, achieve goals, and lead healthier lives. The book presents practical strategies and exercises that readers can implement in their own lives to cultivate the same kind of resilience and positivity seen in gamers.

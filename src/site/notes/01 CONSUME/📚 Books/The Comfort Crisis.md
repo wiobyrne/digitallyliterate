@@ -3,9 +3,9 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/71xy9YsxTcL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/11101220-L.jpg)
 # The Comfort Crisis
-**Author:** [[Michael Easter\|Michael Easter]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Michael Easter\|Michael Easter]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Comfort Crisis" by Michael Easter explores the detrimental effects of excessive comfort in our modern lives and advocates for embracing discomfort to foster personal growth and resilience.
 - Through engaging stories and research-backed insights, Easter challenges readers to step out of their comfort zones, confront their fears, and pursue meaningful challenges.

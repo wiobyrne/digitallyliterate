@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-peripheral/","title":"The Peripheral","tags":["science-fiction","power","corruption","apocalyptic","technological-advancement"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=SLaQAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8787492-L.jpg)
 
 # The Peripheral
 

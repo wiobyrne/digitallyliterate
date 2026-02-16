@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-graveyard-book/","title":"The Graveyard Book","tags":["ghosts","murder","life-lessons","mystery","adventure"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=0_KUsyJz6pMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/7099583-L.jpg)
 
 # The Graveyard Book
 

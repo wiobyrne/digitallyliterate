@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-innovators/","title":"The Innovators","tags":["biography","history","innovation","technology"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=H_-hCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/7313659-L.jpg)
 
 # The Innovators
 
 ## Overview
-- **Author:** [[Walter Isaacson\|Walter Isaacson]]  
+- **Author:** [[01 CONSUME/👥 People/Walter Isaacson\|Walter Isaacson]]  
 
 ## Three-Sentence Summary
 - The Innovators is a comprehensive history of the digital age and those who made it possible, spanning from Ada Lovelace in the 19th century up to the modern titans of Silicon Valley. Isaacson presents an intriguing exploration of how innovation happens, focusing on collaborative teams rather than individual geniuses. The book underscores the crucial importance of fostering creativity and accepting failure in the pursuit of technological advancement.

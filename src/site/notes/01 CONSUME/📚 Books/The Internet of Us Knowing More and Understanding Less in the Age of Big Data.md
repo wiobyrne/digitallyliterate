@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/619RStUOxfL._SL1200_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/13090693-L.jpg)
 
 # The Internet of Us: Knowing More and Understanding Less in the Age of Big Data
-**Author:** [[Michael P. Lynch\|Michael P. Lynch]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Michael P. Lynch\|Michael P. Lynch]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Internet of Us" delves into the paradox of how in the age of big data, we have access to more information than ever before, yet our understanding seems to be diminishing. Michael P. Lynch explores the impact of the internet on our knowledge and comprehension, raising questions about the quality and depth of information we consume. This book challenges readers to reflect on the balance between knowing more and truly understanding less in our digital era.
 

@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/whiskey-tango-foxtrot/","title":"Whiskey Tango Foxtrot","tags":["data-privasy","greed","corporations","surveillance","digital-society"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=wU1IAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8207452-L.jpg)
 
 # Whiskey Tango Foxtrot
 
 ## Overview
-- **Author:** [[David Shafer\|David Shafer]]  
+- **Author:** [[01 CONSUME/👥 People/David Shafer\|David Shafer]]  
 
 ## Three-Sentence Summary
 - "Whiskey Tango Foxtrot" is a gripping, satirical novel that delves into the world of data privacy, corporate greed, and surveillance. The story revolves around three characters - Leila Majnoun, Leo Crane, and Mark Deveraux - who are brought together by a mysterious organization aiming to fight against a shadowy conglomerate that manipulates the world's data. With its blend of humor, suspense, and social commentary, the novel provides a thought-provoking exploration of the power dynamics in our increasingly digitalized society.

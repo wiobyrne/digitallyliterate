@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](https://images-us.bookshop.org/ingram/9780544838260.jpg?width=640&v=v2)
+![cover|300](https://covers.openlibrary.org/b/id/10054840-L.jpg)
 # Dust
 **Author:** [[01 CONSUME/👥 People/Hugh Howey\|Hugh Howey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---

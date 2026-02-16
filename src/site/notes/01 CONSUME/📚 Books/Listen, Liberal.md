@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/81aeXgnGxSL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/7879100-L.jpg)
 
 # Listen, Liberal
-**Author:** [[Thomas Frank\|Thomas Frank]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Thomas Frank\|Thomas Frank]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ---
 

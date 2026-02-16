@@ -6,7 +6,7 @@
 ![cover|300](https://images-us.bookshop.org/ingram/9781250367686.jpg?v=0971b4be408ad04e9f318237e2af79ed)
 
 # Looking at Women Looking at War
-**Author:** [[Victoria Amelina\|Victoria Amelina]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Victoria Amelina\|Victoria Amelina]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 "Looking at Women Looking at War" delves into the complex relationship between women and war, exploring how women perceive and interpret conflicts. The book offers a unique perspective on the impact of war on women and society as a whole, shedding light on often overlooked narratives. Through in-depth analysis, the author presents a compelling narrative that challenges traditional views on war and gender roles.

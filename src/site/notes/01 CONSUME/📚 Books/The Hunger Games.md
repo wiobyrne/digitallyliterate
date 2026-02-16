@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=_zSzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/12646537-L.jpg)
 
 # The Hunger Games
 **Author:** [[01 CONSUME/👥 People/Suzanne Collins\|Suzanne Collins]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]

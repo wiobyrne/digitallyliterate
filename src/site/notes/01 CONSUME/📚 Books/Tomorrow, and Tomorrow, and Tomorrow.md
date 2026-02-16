@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=LML4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=LML4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Tomorrow, and Tomorrow, and Tomorrow
-**Author:** [[Gabrielle Zevin\|Gabrielle Zevin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Gabrielle Zevin\|Gabrielle Zevin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

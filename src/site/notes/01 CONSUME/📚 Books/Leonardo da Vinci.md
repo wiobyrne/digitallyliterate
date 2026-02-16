@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/leonardo-da-vinci/","title":"Leonardo da Vinci","tags":["knowledge","curiosity","science","invention","education"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=67KuDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8087691-L.jpg)
 
 # Leonardo da Vinci
 
 ## Overview
-- **Author:** [[Walter Isaacson\|Walter Isaacson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Walter Isaacson\|Walter Isaacson]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Leonardo da Vinci" is a comprehensive biography of the renowned Italian polymath, exploring his life, works, and unique intellectual curiosity. Isaacson delves into Leonardo's notebooks to understand his scientific observations and artistic innovations. The book highlights da Vinci's relentless pursuit of knowledge and his unquenchable curiosity that made him the epitome of a "Renaissance man."
 

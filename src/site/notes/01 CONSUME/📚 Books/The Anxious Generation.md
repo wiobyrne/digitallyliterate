@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/81Rz9l29NiL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/15104803-L.jpg)
 
 # The Anxious Generation
-- **Author:** [[Jonathan Haidt\|Jonathan Haidt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Jonathan Haidt\|Jonathan Haidt]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

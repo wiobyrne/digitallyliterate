@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-jungle-book/","title":"The Jungle Book","tags":["identity","society","belonging","morals"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=HvJaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/3344204-L.jpg)
 
 # The Jungle Book
 
 ## Overview
-- **Author:** [[Rudyard Kipling\|Rudyard Kipling]]  
+- **Author:** [[01 CONSUME/👥 People/Rudyard Kipling\|Rudyard Kipling]]  
 
 ## Three-Sentence Summary
 - "The Jungle Book" is a collection of stories by Rudyard Kipling that mainly focuses on the adventures of Mowgli, a young boy raised by wolves in the Indian jungle. 

@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/61pdf+ObaRL._SL1200_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/13281409-L.jpg)
 
 # Democracy in America
 **Author:** [[01 CONSUME/👥 People/Alexis de Tocqueville\|Alexis de Tocqueville]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]

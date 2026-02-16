@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/otherland-city-of-golden-shadow/","title":"Otherland: City of Golden Shadow","tags":["science-fiction","virtual-reality","digital","consciousness","identity","reality"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=glqJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/6873412-L.jpg)
 
 # Otherland - City of Golden Shadow
 

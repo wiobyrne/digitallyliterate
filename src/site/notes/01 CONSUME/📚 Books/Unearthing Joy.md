@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=DdRUzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=DdRUzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Unearthing Joy
 ## A Guide to Culturally and Historically Responsive Teaching and Learning
-**Author:** [[Gholdy Muhammad\|Gholdy Muhammad]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Gholdy Muhammad\|Gholdy Muhammad]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

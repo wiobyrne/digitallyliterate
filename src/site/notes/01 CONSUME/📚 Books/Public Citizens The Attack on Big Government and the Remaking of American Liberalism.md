@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/61jCwuyOwRL.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/14623100-L.jpg)
 
 
 # Public Citizens: The Attack on Big Government and the Remaking of American Liberalism
-**Author:** [[Paul Sabin\|Paul Sabin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Paul Sabin\|Paul Sabin]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "Public Citizens: The Attack on Big Government and the Remaking of American Liberalism" delves into the challenges faced by liberalism in the United States as it grappled with the concept of big government. Author Paul Sabin explores how public perceptions of government size and intervention shifted over time, influencing the liberal agenda. Through a historical lens, the book examines how these shifts shaped American politics and society.
 

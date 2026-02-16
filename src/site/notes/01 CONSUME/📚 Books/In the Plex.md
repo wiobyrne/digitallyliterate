@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/in-the-plex/","title":"In the Plex","tags":["google","innovation","decision-making"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=RS8SEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/7010312-L.jpg)
 
 # In the Plex 
 
 ## Overview
-- **Author:** [[Steven Levy\|Steven Levy]]  
+- **Author:** [[01 CONSUME/👥 People/Steven Levy\|Steven Levy]]  
 
 ## Three Sentence Summary
  

@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/51kApFpSfPL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/13860108-L.jpg)
 # Unwired
 ## Gaining Control Over Addictive Technologies
-**Author:** [[Gaia Bernstein\|Gaia Bernstein]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Gaia Bernstein\|Gaia Bernstein]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "Unwired" explores the intricate relationship between technology, privacy, and digital rights in our modern world. Through the lens of various characters and scenarios, the book delves into the consequences of being constantly connected and the implications for personal data and security. It raises thought-provoking questions about the balance between convenience and safeguarding individual freedoms in a digitally-driven society.
 

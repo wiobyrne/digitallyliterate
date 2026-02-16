@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=nhwBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10510048-L.jpg)
 
 # How the Word Is Passed
-- **Author:** [[Clint Smith\|Clint Smith]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Clint Smith\|Clint Smith]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 1. "How the Word Is Passed" is a compelling exploration of how different sites across America remember and reckon with their relationship to slavery. 
 2. The author, Clint Smith, takes readers on a journey from Monticello plantation to Angola Prison, examining how these historical sites contribute to our understanding of America's racial history.

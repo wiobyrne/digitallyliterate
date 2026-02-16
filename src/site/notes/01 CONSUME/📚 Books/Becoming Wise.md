@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/becoming-wise/","title":"Becoming Wise","tags":["wisdom","learning","growth","knowledge","language"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=xiIoCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8847974-L.jpg)
 # Becoming Wise
 
 ## Overview
-- **Author:** [[Krista Tippett\|Krista Tippett]]  
+- **Author:** [[01 CONSUME/👥 People/Krista Tippett\|Krista Tippett]]  
 
 ## Three-Sentence Summary
 - "Becoming Wise" is a thought-provoking exploration of the essence of wisdom, featuring insightful interviews with a variety of influential thinkers. Tippett, through her insightful interviews, invites readers to reexamine their own perceptions about life, faith, love, and hope. The book encourages readers to seek wisdom in unexpected places and to cultivate a deeper understanding of the human experience.

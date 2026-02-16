@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-commonplace-book","permalink":"/digital-commonplace-book/","title":"Building a Digital Commonplace Book","tags":["PKM","obsidian","knowledge-management","second-brain","workflow"],"created":"2024-11-01","updated":"2026-02-01"}
+{"dg-publish":true,"dg-permalink":"digital-commonplace-book","permalink":"/digital-commonplace-book/","title":"Building a Digital Commonplace Book","tags":["PKM","obsidian","knowledge-management","second-brain","workflow"]}
 ---
 
 

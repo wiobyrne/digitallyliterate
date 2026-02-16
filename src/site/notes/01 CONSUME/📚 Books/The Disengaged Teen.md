@@ -7,7 +7,7 @@
 
 
 # The Disengaged Teen
-**Author:** [[Jenny Anderson\|Jenny Anderson]] and [[Rebecca Winthrop\|Rebecca Winthrop]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Jenny Anderson\|Jenny Anderson]] and [[01 CONSUME/👥 People/Rebecca Winthrop\|Rebecca Winthrop]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Disengaged Teen" explores the challenges faced by teenagers who are disengaged from school and other activities. The book delves into the reasons behind this disengagement and offers strategies for parents and educators to help re-engage these teens. Through real-life stories and research-based insights, the authors provide a comprehensive guide on how to support disengaged teens.
 

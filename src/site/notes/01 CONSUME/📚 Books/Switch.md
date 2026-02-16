@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=QgzBqhbdlvUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/7348937-L.jpg)
 
 # Switch
 **Author:** [[Chip Heath, Dan Heath\|Chip Heath, Dan Heath]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]

@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/71AB17tvHOL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/6738842-L.jpg)
 
 
 # Democracy and Education

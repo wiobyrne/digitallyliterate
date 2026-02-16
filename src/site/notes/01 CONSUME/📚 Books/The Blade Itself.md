@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-blade-itself/","title":"The Blade Itself","tags":["fantasy","political-intrigue","moral_ambiguity"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=SlizBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/14543422-L.jpg)
 
 # The Blade Itself
 
 ## Overview
-- **Author:** [[Joe Abercrombie\|Joe Abercrombie]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Joe Abercrombie\|Joe Abercrombie]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "The Blade Itself" is a dark, gritty fantasy novel that explores themes of morality, power, and the human condition. The story follows an ensemble cast of flawed characters, each battling their own personal demons while navigating a world on the brink of war. Through this tumultuous journey, Abercrombie delves into the complexities and paradoxes of human nature, challenging the reader's preconceived notions of good and evil.
 

@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/thinking-fast-and-slow/","title":"Thinking, Fast and Slow","tags":["cognition","thinking","intuition","decision-making"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/13290711-L.jpg)
 
 # Thinking, Fast and Slow
 
 ## Overview
-- **Author:** [[Daniel Kahneman\|Daniel Kahneman]] 
+- **Author:** [[01 CONSUME/👥 People/Daniel Kahneman\|Daniel Kahneman]] 
 
 ## Three-Sentence Summary
 - "Thinking, Fast and Slow" is a groundbreaking exploration of the two systems that drive the way we think—System 1, which is fast and intuitive, and System 2, which is slow and deliberate. Kahneman, a Nobel laureate in Economics, uses decades of cognitive research to argue that while we like to think of ourselves as rational decision-makers (System 2), we often rely on our instinctive, automatic judgments (System 1), leading to biases and irrational choices. The book illuminates the profound effects these cognitive systems have on our decision-making in personal life, business decisions, policy-making and other critical areas.

@@ -3,12 +3,12 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=3ZyDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/13460752-L.jpg)
 
 # King - A Life
 
 ## Overview
-- **Author:** [[Jonathan Eig\|Jonathan Eig]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]## Three-Sentence Summary
+- **Author:** [[01 CONSUME/👥 People/Jonathan Eig\|Jonathan Eig]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]## Three-Sentence Summary
 - "King: A Life" is an in-depth biography of Martin Luther King Jr., covering his early life, rise as a civil rights leader, and eventual assassination. Author Jonathan Eig portrays King not just as a hero but as a complex individual with strengths and flaws. The book also provides a vivid depiction of the social and political climate of the times, highlighting the immense challenges that King and his followers faced.
 
 ## Extended Summary

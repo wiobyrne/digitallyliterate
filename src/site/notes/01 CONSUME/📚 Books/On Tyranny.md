@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=3z7cDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=3z7cDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 
 # On Tyranny
-**Author:** [[Timothy Snyder\|Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Timothy Snyder\|Timothy Snyder]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "On Tyranny" by Timothy Snyder explores the dangers of authoritarianism and how individuals can resist oppressive regimes. Through historical examples and insightful analysis, Snyder provides readers with practical lessons on defending democracy and preserving freedom. This book serves as a wake-up call to the threats facing societies worldwide and empowers readers to take action against tyranny.
 

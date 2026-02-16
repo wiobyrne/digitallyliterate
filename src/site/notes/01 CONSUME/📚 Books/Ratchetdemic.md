@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=vcndDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=vcndDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Ratchetdemic
 **Author:** [Christopher Emdin](https://chrisemdin.com/)

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-end-of-all-things/","title":"The End of All Things","tags":["science-fiction","space","politics","survival"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=1GU5BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8737397-L.jpg)
 # The End of All Things
 
 ## Overview
-- **Author:** [[John Scalzi\|John Scalzi]] 
+- **Author:** [[01 CONSUME/👥 People/John Scalzi\|John Scalzi]] 
 
 ## Three-Sentence Summary
 - "The End of All Things" is a thrilling science fiction novel that delves into the complexities of interstellar politics and the struggle for survival. It explores the themes of unity, diplomacy, and the value of individual freedom. The story unfolds through four interconnected novellas, each narrated by a different character but linked by a common goal - to prevent an all-out war between humanity and alien species.

@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=fDoiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=fDoiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 
 # The Promise of Access
-**Author:** [[Daniel Greene\|Daniel Greene]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Daniel Greene\|Daniel Greene]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Promise of Access" delves into the intersection of technology and access, exploring how advancements in tech can either bridge or widen the gap between individuals. The book highlights the importance of ensuring equitable access to technology for all members of society. Through real-world examples and insightful analysis, it emphasizes the potential benefits and drawbacks of technological access.
 

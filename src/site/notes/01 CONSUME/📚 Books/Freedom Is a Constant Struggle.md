@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/freedom-is-a-constant-struggle/","title":"Freedom Is a Constant Struggle","tags":["freedom","stuggle","social-justice"]}
+{"dg-publish":true,"permalink":"/01-consume/books/freedom-is-a-constant-struggle/","title":"Freedom Is a Constant Struggle","tags":["freedom","struggle","social-justice"]}
 ---
 
 
-![cover|300](https://cdn-ed.haymarketbooks.org/images/000006/567/9781608465644-f_feature_retina-a39b7463c6ac34de2b1b323a5b8ea371.jpg20220624-42-bos3fg)
+![cover|300](https://covers.openlibrary.org/b/id/8076041-L.jpg)
 
 # Freedom Is a Constant Struggle
-**Author:** [[Angela Y. Davis\|Angela Y. Davis]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Angela Y. Davis\|Angela Y. Davis]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

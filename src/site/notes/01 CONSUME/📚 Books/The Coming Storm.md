@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=o8TnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=o8TnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 
 # The Coming Storm
-**Author:** [[Gabriel Gatehouse\|Gabriel Gatehouse]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Gabriel Gatehouse\|Gabriel Gatehouse]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

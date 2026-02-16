@@ -3,11 +3,11 @@
 ---
 
 
-![cover|300](https://images3.penguinrandomhouse.com/cover/9781984877406)
+![cover|300](https://covers.openlibrary.org/b/id/14750991-L.jpg)
 
 
 # At the Edge of Empire
-**Author:** [[Edward Wong\|Edward Wong]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Edward Wong\|Edward Wong]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 tags:
 - empire

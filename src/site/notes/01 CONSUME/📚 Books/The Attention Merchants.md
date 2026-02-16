@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/books/the-attention-merchants/","title":"The Attention Merchants","created":"2025-07-26","updated":"2025-07-26"}
+{"dg-publish":true,"permalink":"/01-consume/books/the-attention-merchants/","title":"The Attention Merchants"}
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/61qpWXBxMVL._UF1000,1000_QL80_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/8868199-L.jpg)
 
 # The Attention Merchants
-**Author:** [[Tim Wu\|Tim Wu]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Tim Wu\|Tim Wu]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 
 ## Three-Sentence Summary

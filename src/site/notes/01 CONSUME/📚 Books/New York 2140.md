@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/new-york-2140/","title":"New York 2140","tags":["resilience","adaptation","ingenuity","adversity","science-fiction"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=tWCfDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8595447-L.jpg)
 # New York 2140
 
 ## Overview
-- **Author:** [[Kim Stanley Robinson\|Kim Stanley Robinson]] 
+- **Author:** [[01 CONSUME/👥 People/Kim Stanley Robinson\|Kim Stanley Robinson]] 
 
 ## Three-Sentence Summary
 - "New York 2140" is a science fiction novel that imagines a future where climate change has caused sea levels to rise, turning New York City into a "SuperVenice."

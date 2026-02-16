@@ -4,7 +4,7 @@
 
 
 
-![cover|300](http://books.google.com/books/content?id=TV05BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/11328078-L.jpg)
 
 # Between the World and Me
 

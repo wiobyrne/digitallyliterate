@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-martian/","title":"The Martian","tags":["science-fiction","problem-solving","resilience","science"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=MQeHAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/11447888-L.jpg)
 
 # The Martian
 
 ## Overview
-- **Author:** [[Andy Weir\|Andy Weir]]  <!-- Link to the author's page -->
+- **Author:** [[01 CONSUME/👥 People/Andy Weir\|Andy Weir]]  <!-- Link to the author's page -->
 - **Publisher:** Ballantine Books
 - **Published Date:** 2014-02-11
 - **Page Count:** 335

@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/71LOCV+LZdL._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/12242192-L.jpg)
 
 # Seeing Like a State
-**Author:** [[James C. Scott\|James C. Scott]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/James C. Scott\|James C. Scott]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Seeing Like a State" explores how states simplify complex societies to exert control, often leading to unintended consequences.
 - James C. Scott delves into the ways in which states impose legibility on populations, landscapes, and economies, impacting citizens and environments.

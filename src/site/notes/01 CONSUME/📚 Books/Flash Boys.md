@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/flash-boys/","title":"Flash Boys: A Wall Street Revolt","tags":["stock-market","innovation","finance"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=UcIkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8260825-L.jpg)
 
 # Flash Boys
 
 ## Overview
-- **Author:** [[Michael Lewis\|Michael Lewis]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Michael Lewis\|Michael Lewis]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Flash Boys" is an exposé on the controversial subject of high-frequency trading (HFT) in the US stock market. Michael Lewis reveals how certain Wall Street insiders manipulate the system to their advantage at the expense of ordinary investors. The book also tells the story of a group of people who challenge this system, creating a fairer, transparent exchange.
 

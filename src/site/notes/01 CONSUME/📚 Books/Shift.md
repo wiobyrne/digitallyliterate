@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/81fAGeMcSrL._AC_UF1000,1000_QL80_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/11712987-L.jpg)
 # Shift
 **Author:** [[01 CONSUME/👥 People/Hugh Howey\|Hugh Howey]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---

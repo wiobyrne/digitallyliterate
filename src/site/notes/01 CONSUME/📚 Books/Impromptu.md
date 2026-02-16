@@ -5,7 +5,7 @@
 
 ![cover|300](https://m.media-amazon.com/images/I/41LQHM-P-hL._SY445_SX342_.jpg)
 # Impromptu
-**Author:** [[Reid Hoffman\|Reid Hoffman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Reid Hoffman\|Reid Hoffman]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Impromptu" explores the intersection of technology, specifically artificial intelligence, and humanity, delving into how these advancements can amplify our human capabilities. The book challenges readers to consider the ethical implications of AI and how it can be utilized to enhance our lives rather than replace human connection. Through thought-provoking examples and discussions, "Impromptu" inspires reflection on how we can harness AI to elevate our humanity.
 

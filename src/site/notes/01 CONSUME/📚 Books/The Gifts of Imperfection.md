@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=0kPXDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=0kPXDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Gifts of Imperfection
-**Author:** [[Brené Brown\|Brené Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Brené Brown\|Brené Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 

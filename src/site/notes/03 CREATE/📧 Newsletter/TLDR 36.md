@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-36","permalink":"/tldr-36/","title":"Too Long; Didn't Read Issue 36","tags":["digital-literacy","education-technology","tltcon","pecha-kucha","walkmyworld","jane-mcgonigal","badgechain","blockchain","ai","alphago","big-data","healthcare","stephen-wolfram","amazon","oer","flickr","google-photos","fat-bombs","keto"],"created":"2016-03-11","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-36","permalink":"/tldr-36/","title":"Too Long; Didn't Read Issue 36","tags":["digital-literacy","education-technology","tltcon","pecha-kucha","walkmyworld","jane-mcgonigal","badgechain","blockchain","ai","alphago","big-data","healthcare","stephen-wolfram","amazon","oer","flickr","google-photos","fat-bombs","keto"]}
 ---
 
 # TLDR 36
@@ -139,7 +139,7 @@ Salvador Dali: Intelligence without ambition is a bird without wings. Jane McGon
 - **[[TLTcon\|TLTcon]]** — This week is Spring Break at the CofC, I had the privilege of presenting two sessions at internal ed tech conference.
 - **[[PechaKucha\|PechaKucha]]** — How to plan present and survive a Pecha Kucha presentation, my guidance if you're getting started or a veteran of the format.
 - **[[WalkMyWorld Project\|WalkMyWorld Project]]** — Hear My Home Learning Event 7, about halfway through WalkMyWorld Project 2016.
-- **[[Jane McGonigal\|Jane McGonigal]]** — SXSWedu keynote How to Think and Learn Like a Futurist, I was most excited to hear Jane's thoughts about blockchain technologies.
+- **[[01 CONSUME/👥 People/Jane McGonigal\|Jane McGonigal]]** — SXSWedu keynote How to Think and Learn Like a Futurist, I was most excited to hear Jane's thoughts about blockchain technologies.
 - **[[BadgeChain\|BadgeChain]]** — Post was shared and discussed in our BadgeChain workgroup, blockchain technologies excitement.
 - **[[Blockchain\|Blockchain]]** — Jane's thoughts about blockchain technologies most exciting part of futurist keynote.
 - **[[AlphaGo\|AlphaGo]]** — Google's AI computing system pitted against Lee Sedol in game of Go, up two games to nothing.

@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=1L-jEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/9267242-L.jpg)
 
 # Nineteen Eighty-four
 ## Author: [[01 CONSUME/👥 People/George Orwell\|George Orwell]]

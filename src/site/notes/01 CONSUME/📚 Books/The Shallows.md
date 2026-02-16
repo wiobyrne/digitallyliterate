@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/613S4a6BfYL._UF1000,1000_QL80_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/6458532-L.jpg)
 
 # The Shallows  
-**Author:** [[Nicholas Carr\|Nicholas Carr]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Nicholas Carr\|Nicholas Carr]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 "The Shallows" by Nicholas Carr explores the impact of the internet on our brains, attention spans, and cognitive abilities. Carr argues that the constant use of digital devices is rewiring our brains and altering the way we think, read, and remember. By delving into neuroscience research and historical perspectives, Carr highlights the importance of maintaining deep focus in an age of constant distractions.

@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=uHpGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=uHpGEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # The Unaccountability Machine
-**Author:** [[Dan Davies\|Dan Davies]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Dan Davies\|Dan Davies]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "The Unaccountability Machine" by Dan Davies delves into the intricacies of financial risk management and the lack of accountability within the industry. Through a critical lens, Davies explores how individuals and institutions often evade responsibility for their actions, leading to systemic issues. This book serves as a wake-up call to reevaluate current practices and strive for greater transparency and accountability in the financial sector.
 

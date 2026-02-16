@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/tribe/","title":"Tribe","tags":["society","community","war","natural-disasters","cooperation"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=KcodDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8246303-L.jpg)
 
 # Tribe
 
 ## Overview
-- **Author:** [[Sebastian Junger\|Sebastian Junger]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+- **Author:** [[01 CONSUME/👥 People/Sebastian Junger\|Sebastian Junger]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Tribe" by Sebastian Junger explores the idea that modern society has moved away from the close-knit communities that characterized our ancestors, leading to a pervasive feeling of disconnectedness and discontentment. He argues that in times of crisis, such as war or natural disasters, humans instinctively revert back to a tribal mentality where cooperation and unity are paramount. Through examining various societies and historical events, Junger asserts the importance of community and belonging for human well-being.
 

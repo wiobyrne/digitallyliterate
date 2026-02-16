@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/the-ghost-brigades/","title":"The Ghost Brigades","tags":["science-fiction","science","ethics","humanity","technology"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=0H2ujnLIb4YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/524706-L.jpg)
 
 # The Ghost Brigades
 

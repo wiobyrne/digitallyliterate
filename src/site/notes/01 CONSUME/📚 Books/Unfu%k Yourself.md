@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/unfu-k-yourself/","title":"Unfu*k Yourself: Get Out of Your Head and into Your Life","tags":["self-help","personal-responsibility","mental-health","excuses","positive-thinking"]}
 ---
 
-![cover|300](https://m.media-amazon.com/images/I/81HuYGapupL._AC_UF1000,1000_QL80_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/13194137-L.jpg)
 
 # Unfu%k Yourself
 
