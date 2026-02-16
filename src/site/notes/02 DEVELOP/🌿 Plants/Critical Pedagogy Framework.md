@@ -57,7 +57,7 @@ Education as **tool for liberation and social transformation**. Critiques tradit
 - Promote social justice through critical inquiry
 
 ## Connection to My Teaching Philosophy
-This framework directly supports my emphasis in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] on "amplifying marginalized voices," "questioning power structures," and "developing critical perspectives on educational equity and justice."
+This framework directly supports my emphasis in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] on "amplifying marginalized voices," "questioning power structures," and "developing critical perspectives on educational equity and justice."
 
 ## Critical Examination
 My analysis in [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] reveals how this framework can be misused to avoid accountability. The key is ensuring the framework serves students rather than protecting institutional/teacher interests.

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/authority/","title":"Authority","tags":["power","science-fiction","self-destruction"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=Uy9FAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10526739-L.jpg)
 # Authority
 
 ## Overview
-- **Author:** [[Jeff VanderMeer\|Jeff VanderMeer]] 
+- **Author:** [[01 CONSUME/👥 People/Jeff VanderMeer\|Jeff VanderMeer]] 
 
 ## Three-Sentence Summary
 - "Authority" is the second book in the "Southern Reach" trilogy which continues to explore the mysterious Area X, an abandoned and seemingly alien land. The story primarily revolves around John Rodriguez, known as 'Control', who is appointed as the new director of Southern Reach, a government agency investigating Area X. As he delves into the mysteries of Area X and navigates political conspiracies within Southern Reach, he comes face to face with his own insecurities and fears.

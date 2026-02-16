@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-93","permalink":"/tldr-93/","title":"Too Long; Didn't Read Issue 93","tags":["digital-literacy","education-technology","silence","edtech","student-privacy","learning-spaces","news-literacy","role-models","running"],"created":"2017-04-14","updated":"2025-12-18"}
+{"dg-publish":true,"dg-permalink":"tldr-93","permalink":"/tldr-93/","title":"Too Long; Didn't Read Issue 93","tags":["digital-literacy","education-technology","silence","edtech","student-privacy","learning-spaces","news-literacy","role-models","running"]}
 ---
 
 # TLDR 93

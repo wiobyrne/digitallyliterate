@@ -108,7 +108,7 @@ Harari's wisdom about unquestionable answers applies to technology's promises. S
 
 - [[Spotify Podcast Acquisition\|Spotify Podcast Acquisition]] — Gimlet Anchor purchases positioning Spotify as audio YouTube for user-generated podcasts risking enclosure of open podcast ecosystem in [[Platform Economics\|Platform Economics]].
 - [[Terms Conditions Nobody Reads\|Terms Conditions Nobody Reads]] — 76 working days required to read annual privacy policies makes consent legal fiction when users have no choice or negotiation power in [[Digital Rights\|Digital Rights]].
-- [[Blockchain Trust Skepticism\|Blockchain Trust Skepticism]] — [[Bruce Schneier\|Bruce Schneier]] arguing blockchain solves trust problem by requiring trust in blockchain itself offering no advantages over traditional databases for most uses in [[Cryptography\|Cryptography]].
+- [[Blockchain Trust Skepticism\|Blockchain Trust Skepticism]] — [[01 CONSUME/👥 People/Bruce Schneier\|Bruce Schneier]] arguing blockchain solves trust problem by requiring trust in blockchain itself offering no advantages over traditional databases for most uses in [[Cryptography\|Cryptography]].
 - [[Burnout Free Time\|Burnout Free Time]] — [[Matt Hartman\|Matt Hartman]] arguing political case for more free time recognizing jobs suck and we should spend less time thinking about work in [[Labor Politics\|Labor Politics]].
 - [[Children Boredom Creativity\|Children Boredom Creativity]] — [[Pamela Paul\|Pamela Paul]] arguing kids need boredom again for creativity rest and self-directed play countering optimization culture producing childhood burnout in [[Child Development\|Child Development]].
 

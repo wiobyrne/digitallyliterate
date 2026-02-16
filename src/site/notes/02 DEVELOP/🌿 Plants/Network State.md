@@ -20,7 +20,7 @@ _A visualization would show the evolution from digital community to physical set
 
 ## **Digging Deeper**
 
-The Network State concept was popularized by [[Balaji Srinivasan\|Balaji Srinivasan]] in his book "The Network State: How To Start a New Country." It represents a new approach to state formation that inverts traditional models by starting digitally rather than territorially.
+The Network State concept was popularized by [[01 CONSUME/👥 People/Balaji Srinivasan\|Balaji Srinivasan]] in his book "The Network State: How To Start a New Country." It represents a new approach to state formation that inverts traditional models by starting digitally rather than territorially.
 
 Network States begin as online communities united by shared values, culture, and purpose. They develop internal governance systems, economic structures, and social coordination mechanisms while existing primarily in the digital realm. As they grow, they may establish physical presence through community hubs, property acquisition, or even dedicated territories.
 

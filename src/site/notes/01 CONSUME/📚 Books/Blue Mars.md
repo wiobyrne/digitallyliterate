@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/blue-mars/","title":"Blue Mars","tags":["space-exploration","colonization","political","ethics","science-fiction"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=Y0-3B8x7R1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/3818726-L.jpg)
 
 # Blue Mars
 
 ## Overview
-- **Author:** [[Kim Stanley Robinson\|Kim Stanley Robinson]]  
+- **Author:** [[01 CONSUME/👥 People/Kim Stanley Robinson\|Kim Stanley Robinson]]  
 
 ## Three-Sentence Summary
 - Blue Mars is the final novel in Kim Stanley Robinson's critically acclaimed Mars Trilogy, following Red Mars and Green Mars. The narrative delves into the environmental and societal challenges faced by colonists on a terraformed Mars, combining scientific realism with human drama. Through detailed exploration of politics, economy, science and psychology, the book provides a thought-provoking perspective on the future of human colonization of other planets.

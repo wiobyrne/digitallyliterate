@@ -132,7 +132,7 @@ Internet is now a fundamental fact of modern life.
 - **[[Twitter\|Twitter]]** — Leslie Jones harassment, verification circle of trust, I immediately applied and was rejected.
 - **[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]** — George Couros conversations on positive negative neutral footprints, don't schoolify everything.
 - **[[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]** — Jasmine McNealy on publicness and expectations, problematize definitions online and face-to-face.
-- **[[Christopher Emdin\|Christopher Emdin]]** — Reality pedagogy opening space for and actively valuing students' expertise on their own lives.
+- **[[01 CONSUME/👥 People/Christopher Emdin\|Christopher Emdin]]** — Reality pedagogy opening space for and actively valuing students' expertise on their own lives.
 - **[[Screencasts\|Screencasts]]** — Education assessment research, multimodal tutorials, I think all educators should have this skillset.
 - **[[360 Video\|360 Video]]** — Immersive cameras for YouTube and classrooms, I'm currently in love with Ricoh Theta S.
 

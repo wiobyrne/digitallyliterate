@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=BxGoBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=BxGoBQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Culturally Responsive Teaching and The Brain
-**Author:** [[Zaretta Hammond\|Zaretta Hammond]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Zaretta Hammond\|Zaretta Hammond]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

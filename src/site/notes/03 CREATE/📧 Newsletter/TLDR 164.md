@@ -203,9 +203,9 @@ Seneca's observation about fear and imagination resonates profoundly with this i
 **🌱 Connected Concepts**:
 
 - [[Trust in Digital Spaces\|Trust in Digital Spaces]] — Framework examining how trust responsibility and respect operate differently across digital hybrid and physical spaces requiring vulnerability and context-appropriate engagement in [[Online Communities\|Online Communities]].
-- [[01 CONSUME/📚 Books/White Fragility\|White Fragility]] — [[Robin DiAngelo\|Robin DiAngelo]] examines defensive reactions white progressives have when racial worldviews challenged preventing examination of [[Systemic Racism\|Systemic Racism]] participation in [[Anti-Racist Education\|Anti-Racist Education]].
+- [[01 CONSUME/📚 Books/White Fragility\|White Fragility]] — [[01 CONSUME/👥 People/Robin DiAngelo\|Robin DiAngelo]] examines defensive reactions white progressives have when racial worldviews challenged preventing examination of [[Systemic Racism\|Systemic Racism]] participation in [[Anti-Racist Education\|Anti-Racist Education]].
 - [[School Shootings Trauma\|School Shootings Trauma]] — Teachers experiencing trauma from active shooter drills lockdowns and expectation to be first responders while we avoid policy solutions addressing root causes in [[Teacher Wellbeing\|Teacher Wellbeing]].
-- [[Speech Avalanche\|Speech Avalanche]] — [[Zeynep Tufekci\|Zeynep Tufekci]] argues too much undistinguished speech buries truth threatening [[Democracy\|Democracy]] more than censorship as platforms amplify falsehoods equally with truth in [[Information Overload\|Information Overload]].
+- [[Speech Avalanche\|Speech Avalanche]] — [[01 CONSUME/👥 People/Zeynep Tufekci\|Zeynep Tufekci]] argues too much undistinguished speech buries truth threatening [[Democracy\|Democracy]] more than censorship as platforms amplify falsehoods equally with truth in [[Information Overload\|Information Overload]].
 - [[Marginalia Importance\|Marginalia Importance]] — [[Austin Kleon\|Austin Kleon]] describes reading with pencil as middle ground between reader and writer where [[Annotation\|Annotation]] transforms passive consumption into active meaning-making in [[Active Learning\|Active Learning]].
 
 ---

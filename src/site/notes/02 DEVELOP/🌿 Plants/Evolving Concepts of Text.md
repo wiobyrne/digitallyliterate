@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"evolving-concepts-of-text","permalink":"/evolving-concepts-of-text/","title":"Evolving Concepts of Text","tags":["digital-literacy","multimodal-communication","text-definition","media-literacy","educational-framework","critical-thinking"],"created":"2025-07-03"}
+{"dg-publish":true,"dg-permalink":"evolving-concepts-of-text","permalink":"/evolving-concepts-of-text/","title":"Evolving Concepts of Text","tags":["digital-literacy","multimodal-communication","text-definition","media-literacy","educational-framework","critical-thinking"]}
 ---
 
 

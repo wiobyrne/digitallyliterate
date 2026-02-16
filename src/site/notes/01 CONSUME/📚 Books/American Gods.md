@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/american-gods/","title":"American Gods","tags":["beliefs","traditions","cultural-identity","immigration","spirituality"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=cLhVjQGs83QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8494659-L.jpg)
 # American Gods
 
 ## Overview

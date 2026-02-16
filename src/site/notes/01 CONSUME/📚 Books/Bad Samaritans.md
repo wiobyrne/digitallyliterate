@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/61uckHLeJ5L._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/1998234-L.jpg)
 
 # Bad Samaritans
-**Author:** [[Ha-Joon Chang\|Ha-Joon Chang]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Ha-Joon Chang\|Ha-Joon Chang]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 "Bad Samaritans" by Ha-Joon Chang delves into the complexities of economic development, globalization, and the role of governments in shaping national economies. Chang challenges conventional wisdom about free trade and market liberalization, arguing for a more nuanced approach to economic policy. Through historical examples and case studies, he demonstrates how certain policies can hinder rather than promote development in developing countries.
 

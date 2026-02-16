@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/a-higher-loyalty/","title":"A Higher Loyalty","tags":["biography","ethics","history","law-enforcement"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=4CovDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10597437-L.jpg)
 # A Higher Loyalty
 
 ## Overview
-- **Author:** [[James Comey\|James Comey]] 
+- **Author:** [[01 CONSUME/👥 People/James Comey\|James Comey]] 
 
 ## Three-Sentence Summary
 - "A Higher Loyalty" is a memoir by James Comey, the former Director of the FBI, who shares his experiences and ethical challenges faced during his career. The book provides insights into some of the most high-profile cases in recent American history, including investigations into Hillary Clinton's emails and alleged Russian interference in the 2016 election. Comey uses these experiences to explore what good, ethical leadership looks like and how it drives sound decisions.

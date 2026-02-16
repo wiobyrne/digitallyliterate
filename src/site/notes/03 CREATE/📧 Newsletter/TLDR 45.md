@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-45","permalink":"/tldr-45/","title":"Too Long; Didn't Read Issue 45","tags":["digital-literacy","education-technology","algorithms","trust","podcasts","listening","tyranny","democracy","facebook","bias","ai","teaching-assistants","jill-watson","wikipedia","volunteerism","neuroscience","synaptic-pruning","cybersecurity","capture-the-flag","oer"],"created":"2016-05-13","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-45","permalink":"/tldr-45/","title":"Too Long; Didn't Read Issue 45","tags":["digital-literacy","education-technology","algorithms","trust","podcasts","listening","tyranny","democracy","facebook","bias","ai","teaching-assistants","jill-watson","wikipedia","volunteerism","neuroscience","synaptic-pruning","cybersecurity","capture-the-flag","oer"]}
 ---
 
 # TLDR 45

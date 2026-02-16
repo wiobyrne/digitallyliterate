@@ -66,6 +66,23 @@ Norms prevent confusion better than features.
 
 ---
 
+## Metadata hygiene: photos, videos, and "view once"
+
+Disappearing messages handle text. But photos and videos carry their own residue.
+
+Most phone cameras embed **metadata** in every image — location, device model, timestamp, and more. This metadata persists even when the photo is shared, forwarded, or saved.
+
+**Signal's built-in camera strips most metadata.** Taking a photo inside Signal (rather than from your phone's camera app) reduces the digital trail attached to the image.
+
+Other tools for reducing photo metadata exposure:
+
+- **"View once" media** — send a photo or video that disappears after the recipient sees it once. This doesn't prevent screenshots, but it limits the window of exposure.
+- **Note to Self** — send photos to yourself inside Signal to store them with minimal metadata, even if you don't need to share them with anyone else.
+
+The same principle applies: not all information needs to persist, and reducing what travels with a photo is an act of care for the people in it.
+
+---
+
 ## A literacy frame
 
 Disappearing messages are a reminder that:

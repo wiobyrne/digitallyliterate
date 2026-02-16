@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=p1tBYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/10674603-L.jpg)
 
 # A New Culture of Learning
 **Author:** [[Douglas Thomas, John Seely Brown\|Douglas Thomas, John Seely Brown]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]

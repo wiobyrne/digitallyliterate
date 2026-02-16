@@ -6,7 +6,7 @@
 
 ![cover](https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668023488/abundance-9781668023488_lg.jpg)
 
-**Authors:** [[Ezra Klein\|Ezra Klein]] and [[Derek Thompson\|Derek Thompson]]
+**Authors:** [[01 CONSUME/👥 People/Ezra Klein\|Ezra Klein]] and [[Derek Thompson\|Derek Thompson]]
 
 ## Three-Sentence Summary
 - "Abundance" explores the concept of wealth and prosperity in modern society, delving into the factors that contribute to abundance and how it affects individuals and communities.

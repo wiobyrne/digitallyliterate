@@ -3,9 +3,9 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=2VDKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/14439477-L.jpg)
 # Alt-America
-**Author:** [[David Neiwert\|David Neiwert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/David Neiwert\|David Neiwert]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

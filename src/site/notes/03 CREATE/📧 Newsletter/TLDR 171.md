@@ -117,7 +117,7 @@ Change being a state of mind means maintaining self-knowledge amid pressure to c
 
 - [[Digital Mindfulness\|Digital Mindfulness]] — [[Aaron Davis\|Aaron Davis]] questions whether true mindfulness is possible in hyperconnected lives where constant connectivity may fundamentally prevent present-moment awareness in [[Digital Wellbeing\|Digital Wellbeing]].
 - [[Content Moderation Debate\|Content Moderation Debate]] — [[EFF\|EFF]] argues corporate speech police responding to online hate threatens internet's democratic promise of anonymous connection and free expression in [[Platform Governance\|Platform Governance]].
-- [[Networked Youth Activism\|Networked Youth Activism]] — [[Zeynep Tufekci\|Zeynep Tufekci]] [[Henry Jenkins\|Henry Jenkins]] examine whether social media still enables youth-led change or if platform dynamics undermine movement sustainability in [[Social Movements\|Social Movements]].
+- [[Networked Youth Activism\|Networked Youth Activism]] — [[01 CONSUME/👥 People/Zeynep Tufekci\|Zeynep Tufekci]] [[Henry Jenkins\|Henry Jenkins]] examine whether social media still enables youth-led change or if platform dynamics undermine movement sustainability in [[Social Movements\|Social Movements]].
 - [[Self-Renewal Practice\|Self-Renewal Practice]] — [[01 CONSUME/👥 People/Stephen Covey\|Stephen Covey]] sharpen-the-saw philosophy demands intentional renewal across physical spiritual mental and social domains preventing burnout in [[Personal Development\|Personal Development]].
 - [[Tsundoku Practice\|Tsundoku Practice]] — [[Nassim Taleb\|Nassim Taleb]] argues surrounding ourselves with unread books enriches lives by reminding us of all we don't know embracing not-knowing as feature in [[Epistemology\|Epistemology]].
 

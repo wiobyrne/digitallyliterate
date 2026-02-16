@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-43","permalink":"/tldr-43/","title":"Too Long; Didn't Read Issue 43","tags":["digital-literacy","education-technology","podcasts","transmedia","jaal","surveillance","trust-economy","doug-belshaw","toolsets","mindsets","skillsets","sci-hub","academic-publishing","nuclino"],"created":"2016-04-29","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-43","permalink":"/tldr-43/","title":"Too Long; Didn't Read Issue 43","tags":["digital-literacy","education-technology","podcasts","transmedia","jaal","surveillance","trust-economy","doug-belshaw","toolsets","mindsets","skillsets","sci-hub","academic-publishing","nuclino"]}
 ---
 
 # TLDR 43

@@ -223,7 +223,7 @@ Network properties build upon the concept of **distances between nodes** - the s
 
 ## Related Concepts
 
-- **[[Understanding the structure of your network\|Understanding the structure of your network]]**: Foundation for interpreting centrality measures
+- **[[02 DEVELOP/🌱 Seeds/Archive/Fragments/Understanding the structure of your network\|Understanding the structure of your network]]**: Foundation for interpreting centrality measures
 - **[[Network_visualisation_algorithms\|Network_visualisation_algorithms]]**: Technical approaches to representing centrality visually
 - **[[Social Network Analysis\|Social Network Analysis]]**: Broader methodological framework
 - **[[Graph Theory\|Graph Theory]]**: Mathematical foundation for centrality concepts

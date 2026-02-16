@@ -86,7 +86,7 @@ Whitman's self-discovery resonates with returning after absence finding yourself
 **🌱 Connected Concepts**:
 
 - [[Media Literacy Curriculum\|Media Literacy Curriculum]] — Schools adding computer science but ignoring critical need teaching students consume disseminate online information requiring advocacy for systemic changes in [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]].
-- [[Screentime Critique\|Screentime Critique]] — [[Anya Kamenetz\|Anya Kamenetz]] dissecting NYT panic narratives exposing privilege-driven consensus lacking evidence revealing class dynamics driving moral panic in [[Media Effects\|Media Effects]].
+- [[Screentime Critique\|Screentime Critique]] — [[01 CONSUME/👥 People/Anya Kamenetz\|Anya Kamenetz]] dissecting NYT panic narratives exposing privilege-driven consensus lacking evidence revealing class dynamics driving moral panic in [[Media Effects\|Media Effects]].
 - [[White Privilege Understanding\|White Privilege Understanding]] — Concept fallen victim to own connotations where terminology creates discomfort and sounds foreign to struggling people complicating necessary conversations in [[02 DEVELOP/🌱 Seeds/Anti-Racism\|Anti-Racism]].
 - [[Drawing for Learning\|Drawing for Learning]] — Research showing visual engagement provides multiple cognitive pathways enhancing retention better than passive methods revealing untapped learning modalities in [[Cognitive Science\|Cognitive Science]].
 - [[Voice Communication Evolution\|Voice Communication Evolution]] — Short voice clips emerging between asynchronous text and synchronous calls signaling new communication mode adapting to different contexts in [[Digital Communication\|Digital Communication]].

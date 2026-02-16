@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-38","permalink":"/tldr-38/","title":"Too Long; Didn't Read Issue 38","tags":["digital-literacy","education-technology","blockchain","badges","badgechain","walkmyworld","pop-culture","philosophy","pedagogy","amy-burvall","best-practices","clmooc","remix","research","digital-portfolios","xkcd","randall-munroe","google-nik","snapseed"],"created":"2016-03-25","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-38","permalink":"/tldr-38/","title":"Too Long; Didn't Read Issue 38","tags":["digital-literacy","education-technology","blockchain","badges","badgechain","walkmyworld","pop-culture","philosophy","pedagogy","amy-burvall","best-practices","clmooc","remix","research","digital-portfolios","xkcd","randall-munroe","google-nik","snapseed"]}
 ---
 
 # TLDR 38

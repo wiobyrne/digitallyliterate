@@ -128,7 +128,7 @@ Purdue's metaphor captures critical inquiry's essential discomfort. Turning over
 
 **🌱 Connected Concepts**:
 
-- [[Zeynep Audit Trails\|Zeynep Audit Trails]] — [[Zeynep Tufekci\|Zeynep Tufekci]] arguing online information needs revision trails for accountability while warning surveillance mechanisms often built into such systems in [[Digital Accountability\|Digital Accountability]].
+- [[Zeynep Audit Trails\|Zeynep Audit Trails]] — [[01 CONSUME/👥 People/Zeynep Tufekci\|Zeynep Tufekci]] arguing online information needs revision trails for accountability while warning surveillance mechanisms often built into such systems in [[Digital Accountability\|Digital Accountability]].
 - [[Google Disinformation Strategy\|Google Disinformation Strategy]] — White paper presenting three-pronged approach through quality malicious actor counteraction and user context requiring ongoing transparency in implementation in [[Platform Governance\|Platform Governance]].
 - [[Privacy Security Theater\|Privacy Security Theater]] — [[Zack Whittaker\|Zack Whittaker]] critiquing "we take it seriously" as deflect-defend-deny formula demanding actual transparency and concrete accountability from companies in [[Corporate Accountability\|Corporate Accountability]].
 - [[Neuroplasticity Teaching\|Neuroplasticity Teaching]] — Research showing teachers literally change brain wiring through proliferation pruning and consolidation elevating teaching from transmission to brain architecture in [[Learning Science\|Learning Science]].

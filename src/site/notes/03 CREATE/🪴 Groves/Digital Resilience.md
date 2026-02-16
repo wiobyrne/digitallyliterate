@@ -80,6 +80,42 @@ It's about **staying strong in a digital world, together**.
 
 ---
 
+## Broader Landscape
+
+Concepts that connect to digital resilience across the vault.
+
+### Foundations
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — The overarching literacy model
+- [[Digital Agency\|Digital Agency]] / [[Digital Autonomy\|Digital Autonomy]] — Making real choices in digital spaces
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] — The civic dimension
+- [[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]] / [[02 DEVELOP/🌿 Plants/Digital Footprint\|Digital Footprint]] — What you leave behind online
+- [[Cyber Hygiene\|Cyber Hygiene]] — Baseline habits for staying safe
+- [[Digital Wellbeing\|Digital Wellbeing]] — The health dimension
+
+### Psychology and Attention
+- [[Attention Economy\|Attention Economy]] — The system designed to capture your focus
+- [[Information Overload\|Information Overload]] — Too much signal, not enough filter
+- [[Digital Boundaries\|Digital Boundaries]] / [[01 CONSUME/📚 Books/Digital Minimalism\|Digital Minimalism]] — Setting limits
+- [[Fear of Missing Out (FOMO)\|Fear of Missing Out (FOMO)]] — The anxiety that keeps you scrolling
+- [[Mental Health and Tech Use\|Mental Health and Tech Use]] — What the research actually shows
+- [[Platform Design and Manipulation\|Platform Design and Manipulation]] / [[Addiction by Design\|Addiction by Design]] — How apps exploit psychology
+
+### Misinformation
+- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] — The core skill for navigating information ecosystems
+- [[Misinformation vs Disinformation\|Misinformation vs Disinformation]] — Knowing the difference matters
+- [[Echo Chambers and Filter Bubbles\|Echo Chambers and Filter Bubbles]] — How algorithms narrow worldview
+- [[Deepfakes and Synthetic Media\|Deepfakes and Synthetic Media]] / [[AI-Generated Misinformation\|AI-Generated Misinformation]] — The new frontier
+- [[Trust in Information Ecosystems\|Trust in Information Ecosystems]] — Rebuilding trust at scale
+
+### Practical Tools
+- [[Password Managers\|Password Managers]] / [[Two-Factor Authentication (2FA)\|Two-Factor Authentication (2FA)]] — Minimum viable security
+- [[VPNs and Secure Browsing\|VPNs and Secure Browsing]] / [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]] — Protecting data in transit
+- [[Secure Communication Tools\|Secure Communication Tools]] / [[Open Source Alternatives\|Open Source Alternatives]] — Privacy-first choices
+- [[Digital Threat Modeling\|Digital Threat Modeling]] / [[Digital Self-Defense\|Digital Self-Defense]] — Knowing what to protect
+- [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] — The specific threat to educators
+
+---
+
 ## Related
 
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework
@@ -88,6 +124,8 @@ It's about **staying strong in a digital world, together**.
 - [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — Shared norms that protect people together
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — How to teach these concepts
 - [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Tools to build your resilience toolkit
+- [[03 CREATE/🪴 Groves/Internet Culture\|Internet Culture]] — Understanding the terrain resilience operates in
+- [[03 CREATE/🪴 Groves/Emotional Intelligence\|Emotional Intelligence]] — The human capacity that sustains digital practices
 
 ---
 

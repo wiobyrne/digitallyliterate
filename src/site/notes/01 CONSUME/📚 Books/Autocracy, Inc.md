@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/91mmEMWo40L._SL1500_.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/14819765-L.jpg)
 
 # Autocracy, Inc
-**Author:** [[Anne Applebaum\|Anne Applebaum]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Anne Applebaum\|Anne Applebaum]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 
 ## Three-Sentence Summary
 - "Autocracy, Inc." by Anne Applebaum delves into the mechanisms and structures that uphold authoritarian regimes around the world.

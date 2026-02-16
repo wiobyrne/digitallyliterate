@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"self-hosting-sovereignty","permalink":"/self-hosting-sovereignty/","title":"Self-Hosting for Digital Sovereignty","tags":["self-hosting","homelab","sovereignty","privacy","infrastructure"],"created":"2026-01-31","updated":"2026-02-01"}
+{"dg-publish":true,"dg-permalink":"self-hosting-sovereignty","permalink":"/self-hosting-sovereignty/","title":"Self-Hosting for Digital Sovereignty","tags":["self-hosting","homelab","sovereignty","privacy","infrastructure"]}
 ---
 
 

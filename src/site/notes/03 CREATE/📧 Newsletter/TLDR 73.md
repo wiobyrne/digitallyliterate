@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-73","permalink":"/tldr-73/","title":"Too Long; Didn't Read Issue 73","tags":["digital-literacy","education-technology","fake-news","critical-evaluation","online-harassment","privacy","investigatory-powers-bill","minecraft","ok-go"],"created":"2016-11-25","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-73","permalink":"/tldr-73/","title":"Too Long; Didn't Read Issue 73","tags":["digital-literacy","education-technology","fake-news","critical-evaluation","online-harassment","privacy","investigatory-powers-bill","minecraft","ok-go"]}
 ---
 
 # TLDR 73

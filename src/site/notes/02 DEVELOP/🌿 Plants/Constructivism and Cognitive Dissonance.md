@@ -42,7 +42,7 @@ The [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Meth
 - Frame discomfort as normal part of learning process
 
 ## Links to My Teaching Practice
-This theoretical foundation directly supports my approach in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] where I emphasize that learning involves "acquisition and construction of knowledge" through active engagement. The framework validates my use of questioning and challenging techniques.
+This theoretical foundation directly supports my approach in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] where I emphasize that learning involves "acquisition and construction of knowledge" through active engagement. The framework validates my use of questioning and challenging techniques.
 
 ## Connections to Existing Work
 - Complements [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] by providing theoretical foundation for why discomfort doesn't equal harm

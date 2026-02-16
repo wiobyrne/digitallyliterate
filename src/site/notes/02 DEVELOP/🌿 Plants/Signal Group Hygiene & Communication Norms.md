@@ -59,7 +59,27 @@ Letting information decay is often an act of care, not secrecy.
 
 ---
 
-## 4. Onboard intentionally
+## 4. Use admin controls intentionally
+
+Signal gives group admins tools that map directly to trust architecture:
+
+- **Require admin approval** for new members — anyone invited or using the link waits until an admin lets them in. Essential for small and medium groups where you want to know everyone present.
+- **Announcement-only mode** — only admins can post; everyone else reads. Useful for large or semi-public groups where you want to broadcast information without open discussion.
+- **Periodic member list audits** — check who's in the group regularly. For small to medium chats, verify you know everyone. For large chats, treat the space as semi-public and adjust what gets shared accordingly.
+
+### Vetting new members
+
+Not every group needs formal vetting. But when trust matters:
+
+- **In person** is simplest — exchange Signal usernames face-to-face
+- **Multi-member vouching** — require that two or more existing members confirm a new person before admitting them
+- **Explain the space** — before or right after joining, tell new members what the group is for and what the norms are
+
+The goal isn't gatekeeping. It's making sure everyone understands the context they're entering.
+
+---
+
+## 5. Onboard intentionally
 
 When someone joins a group, explain:
 
@@ -72,7 +92,7 @@ Security culture is learned socially, not configured technically.
 
 ---
 
-## 5. Reduce alert fatigue
+## 6. Reduce alert fatigue
 
 When everything feels urgent, nothing is.
 
@@ -89,7 +109,7 @@ Clear, relevant information helps groups make better decisions.
 
 ---
 
-## 6. Treat communication as care
+## 7. Treat communication as care
 
 Before sharing, pause:
 

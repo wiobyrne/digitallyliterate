@@ -3,9 +3,9 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=Z60sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/12408002-L.jpg)
 # Anthem
-**Author:** [[Noah Hawley\|Noah Hawley]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Noah Hawley\|Noah Hawley]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

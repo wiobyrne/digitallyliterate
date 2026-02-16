@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/01-consume/books/artemis/","title":"Artemis","tags":["gender","survival","society","science-fiction"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=o6leDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8235551-L.jpg)
 
 # Artemis
 
 ## Overview
-- **Author:** [[Andy Weir\|Andy Weir]]  
+- **Author:** [[01 CONSUME/👥 People/Andy Weir\|Andy Weir]]  
 
 ## Three-Sentence Summary
 - Artemis is a thrilling science fiction novel set on the moon in the city of Artemis, where protagonist Jazz Bashara, a smuggler, gets tangled in a dangerous plot involving powerful entities. The book focuses on themes including survival, resourcefulness, and the socio-economic dynamics of a lunar society. It also explores technical aspects of space living with meticulous scientific detail.

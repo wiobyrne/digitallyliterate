@@ -129,7 +129,7 @@ The cat's-eye Street View from Hiroshima is delightful absurdity—tourism offic
 - **[[Tech Independence\|Tech Independence]]** — Dan Gilmour leaving big tech, need for alternative models.
 - **[[Little Free Libraries\|Little Free Libraries]]** — Municipal permit battles against "give one, take one" book exchanges.
 - **[[Visual Thinking\|Visual Thinking]]** — Anna Vital on visual analogies, sketchnoting experiments.
-- **[[Jane McGonigal\|Jane McGonigal]]** — SuperBetter gamification for resilience and life challenges.
+- **[[01 CONSUME/👥 People/Jane McGonigal\|Jane McGonigal]]** — SuperBetter gamification for resilience and life challenges.
 - **[[Google Street View\|Google Street View]]** — Cat's-eye Hiroshima map, documenting your world.
 - **[[Star Wars Creative Tools\|Star Wars Creative Tools]]** — Crawl creator, Shakespeare sonnets, YodaSpeak generator.
 - **[[IT&DML Program\|IT&DML Program]]** — UNH program helping practicing teachers with authentic tech use.

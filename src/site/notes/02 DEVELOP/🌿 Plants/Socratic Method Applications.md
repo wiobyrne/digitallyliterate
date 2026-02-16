@@ -89,7 +89,7 @@
 - **Peer-to-peer challenging** of ideas
 
 ## Connection to My Teaching Philosophy
-This method directly supports my emphasis in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] on "inquiry-based engagement" and helping students develop "questions that drive their learning journey." The approach aligns with my constructivist foundations.
+This method directly supports my emphasis in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] on "inquiry-based engagement" and helping students develop "questions that drive their learning journey." The approach aligns with my constructivist foundations.
 
 ## Relationship to Digital Literacies
 In my work with digital literacies, Socratic questioning helps students examine their assumptions about technology, information sources, and digital citizenship rather than accepting surface-level digital skills.

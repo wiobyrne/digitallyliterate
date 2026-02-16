@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=obAHf43THvQC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=obAHf43THvQC&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Ancillary Justice
 **Author:** Ann Leckie

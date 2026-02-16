@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/index-vs-mo-cs/","title":"Index vs MOCs","tags":["knowledge-management","obsidian","navigation","indexes","mocs","vault-organization"],"created":"2025-07-16"}
+{"dg-publish":true,"permalink":"/02-develop/plants/index-vs-mo-cs/","title":"Index vs MOCs","tags":["knowledge-management","obsidian","navigation","indexes","mocs","vault-organization"]}
 ---
 
 
@@ -189,9 +189,9 @@ User asks: \"How do I learn about Y?\" → MOC
 - [[🗺️ MOC Template\|🗺️ MOC Template]] - Template for MOC creation with all required elements
 
 ### Current Examples
-- [[02 DEVELOP/🗂️ MOCs/Digital Resilience MOC\|Digital Resilience MOC]] - Exemplar MOC with learning progressions and thematic organization
-- [[02 DEVELOP/🗂️ MOCs/Privacy and Security MOC\|Privacy and Security MOC]] - Tool-focused content demonstrating Index-like characteristics
-- [[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]] - Hybrid approach with both reference and thematic elements
+- [[04 META/🗄️ Archive/MOCs Migration/Digital Resilience MOC\|Digital Resilience MOC]] - Exemplar MOC with learning progressions and thematic organization
+- [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]] - Tool-focused content demonstrating Index-like characteristics
+- [[04 META/🗄️ Archive/MOCs Migration/AI and Machine Learning MOC\|AI and Machine Learning MOC]] - Hybrid approach with both reference and thematic elements
 
 ### System Integration
 - [[04 META/📋 Guides/Vault - Directory Style Guide Overview\|Vault - Directory Style Guide Overview]] - Master framework for vault organization

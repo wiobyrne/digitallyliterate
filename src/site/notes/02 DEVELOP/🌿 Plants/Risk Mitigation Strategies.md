@@ -118,7 +118,7 @@
 - Teacher anxiety about student reactions
 
 ## Connection to My Teaching Philosophy
-These strategies reflect my commitment in [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] to "student safety and empowerment" while maintaining "academic rigor." They operationalize my value of "quality over quantity" by ensuring techniques serve learning rather than performance.
+These strategies reflect my commitment in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] to "student safety and empowerment" while maintaining "academic rigor." They operationalize my value of "quality over quantity" by ensuring techniques serve learning rather than performance.
 
 ## Critical Pedagogy Considerations
 Must implement with awareness of [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - ensuring risk mitigation serves students rather than protecting institutional interests or teacher ego.

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/annihilation/","title":"Annihilation","tags":["nature","science-fiction","self","conciousness","aliens","ecosystems"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=qUo0AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8408974-L.jpg)
 # Annihilation
 
 ## Overview
-- **Author:** [[Jeff VanderMeer\|Jeff VanderMeer]] 
+- **Author:** [[01 CONSUME/👥 People/Jeff VanderMeer\|Jeff VanderMeer]] 
 
 ## Three-Sentence Summary
 - "Annihilation" is a science fiction novel that explores the themes of nature, selfhood, and the unknown. The narrative follows an all-woman team of scientists venturing into a mysterious zone known as Area X, which is not governed by normal laws of nature and has claimed past exploration teams. Through their journey, the team members grapple with personal histories, the meaning of consciousness, and the horrifyingly beautiful alien ecosystem that surrounds them.

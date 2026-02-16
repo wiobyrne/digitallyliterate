@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/participant-researcher/","title":"Participant Researcher: Navigating Embedded Observation and Collaborative Inquiry","tags":["research-methodology","participant-observation","qualitative-research","educational-research","observer-effect","collaborative-inquiry","data-collection","video-ethnography","reflexive-research"],"created":"2025-07-01"}
+{"dg-publish":true,"permalink":"/02-develop/plants/participant-researcher/","title":"Participant Researcher: Navigating Embedded Observation and Collaborative Inquiry","tags":["research-methodology","participant-observation","qualitative-research","educational-research","observer-effect","collaborative-inquiry","data-collection","video-ethnography","reflexive-research"]}
 ---
 
 

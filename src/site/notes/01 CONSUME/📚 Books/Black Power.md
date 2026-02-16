@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](https://m.media-amazon.com/images/I/51g7NvSvQyL.jpg)
+![cover|300](https://covers.openlibrary.org/b/id/14885444-L.jpg)
 
 # Black Power
-**Author:** [[Charles V. Hamilton, Kwame Ture\|Charles V. Hamilton, Kwame Ture]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Charles V. Hamilton\|Charles V. Hamilton]], [[01 CONSUME/👥 People/Kwame Ture\|Kwame Ture]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ---
 
 ## Three-Sentence Summary

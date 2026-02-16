@@ -62,16 +62,50 @@ These habits often matter more than any advanced setting.
 
 ---
 
-## Optional Advanced Settings
+## Privacy Settings Reference
 
-If you want additional protection:
+Signal's defaults are already better than most apps. These settings take it further.
 
-- Sealed sender
-- Relay calls
-- Incognito keyboard
-- Phone number privacy / usernames
+### Essential (do these first)
+
+| Setting | Where to Find It | What It Does |
+|---------|------------------|--------------|
+| Registration Lock | Settings → Account | Prevents someone from hijacking your account by re-registering your number |
+| Screen Lock | Settings → Privacy | Requires biometrics/PIN to open Signal after you leave the app |
+| Phone number → "nobody" | Settings → Privacy → Phone Number | Hides your number from other users and prevents discovery by number |
+| Default disappearing messages | Settings → Privacy → Disappearing Messages | New chats auto-delete after your chosen time (e.g., 1 week) |
+
+### Recommended
+
+| Setting | Where to Find It | What It Does |
+|---------|------------------|--------------|
+| Screen security (Android) / Hide in app switcher (iOS) | Settings → Privacy | Blocks screenshots inside the app (Android); hides preview in app switcher (iOS) |
+| Incognito keyboard (Android) | Settings → Privacy | Prevents your keyboard app from logging what you type in Signal |
+| Always relay calls | Settings → Privacy → Advanced | Routes calls through Signal servers so the other person never sees your IP address |
+| Username | Settings → Profile | Lets people contact you without knowing your phone number |
+
+### Situational
+
+| Setting | Where to Find It | What It Does |
+|---------|------------------|--------------|
+| App icon disguise | Settings → Appearance → App icon | Changes Signal's icon to look like a generic app (Android also changes the name) |
+| Safety number verification | Tap contact's profile → View safety number | Confirms no one is intercepting your conversation; verify in person via QR scan or over video call |
+| Note to self | Conversations → "Note to Self" | A private channel for saving photos/files with minimal metadata |
 
 These features reduce digital "breadcrumbs," but they are secondary to communication discipline.
+
+---
+
+## What Signal Can't Protect Against
+
+Encryption protects messages in transit. It does not protect the device they live on.
+
+- A lost or confiscated phone exposes all messages still on it (use disappearing messages and screen lock)
+- A malicious QR code can link an attacker's device to your account (only scan linked-device QR codes you initiated yourself)
+- Screenshots taken by other people in a chat can't be prevented by your settings
+- Someone with physical access to an unlocked phone has access to everything on it
+
+These risks are social and physical, not cryptographic. That's why [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] matters alongside good tools.
 
 ---
 

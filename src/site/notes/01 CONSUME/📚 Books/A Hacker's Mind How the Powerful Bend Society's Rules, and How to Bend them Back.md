@@ -3,7 +3,7 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=THdwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=THdwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # A Hacker's Mind: How the Powerful Bend Society's Rules, and How to Bend them Back
 **Author:** Bruce Schneier

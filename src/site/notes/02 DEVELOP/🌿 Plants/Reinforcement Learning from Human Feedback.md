@@ -34,4 +34,4 @@ Reinforcement Learning from Human Feedback involves training algorithms by provi
 - [[Human-in-the-loop Machine Learning\|Human-in-the-loop Machine Learning]]
 
 
-[[02 DEVELOP/🗂️ MOCs/AI and Machine Learning MOC\|AI and Machine Learning MOC]]
+[[04 META/🗄️ Archive/MOCs Migration/AI and Machine Learning MOC\|AI and Machine Learning MOC]]

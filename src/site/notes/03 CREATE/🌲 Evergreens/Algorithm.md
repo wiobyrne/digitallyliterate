@@ -37,7 +37,7 @@ In computing and mathematics, an algorithm is like a recipe that precisely defin
 ## **Related Terms**  
 - [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]]
 - [[02 DEVELOP/Notes/Artificial Intelligence\|02 DEVELOP/Notes/Artificial Intelligence]]
-- [[Data Analysis\|Data Analysis]]
+- [[04 META/🗄️ Archive/Google Keep/Data analysis\|Data Analysis]]
 - [[Coding\|Coding]]
 - [[Computational Thinking\|Computational Thinking]]
 - [[02 DEVELOP/🌿 Plants/Algorithm Types\|Algorithm Types]]

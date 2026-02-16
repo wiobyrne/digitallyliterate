@@ -121,7 +121,7 @@ I cooked up some [pulled BBQ chicken](http://natashaskitchen.com/2015/08/11/slow
 
 - **[[01 CONSUME/👥 People/Casey Neistat\|Casey Neistat]]** — Do what you can't motivating advice for bloggers and content creators, if you've been thinking about starting that business or blogging do it.
 - **[[WikiLeaks CIA Cache\|WikiLeaks CIA Cache]]** — Vault 7 dump said to include CIA hacking tools enormous questions about motivations, I did not immediately jump into fray waiting for thoughtful examination Zeynep Tufekci is just what I needed.
-- **[[Zeynep Tufekci\|Zeynep Tufekci]]** — Indicates we are still safe using Signal and WhatsApp as they connect between devices, continues line of questioning about WikiLeaks and their motivations.
+- **[[01 CONSUME/👥 People/Zeynep Tufekci\|Zeynep Tufekci]]** — Indicates we are still safe using Signal and WhatsApp as they connect between devices, continues line of questioning about WikiLeaks and their motivations.
 - **[[Big Data Democracy\|Big Data Democracy]]** — George Monbiot Guardian ramifications of big data and ubiquity of technology, groups behind initiatives often hidden from view may represent big money shadow institutions either we own political technologies or they will own us.
 - **[[George Monbiot\|George Monbiot]]** — Great potential of big data big analysis online forums will be used by us or against us, we must move fast to beat the billionaires before they seize digital commons.
 - **[[Blockchain Technology\|Blockchain Technology]]** — Vinay Gupta Harvard Business Review promise is world without middlemen, I think the real power is to make sure we don't have one centralized locus of power one individual group or country cannot change truth in online spaces.

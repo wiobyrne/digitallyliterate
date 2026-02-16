@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-48","permalink":"/tldr-48/","title":"Too Long; Didn't Read Issue 48","tags":["digital-literacy","education-technology","understanding-the-web","margaret-atwood","storytelling","mary-meeker","internet-trends","submarine-cables","infrastructure","nsa","privacy","coding-camps","mimi-ito","podcasts"],"created":"2016-06-03","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-48","permalink":"/tldr-48/","title":"Too Long; Didn't Read Issue 48","tags":["digital-literacy","education-technology","understanding-the-web","margaret-atwood","storytelling","mary-meeker","internet-trends","submarine-cables","infrastructure","nsa","privacy","coding-camps","mimi-ito","podcasts"]}
 ---
 
 # TLDR 48
@@ -125,7 +125,7 @@ Nothing in life is to be feared, it is only to be understood. Now is the time to
 **🌱 Connected Concepts**:
 
 - **[[Podcasts\|Podcasts]]** — Four Questions For podcast iterating with experts in literacy education and technology.
-- **[[Margaret Atwood\|Margaret Atwood]]** — Technology shapes storytelling, how digital texts and tools shape story.
+- **[[01 CONSUME/👥 People/Margaret Atwood\|Margaret Atwood]]** — Technology shapes storytelling, how digital texts and tools shape story.
 - **[[Internet Trends\|Internet Trends]]** — Mary Meeker 213 slide deck, growth slowing but giants building shares.
 - **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** — Print to pixel shifts in economy reading online and coding as writing.
 - **[[Internet Infrastructure\|Internet Infrastructure]]** — Submarine cables detailed tour from New Jersey to Britain shores, quite amazing.

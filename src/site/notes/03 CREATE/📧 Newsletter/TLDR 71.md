@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-71","permalink":"/tldr-71/","title":"Too Long; Didn't Read Issue 71","tags":["digital-literacy","education-technology","us-election","polarization","filter-bubble","listening","resilience","educate-empower-advocate","cross-cultural-dialogue"],"created":"2016-11-12","updated":"2025-12-17"}
+{"dg-publish":true,"dg-permalink":"tldr-71","permalink":"/tldr-71/","title":"Too Long; Didn't Read Issue 71","tags":["digital-literacy","education-technology","us-election","polarization","filter-bubble","listening","resilience","educate-empower-advocate","cross-cultural-dialogue"]}
 ---
 
 # TLDR 71

@@ -132,7 +132,7 @@ Be the person your dog thinks you are.
 - **[[E-books\|E-books]]** — What I find most intriguing college graduates four times as likely to read ebooks versus non-graduates.
 - **[[Facebook Privacy\|Facebook Privacy]]** — Psychiatrist patients friend suggestions, this is not good, gigantic HIPAA FERPA privacy violation.
 - **[[Algorithms\|Algorithms]]** — Cathy O'Neil on ruling working lives, 72% of CVs never seen by human eyes, may be punishing poor.
-- **[[Cathy O'Neil\|Cathy O'Neil]]** — MathBabe subscribed after reading, employers using math to weed applications automatically.
+- **[[01 CONSUME/👥 People/Cathy O'Neil\|Cathy O'Neil]]** — MathBabe subscribed after reading, employers using math to weed applications automatically.
 - **[[I Wish My Teacher Knew\|I Wish My Teacher Knew]]** — Heartbreaking and uplifting collection, good reality check for each of us.
 - **[[Google for Education\|Google for Education]]** — Certified Trainer program, I may join you in the process, curriculum and requirements.
 

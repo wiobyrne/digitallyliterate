@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/armada/","title":"Armada","tags":["virtual-reality","aliens","coming-of-age"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=3k-wBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/7421644-L.jpg)
 
 # Armada
 

@@ -80,7 +80,7 @@ Kubrick recognized screens' unique emotional power. Technopanic misses that scre
 
 **🌱 Connected Concepts**:
 
-- [[Screentime Technopanic\|Screentime Technopanic]] — [[Nellie Bowles\|Nellie Bowles]] trilogy reveals moral panic around screens driven by privileged fear while [[Anya Kamenetz\|Anya Kamenetz]] offers measured alternative in [[Media Effects Research\|Media Effects Research]].
+- [[Screentime Technopanic\|Screentime Technopanic]] — [[Nellie Bowles\|Nellie Bowles]] trilogy reveals moral panic around screens driven by privileged fear while [[01 CONSUME/👥 People/Anya Kamenetz\|Anya Kamenetz]] offers measured alternative in [[Media Effects Research\|Media Effects Research]].
 - [[Digital Divide Class Reversal\|Digital Divide Class Reversal]] — Rich banning screens from schools while poor districts embrace technology creates new inequality where digital access becomes disadvantage for privileged in [[Educational Equity\|Educational Equity]].
 - [[Silicon Valley Hypocrisy\|Silicon Valley Hypocrisy]] — Tech creators profiting from engagement optimization ban screens for own children revealing they understand addictive design they inflict on others in [[Tech Ethics\|Tech Ethics]].
 - [[Nanny Surveillance\|Nanny Surveillance]] — Contracts forbidding screens while demanding constant phone availability expose class-based double standards and surveillance hypocrisy in [[Domestic Labor\|Domestic Labor]].

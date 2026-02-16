@@ -183,6 +183,31 @@ Together, these notes show how tool design and communication norms work best whe
 
 ---
 
+## Legal and Policy Frameworks
+
+Privacy by design doesn't exist in a vacuum — it responds to (and sometimes outpaces) legal frameworks.
+
+- [[GDPR (General Data Protection Regulation)\|GDPR (General Data Protection Regulation)]] — The EU standard that made privacy-by-design a legal requirement
+- [[CCPA (California Consumer Privacy Act)\|CCPA (California Consumer Privacy Act)]] — U.S. state-level data protection
+- [[Data Sovereignty\|Data Sovereignty]] — Jurisdiction and control over where data lives
+- [[Digital Rights Advocacy\|Digital Rights Advocacy]] — The movement pushing for structural change
+- [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]] — The economic model privacy by design resists
+
+---
+
+## Privacy-Preserving Technologies
+
+The technical frontier — ways to use data without exposing it.
+
+- [[Federated Learning\|Federated Learning]] — Training AI without centralizing data
+- [[Differential Privacy\|Differential Privacy]] — Mathematical guarantees for individual protection
+- [[Homomorphic Encryption\|Homomorphic Encryption]] — Computing on encrypted data
+- [[Secure Multi-Party Computation\|Secure Multi-Party Computation]] — Multiple parties collaborating without revealing their inputs
+- [[Decentralized Identity\|Decentralized Identity]] — Identity you control, not a platform
+- [[Zero Trust Architecture\|Zero Trust Architecture]] — Trust nothing by default, verify everything
+
+---
+
 ## Related
 
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent Grove
@@ -190,6 +215,7 @@ Together, these notes show how tool design and communication norms work best whe
 - [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Skills for staying safe online
 - [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — Shared norms that protect people, not just data
 - [[02 DEVELOP/🌿 Plants/Self-Hosting for Digital Sovereignty\|Self-Hosting for Digital Sovereignty]] — Taking control of your infrastructure
+- [[02 DEVELOP/🌱 Seeds/Signal and the Law\|Signal and the Law]] — Legal framing for encrypted communication
 
 ---
 

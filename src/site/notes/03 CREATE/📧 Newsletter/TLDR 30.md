@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-30","permalink":"/tldr-30/","title":"Too Long; Didn't Read Issue 30","tags":["digital-literacy","education-technology","walkmyworld","podcasting","evernote","marvin-minsky","artificial-intelligence","moxie","teacher-pay","twitter","side-projects","humor","makerspaces","amber","link-archiving"],"created":"2016-01-29","updated":"2025-12-16"}
+{"dg-publish":true,"dg-permalink":"tldr-30","permalink":"/tldr-30/","title":"Too Long; Didn't Read Issue 30","tags":["digital-literacy","education-technology","walkmyworld","podcasting","evernote","marvin-minsky","artificial-intelligence","moxie","teacher-pay","twitter","side-projects","humor","makerspaces","amber","link-archiving"]}
 ---
 
 # TLDR 30
@@ -156,7 +156,7 @@ Marvin Minsky: But there's a big difference between "impossible" and "hard to im
 - **[[Evernote\|Evernote]]** — My online multimodal notebook, colleague asked how members organize materials as we research.
 - **[[Podcasting\|Podcasting]]** — First real podcast for WalkMyWorld, trying to learn this is the messy part.
 - **[[Soundtrack of My Life\|Soundtrack of My Life]]** — Each week I'll add a track, learning through making.
-- **[[Marvin Minsky\|Marvin Minsky]]** — Passed away this week age 88, pioneer in artificial intelligence and philosopher.
+- **[[01 CONSUME/👥 People/Marvin Minsky\|Marvin Minsky]]** — Passed away this week age 88, pioneer in artificial intelligence and philosopher.
 - **[[Ray Kurzweil\|Ray Kurzweil]]** — Interviews Minsky about brain cognition construction of artificial intelligence.
 - **[[Singularity\|Singularity]]** — Is it near? Thoroughly recommend spending half hour with Marvin.
 - **[[Moxie\|Moxie]]** — Jennifer Goldberg on positivity purpose and volition students need to build/possess.
@@ -169,7 +169,7 @@ Marvin Minsky: But there's a big difference between "impossible" and "hard to im
 - **[[Scientific Theory of Humor\|Scientific Theory of Humor]]** — I view humor as a tool in my own life, for now I'll stick to my self-deprecating style and hope to not put my foot in my own mouth.
 - **[[Maker Education Resources\|Maker Education Resources]]** — I recently spent some time with local library system trying to get them to consider installing small maker lab.
 - **[[Amber\|Amber]]** — Link archiving tool, this happened to me in class this week students tried to click on some links I left behind, brilliant.
-- **[[Marvin Minsky\|Marvin Minsky]]** — Big difference between impossible and hard to imagine, first is about it second is about you.
+- **[[01 CONSUME/👥 People/Marvin Minsky\|Marvin Minsky]]** — Big difference between impossible and hard to imagine, first is about it second is about you.
 
 ---
 

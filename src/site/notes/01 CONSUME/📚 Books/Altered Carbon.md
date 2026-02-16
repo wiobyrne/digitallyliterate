@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/altered-carbon/","title":"Altered Carbon","tags":["science-fiction","life","death","identity","mortality"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=iQE5AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/13223488-L.jpg)
 # Altered Carbon
 
 ## Overview

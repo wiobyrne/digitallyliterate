@@ -81,6 +81,17 @@ This grove contains four notes, each exploring a different dimension of security
 - [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
 - [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy is about agency, not hiding
 - [[02 DEVELOP/🌱 Seeds/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — The individual version of community threat modeling
+- [[02 DEVELOP/🌱 Seeds/Signal and the Law\|Signal and the Law]] — Legal protections for encrypted communication
+
+---
+
+## Teaching Security Culture
+
+- [[Teaching Privacy Literacy\|Teaching Privacy Literacy]] — Making privacy a teachable skill
+- [[Critical Digital Citizenship\|Critical Digital Citizenship]] — Beyond "don't cyberbully" to structural analysis
+- [[Cyber Hygiene for Educators and Students\|Cyber Hygiene for Educators and Students]] — Baseline habits for school contexts
+- [[Digital Autonomy in Schools\|Digital Autonomy in Schools]] — Student and teacher agency within institutional systems
+- [[Media Literacy and Privacy\|Media Literacy and Privacy]] — How information literacy and privacy literacy overlap
 
 ---
 
@@ -90,6 +101,7 @@ This grove contains four notes, each exploring a different dimension of security
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
 - [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Sustaining capacity over time
 - [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — Owning your infrastructure
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] — The pedagogical framework for teaching all of this
 
 ---
 

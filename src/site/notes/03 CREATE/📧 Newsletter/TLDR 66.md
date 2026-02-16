@@ -127,7 +127,7 @@ Openness and participation are antidotes to surveillance and control.
 - **[[Google Home\|Google Home]]** — Ordered one to test in home and classroom, trojan horse for AI pumping information to machine learning.
 - **[[Digital Portfolios\|Digital Portfolios]]** — Silvia Tolisano blogfolios as glue holding together digital identity metacognitive skills reflection and assessment.
 - **[[Rubrics\|Rubrics]]** — Jennifer Hurley threw away rubrics, where is human response, prefer funny observant comments from thinking caring person.
-- **[[James Gleick\|James Gleick]]** — I devoured The Information years ago, Time Travel mixes literature science fiction technology, looks like great read.
+- **[[01 CONSUME/👥 People/James Gleick\|James Gleick]]** — I devoured The Information years ago, Time Travel mixes literature science fiction technology, looks like great read.
 
 ---
 
