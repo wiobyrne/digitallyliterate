@@ -3,10 +3,10 @@
 ---
 
 
-![cover|300](http://books.google.com/books/content?id=rTIwEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+![cover|300](https://books.google.com/books/content?id=rTIwEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
 # Who's Afraid of Gender?
-**Author:** [[Judith Butler\|Judith Butler]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
+**Author:** [[01 CONSUME/👥 People/Judith Butler\|Judith Butler]] • [[01 CONSUME/📚 Books/📚 Books\|📚 Books]]
 ## Three-Sentence Summary
 - "Who's Afraid of Gender?" by Judith Butler explores the concept of gender and challenges traditional norms and expectations surrounding it.
 - Butler delves into the complex relationship between gender, identity, and societal constructs, offering a thought-provoking analysis on these topics.

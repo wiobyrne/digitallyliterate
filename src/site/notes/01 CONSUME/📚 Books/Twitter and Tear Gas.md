@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-consume/books/twitter-and-tear-gas/","title":"Twitter and Tear Gas","tags":["social-media","twitter","protest","political","organization","surveillance","misinformation","disinformation"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=x7S_DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/9238695-L.jpg)
 # Twitter and Tear Gas
 
 ## Overview

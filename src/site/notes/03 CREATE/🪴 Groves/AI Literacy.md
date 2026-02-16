@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-literacy","permalink":"/ai-literacy/","title":"AI Literacy","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"],"created":"2026-02-07","updated":"2026-02-07"}
+{"dg-publish":true,"dg-permalink":"ai-literacy","permalink":"/ai-literacy/","title":"AI Literacy","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"]}
 ---
 
 
@@ -90,11 +90,43 @@ The philosophical undercurrent.
 
 ---
 
+## Broader Landscape
+
+Concepts that connect to this Grove but live elsewhere in the vault.
+
+### Technical Foundations
+- [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The umbrella concept
+- [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]] / [[02 DEVELOP/🌿 Plants/Deep Learning\|Deep Learning]] / [[02 DEVELOP/🌿 Plants/Neural Networks\|Neural Networks]] — How AI systems actually work
+- [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] / [[Large Language Models (LLMs)\|Large Language Models (LLMs)]] — The technology behind ChatGPT and its successors
+- [[02 DEVELOP/🌿 Plants/Generative AI\|Generative AI]] — Models that create text, images, code
+- [[Computer Vision\|Computer Vision]] / [[02 DEVELOP/🌿 Plants/Reinforcement Learning\|Reinforcement Learning]] — Other branches of ML
+
+### Ethics and Accountability
+- [[Algorithmic Accountability\|Algorithmic Accountability]] — Who's responsible when the model is wrong?
+- [[Algorithmic Oppression\|Algorithmic Oppression]] — Structural discrimination encoded in systems
+- [[AI and Labor\|AI and Labor]] — Automation, displacement, and the value of human work
+- [[AI and Democracy\|AI and Democracy]] — Algorithmic influence on political discourse
+- [[Transparency vs Explainability\|Transparency vs Explainability]] — Two different problems often conflated
+- [[Responsible AI Development\|Responsible AI Development]] — Industry frameworks and their limits
+
+### Critical and Interdisciplinary
+- [[Critical AI Studies\|Critical AI Studies]] — Academic field interrogating AI as a power structure
+- [[Feminist AI\|Feminist AI]] / [[Decolonizing AI\|Decolonizing AI]] — Challenging whose values AI encodes
+- [[AI and Climate Justice\|AI and Climate Justice]] — The environmental cost of computation
+- [[AI Narratives in Popular Culture\|AI Narratives in Popular Culture]] — How fiction shapes public understanding
+
+### Privacy-Preserving AI
+- [[Privacy-Preserving AI\|Privacy-Preserving AI]] — The bridge to [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[Federated Learning\|Federated Learning]] / [[Differential Privacy\|Differential Privacy]] / [[Homomorphic Encryption\|Homomorphic Encryption]] — Technical approaches to AI that doesn't spy on you
+
+---
+
 ## Related Groves
 
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework: agency, context, and power in digital systems
 - [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Staying strong and sustainable when the tools keep changing
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect by default — the infrastructure AI literacy needs
+- [[03 CREATE/🪴 Groves/Internet Culture\|Internet Culture]] — The platform dynamics that AI systems amplify
 
 ---
 

@@ -158,7 +158,7 @@ Lincoln's quote: the philosophy of the school room in one generation will be the
 - **[[Nick Ripatrazone\|Nick Ripatrazone]]** — Why writers run, creativity and creating quiet in mind.
 - **[[30-Day Challenge\|30-Day Challenge]]** — Meditation habit formation, clearing heads out.
 - **[[Laura Hilliger\|Laura Hilliger]]** — Post on structure and routine, clearing out your head.
-- **[[Jane McGonigal\|Jane McGonigal]]** — Gameful mindset for daily challenges, SuperBetter book and app.
+- **[[01 CONSUME/👥 People/Jane McGonigal\|Jane McGonigal]]** — Gameful mindset for daily challenges, SuperBetter book and app.
 - **[[Tetris\|Tetris]]** — Play five minutes before bed, Tetroid app without ads and fluff.
 - **[[Challenging Games\|Challenging Games]]** — New research on engagement and learning through games.
 - **[[Clay Shirky\|Clay Shirky]]** — Digital revolution in higher ed already happened, complicity in lousy systems.

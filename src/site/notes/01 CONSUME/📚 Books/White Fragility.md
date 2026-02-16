@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/01-consume/books/white-fragility/","title":"White Fragility","tags":["race","racism","conversations","bias","privelege","inequality","intersectionality"]}
 ---
 
-![cover|300](http://books.google.com/books/content?id=ZfQ3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+![cover|300](https://covers.openlibrary.org/b/id/8467410-L.jpg)
 # White Fragility
 
 ## Overview
-- **Author:** [[Robin DiAngelo\|Robin DiAngelo]] 
+- **Author:** [[01 CONSUME/👥 People/Robin DiAngelo\|Robin DiAngelo]] 
 
 ## Three-Sentence Summary
 - "White Fragility" is a sociological exploration of the defensive reactions many white people have when confronted with racism and racial inequality. The book argues that this "fragility" stems from a lack of understanding and exposure to racial stress, leading to defensiveness that hinders progress towards racial equality. Dr. DiAngelo proposes ways to recognize these behaviors and suggests methods for engaging more constructively in conversations about race.

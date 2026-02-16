@@ -81,11 +81,50 @@ If this Forest becomes a course, book, or keynote series:
 
 ---
 
+## Cross-Cutting Themes
+
+Threads that weave through multiple Groves and don't belong to just one.
+
+### Equity and Power
+- [[Access and Inclusion in Digital Learning\|Access and Inclusion in Digital Learning]] — Who gets left out?
+- [[Digital Redlining\|Digital Redlining]] — Algorithmic discrimination in access and opportunity
+- [[Techno-colonialism\|Techno-colonialism]] — Extraction dressed as innovation
+- [[Surveillance AI\|Surveillance AI]] — When AI becomes the surveillance apparatus
+
+### Ethics and Accountability
+- [[Ethics in AI\|Ethics in AI]] — Frameworks for responsible development
+- [[Critical Digital Pedagogy\|Critical Digital Pedagogy]] — Teaching that interrogates the tools it uses
+- [[Computational Thinking\|Computational Thinking]] — The cognitive skill set, not just "learn to code"
+
+### Resistance and Futures
+- [[Platform Refusal\|Platform Refusal]] — Choosing not to participate in extractive systems
+- [[Open Source Movements\|Open Source Movements]] — Community-built alternatives
+- [[Decentralized Web\|Decentralized Web]] — Infrastructure without central control
+- [[Speculative Futures in Tech\|Speculative Futures in Tech]] — Imagining what could be different
+
+### Projects and Applied Work
+- [[Initiative for Literacy in a Digital Age\|Initiative for Literacy in a Digital Age]] — Applied research initiative
+- [[STEAM Vanguard Capstone\|STEAM Vanguard Capstone]] — Capstone project connecting STEAM and digital literacy
+- [[Algorithmic Justice Collection\|Algorithmic Justice Collection]] — Curated resources on algorithmic harm
+
+---
+
+## New Groves (added 2026-02-12)
+
+Three new Groves created from the MOC migration that connect to this Forest:
+
+- **[[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]** — Pedagogical frameworks, critical pedagogy, and AI in education. The "how we teach" companion to "what we teach."
+- **[[03 CREATE/🪴 Groves/Emotional Intelligence\|Emotional Intelligence]]** — The human capacity layer: communication, organizational culture, care practices. Resilience requires emotional infrastructure.
+- **[[03 CREATE/🪴 Groves/Internet Culture\|Internet Culture]]** — Platform dynamics, digital identity, misinformation, and online communities. You can't teach digital literacy without understanding the culture it operates in.
+
+---
+
 ## Gaps
 
 What's missing before this Forest is complete:
 
 - ~~**Grove: AI Literacy**~~ — **Built.** See [[03 CREATE/🪴 Groves/AI Literacy\|AI Literacy]].
+- ~~**MOC migration**~~ — **Done.** Three MOCs absorbed into Groves, three promoted to new Groves. See notes above.
 - **Evergreen: "Digital Citizenship" critique** — A polished piece arguing why the standard digital citizenship model is insufficient. Several Plants touch this but none commit to the argument.
 - **Evergreen: The case for cooperative infrastructure** — Connecting Nextcloud/Matrix/CryptPad not as individual tool choices but as a cooperative economic model for communities.
 - **Grove: Community Practice** — The InitiatED/Signpost Sessions model as its own Grove, connecting pedagogy, cooperative governance, and digital autonomy.
@@ -96,6 +135,7 @@ What's missing before this Forest is complete:
 
 - Does this framework translate across contexts? It's built from a U.S. education perspective — does it hold for Global South digital sovereignty movements, Indigenous data governance, or non-English-speaking communities?
 - ~~Where does AI fit as a fifth pillar vs. a thread running through all four?~~ → Added as fifth Grove. Still worth asking whether it crosscuts the others.
+- How do the three new Groves (Teaching Philosophy, Emotional Intelligence, Internet Culture) relate to the five original Groves? Are they satellites, or do they belong in the Architecture table?
 - Is "Forest" the right framing for something that's also a call to action? At what point does this stop being a knowledge architecture and become a manifesto?
 
 ---
