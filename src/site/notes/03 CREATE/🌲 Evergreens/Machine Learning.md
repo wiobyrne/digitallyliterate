@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/machine-learning/","title":"Machine Learning","tags":["ai","machine-learning"]}
+{"dg-publish":true,"dg-permalink":"machine-learning","permalink":"/machine-learning/","title":"Machine Learning","tags":["ai","machine-learning"]}
 ---
 
 # Machine Learning

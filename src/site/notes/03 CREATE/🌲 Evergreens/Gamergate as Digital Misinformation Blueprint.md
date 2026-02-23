@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/gamergate-as-digital-misinformation-blueprint/","title":"Gamergate as Digital Misinformation Blueprint","tags":["gamergate","misinformation","digital-harassment","online-culture","media-literacy"]}
+{"dg-publish":true,"dg-permalink":"gamergate-as-digital-misinformation-blueprint","permalink":"/gamergate-as-digital-misinformation-blueprint/","title":"Gamergate as Digital Misinformation Blueprint","tags":["gamergate","misinformation","digital-harassment","online-culture","media-literacy"]}
 ---
 
 

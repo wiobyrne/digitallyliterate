@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/dark-patterns/","title":"Dark Patterns","tags":["web-design","cognitive-bias","ux-design","ethics","manipulation"]}
+{"dg-publish":true,"dg-permalink":"dark-patterns","permalink":"/dark-patterns/","title":"Dark Patterns","tags":["web-design","cognitive-bias","ux-design","ethics","manipulation"]}
 ---
 
 # Dark Patterns

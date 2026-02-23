@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/data-minimization/","title":"Data Minimization","tags":["data-privacy","data","privacy","security","cybersecurity","digital-resilience"]}
+{"dg-publish":true,"dg-permalink":"data-minimization","permalink":"/data-minimization/","title":"Data Minimization","tags":["data-privacy","data","privacy","security","cybersecurity","digital-resilience"]}
 ---
 
 # Data Minimization

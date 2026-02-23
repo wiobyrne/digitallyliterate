@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/literacy-as-situated-practice/","title":"Literacy as Situated Practice","tags":["new-literacy-studies","situated-practice","anti-racism","digital-literacies","intersectionality"]}
+{"dg-publish":true,"dg-permalink":"literacy-as-situated-practice","permalink":"/literacy-as-situated-practice/","title":"Literacy as Situated Practice","tags":["new-literacy-studies","situated-practice","anti-racism","digital-literacies","intersectionality"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/first-principles-thinking/","title":"First Principles Thinking","tags":["analogy","critical-thinking","problem-solving","mental-models"]}
+{"dg-publish":true,"dg-permalink":"first-principles-thinking","permalink":"/first-principles-thinking/","title":"First Principles Thinking","tags":["analogy","critical-thinking","problem-solving","mental-models"]}
 ---
 
 # First Principles Thinking

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/antifragility/","title":"Antifragility","tags":["resilience","grit","failure","antifragility","psychology"]}
+{"dg-publish":true,"dg-permalink":"antifragility","permalink":"/antifragility/","title":"Antifragility","tags":["resilience","grit","failure","antifragility","psychology"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/encryption/","title":"Encryption","tags":["privacy","security"]}
+{"dg-publish":true,"dg-permalink":"encryption","permalink":"/encryption/","title":"Encryption","tags":["privacy","security"]}
 ---
 
 # Encryption

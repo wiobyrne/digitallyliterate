@@ -124,7 +124,6 @@ title: Note Title
 tags: [tag1, tag2, tag3]
 status: 🌿_plant
 created: 2025-11-04
-dg-publish: false
 connections:
   - "[[Related Note 1]]"
   - "[[Related Note 2]]"
@@ -384,7 +383,7 @@ git push origin main
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/Digital Garden Setup Guide\|Digital Garden Setup Guide]] – How to build similar setup
+- [[03 CREATE/🌲 Evergreens/Digital Garden Setup Guide\|Digital Garden Setup Guide]] – How to build similar setup
 - [[Tools for Federated Publishing\|Tools for Federated Publishing]] – Tool comparisons
 - [[Publishing Workflows\|Publishing Workflows]] – Other workflow patterns
 - [[Obsidian Configuration\|Obsidian Configuration]] – Detailed Obsidian setup

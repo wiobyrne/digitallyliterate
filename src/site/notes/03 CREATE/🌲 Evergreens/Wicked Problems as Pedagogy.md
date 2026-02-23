@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/wicked-problems-as-pedagogy/","title":"Wicked Problems as Pedagogy","tags":["wicked-problems","ethics-education","interdisciplinary","authentic-assessment","AI-in-education"]}
+{"dg-publish":true,"dg-permalink":"wicked-problems-as-pedagogy","permalink":"/wicked-problems-as-pedagogy/","title":"Wicked Problems as Pedagogy","tags":["wicked-problems","ethics-education","interdisciplinary","authentic-assessment","AI-in-education"]}
 ---
 
 

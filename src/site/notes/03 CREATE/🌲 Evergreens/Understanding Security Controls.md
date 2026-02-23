@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/understanding-security-controls/","title":"Understanding Security Controls","tags":["security-controls","information-security","cybersecurity"]}
+{"dg-publish":true,"dg-permalink":"understanding-security-controls","permalink":"/understanding-security-controls/","title":"Understanding Security Controls","tags":["security-controls","information-security","cybersecurity"]}
 ---
 
 # Understanding Security Controls

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/risk/","title":"Risk","tags":["risk-management","education","decision-making","existential-risk","covid-19"]}
+{"dg-publish":true,"dg-permalink":"risk","permalink":"/risk/","title":"Risk","tags":["risk-management","education","decision-making","existential-risk","covid-19"]}
 ---
 
 # Risk

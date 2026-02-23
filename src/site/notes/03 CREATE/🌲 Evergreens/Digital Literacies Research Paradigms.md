@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/digital-literacies-research-paradigms/","title":"Digital Literacies Research Paradigms","tags":["research-design","positivism","interpretivism","critical-theory","post-qualitative","methodology"]}
+{"dg-publish":true,"dg-permalink":"digital-literacies-research-paradigms","permalink":"/digital-literacies-research-paradigms/","title":"Digital Literacies Research Paradigms","tags":["research-design","positivism","interpretivism","critical-theory","post-qualitative","methodology"]}
 ---
 
 

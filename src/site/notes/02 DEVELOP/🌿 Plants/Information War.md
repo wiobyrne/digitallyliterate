@@ -392,7 +392,7 @@ Information warfare encompasses both offensive operations (propaganda, disinform
 
 ### Related Concepts
 - [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]] - Tactical false information campaigns
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Individual defense through critical evaluation skills
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] - Individual defense through critical evaluation skills
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible participation in information ecosystems
 - [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]] - Maintaining human agency in automated information systems
 

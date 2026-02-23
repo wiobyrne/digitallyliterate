@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/attention/","title":"Attention","tags":["attention","flow","focus","psychology","productivity","mindfulness"]}
+{"dg-publish":true,"dg-permalink":"attention","permalink":"/attention/","title":"Attention","tags":["attention","flow","focus","psychology","productivity","mindfulness"]}
 ---
 
 

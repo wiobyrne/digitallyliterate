@@ -273,8 +273,8 @@ The reflection framework presented here offers a starting point for exploring th
 
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Multimodal Communication\|Multimodal Communication]]
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]]
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
+- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]
 - [[Educational Technology\|Educational Technology]]
 - [[Social Media Studies\|Social Media Studies]]
 - [[Composition Studies\|Composition Studies]]

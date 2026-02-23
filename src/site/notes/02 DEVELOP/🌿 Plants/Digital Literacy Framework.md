@@ -271,8 +271,8 @@ Digital literacy provides the knowledge and skills foundation that enables respo
 
 ### Related Concepts
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible and ethical participation in digital society
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Critical analysis and creation of media content
-- [[02 DEVELOP/🌿 Plants/Critical Thinking\|Critical Thinking]] - Analytical skills underlying digital literacy
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] - Critical analysis and creation of media content
+- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]] - Analytical skills underlying digital literacy
 - [[02 DEVELOP/🌿 Plants/Evolving Concepts of Text\|Evolving Concepts of Text]] - Theoretical framework for text in digital environments
 - [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Understanding information manipulation and building resistance
 

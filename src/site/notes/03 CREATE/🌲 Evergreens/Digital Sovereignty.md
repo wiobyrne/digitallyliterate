@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/digital-sovereignty/","title":"Digital Sovereignty","tags":["privacy","encryption","big-tech","signal","proton","data-ownership"]}
+{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["privacy","encryption","big-tech","signal","proton","data-ownership"]}
 ---
 
 

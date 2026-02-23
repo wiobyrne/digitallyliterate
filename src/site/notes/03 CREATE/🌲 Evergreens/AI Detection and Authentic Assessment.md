@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/ai-detection-and-authentic-assessment/","title":"AI Detection and Authentic Assessment","tags":["AI-detection","authentic-assessment","cheating","equity","scaffolding"]}
+{"dg-publish":true,"dg-permalink":"ai-detection-and-authentic-assessment","permalink":"/ai-detection-and-authentic-assessment/","title":"AI Detection and Authentic Assessment","tags":["AI-detection","authentic-assessment","cheating","equity","scaffolding"]}
 ---
 
 

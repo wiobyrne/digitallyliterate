@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/epistemic-stance/","title":"Epistemic Stance","tags":["epistemic-stance","knowledge-construction","authority","critical-thinking","AI-literacy","trust","validation"]}
+{"dg-publish":true,"dg-permalink":"epistemic-stance","permalink":"/epistemic-stance/","title":"Epistemic Stance","tags":["epistemic-stance","knowledge-construction","authority","critical-thinking","AI-literacy","trust","validation"]}
 ---
 
 # Epistemic Stance
@@ -79,12 +79,12 @@ Passive Consumption ←―――――――――――――――――――
 - Recognition of hallucinations, bias
 - Questioning AI's "knowledge"
 
-### In [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
+### In [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
 - Modification signals self as knowledge authority
 - Rejection demonstrates critical epistemic stance
 - Verbatim copy suggests AI-authoritative stance
 
-### In [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
+### In [[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
 - Explicit statements about knowledge authority
 - Metacognitive awareness of who is "thinking"
 - Articulation of responsibility for truth claims

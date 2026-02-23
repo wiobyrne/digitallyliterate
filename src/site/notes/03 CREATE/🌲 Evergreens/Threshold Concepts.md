@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/threshold-concepts/","title":"Threshold Concepts","tags":["learning","education","pedagogy","cognitive-development"]}
+{"dg-publish":true,"dg-permalink":"threshold-concepts","permalink":"/threshold-concepts/","title":"Threshold Concepts","tags":["learning","education","pedagogy","cognitive-development"]}
 ---
 
 # Threshold Concepts

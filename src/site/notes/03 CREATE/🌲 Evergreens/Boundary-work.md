@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/boundary-work/","title":"Boundary Work","tags":["boundary-work","human-AI-collaboration","responsibility","authorship","ethical-AI-use","knowledge-construction"]}
+{"dg-publish":true,"dg-permalink":"boundary-work","permalink":"/boundary-work/","title":"Boundary Work","tags":["boundary-work","human-AI-collaboration","responsibility","authorship","ethical-AI-use","knowledge-construction"]}
 ---
 
 # Boundary-work
@@ -48,8 +48,8 @@ Boundary-work appears throughout the analytic framework:
 - **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]** - Boundaries set through source curation
 - **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]** - Boundaries enacted through prompt constraints
 - **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]** - Boundaries triggered by output quality assessment
-- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]** - Boundaries made visible in modification/rejection
-- **[[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]** - Boundaries articulated through metacognition
+- **[[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]** - Boundaries made visible in modification/rejection
+- **[[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]** - Boundaries articulated through metacognition
 
 ---
 

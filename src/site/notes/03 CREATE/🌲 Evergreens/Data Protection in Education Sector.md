@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/data-protection-in-education-sector/","title":"Data Protection in Education Sector","tags":["data-protection","education","student-data","cybersecurity"]}
+{"dg-publish":true,"dg-permalink":"data-protection-in-education-sector","permalink":"/data-protection-in-education-sector/","title":"Data Protection in Education Sector","tags":["data-protection","education","student-data","cybersecurity"]}
 ---
 
 # Data Protection in Education Sector

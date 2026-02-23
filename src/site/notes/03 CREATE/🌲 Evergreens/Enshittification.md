@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/enshittification/","title":"Enshittification","tags":["enshittification","platform-economics","technology-criticism","digital-capitalism"]}
+{"dg-publish":true,"dg-permalink":"enshittification","permalink":"/enshittification/","title":"Enshittification","tags":["enshittification","platform-economics","technology-criticism","digital-capitalism"]}
 ---
 
 # Enshittification

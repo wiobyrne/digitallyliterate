@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/understanding-attack-surfaces-in-cybersecurity/","title":"Understanding Attack Surfaces in Cybersecurity","tags":["cybersecurity","attack-surface","software-development","security"]}
+{"dg-publish":true,"dg-permalink":"understanding-attack-surfaces-in-cybersecurity","permalink":"/understanding-attack-surfaces-in-cybersecurity/","title":"Understanding Attack Surfaces in Cybersecurity","tags":["cybersecurity","attack-surface","software-development","security"]}
 ---
 
 # Understanding Attack Surfaces in Cybersecurity

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/end-to-end-encryption/","title":"End-to-end encryption","tags":["encryption","privacy","security","digital-resilience"]}
+{"dg-publish":true,"dg-permalink":"end-to-end-encryption","permalink":"/end-to-end-encryption/","title":"End-to-end encryption","tags":["encryption","privacy","security","digital-resilience"]}
 ---
 
 # End-to-End Encryption

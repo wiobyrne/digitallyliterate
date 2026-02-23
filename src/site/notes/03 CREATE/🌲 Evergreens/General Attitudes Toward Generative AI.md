@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/general-attitudes-toward-generative-ai/","title":"General Attitudes Toward Generative AI","tags":["generative-ai","evaluation","assessment","education","survey-research","student-attitudes"]}
+{"dg-publish":true,"dg-permalink":"general-attitudes-toward-generative-ai","permalink":"/general-attitudes-toward-generative-ai/","title":"General Attitudes Toward Generative AI","tags":["generative-ai","evaluation","assessment","education","survey-research","student-attitudes"]}
 ---
 
 # General Attitudes Toward Generative AI

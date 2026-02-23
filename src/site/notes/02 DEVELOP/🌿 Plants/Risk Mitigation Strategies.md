@@ -121,7 +121,7 @@
 These strategies reflect my commitment in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] to "student safety and empowerment" while maintaining "academic rigor." They operationalize my value of "quality over quantity" by ensuring techniques serve learning rather than performance.
 
 ## Critical Pedagogy Considerations
-Must implement with awareness of [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - ensuring risk mitigation serves students rather than protecting institutional interests or teacher ego.
+Must implement with awareness of [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - ensuring risk mitigation serves students rather than protecting institutional interests or teacher ego.
 
 ---
 
@@ -132,5 +132,5 @@ Must implement with awareness of [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blin
 - Documentation of incident and response
 
 ## Further Development Needed
-- [[02 DEVELOP/🌱 Seeds/Student Response Management\|Student Response Management]] - Specific techniques for handling confusion/discomfort
+- [[02 DEVELOP/🌿 Plants/Student Response Management\|Student Response Management]] - Specific techniques for handling confusion/discomfort
 - [[Classroom Environment Building\|Classroom Environment Building]] - Proactive strategies for psychological safety

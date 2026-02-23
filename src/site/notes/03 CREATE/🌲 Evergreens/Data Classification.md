@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/data-classification/","title":"Data Classification","tags":["data-classification","knowledge-management-systems","data-management"]}
+{"dg-publish":true,"dg-permalink":"data-classification","permalink":"/data-classification/","title":"Data Classification","tags":["data-classification","knowledge-management-systems","data-management"]}
 ---
 
 # Data Classification

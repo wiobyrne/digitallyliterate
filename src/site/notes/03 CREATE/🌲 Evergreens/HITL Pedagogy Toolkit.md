@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["human-in-the-loop","AI-literacy","classroom-practice","prompts","student-agency"]}
+{"dg-publish":true,"dg-permalink":"hitl-pedagogy-toolkit","permalink":"/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["human-in-the-loop","AI-literacy","classroom-practice","prompts","student-agency"]}
 ---
 
 
@@ -115,7 +115,7 @@ The most important learning happens in the moments of friction—when students q
 
 ## Connection to Boundary Work
 
-This toolkit operationalizes the theoretical framework in [[03 CREATE/🌲 Evergreens/AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]]:
+This toolkit operationalizes the theoretical framework in [[AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]]:
 
 | Boundary Work Concept | Toolkit Practice |
 |----------------------|------------------|

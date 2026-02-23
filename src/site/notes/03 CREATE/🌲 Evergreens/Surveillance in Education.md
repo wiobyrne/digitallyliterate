@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/surveillance-in-education/","title":"Surveillance in Education","tags":["surveillance","data-collection","student-privacy","surveillance-capitalism","enshittification"]}
+{"dg-publish":true,"dg-permalink":"surveillance-in-education","permalink":"/surveillance-in-education/","title":"Surveillance in Education","tags":["surveillance","data-collection","student-privacy","surveillance-capitalism","enshittification"]}
 ---
 
 

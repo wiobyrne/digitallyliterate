@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/privacy/","title":"Privacy","tags":["privacy","security","digital-resilience","data-protection"]}
+{"dg-publish":true,"dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy","tags":["privacy","security","digital-resilience","data-protection"]}
 ---
 
 # Privacy

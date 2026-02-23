@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/truth-and-objectivity-in-digital-discourse/","title":"Truth and Objectivity in Digital Discourse - Navigating Gray Areas of Knowledge","tags":["epistemology","truth-claims","objectivity","digital-discourse","critical-thinking","information-literacy","philosophy-of-knowledge","media-literacy","cognitive-bias","digital-citizenship"]}
+{"dg-publish":true,"dg-permalink":"truth-and-objectivity-in-digital-discourse","permalink":"/truth-and-objectivity-in-digital-discourse/","title":"Truth and Objectivity in Digital Discourse - Navigating Gray Areas of Knowledge","tags":["epistemology","truth-claims","objectivity","digital-discourse","critical-thinking","information-literacy","philosophy-of-knowledge","media-literacy","cognitive-bias","digital-citizenship"]}
 ---
 
 

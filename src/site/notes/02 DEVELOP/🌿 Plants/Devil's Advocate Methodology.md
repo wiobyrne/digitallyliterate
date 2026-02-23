@@ -92,7 +92,7 @@
 This methodology exemplifies my commitment in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] to "inquiry-based engagement" and creating "productive discomfort" for learning. It requires careful balance with my values of student safety and empowerment.
 
 ## Critical Considerations
-Must be implemented with awareness of insights from [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - ensuring technique serves students, not teacher ego or institutional interests.
+Must be implemented with awareness of insights from [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - ensuring technique serves students, not teacher ego or institutional interests.
 
 ---
 

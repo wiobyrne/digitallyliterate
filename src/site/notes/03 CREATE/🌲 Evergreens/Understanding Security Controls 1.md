@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/understanding-security-controls-1/","title":"Understanding Security Controls","tags":["cybersecurity","cyber-defense","attack-surface","security-frameworks","risk-management"]}
+{"dg-publish":true,"dg-permalink":"understanding-security-controls-1","permalink":"/understanding-security-controls-1/","title":"Understanding Security Controls","tags":["cybersecurity","cyber-defense","attack-surface","security-frameworks","risk-management"]}
 ---
 
 

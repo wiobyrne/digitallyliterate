@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/cyber-breach-after-action-review/","title":"Cyber Breach After Action Review","tags":["cybersecurity"]}
+{"dg-publish":true,"dg-permalink":"cyber-breach-after-action-review","permalink":"/cyber-breach-after-action-review/","title":"Cyber Breach After Action Review","tags":["cybersecurity"]}
 ---
 
 

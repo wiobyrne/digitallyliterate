@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/algorithm/","title":"Algorithm","tags":["ai","coding","computational-thinking","programming","problem-solving"]}
+{"dg-publish":true,"dg-permalink":"algorithm","permalink":"/algorithm/","title":"Algorithm","tags":["ai","coding","computational-thinking","programming","problem-solving"]}
 ---
 
 # Algorithm

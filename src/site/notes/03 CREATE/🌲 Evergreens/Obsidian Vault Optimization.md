@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/obsidian-vault-optimization/","title":"Obsidian Vault Optimization","tags":["obsidian","PKM","workflow","organization","digital-garden"]}
+{"dg-publish":true,"dg-permalink":"obsidian-vault-optimization","permalink":"/obsidian-vault-optimization/","title":"Obsidian Vault Optimization","tags":["obsidian","PKM","workflow","organization","digital-garden"]}
 ---
 
 

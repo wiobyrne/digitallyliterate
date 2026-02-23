@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/courageous-community/","tags":["community-building","educational-leadership","social-justice","mental-health","self-care","advocacy","equity","inclusive-education","professional-development","critical-pedagogy"]}
+{"dg-publish":true,"dg-permalink":"courageous-community","permalink":"/courageous-community/","tags":["community-building","educational-leadership","social-justice","mental-health","self-care","advocacy","equity","inclusive-education","professional-development","critical-pedagogy"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/the-importance-of-cybersecurity/","title":"The Importance of Cybersecurity","tags":["cybersecurity","data-protection","digital-threats","security"]}
+{"dg-publish":true,"dg-permalink":"the-importance-of-cybersecurity","permalink":"/the-importance-of-cybersecurity/","title":"The Importance of Cybersecurity","tags":["cybersecurity","data-protection","digital-threats","security"]}
 ---
 
 # The Importance of Cybersecurity

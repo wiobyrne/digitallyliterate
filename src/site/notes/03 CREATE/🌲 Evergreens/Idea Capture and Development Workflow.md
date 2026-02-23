@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/idea-capture-and-development-workflow/","title":"Idea Capture and Development Workflow","tags":["PKM","workflow","obsidian","note-development","zettelkasten"]}
+{"dg-publish":true,"dg-permalink":"idea-capture-and-development-workflow","permalink":"/idea-capture-and-development-workflow/","title":"Idea Capture and Development Workflow","tags":["PKM","workflow","obsidian","note-development","zettelkasten"]}
 ---
 
 
@@ -224,4 +224,4 @@ just accepting outputs uncritically.
 - [[03 CREATE/🌲 Evergreens/Obsidian Vault Optimization\|Obsidian Vault Optimization]]
 - [[Digital Garden\|Digital Garden]]
 - [[Zettelkasten Method\|Zettelkasten Method]]
-- [[02 DEVELOP/🌱 Seeds/Progressive Summarization\|Progressive Summarization]]
+- [[02 DEVELOP/🌿 Plants/Progressive Summarization\|Progressive Summarization]]

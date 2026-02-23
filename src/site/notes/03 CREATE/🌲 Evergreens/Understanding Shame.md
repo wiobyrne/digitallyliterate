@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/understanding-shame/","title":"Understanding Shame","tags":["psychology","emotions","mental-health","self-awareness","therapy","emotional-regulation"]}
+{"dg-publish":true,"dg-permalink":"understanding-shame","permalink":"/understanding-shame/","title":"Understanding Shame","tags":["psychology","emotions","mental-health","self-awareness","therapy","emotional-regulation"]}
 ---
 
 

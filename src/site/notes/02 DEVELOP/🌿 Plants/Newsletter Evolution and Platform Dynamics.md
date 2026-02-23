@@ -441,7 +441,7 @@ Despite digital freedom, **new consolidation problems:**
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/History of Digital Gardens\|History of Digital Gardens]] – Parallel evolution
+- [[03 CREATE/🌲 Evergreens/History of Digital Gardens\|History of Digital Gardens]] – Parallel evolution
 - [[Platform Consolidation Problems\|Platform Consolidation Problems]] – Why federation matters
 - [[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]] – Structural limitations
 - [[POSSE and Syndication Strategies\|POSSE and Syndication Strategies]] – Using newsletters federally

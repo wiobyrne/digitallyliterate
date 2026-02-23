@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/collective-hope-and-liberatory-traditions/","title":"Collective Hope and Liberatory Traditions","tags":["freire","radical-hope","movement-building","liberatory-education","collective-action"]}
+{"dg-publish":true,"dg-permalink":"collective-hope-and-liberatory-traditions","permalink":"/collective-hope-and-liberatory-traditions/","title":"Collective Hope and Liberatory Traditions","tags":["freire","radical-hope","movement-building","liberatory-education","collective-action"]}
 ---
 
 

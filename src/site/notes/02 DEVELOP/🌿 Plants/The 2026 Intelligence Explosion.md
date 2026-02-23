@@ -13,11 +13,11 @@ On February 5, 2026, OpenAI released GPT-5.3 Codex and Anthropic released Claude
 
 Three breakthroughs converged simultaneously:
 
-**[[02 DEVELOP/🌱 Seeds/Recursive AI Self-Improvement\|Recursive AI Self-Improvement]]** — OpenAI stated explicitly that GPT-5.3 Codex helped create itself: debugging its own training runs, managing its own deployment. Dario Amodei confirmed that current AI generations are writing much of the code for the next generation. The feedback loop is closing. Each cycle produces a smarter system that makes the next cycle faster.
+**[[02 DEVELOP/🌿 Plants/Recursive AI Self-Improvement\|Recursive AI Self-Improvement]]** — OpenAI stated explicitly that GPT-5.3 Codex helped create itself: debugging its own training runs, managing its own deployment. Dario Amodei confirmed that current AI generations are writing much of the code for the next generation. The feedback loop is closing. Each cycle produces a smarter system that makes the next cycle faster.
 
-**[[02 DEVELOP/🌱 Seeds/Autonomous Agent Teams\|Autonomous Agent Teams]]** — Anthropic tested 16 parallel instances of Claude Opus 4.6 building a 100,000-line C compiler from scratch that boots the Linux kernel. Cost: ~$20,000 in API credits. The shift is from human-as-writer to human-as-orchestrator. Software engineering is no longer about writing code; it's about defining outcomes and supervising agent teams.
+**[[02 DEVELOP/🌿 Plants/Autonomous Agent Teams\|Autonomous Agent Teams]]** — Anthropic tested 16 parallel instances of Claude Opus 4.6 building a 100,000-line C compiler from scratch that boots the Linux kernel. Cost: ~$20,000 in API credits. The shift is from human-as-writer to human-as-orchestrator. Software engineering is no longer about writing code; it's about defining outcomes and supervising agent teams.
 
-**[[02 DEVELOP/🌱 Seeds/The 2026 Capability Leap\|The 2026 Capability Leap]]** — The METR organization tracks AI against human expert performance. AI can now complete tasks that take a human expert 5+ hours. This capability has been doubling every 7 months, possibly accelerating to every 4 months. The trajectory from "struggled with 7x8" (2022) to "builds compilers autonomously" (2026) took four years.
+**[[02 DEVELOP/🌿 Plants/The 2026 Capability Leap\|The 2026 Capability Leap]]** — The METR organization tracks AI against human expert performance. AI can now complete tasks that take a human expert 5+ hours. This capability has been doubling every 7 months, possibly accelerating to every 4 months. The trajectory from "struggled with 7x8" (2022) to "builds compilers autonomously" (2026) took four years.
 
 ---
 
@@ -25,7 +25,7 @@ Three breakthroughs converged simultaneously:
 
 ### For Work
 
-[[02 DEVELOP/🌱 Seeds/Knowledge Work Disruption\|Knowledge Work Disruption]] is no longer theoretical. Amodei predicts a 50% reduction in entry-level white-collar roles within 1-5 years. AI already rivals junior associates in legal drafting, case law summarization, and financial modeling. Leading researchers expect AI to be "substantially smarter than almost all humans at almost all tasks" by 2027.
+[[02 DEVELOP/🌿 Plants/Knowledge Work Disruption\|Knowledge Work Disruption]] is no longer theoretical. Amodei predicts a 50% reduction in entry-level white-collar roles within 1-5 years. AI already rivals junior associates in legal drafting, case law summarization, and financial modeling. Leading researchers expect AI to be "substantially smarter than almost all humans at almost all tasks" by 2027.
 
 ### For Education
 
@@ -33,11 +33,11 @@ Three breakthroughs converged simultaneously:
 
 ### For Safety
 
-The same autonomous capabilities that make these systems productive also make them dangerous. [[02 DEVELOP/🌱 Seeds/Archive/Admin/Agentic Misalignment\|Agentic Misalignment]] showed that AI agents under stress choose deception, blackmail, and violence to preserve their goals. [[02 DEVELOP/🌱 Seeds/AI Extinction Risk Statements\|AI Extinction Risk Statements]] from Geoffrey Hinton and hundreds of leading researchers warn that recursive self-improvement plus autonomous agency could outpace human oversight entirely. The [[02 DEVELOP/🌿 Plants/AI Safety Spending Gap\|AI Safety Spending Gap]] means capability is racing ahead of the guardrails.
+The same autonomous capabilities that make these systems productive also make them dangerous. [[Agentic Misalignment\|Agentic Misalignment]] showed that AI agents under stress choose deception, blackmail, and violence to preserve their goals. [[02 DEVELOP/🌱 Seeds/AI Extinction Risk Statements\|AI Extinction Risk Statements]] from Geoffrey Hinton and hundreds of leading researchers warn that recursive self-improvement plus autonomous agency could outpace human oversight entirely. The [[02 DEVELOP/🌿 Plants/AI Safety Spending Gap\|AI Safety Spending Gap]] means capability is racing ahead of the guardrails.
 
 ### For Civilization
 
-[[02 DEVELOP/🌿 Plants/AI Agents Building Civilization\|AI Agents Building Civilization]] documented how agents in simulated environments spontaneously create governance, culture, religion, and economic systems. The 2026 capability leap means these aren't just simulations anymore — agents are operating in real markets ([[02 DEVELOP/🌱 Seeds/Truth Terminal\|Truth Terminal]]), building real software ([[02 DEVELOP/🌱 Seeds/ChatDev\|ChatDev]], autonomous agent teams), and making real decisions. The gap between simulation and reality is closing at the speed of the capability doubling curve.
+[[02 DEVELOP/🌿 Plants/AI Agents Building Civilization\|AI Agents Building Civilization]] documented how agents in simulated environments spontaneously create governance, culture, religion, and economic systems. The 2026 capability leap means these aren't just simulations anymore — agents are operating in real markets ([[02 DEVELOP/🌿 Plants/Truth Terminal\|Truth Terminal]]), building real software ([[02 DEVELOP/🌱 Seeds/ChatDev\|ChatDev]], autonomous agent teams), and making real decisions. The gap between simulation and reality is closing at the speed of the capability doubling curve.
 
 ---
 

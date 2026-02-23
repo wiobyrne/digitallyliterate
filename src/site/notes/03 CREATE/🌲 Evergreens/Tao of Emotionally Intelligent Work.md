@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/tao-of-emotionally-intelligent-work/","title":"The Tao of Emotionally Intelligent Work","tags":["emotional-intelligence","collaboration","communication","learning","workflows","ethos","philosophy-of-work","human-connection"]}
+{"dg-publish":true,"dg-permalink":"tao-of-emotionally-intelligent-work","permalink":"/tao-of-emotionally-intelligent-work/","title":"The Tao of Emotionally Intelligent Work","tags":["emotional-intelligence","collaboration","communication","learning","workflows","ethos","philosophy-of-work","human-connection"]}
 ---
 
 # Tao of Emotionally Intelligent Work
@@ -121,7 +121,7 @@ _This document is meant to evolve. We welcome feedback, adaptation, and collabor
 This Tao builds upon and connects to several complementary frameworks:
 
 - **[[03 CREATE/🌲 Evergreens/Emotionally Intelligent Workflows A Framework\|Emotionally Intelligent Workflows A Framework]]** - Provides concrete implementation strategies for these philosophical principles
-- **[[03 CREATE/🌲 Evergreens/Creating organizational culture that breathes, adapts, and grows\|Creating organizational culture that breathes, adapts, and grows]]** - Explores the organizational conditions that support this way of working
+- **[[Creating organizational culture that breathes, adapts, and grows\|Creating organizational culture that breathes, adapts, and grows]]** - Explores the organizational conditions that support this way of working
 - **[[03 CREATE/🌲 Evergreens/Educate Empower Advocate\|Educate Empower Advocate]]** - Shares the commitment to transformative, justice-oriented collaboration
 - **[[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]]** - Demonstrates how brave spaces enable the authentic vulnerability this Tao requires
 - **[[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]]** - Essential foundation for the "emotional exposure" that makes this work possible

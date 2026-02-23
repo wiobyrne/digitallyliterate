@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/security/","title":"Security","tags":["privacy","security","digital-resilience","cybersecurity"]}
+{"dg-publish":true,"dg-permalink":"security","permalink":"/security/","title":"Security","tags":["privacy","security","digital-resilience","cybersecurity"]}
 ---
 
 # Security

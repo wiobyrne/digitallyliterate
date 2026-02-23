@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/get-proximate/","title":"Get Proximate: The Transformative Power of Proximity in Social Change","tags":["empathy","community-engagement","community-building","social-impact","social-justice","proximity","human-dynamics","systemic-change","relationship-building","activism"]}
+{"dg-publish":true,"dg-permalink":"get-proximate","permalink":"/get-proximate/","title":"Get Proximate: The Transformative Power of Proximity in Social Change","tags":["empathy","community-engagement","community-building","social-impact","social-justice","proximity","human-dynamics","systemic-change","relationship-building","activism"]}
 ---
 
 

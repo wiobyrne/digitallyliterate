@@ -45,7 +45,7 @@ The [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Meth
 This theoretical foundation directly supports my approach in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] where I emphasize that learning involves "acquisition and construction of knowledge" through active engagement. The framework validates my use of questioning and challenging techniques.
 
 ## Connections to Existing Work
-- Complements [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] by providing theoretical foundation for why discomfort doesn't equal harm
+- Complements [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] by providing theoretical foundation for why discomfort doesn't equal harm
 - Links to [[02 DEVELOP/🌿 Plants/How Blockchain Technologies Inform My Pedagogy\|How Blockchain Technologies Inform My Pedagogy]] through emphasis on distributed knowledge construction
 
 ---

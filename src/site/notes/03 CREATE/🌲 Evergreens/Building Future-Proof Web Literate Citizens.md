@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/building-future-proof-web-literate-citizens/","title":"Building Future-Proof Web Literate Citizens","tags":["web-literacy","digital-resilience","data-literacy","privacy","security"]}
+{"dg-publish":true,"dg-permalink":"building-future-proof-web-literate-citizens","permalink":"/building-future-proof-web-literate-citizens/","title":"Building Future-Proof Web Literate Citizens","tags":["web-literacy","digital-resilience","data-literacy","privacy","security"]}
 ---
 
 # Building Future-Proof Web Literate Citizens

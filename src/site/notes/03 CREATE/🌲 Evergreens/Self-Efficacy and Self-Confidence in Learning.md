@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/self-efficacy-and-self-confidence-in-learning/","title":"Self-Efficacy and Self-Confidence in Learning","tags":["self-efficacy","self-confidence","educational-psychology","learning-theory","motivation","academic-performance","cognitive-development","mindset","expertise-development"]}
+{"dg-publish":true,"dg-permalink":"self-efficacy-and-self-confidence-in-learning","permalink":"/self-efficacy-and-self-confidence-in-learning/","title":"Self-Efficacy and Self-Confidence in Learning","tags":["self-efficacy","self-confidence","educational-psychology","learning-theory","motivation","academic-performance","cognitive-development","mindset","expertise-development"]}
 ---
 
 

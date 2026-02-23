@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/agency/","title":"Agency","tags":["agency","student-control","AI-literacy","authorship","decision-making","intentionality"]}
+{"dg-publish":true,"dg-permalink":"agency","permalink":"/agency/","title":"Agency","tags":["agency","student-control","AI-literacy","authorship","decision-making","intentionality"]}
 ---
 
 # Agency
@@ -45,12 +45,12 @@ This conceptualization of agency draws from:
 - Recognizing hallucinations or errors
 - Deciding what merits trust
 
-### 4. Agency over Final Product ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]])
+### 4. Agency over Final Product ([[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]])
 - Modifying, transforming, or rejecting AI text
 - Maintaining ownership of intellectual work
 - Ensuring human voice remains central
 
-### 5. Metacognitive Agency ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]])
+### 5. Metacognitive Agency ([[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]])
 - Articulating reasons for decisions
 - Reflecting on ethical dimensions
 - Positioning self as knowledge authority

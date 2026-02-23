@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/data-breach-need-to-know/","title":"Data Breach Need to Know","tags":["data-breach","data-security","privacy-laws","data-privacy"]}
+{"dg-publish":true,"dg-permalink":"data-breach-need-to-know","permalink":"/data-breach-need-to-know/","title":"Data Breach Need to Know","tags":["data-breach","data-security","privacy-laws","data-privacy"]}
 ---
 
 # Data Breach Need to Know

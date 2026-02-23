@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/networked-publics/","title":"Networked Publics","tags":["networked-publics","social-media","digital-culture","communication","social-networks","civic-engagement"]}
+{"dg-publish":true,"dg-permalink":"networked-publics","permalink":"/networked-publics/","title":"Networked Publics","tags":["networked-publics","social-media","digital-culture","communication","social-networks","civic-engagement"]}
 ---
 
 # Networked Publics

@@ -8,7 +8,7 @@ The Flow Map is Dr. Mihaly Csikszentmihalyi's framework for understanding where 
 
 ## Key Insights 
 # Flow Map
-The [[02 DEVELOP/🌿 Plants/Flow Map\|Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[02 DEVELOP/🌿 Plants/Flow\|Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
+The [[02 DEVELOP/🌿 Plants/Flow Map\|Flow Map]] is Dr. Mihaly Csikszentmihalyi's way to describe where [[03 CREATE/🌲 Evergreens/Flow\|Flow]] takes place in regards to the variables: Challenge and Skill. However he came about plotting the two variables against each, it's a landmark discovery. It's a lodestar to which I keep returning. It's the foundation much of my thinking and to my carving of that theory to practical, moment-to-moment application.
 
 ![Flow Zone Channel.jpg](/img/user/04%20META/%F0%9F%94%97%20Assets/Flow%20Zone%20Channel.jpg)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/emotionally-intelligent-workflows-a-framework/","title":"Authoritative Framework Title","tags":["emotional-intelligence","collaboration","work-culture","team-dynamics","communication","leadership","human-centered-design","learning-environments","values-alignment"]}
+{"dg-publish":true,"dg-permalink":"emotionally-intelligent-workflows-a-framework","permalink":"/emotionally-intelligent-workflows-a-framework/","title":"Authoritative Framework Title","tags":["emotional-intelligence","collaboration","work-culture","team-dynamics","communication","leadership","human-centered-design","learning-environments","values-alignment"]}
 ---
 
 
@@ -113,7 +113,7 @@ _Note: This framework emerges from ongoing experimentation with human-centered c
 
 This framework builds on and connects to several related ideas:
 
-- **[[03 CREATE/🌲 Evergreens/Creating organizational culture that breathes, adapts, and grows\|Creating organizational culture that breathes, adapts, and grows]]** - Provides the organizational context for implementing these workflows
+- **[[Creating organizational culture that breathes, adapts, and grows\|Creating organizational culture that breathes, adapts, and grows]]** - Provides the organizational context for implementing these workflows
 - **[[03 CREATE/🌲 Evergreens/Tao of Emotionally Intelligent Work\|Tao of Emotionally Intelligent Work]]** - Offers a philosophical foundation and manifesto for this approach
 - **[[03 CREATE/🌲 Evergreens/Educate Empower Advocate\|Educate Empower Advocate]]** - Shares the commitment to transformative, justice-oriented practice
 - **[[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]]** - Explores how to create spaces for brave, authentic collaboration

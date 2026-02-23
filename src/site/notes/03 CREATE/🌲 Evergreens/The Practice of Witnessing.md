@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/the-practice-of-witnessing/","title":"The Practice of Witnessing","tags":["witnessing","noticing","freire","equanimity","naming"]}
+{"dg-publish":true,"dg-permalink":"the-practice-of-witnessing","permalink":"/the-practice-of-witnessing/","title":"The Practice of Witnessing","tags":["witnessing","noticing","freire","equanimity","naming"]}
 ---
 
 

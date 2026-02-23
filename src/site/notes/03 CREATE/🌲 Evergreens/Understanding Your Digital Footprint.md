@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/understanding-your-digital-footprint/","title":"Understanding Your Digital Footprint","tags":["digital-resilience","digital-footprint"]}
+{"dg-publish":true,"dg-permalink":"understanding-your-digital-footprint","permalink":"/understanding-your-digital-footprint/","title":"Understanding Your Digital Footprint","tags":["digital-resilience","digital-footprint"]}
 ---
 
 # Understanding Your Digital Footprint 

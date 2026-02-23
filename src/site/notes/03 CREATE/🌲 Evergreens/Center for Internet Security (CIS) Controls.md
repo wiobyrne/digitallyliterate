@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/evergreens/center-for-internet-security-cis-controls/","title":"Center for Internet Security Controls","tags":["cybersecurity"]}
+{"dg-publish":true,"dg-permalink":"center-for-internet-security-cis-controls","permalink":"/center-for-internet-security-cis-controls/","title":"Center for Internet Security Controls","tags":["cybersecurity"]}
 ---
 
 # Center for Internet Security (CIS) Controls

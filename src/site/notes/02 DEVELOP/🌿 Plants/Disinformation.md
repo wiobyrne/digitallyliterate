@@ -417,7 +417,7 @@ Disinformation campaigns represent a key tactic in broader information warfare s
 
 ### Related Concepts
 - [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Broader strategic framework for information manipulation
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] - Critical skills for information evaluation and creation
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] - Critical skills for information evaluation and creation
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible participation in digital society
 - [[01 CONSUME/🔗 Web Clippings/Misinformation, Disinformation and Mal-information\|Misinformation, Disinformation and Mal-information]] - Comprehensive taxonomy
 - [[01 CONSUME/📹 Videos/The Disinformation Playbook\|The Disinformation Playbook]] - Tactical analysis of influence operations
