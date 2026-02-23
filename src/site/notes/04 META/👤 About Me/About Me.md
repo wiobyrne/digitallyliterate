@@ -29,6 +29,7 @@ If you're curious what I'm working through right now, see [[04 META/👤 About M
 
 - **Professional site + speaking**: [wiobyrne.com](https://wiobyrne.com)
 - **Newsletter**: [[03 CREATE/📧 Newsletter/📧 Newsletter\|Digitally Literate]] — weekly on digital literacy, education, and the open web
+- **Publications**: [[03 CREATE/📚 Publications/📚 Publications\|Full publication archive]]
 - **Background**: [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]]
 - **Say hello**: [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)
 

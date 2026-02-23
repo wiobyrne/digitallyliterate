@@ -225,9 +225,9 @@ The twilight zone quality of modern technology landscape—where platforms betra
 **🌱 Connected Concepts**:
 
 - [[Facebook Data Breach\|Facebook Data Breach]] — Security vulnerability affecting 50 million accounts exposed access tokens enabling account takeover with cascading implications for third-party sites using Facebook authentication in [[Platform Security\|Platform Security]].
-- [[Shadow Contact Info\|Shadow Contact Info]] — Facebook monetizing phone numbers provided for security plus contact information scraped from other users without consent reveals systematic privacy betrayal in [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]].
+- [[Shadow Contact Info\|Shadow Contact Info]] — Facebook monetizing phone numbers provided for security plus contact information scraped from other users without consent reveals systematic privacy betrayal in [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]].
 - [[Instagram Platform Changes\|Instagram Platform Changes]] — Founders [[Kevin Systrom\|Kevin Systrom]] and [[Mike Krieger\|Mike Krieger]] leaving after Facebook acquisition signals end of platform's independence and integration into parent company's priorities in [[Tech Consolidation\|Tech Consolidation]].
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] — Cable news hosts covering entirely different stories demonstrates fragmented information environment preventing shared factual foundation necessary for democratic discourse in [[Information Silos\|Information Silos]].
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] — Cable news hosts covering entirely different stories demonstrates fragmented information environment preventing shared factual foundation necessary for democratic discourse in [[Information Silos\|Information Silos]].
 - [[Password Management\|Password Management]] — Transition from cloud-based LastPass to algorithmic LessPass reflects tension between convenience and security with implications for trust and control in [[Digital Security\|Digital Security]].
 
 ---

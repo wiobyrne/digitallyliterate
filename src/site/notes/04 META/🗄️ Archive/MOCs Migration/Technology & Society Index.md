@@ -67,7 +67,7 @@ These recurring themes weave through the above MOCs:
 
 ### 📚 Literacy & Education  
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]  
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]  
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]  
 - [[Computational Thinking\|Computational Thinking]]  
 - [[Critical Digital Pedagogy\|Critical Digital Pedagogy]]
 

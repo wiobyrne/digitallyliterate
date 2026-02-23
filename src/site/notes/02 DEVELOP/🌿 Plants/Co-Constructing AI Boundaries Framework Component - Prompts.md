@@ -176,7 +176,7 @@ Prompt design reveals epistemic stance:
 
 - **← [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]:** Inputs provide context; prompts direct action
 - **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]:** Prompt quality influences output quality
-- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** High-demand prompts may yield more useful outputs
+- **→ [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** High-demand prompts may yield more useful outputs
 
 ---
 

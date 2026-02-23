@@ -132,7 +132,7 @@ Input decisions reveal epistemic stance:
 
 - **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]:** Inputs establish context; prompts direct interaction
 - **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]:** Quality of inputs influences output quality
-- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** Source selection affects what students integrate
+- **→ [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** Source selection affects what students integrate
 
 ---
 

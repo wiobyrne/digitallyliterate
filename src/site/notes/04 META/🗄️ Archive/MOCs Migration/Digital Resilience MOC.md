@@ -42,7 +42,7 @@ This section provides a comprehensive overview of privacy and security considera
 - [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]] 🔹📘  
 - [[Personal Data\|Personal Data]] 🔹📘  
 - [[02 DEVELOP/🌿 Plants/Digital Footprint\|Digital Footprint]] 🔹📘  
-- [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]] 🔸🧩  
+- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] 🔸🧩  
 - [[Platform Power\|Platform Power]] 🔸🧩  
 - [[Algorithmic Transparency\|Algorithmic Transparency]] 🔸🧩  
 - [[Consent in Digital Spaces\|Consent in Digital Spaces]] 🔹🪜  
@@ -72,7 +72,7 @@ This section delves into the psychological and social impacts of technology, exa
 This section equips you with the tools to critically evaluate information online, identify manipulative tactics, and navigate the complex landscape of misinformation.
 
 - [[Misinformation vs Disinformation\|Misinformation vs Disinformation]] 🔹📘  
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] 🔹🪜  
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] 🔹🪜  
 - [[Algorithmic Amplification\|Algorithmic Amplification]] 🔸🧩  
 - [[Echo Chambers and Filter Bubbles\|Echo Chambers and Filter Bubbles]] 🔹🧩  
 - [[Deepfakes and Synthetic Media\|Deepfakes and Synthetic Media]] 🔸🛠️  

@@ -326,7 +326,7 @@ Moving from chronological to networked publishing means:
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/History of Digital Gardens\|History of Digital Gardens]] – How we got here
+- [[03 CREATE/🌲 Evergreens/History of Digital Gardens\|History of Digital Gardens]] – How we got here
 - [[Blog Evolution and Platform Dynamics\|Blog Evolution and Platform Dynamics]] – Broader context
 - [[02 DEVELOP/🌿 Plants/Information Architecture\|Information Architecture]] – Organizing knowledge
 - [[Garden vs Stream Metaphor\|Garden vs Stream Metaphor]] – Conceptual framework

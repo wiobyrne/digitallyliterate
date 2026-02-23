@@ -15,8 +15,8 @@ Internet culture encompasses the norms, practices, and patterns of meaning-makin
 
 ### Cultural Analysis
 - **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** - Foundation for critical engagement with online spaces
-- **[[02 DEVELOP/🌱 Seeds/Archive/Merged/Extremely Online Culture\|Extremely Online Culture]]** - When internet participation becomes primary identity
-- **[[02 DEVELOP/🌱 Seeds/Digital Identity Construction\|Digital Identity Construction]]** - How people build identity through digital participation
+- **[[02 DEVELOP/🌱 Seeds/Archive/Extremely Online Culture\|Extremely Online Culture]]** - When internet participation becomes primary identity
+- **[[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]]** - How people build identity through digital participation
 - **[[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]]** - Framework for understanding levels of internet participation
 - **[[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]]** - Identity construction through digital sharing
 
@@ -26,9 +26,9 @@ Internet culture encompasses the norms, practices, and patterns of meaning-makin
 - **[[02 DEVELOP/🌿 Plants/Misinformation\|Misinformation]]** - Information warfare in digital environments
 
 ### Platform and Communication Studies
-- **[[02 DEVELOP/🌱 Seeds/Platform Culture Analysis\|Platform Culture Analysis]]** - How platform architectures shape cultural norms
-- **[[02 DEVELOP/🌱 Seeds/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]]** - Cultural communication through digital artifacts
-- **[[02 DEVELOP/🌱 Seeds/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]]** - One-sided emotional connections online
+- **[[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]]** - How platform architectures shape cultural norms
+- **[[02 DEVELOP/🌿 Plants/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]]** - Cultural communication through digital artifacts
+- **[[02 DEVELOP/🌿 Plants/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]]** - One-sided emotional connections online
 
 ---
 
@@ -110,13 +110,13 @@ Internet culture encompasses the norms, practices, and patterns of meaning-makin
 1. **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** - Foundation concepts and critical thinking skills
 2. **[[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]]** - Understanding levels of internet participation
 3. **[[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]]** - Basic framework for digital identity
-4. **[[02 DEVELOP/🌱 Seeds/Archive/Merged/Extremely Online Culture\|Extremely Online Culture]]** - Recognition of deep internet engagement patterns
+4. **[[02 DEVELOP/🌱 Seeds/Archive/Extremely Online Culture\|Extremely Online Culture]]** - Recognition of deep internet engagement patterns
 
 ### 🔸 Intermediate: Analyzing Cultural Dynamics  
-5. **[[02 DEVELOP/🌱 Seeds/Platform Culture Analysis\|Platform Culture Analysis]]** - How different platforms shape behavior and norms
-6. **[[02 DEVELOP/🌱 Seeds/Digital Identity Construction\|Digital Identity Construction]]** - Psychology and mechanisms of online identity formation
-7. **[[02 DEVELOP/🌱 Seeds/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]]** - Understanding digital communication and cultural production
-8. **[[02 DEVELOP/🌱 Seeds/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]]** - One-sided connections and their implications
+5. **[[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]]** - How different platforms shape behavior and norms
+6. **[[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]]** - Psychology and mechanisms of online identity formation
+7. **[[02 DEVELOP/🌿 Plants/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]]** - Understanding digital communication and cultural production
+8. **[[02 DEVELOP/🌿 Plants/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]]** - One-sided connections and their implications
 9. **[[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]]** - Power dynamics and intersectional analysis
 10. **[[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]]** - Coordinated manipulation case study
 

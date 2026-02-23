@@ -101,16 +101,16 @@ Practical tools for taking back control:
 
 ## Seeds (Foundational Concepts)
 
-- [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy matters
-- [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
-- [[02 DEVELOP/🌱 Seeds/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions
-- [[02 DEVELOP/🌱 Seeds/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — The expanding data dragnet
-- [[02 DEVELOP/🌱 Seeds/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI leaves out
+- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy matters
+- [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
+- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions
+- [[02 DEVELOP/🌿 Plants/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — The expanding data dragnet
+- [[02 DEVELOP/🌿 Plants/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI leaves out
 - [[02 DEVELOP/🌱 Seeds/Literacy Technology and Social Justice\|Literacy Technology and Social Justice]] — Critical lens on digital spaces
-- [[02 DEVELOP/🌱 Seeds/21st Century Educational Justice\|21st Century Educational Justice]] — Educators in today's civil rights struggle
+- [[02 DEVELOP/🌿 Plants/21st Century Educational Justice\|21st Century Educational Justice]] — Educators in today's civil rights struggle
 - [[02 DEVELOP/🌱 Seeds/Generative AI and Identity\|Generative AI and Identity]] — How AI challenges notions of self
-- [[02 DEVELOP/🌱 Seeds/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Navigating change without paralysis
-- [[02 DEVELOP/🌱 Seeds/Building Educator Advocacy Networks\|Building Educator Advocacy Networks]] — Organizing for educational justice
+- [[02 DEVELOP/🌿 Plants/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Navigating change without paralysis
+- [[02 DEVELOP/🌿 Plants/Building Educator Advocacy Networks\|Building Educator Advocacy Networks]] — Organizing for educational justice
 
 ---
 

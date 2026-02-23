@@ -96,8 +96,8 @@ These five questions prevent most of the problems that cause harm in group digit
 
 ## Foundational Concepts
 
-- [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Why the channel matters, not just the content
-- [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Group norms as collective power
+- [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Why the channel matters, not just the content
+- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Group norms as collective power
 
 ---
 

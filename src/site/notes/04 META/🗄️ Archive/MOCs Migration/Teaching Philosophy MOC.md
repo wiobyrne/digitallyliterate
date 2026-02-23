@@ -31,7 +31,7 @@
 
 ### 🛠️ Practical Implementation
 - [[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]] - Managing psychological and ethical concerns
-- [[02 DEVELOP/🌱 Seeds/Student Response Management\|Student Response Management]] - Handling discomfort and confusion as learning indicators
+- [[02 DEVELOP/🌿 Plants/Student Response Management\|Student Response Management]] - Handling discomfort and confusion as learning indicators
 - [[Assessment Philosophy and Approaches\|Assessment Philosophy and Approaches]] - Evaluating learning in complex environments
 - [[Reflection and Metacognition Frameworks\|Reflection and Metacognition Frameworks]] - Building self-aware learners
 
@@ -41,7 +41,7 @@
 My comprehensive [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] provides the overarching framework that connects these theoretical and practical elements into a coherent educational approach.
 
 ## Related Educational Critiques
-- [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - Analysis of how progressive approaches can perpetuate harm
+- [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] - Analysis of how progressive approaches can perpetuate harm
 - [[02 DEVELOP/🌿 Plants/How Blockchain Technologies Inform My Pedagogy\|How Blockchain Technologies Inform My Pedagogy]] - Technology integration considerations
 
 ## Key Connections
@@ -57,8 +57,8 @@ My comprehensive [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosoph
 ## 🌲 Evergreen Notes
 
 ### AI in Education
-- [[03 CREATE/🌲 Evergreens/AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] - Framework for human-AI boundary work in learning
-- [[02 DEVELOP/🌱 Seeds/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] - Human-in-the-loop prompts, activities, and classroom practices
+- [[AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] - Framework for human-AI boundary work in learning
+- [[02 DEVELOP/🌿 Plants/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] - Human-in-the-loop prompts, activities, and classroom practices
 - [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] - Beyond detection tools to meaningful assessment
 - [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] - Bentoism, contingency, and evaluating AI claims
 - [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] - Identity and subjectivity in the age of generative AI

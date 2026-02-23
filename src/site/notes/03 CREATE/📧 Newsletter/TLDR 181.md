@@ -133,7 +133,7 @@ Building your best self requires daily determination not one-time transformation
 
 **🌱 Connected Concepts**:
 
-- [[10 Year Challenge Facial Recognition\|10 Year Challenge Facial Recognition]] — [[Kate O'Neill\|Kate O'Neill]] questioning whether viral meme serves dual purpose training age-progression algorithms while strengthening user bonds through nostalgia in [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]].
+- [[10 Year Challenge Facial Recognition\|10 Year Challenge Facial Recognition]] — [[Kate O'Neill\|Kate O'Neill]] questioning whether viral meme serves dual purpose training age-progression algorithms while strengthening user bonds through nostalgia in [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]].
 - [[773 Million Breach\|773 Million Breach]] — Collection 1 breach containing plaintext passwords demonstrates why password reuse catastrophic requiring unique passwords and breach monitoring through [[Have I Been Pwned\|Have I Been Pwned]] in [[Cybersecurity\|Cybersecurity]].
 - [[Social Connectedness Geography\|Social Connectedness Geography]] — Facebook research mapping county friend connections reveals geography's enduring influence in digital era replicating rather than eliminating physical proximity patterns in [[Social Networks\|Social Networks]].
 - [[AOC Social Media Authenticity\|AOC Social Media Authenticity]] — [[Alexandria Ocasio-Cortez\|Alexandria Ocasio-Cortez]] social media effectiveness from rejecting performative professionalism for actual personality treating platforms as conversation not broadcast in [[Political Communication\|Political Communication]].

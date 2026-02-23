@@ -143,7 +143,7 @@ Salvador Dali: Intelligence without ambition is a bird without wings. Jane McGon
 - **[[BadgeChain\|BadgeChain]]** — Post was shared and discussed in our BadgeChain workgroup, blockchain technologies excitement.
 - **[[Blockchain\|Blockchain]]** — Jane's thoughts about blockchain technologies most exciting part of futurist keynote.
 - **[[AlphaGo\|AlphaGo]]** — Google's AI computing system pitted against Lee Sedol in game of Go, up two games to nothing.
-- **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — My takeaway the game of Go is not only moves and algorithms but also intimidation, computer didn't get confused upset or felt beaten constantly adapted looked for new solutions.
+- **[[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]** — My takeaway the game of Go is not only moves and algorithms but also intimidation, computer didn't get confused upset or felt beaten constantly adapted looked for new solutions.
 - **[[Big Data\|Big Data]]** — MIT Technology Review possible uses to help doctors avoid making mistakes, preventative as well as curative.
 - **[[Healthcare\|Healthcare]]** — Doctors use app to add patient's vitals and partial out possible symptoms complications treatments.
 - **[[Stephen Wolfram\|Stephen Wolfram]]** — Scientist author inventor Wolfram|Alpha and Mathematica, it won't all be bad as machines and AI get smarter hopefully.

@@ -131,7 +131,7 @@ By the end of the workshop, participants will have:
 
 ## Related
 
-- [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The technology in context
+- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] — The technology in context
 - [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogical approach
 - [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]] — Equity lens
 - [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Sustainable tech practices

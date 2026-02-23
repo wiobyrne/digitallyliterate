@@ -184,7 +184,7 @@ Anaïs Nin: You live out the confusions until they become clear. Robots and priv
 - **[[Neuroscience\|Neuroscience]]** — How the brain dumps its trash waste-removal system, brain dumps 1.5 kilograms of waste per year equivalent to its own weight.
 - **[[Glymphatic System\|Glymphatic System]]** — New findings suggest responsible for carrying and cleaning out brain waste, Dr. Maiken Nedergard keynote.
 - **[[Future of Professions\|Future of Professions]]** — Richard and Daniel Susskind book, increasingly capable systems from telepresence to artificial intelligence.
-- **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — Fundamental change in the way practical expertise of specialists is made available in society.
+- **[[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]** — Fundamental change in the way practical expertise of specialists is made available in society.
 - **[[Raspberry Pi\|Raspberry Pi]]** — Routine favorite here on TL;DR and in my own house, new Raspberry Pi 3 looks awesome.
 
 ---

@@ -131,7 +131,7 @@ The first principle is that you must not fool yourself and you are the easiest p
 - **[[Podcasts\|Podcasts]]** — Deep dive series continues with finding talent content audio and recording your podcast.
 - **[[School of Life\|School of Life]]** — Perfect advice on art of listening, people say be a good listener but no one taught us how.
 - **[[Algorithms\|Algorithms]]** — Humans write the code that makes algorithms function, constantly tweaking for better user response.
-- **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — Jill Watson AI teaching assistant at Georgia Tech answers low level questions using IBM Watson.
+- **[[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]** — Jill Watson AI teaching assistant at Georgia Tech answers low level questions using IBM Watson.
 - **[[Wikipedia\|Wikipedia]]** — Volunteer editors motivated by community built in the endeavor, fascinating Talk page discourse.
 - **[[Neuroscience\|Neuroscience]]** — Synaptic pruning takes out the trash while you sleep, brain as garden with glial cells as gardeners.
 - **[[Open Educational Resources\|Open Educational Resources]]** — TTT episode on why districts should consider using OER in classrooms.

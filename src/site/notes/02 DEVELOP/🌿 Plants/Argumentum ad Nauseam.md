@@ -58,7 +58,7 @@ The **attention economy** and **algorithmic amplification** make this fallacy pa
     
 - [[02 DEVELOP/🌿 Plants/Sealioning\|Sealioning]]
     
-- [[02 DEVELOP/🌿 Plants/Gish Gallop\|Gish Gallop]]
+- [[03 CREATE/🌲 Evergreens/Gish Gallop\|Gish Gallop]]
     
 - [[Moving the Goalposts\|Moving the Goalposts]]
     

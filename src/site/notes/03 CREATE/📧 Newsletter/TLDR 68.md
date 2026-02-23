@@ -149,7 +149,7 @@ It is a rough road that leads to the heights of greatness.
 - **[[Open Education\|Open Education]]** — Robin DeRosa on open access resources and pedagogy, good primer for open as attitude unpacking strands.
 - **[[Creative Commons\|Creative Commons]]** — Alan Levine CC0 flickr images, my license of choice CC BY-SA give credit share what you create.
 - **[[Domain of One's Own\|Domain of One's Own]]** — Lee Skallerup Bessette resources and schools experimenting, I'll have column in JAAL interviews for podcast terribly exciting.
-- **[[02 DEVELOP/🌱 Seeds/Stoicism\|Stoicism]]** — Week 2016 posts on Seneca practicing what you preach, Epictetus and Marcus Aurelius on control, examining impressions.
+- **[[03 CREATE/🌲 Evergreens/Stoicism\|Stoicism]]** — Week 2016 posts on Seneca practicing what you preach, Epictetus and Marcus Aurelius on control, examining impressions.
 - **[[BadgeChain\|BadgeChain]]** — Vertical teams open organizational structure, planning to open up organization bit more for next year.
 - **[[Alan Levine\|Alan Levine]]** — Moving flickr images to CC0 public domain, responses from Doug Belshaw and Maha Bali on attribution privilege.
 - **[[Robin DeRosa\|Robin DeRosa]]** — Video on open education access resources pedagogy, everything you need to know about open.

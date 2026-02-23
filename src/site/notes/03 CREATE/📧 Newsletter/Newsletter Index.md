@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/newsletter/newsletter-index/","title":"Newsletter Index","tags":["newsletter","index","digitally-literate"]}
+{"dg-publish":true,"dg-permalink":"/newsletter/","permalink":"/newsletter/","title":"Newsletter Index","tags":["newsletter","index","digitally-literate"]}
 ---
 
 

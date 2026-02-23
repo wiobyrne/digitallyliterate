@@ -35,7 +35,7 @@ These seeds and evergreens define the landscape.
 
 - [[03 CREATE/🌲 Evergreens/AI Illiteracy\|AI Illiteracy]] 🌲 — What it looks like when people can't critically evaluate AI: misplaced trust, invisible bias, unchecked automation
 - [[02 DEVELOP/🌱 Seeds/Big Five Ideas in AI\|Big Five Ideas in AI]] 🌱 — Perception, representation, learning, natural interaction, societal impact — the educational framework
-- [[02 DEVELOP/🌱 Seeds/Frame Problem in AI\|Frame Problem in AI]] 🌱 — Why AI can't tell what's relevant and why that matters for everything from self-driving cars to essay graders
+- [[02 DEVELOP/🌿 Plants/Frame Problem in AI\|Frame Problem in AI]] 🌱 — Why AI can't tell what's relevant and why that matters for everything from self-driving cars to essay graders
 - [[03 CREATE/🌲 Evergreens/Bias in AI\|Bias in AI]] 🌲 — Systematic discrimination baked into training data and algorithms, from healthcare to criminal justice
 - [[02 DEVELOP/🌿 Plants/AI and Emergent Behavior\|AI and Emergent Behavior]] 🌿 — How simple rules at scale produce complex behavior — flocking birds, ant colonies, and LLMs
 - [[02 DEVELOP/🌿 Plants/AI Classification Matrix\|AI Classification Matrix]] 🌿 — A 2x2 taxonomy: narrow vs. general, basic vs. advanced — helps people place what they're actually using
@@ -46,9 +46,9 @@ These seeds and evergreens define the landscape.
 
 The central question: who's in charge — you or the model?
 
-- [[03 CREATE/🌲 Evergreens/AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] 🌲 — Research framework on how humans negotiate control with AI. Distinguishes "orchestrators" (high agency, active boundaries) from "outsourcers" (passive delegation)
-- [[02 DEVELOP/🌱 Seeds/AI Boundary Work and Agency\|AI Boundary Work and Agency]] 🌱 — Explores friction as a feature, not a bug — active boundary-setting as a practice of agency
-- [[02 DEVELOP/🌱 Seeds/Cognitive Amplification with AI\|Cognitive Amplification with AI]] 🌱 — Human-in-the-loop design focused on amplifying wisdom, not just speed. The case for productive friction.
+- [[AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] 🌲 — Research framework on how humans negotiate control with AI. Distinguishes "orchestrators" (high agency, active boundaries) from "outsourcers" (passive delegation)
+- [[02 DEVELOP/🌿 Plants/AI Boundary Work and Agency\|AI Boundary Work and Agency]] 🌱 — Explores friction as a feature, not a bug — active boundary-setting as a practice of agency
+- [[02 DEVELOP/🌿 Plants/Cognitive Amplification with AI\|Cognitive Amplification with AI]] 🌱 — Human-in-the-loop design focused on amplifying wisdom, not just speed. The case for productive friction.
 - [[02 DEVELOP/🌱 Seeds/AI and Human Identity 2035\|AI and Human Identity 2035]] 🌱 — What happens to empathy, creativity, and agency when AI partnerships deepen? Speculative but grounded
 
 ---
@@ -63,7 +63,7 @@ Practical frameworks for teaching with and about AI.
 - [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] 🌲 — Applies Bentoism (Now Me/Us, Future Me/Us) to AI decisions. Centers structural interests over individual adoption.
 - [[AI Pedagogical Mastery - Educational Advantage\|AI Pedagogical Mastery - Educational Advantage]] 🌿 — Educators have a hidden superpower: scaffolding, assessment, metacognition all multiply AI interaction quality
 - [[AI Communication Mastery - Linguistic Advantage\|AI Communication Mastery - Linguistic Advantage]] 🌿 — Linguistic sophistication creates compound advantages in AI interaction through semantic precision
-- [[02 DEVELOP/🌱 Seeds/AI Ethics in Education Policy\|AI Ethics in Education Policy]] 🌱 — Framework for transparent, trust-based AI use in courses with disclosure and reflection requirements
+- [[02 DEVELOP/🌿 Plants/AI Ethics in Education Policy\|AI Ethics in Education Policy]] 🌱 — Framework for transparent, trust-based AI use in courses with disclosure and reflection requirements
 
 ---
 
@@ -72,10 +72,10 @@ Practical frameworks for teaching with and about AI.
 Where AI literacy becomes a safety issue.
 
 - [[02 DEVELOP/🌿 Plants/AI Safety Spending Gap\|AI Safety Spending Gap]] 🌿 — Frontier labs spend billions on capability. All U.S. safety orgs combined: $133M. The structural imbalance driving everything below.
-- [[03 CREATE/🌲 Evergreens/AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]] 🌲 — Risk-based regulation, sectoral approaches, and accountability mechanisms. The policy alternative to panic.
+- [[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]] 🌲 — Risk-based regulation, sectoral approaches, and accountability mechanisms. The policy alternative to panic.
 - [[03 CREATE/🌲 Evergreens/AI Geopolitics and the Open Model Question\|AI Geopolitics and the Open Model Question]] 🌲 — Open vs. closed models as an infrastructure control issue. Who owns the compute?
 - [[Best Available Human Standard - Pragmatic Framework\|Best Available Human Standard - Pragmatic Framework]] 🌲 — Evaluate AI against actual available human resources, not idealized experts. A pragmatic lens.
-- [[02 DEVELOP/🌱 Seeds/Cheating Tension - Moral Ambiguity in AI Use\|Cheating Tension - Moral Ambiguity in AI Use]] 🌱 — Student guilt around AI use. The gap between policy and embodied practice.
+- [[02 DEVELOP/🌿 Plants/Cheating Tension - Moral Ambiguity in AI Use\|Cheating Tension - Moral Ambiguity in AI Use]] 🌱 — Student guilt around AI use. The gap between policy and embodied practice.
 
 ---
 
@@ -95,7 +95,7 @@ The philosophical undercurrent.
 Concepts that connect to this Grove but live elsewhere in the vault.
 
 ### Technical Foundations
-- [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The umbrella concept
+- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] — The umbrella concept
 - [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]] / [[02 DEVELOP/🌿 Plants/Deep Learning\|Deep Learning]] / [[02 DEVELOP/🌿 Plants/Neural Networks\|Neural Networks]] — How AI systems actually work
 - [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] / [[Large Language Models (LLMs)\|Large Language Models (LLMs)]] — The technology behind ChatGPT and its successors
 - [[02 DEVELOP/🌿 Plants/Generative AI\|Generative AI]] — Models that create text, images, code

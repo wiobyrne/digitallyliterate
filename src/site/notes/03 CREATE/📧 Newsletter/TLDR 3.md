@@ -91,7 +91,7 @@ Davidson's argument resonates across this issue's threads—from rethinking how 
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]** — Screen reading science, xMOOC critique, Reddit governance
+- **[[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]** — Screen reading science, xMOOC critique, Reddit governance
 - **[[Pedagogy\|Pedagogy]]** — Davidson on pedagogy-first, character education critique, open badges
 - **[[Digital Wellbeing\|Digital Wellbeing]]** — Mindfulness apps, meditation practice, web literacy
 - **[[Privacy Rights\|Privacy Rights]]** — Platform power, community control, AI visualization

@@ -73,10 +73,10 @@ It's about **staying strong in a digital world, together**.
 
 ## Foundational Concepts
 
-- [[02 DEVELOP/🌱 Seeds/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions for your situation
-- [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Understanding the three layers of protection
-- [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why this matters
-- [[02 DEVELOP/🌱 Seeds/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Navigating change without being paralyzed
+- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions for your situation
+- [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Understanding the three layers of protection
+- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why this matters
+- [[02 DEVELOP/🌿 Plants/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Navigating change without being paralyzed
 
 ---
 
@@ -101,7 +101,7 @@ Concepts that connect to digital resilience across the vault.
 - [[Platform Design and Manipulation\|Platform Design and Manipulation]] / [[Addiction by Design\|Addiction by Design]] — How apps exploit psychology
 
 ### Misinformation
-- [[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]] — The core skill for navigating information ecosystems
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] — The core skill for navigating information ecosystems
 - [[Misinformation vs Disinformation\|Misinformation vs Disinformation]] — Knowing the difference matters
 - [[Echo Chambers and Filter Bubbles\|Echo Chambers and Filter Bubbles]] — How algorithms narrow worldview
 - [[Deepfakes and Synthetic Media\|Deepfakes and Synthetic Media]] / [[AI-Generated Misinformation\|AI-Generated Misinformation]] — The new frontier

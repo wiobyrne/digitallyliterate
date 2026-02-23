@@ -102,10 +102,10 @@ The goal isn't to automate thinking away. It's to augment human cognitive capabi
 
 ## Related
 
-- [[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]] — The technology
+- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] — The technology
 - [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — Choosing how we engage
 - [[02 DEVELOP/🌿 Plants/Generative AI and Identity\|Generative AI and Identity]] — Who we become with AI
-- [[02 DEVELOP/🌱 Seeds/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI can't capture
+- [[02 DEVELOP/🌿 Plants/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI can't capture
 
 ---
 

@@ -60,12 +60,12 @@ Education as **tool for liberation and social transformation**. Critiques tradit
 This framework directly supports my emphasis in [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] on "amplifying marginalized voices," "questioning power structures," and "developing critical perspectives on educational equity and justice."
 
 ## Critical Examination
-My analysis in [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] reveals how this framework can be misused to avoid accountability. The key is ensuring the framework serves students rather than protecting institutional/teacher interests.
+My analysis in [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] reveals how this framework can be misused to avoid accountability. The key is ensuring the framework serves students rather than protecting institutional/teacher interests.
 
 ---
 
 ## Key Connections
 - Links to [[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]] through questioning approach
-- Supports [[02 DEVELOP/🌱 Seeds/Student Response Management\|Student Response Management]] by normalizing intellectual challenge
+- Supports [[02 DEVELOP/🌿 Plants/Student Response Management\|Student Response Management]] by normalizing intellectual challenge
 - Informs [[Classroom Environment Building\|Classroom Environment Building]] for psychological safety
 - Connects to [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]] as tool for challenging assumptions

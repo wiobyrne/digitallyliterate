@@ -131,7 +131,7 @@ W. B. Yeats: The world is full of magic things, patiently waiting for our sense 
 - **[[Great Firewall of China\|Great Firewall of China]]** — Reality check that we can't assume everything is the same for everyone.
 - **[[Amy Burvall\|Amy Burvall]]** — Sketched all illustrations for David Kipping interview, creativity and expression in content creation.
 - **[[Credentials\|Credentials]]** — ACE report on quality dimensions for connected credentials, Doug Belshaw synthesis.
-- **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — Poets flocking to Silicon Valley to make AI sound smart savvy and authentic.
+- **[[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]** — Poets flocking to Silicon Valley to make AI sound smart savvy and authentic.
 - **[[Curation\|Curation]]** — Candy Chrome extension for curating content, consumers to curators to creators.
 
 ---

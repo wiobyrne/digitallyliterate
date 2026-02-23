@@ -124,7 +124,7 @@ Whenever a thing is done for the first time, it releases a little demon.
 
 - **[[Podcasts\|Podcasts]]** — Deep dive continues with recording and editing podcast content getting ready to share.
 - **[[MinuteEarth\|MinuteEarth]]** — Must-subscribe YouTube channel making complex ideas simple with specific approachable style.
-- **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — Training computers like dogs instead of programming them, terribly fascinating future perspective.
+- **[[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]** — Training computers like dogs instead of programming them, terribly fascinating future perspective.
 - **[[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]** — Americans performing fewer online transactions due to privacy and security fears, Post-Snowden chilling effects.
 - **[[Snapchat\|Snapchat]]** — Authentic self-expression away from fave-based economies, mundanity of regular lives is most captivating.
 - **[[Learning Theory\|Learning Theory]]** — Dr. Seuss and lexical density in learning to read, Emily Dickinson's backyard laboratory as naturalist.

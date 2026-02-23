@@ -34,4 +34,4 @@ Most digital platforms operate on business models that profit from capturing and
 ## **Related Terms**
 - "[[03 CREATE/🌲 Evergreens/Attention\|Attention]]"
 - "[[Digital Wellness\|Digital Wellness]]"
-- "[[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]]"
+- "[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]"

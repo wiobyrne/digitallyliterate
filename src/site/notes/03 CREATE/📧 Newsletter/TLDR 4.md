@@ -101,7 +101,7 @@ Prensky's framing moves us beyond the tired "digital native" debate toward somet
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]** — Web literacy map, digital wisdom, TED Ed curation
+- **[[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]** — Web literacy map, digital wisdom, TED Ed curation
 - **[[Privacy Rights\|Privacy Rights]]** — Sharenting, children's digital footprints, consent
 - **[[Pedagogy\|Pedagogy]]** — Agile methodology in education, digital badges, multimodal tutorials
 - **[[Digital Wellbeing\|Digital Wellbeing]]** — Text-to-speech accessibility, readability tools

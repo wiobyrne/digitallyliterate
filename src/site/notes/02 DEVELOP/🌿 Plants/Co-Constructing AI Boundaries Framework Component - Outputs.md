@@ -192,8 +192,8 @@ Output evaluation reveals epistemic stance:
 ## Relationship to Other Framework Components
 
 - **← [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]:** Prompt quality influences output quality
-- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** Output evaluation determines integration approach
-- **→ [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]:** Students may reflect on output problems
+- **→ [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]:** Output evaluation determines integration approach
+- **→ [[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]:** Students may reflect on output problems
 
 ---
 

@@ -89,7 +89,7 @@ This line from the Google audio surveillance story captures the newsletter's fou
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]** — Understanding device surveillance, MOOC debates, digital activism
+- **[[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]** — Understanding device surveillance, MOOC debates, digital activism
 - **[[Privacy Rights\|Privacy Rights]]** — Google audio capture, devices listening without consent
 - **[[Pedagogy\|Pedagogy]]** — Sesame Street education research, coding as essential skill
 - **[[Civic Engagement\|Civic Engagement]]** — Confederate flag digital protest, marriage equality

@@ -128,7 +128,7 @@ Nothing could be more absurd than computers in a classroom where nothing else is
 - **[[Constructionism\|Constructionism]]** — Papert Paradox, cited less frequently as world achieves his vision, ideas seem less novel.
 - **[[EdTech Integration\|EdTech Integration]]** — Andrew Marcinek ending EdTech as additive, thread through school fabric not focal point.
 - **[[01 CONSUME/👥 People/John Dewey\|John Dewey]]** — Kristen Mattson on digital citizenship, learners interact and experience multiple perspectives as community members.
-- **[[02 DEVELOP/🌿 Plants/Artificial Intelligence\|Artificial Intelligence]]** — Digital copies of ourselves, digital residue creating AI versions, journalism written by bots.
+- **[[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]** — Digital copies of ourselves, digital residue creating AI versions, journalism written by bots.
 
 ---
 

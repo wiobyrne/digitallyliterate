@@ -57,7 +57,7 @@ Emotional intelligence at scale.
 
 - [[03 CREATE/🌲 Evergreens/Emotionally Intelligent Workflows A Framework\|Emotionally Intelligent Workflows A Framework]] — How workflows can embody care
 - [[03 CREATE/🌲 Evergreens/Tao of Emotionally Intelligent Work\|Tao of Emotionally Intelligent Work]] — A shared framework for teams
-- [[03 CREATE/🌲 Evergreens/Creating organizational culture that breathes, adapts, and grows\|Creating organizational culture that breathes, adapts, and grows]] — Living systems, not rigid structures
+- [[Creating organizational culture that breathes, adapts, and grows\|Creating organizational culture that breathes, adapts, and grows]] — Living systems, not rigid structures
 - [[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]] — What it takes to hold honest space together
 - [[Psychological Safety\|Psychological Safety]] — The precondition for everything else
 - [[Distributed Leadership\|Distributed Leadership]] — Sharing power without losing direction

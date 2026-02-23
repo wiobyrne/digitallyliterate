@@ -63,8 +63,8 @@ Most people don't need "full" sovereignty. Even small steps matter.
 
 ## Why Surveillance Matters
 
-- [[02 DEVELOP/🌱 Seeds/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — The expanding data dragnet in schools
-- [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Data is power, and it matters who holds it
+- [[02 DEVELOP/🌿 Plants/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — The expanding data dragnet in schools
+- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Data is power, and it matters who holds it
 
 ---
 

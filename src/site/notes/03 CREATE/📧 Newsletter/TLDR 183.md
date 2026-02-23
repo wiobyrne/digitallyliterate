@@ -120,7 +120,7 @@ Manson's action-oriented philosophy challenges analysis paralysis plaguing digit
 
 **🌱 Connected Concepts**:
 
-- [[Facebook Teen VPN Scandal\|Facebook Teen VPN Scandal]] — Facebook paying users 13-35 $20 monthly for total phone surveillance through VPN until Apple blocked revealing systematic spying pattern in [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]].
+- [[Facebook Teen VPN Scandal\|Facebook Teen VPN Scandal]] — Facebook paying users 13-35 $20 monthly for total phone surveillance through VPN until Apple blocked revealing systematic spying pattern in [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]].
 - [[Zuckerberg Tailored Ads Delusion\|Zuckerberg Tailored Ads Delusion]] — [[Joseph Turow\|Joseph Turow]] [[Chris Jay Hoofnagle\|Chris Jay Hoofnagle]] research showing users don't want personalized ads contradicting Facebook's value exchange narrative justifying surveillance in [[Advertising Ethics\|Advertising Ethics]].
 - [[Adolescent Wellbeing Screentime\|Adolescent Wellbeing Screentime]] — Study of 355,358 adolescents showing screentime explains less than 0.4% of depression demolishing panic and revealing flawed previous research in [[Media Effects\|Media Effects]].
 - [[AI Labor Integration\|AI Labor Integration]] — [[Alexandra Mateescu\|Alexandra Mateescu]] [[Madeleine Clare Elish\|Madeleine Clare Elish]] examining how automation requires human infrastructures where workers make work machine-legible absorbing adjustment costs in [[Future of Work\|Future of Work]].

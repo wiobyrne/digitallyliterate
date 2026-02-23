@@ -23,8 +23,8 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 
 ### Cultural Analysis
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation for critical engagement with online spaces
-- [[02 DEVELOP/🌱 Seeds/Archive/Merged/Extremely Online Culture\|Extremely Online Culture]] — When internet participation becomes primary identity
-- [[02 DEVELOP/🌱 Seeds/Digital Identity Construction\|Digital Identity Construction]] — How people build identity through digital participation
+- [[02 DEVELOP/🌱 Seeds/Archive/Extremely Online Culture\|Extremely Online Culture]] — When internet participation becomes primary identity
+- [[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]] — How people build identity through digital participation
 - [[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Framework for understanding levels of internet participation
 - [[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]] — Identity construction through digital sharing
 
@@ -34,9 +34,9 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 - [[02 DEVELOP/🌿 Plants/Misinformation\|Misinformation]] — Information warfare in digital environments
 
 ### Platform and Communication
-- [[02 DEVELOP/🌱 Seeds/Platform Culture Analysis\|Platform Culture Analysis]] — How platform architectures shape cultural norms
-- [[02 DEVELOP/🌱 Seeds/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Cultural communication through digital artifacts
-- [[02 DEVELOP/🌱 Seeds/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided emotional connections online
+- [[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]] — How platform architectures shape cultural norms
+- [[02 DEVELOP/🌿 Plants/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Cultural communication through digital artifacts
+- [[02 DEVELOP/🌿 Plants/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided emotional connections online
 
 ---
 
@@ -80,13 +80,13 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 1. [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation concepts and critical thinking
 2. [[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Levels of internet participation
 3. [[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]] — Basic framework for digital identity
-4. [[02 DEVELOP/🌱 Seeds/Archive/Merged/Extremely Online Culture\|Extremely Online Culture]] — Deep internet engagement patterns
+4. [[02 DEVELOP/🌱 Seeds/Archive/Extremely Online Culture\|Extremely Online Culture]] — Deep internet engagement patterns
 
 ### Intermediate: Analyzing Cultural Dynamics
-5. [[02 DEVELOP/🌱 Seeds/Platform Culture Analysis\|Platform Culture Analysis]] — How platforms shape behavior
-6. [[02 DEVELOP/🌱 Seeds/Digital Identity Construction\|Digital Identity Construction]] — Psychology of online identity
-7. [[02 DEVELOP/🌱 Seeds/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Digital cultural production
-8. [[02 DEVELOP/🌱 Seeds/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided connections
+5. [[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]] — How platforms shape behavior
+6. [[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]] — Psychology of online identity
+7. [[02 DEVELOP/🌿 Plants/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Digital cultural production
+8. [[02 DEVELOP/🌿 Plants/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided connections
 9. [[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]] — Power dynamics online
 10. [[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]] — Coordinated manipulation case study
 

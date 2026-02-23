@@ -162,9 +162,9 @@ This is different from "we promise not to look" — it's "we literally cannot lo
 
 ## Foundational Concepts
 
-- [[02 DEVELOP/🌱 Seeds/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection (curtains, locks, safe)
-- [[02 DEVELOP/🌱 Seeds/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy matters
-- [[02 DEVELOP/🌱 Seeds/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions
+- [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection (curtains, locks, safe)
+- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy matters
+- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions
 
 ---
 
@@ -191,7 +191,7 @@ Privacy by design doesn't exist in a vacuum — it responds to (and sometimes ou
 - [[CCPA (California Consumer Privacy Act)\|CCPA (California Consumer Privacy Act)]] — U.S. state-level data protection
 - [[Data Sovereignty\|Data Sovereignty]] — Jurisdiction and control over where data lives
 - [[Digital Rights Advocacy\|Digital Rights Advocacy]] — The movement pushing for structural change
-- [[02 DEVELOP/🌿 Plants/Surveillance Capitalism\|Surveillance Capitalism]] — The economic model privacy by design resists
+- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] — The economic model privacy by design resists
 
 ---
 

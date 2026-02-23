@@ -49,10 +49,10 @@ The five steps of this framework are each grounded in specific pedagogical guida
     * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
 4.  **Integration** – How students incorporated, revised, resisted, or transformed AI outputs
     * *M&M Connection:* Resonates with the mandate to "remain the human in the loop."
-    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
+    * [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
 5.  **Reflection** – Evidence of metacognition, ethical reasoning, boundaries, and epistemic stance
     * *M&M Connection:* Echoes the explicit requirement for structured reflection in the Coach/Mentor roles.
-    * [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
+    * [[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
 
 ---
 

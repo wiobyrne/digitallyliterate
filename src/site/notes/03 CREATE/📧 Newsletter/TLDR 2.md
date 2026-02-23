@@ -101,7 +101,7 @@ These two observations from this issue frame the central tension of our digital 
 **🌱 Connected Concepts**:
 
 - **[[Privacy Rights\|Privacy Rights]]** — Facebook experiments, data as currency, surveillance capitalism
-- **[[02 DEVELOP/🌿 Plants/Media Literacy\|Media Literacy]]** — Understanding platform business models, critical consumption
+- **[[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]** — Understanding platform business models, critical consumption
 - **[[Pedagogy\|Pedagogy]]** — Revision process, teacher as maker, VR in classrooms
 - **[[Digital Wellbeing\|Digital Wellbeing]]** — Building your own online space, digital identity
 - **[[Philosophy\|Philosophy]]** — Human-machine futures, defining the world we want
