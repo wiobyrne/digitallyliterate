@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obyrne2017-educating-digital-natives","permalink":"/obyrne2017-educating-digital-natives/","title":"EDUCATING DIGITAL NATIVES","tags":["publication","digital-literacy"]}
+{"dg-publish":true,"dg-permalink":"obyrne2017-educating-digital-natives-chapter","permalink":"/obyrne2017-educating-digital-natives-chapter/","title":"EDUCATING DIGITAL NATIVES","tags":["publication","digital-literacy"]}
 ---
 
 
