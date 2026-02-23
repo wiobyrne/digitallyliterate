@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"teaching-philosophy","permalink":"/teaching-philosophy/","title":"Teaching Philosophy","tags":["grove","teaching","philosophy","education","pedagogy","critical-pedagogy"]}
+{"dg-publish":true,"dg-permalink":"teaching-philosophy-grove","permalink":"/teaching-philosophy-grove/","title":"Teaching Philosophy","tags":["grove","teaching","philosophy","education","pedagogy","critical-pedagogy"]}
 ---
 
 
