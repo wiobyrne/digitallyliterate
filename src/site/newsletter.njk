@@ -1,0 +1,69 @@
+---
+layout: layouts/page.njk
+title: Digitally Literate Newsletter
+permalink: /newsletter/
+eleventyExcludeFromCollections: true
+---
+<header>
+  <h1>Digitally Literate</h1>
+  <p class="landing-subtitle">Weekly on digital literacy, AI, and education — {{ collections.newsletter | length }} issues since 2015.</p>
+</header>
+
+<p>Every week I send a short briefing on the forces shaping learning in the digital age — frameworks, insights, and tools for educators, researchers, and anyone paying attention to how technology changes how we read, write, and learn.</p>
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/digitallyliterate"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/digitallyliterate', 'popupwindow')"
+  class="newsletter-form"
+>
+  <label for="bd-email">Get next week's issue in your inbox:</label>
+  <input type="email" name="email" id="bd-email" placeholder="Enter your email" required />
+  <input type="submit" value="Subscribe" />
+</form>
+
+<hr>
+
+<h2>Recent Issues</h2>
+
+<div class="landing-list">
+  {%- for note in collections.newsletter -%}
+    {%- if loop.index <= 10 -%}
+      <div class="landing-item">
+        <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+        {%- if note.data.description %} — {{ note.data.description }}{% endif %}
+      </div>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
+
+<hr>
+
+<h2>Full Archive</h2>
+
+<p><strong>Eras:</strong> TL;DR Foundation (issues 1–189, 2015–2018) · Digitally Literate (issues 190–300, 2019–2021) · Mature Analysis (issues 301–present, 2022–)</p>
+
+<div class="book-filters">
+  <input type="text" id="newsletter-filter" placeholder="Filter by title..." class="book-filter-input" autocomplete="off">
+</div>
+
+<div class="landing-list" id="newsletter-list">
+  {%- for note in collections.newsletter -%}
+    <div class="landing-item" data-title="{{ note.data.title | lower }}">
+      <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+    </div>
+  {%- endfor -%}
+</div>
+
+<script>
+(function() {
+  var items = Array.from(document.querySelectorAll('#newsletter-list .landing-item'));
+  document.getElementById('newsletter-filter').addEventListener('input', function() {
+    var q = this.value.toLowerCase();
+    items.forEach(function(item) {
+      item.style.display = item.dataset.title.indexOf(q) !== -1 ? '' : 'none';
+    });
+  });
+})();
+</script>

@@ -65,6 +65,21 @@ function userEleventySetup(eleventyConfig) {
     });
   });
 
+  // Newsletter: all issues in the Newsletter folder, newest first
+  eleventyConfig.addCollection("newsletter", function (collectionApi) {
+    return collectionApi.getFilteredByTag("note").filter(function (item) {
+      if (!item.inputPath) return false;
+      return item.inputPath.indexOf("Newsletter/") !== -1 &&
+             item.inputPath.indexOf("Newsletter.md") === -1;
+    }).sort(function (a, b) {
+      var aDate = a.data.created || a.date || 0;
+      var bDate = b.data.created || b.date || 0;
+      if (typeof aDate === "string") aDate = new Date(aDate);
+      if (typeof bDate === "string") bDate = new Date(bDate);
+      return bDate - aDate;
+    });
+  });
+
   // Recently updated: 10 most recent by update date
   eleventyConfig.addCollection("recentlyUpdated", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
