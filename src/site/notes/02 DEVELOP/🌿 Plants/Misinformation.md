@@ -53,3 +53,9 @@ Wikipedia link: [Misinformation](https://en.wikipedia.org/wiki/Misinformation)
 ## **Related Terms**  
 - [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]
 - [[Propaganda\|Propaganda]]
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]
+- [[Propaganda\|Propaganda]]
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]

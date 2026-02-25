@@ -104,3 +104,11 @@ Must be implemented with awareness of insights from [[Critical Pedagogy Blinds W
 - [ ] Use structured debate format
 - [ ] Provide metacognitive reflection opportunities
 - [ ] Consider progression to dialectical inquiry
+
+## Connections
+
+- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[02 DEVELOP/🌿 Plants/Constructivism and Cognitive Dissonance\|Constructivism and Cognitive Dissonance]]
+- [[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
+- [[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]]
+- [[02 DEVELOP/🌿 Plants/Critical Pedagogy Framework\|Critical Pedagogy Framework]]

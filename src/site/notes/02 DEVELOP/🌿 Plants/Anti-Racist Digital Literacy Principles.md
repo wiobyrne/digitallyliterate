@@ -104,3 +104,9 @@ Mental well-being enhances the ability to engage in anti-racist work effectively
 
 *These principles offer a comprehensive framework for creating anti-racist digital literacy education, guiding both educators and learners toward a more inclusive and equitable digital landscape.*
 
+## Connections
+
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Critical Citizenship\|Critical Citizenship]]
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]

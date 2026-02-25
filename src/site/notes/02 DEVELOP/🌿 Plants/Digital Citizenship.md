@@ -219,3 +219,10 @@ Research supports several effective approaches:
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] - Technical and critical skills for digital participation
 - [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]] - Comprehensive resource collection for digital safety
 
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]]
+- [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
+- [[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]]

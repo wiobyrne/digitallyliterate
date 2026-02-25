@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-develop/plants/ai-boundaries-framework-reflection/","title":"AI Boundaries Framework - Reflection","tags":["framework-component","reflection","metacognition","ethics","epistemic-stance","AI-literacy"]}
 ---
 
-# Co-Constructing AI Boundaries Framework Component - Reflection 
+# AI Boundaries Framework - Reflection
 
 ## Definition in This Study
 
@@ -302,3 +302,10 @@ Reflection serves a dual purpose:
 
 ---
 
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+- [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]

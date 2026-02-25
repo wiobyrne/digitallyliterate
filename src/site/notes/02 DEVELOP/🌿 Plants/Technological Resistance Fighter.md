@@ -194,3 +194,11 @@ Through conscious resistance and critical evaluation, we can work toward technol
 - [[Technology Ethics\|Technology Ethics]]
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]
 - [[Democratic Technology\|Democratic Technology]]
+
+## Connections
+
+- [[Technological Advances\|Technological Advances]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]
+- [[Media Ecology\|Media Ecology]]
+- [[Technology Ethics\|Technology Ethics]]

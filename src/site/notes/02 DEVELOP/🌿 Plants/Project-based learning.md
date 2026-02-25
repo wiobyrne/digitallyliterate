@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/project-based-learning/","title":"Project-Based Learning","tags":["project-based-learning","pedagogy","student-engagement","curriculum-design","education-methodology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/project-based-learning/","title":"Project-based learning","tags":["project-based-learning","pedagogy","student-engagement","curriculum-design","education-methodology"]}
 ---
 
 
-# Project-Based Learning
+# Project-based learning
 
 ## Core Philosophy
 Perhaps the real key to teaching and learning project-based learning is the opportunity to find high-energy, motivating topics that students can explore and get excited about learning and discovering.
@@ -33,3 +33,8 @@ As educators look towards the future of teaching strategies, it is important tha
 Project-based learning holds immense potential for transforming traditional classroom dynamics. By allowing students to take ownership of their educational journey through self-selected projects based on topics they are passionate about, we are able not only to engage but also motivate them towards lifelong learning.
 
 The approach represents a fundamental shift from passive consumption of information to active creation and exploration, preparing students for the complex, interconnected challenges they will face in their future careers and lives.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Digitally Literate Research Project\|Digitally Literate Research Project]]
+- [[Student Engagement Strategies\|Student Engagement Strategies]]

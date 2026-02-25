@@ -150,3 +150,9 @@ If none of these solutions work:
 4. Consult Ubuntu community forums with specific hardware details
 
 This systematic approach addresses the vast majority of Ubuntu Bluetooth issues through progressive troubleshooting steps.
+
+## Connections
+
+- [[Linux\|Linux]]
+- [[Hardware Troubleshooting\|Hardware Troubleshooting]]
+- [[Ubuntu\|Ubuntu]]

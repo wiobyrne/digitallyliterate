@@ -276,3 +276,10 @@ Digital literacy provides the knowledge and skills foundation that enables respo
 - [[02 DEVELOP/🌿 Plants/Evolving Concepts of Text\|Evolving Concepts of Text]] - Theoretical framework for text in digital environments
 - [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Understanding information manipulation and building resistance
 
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
+- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]
+- [[02 DEVELOP/🌿 Plants/Evolving Concepts of Text\|Evolving Concepts of Text]]
+- [[02 DEVELOP/🌿 Plants/Information War\|Information War]]

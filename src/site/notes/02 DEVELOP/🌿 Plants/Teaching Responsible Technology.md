@@ -18,3 +18,10 @@ Teaching students about responsible technology involves several key strategies a
     
 
 By implementing these strategies, educators and parents can help students develop the skills needed to use technology responsibly and safely.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Responsible Technology in Schools\|Responsible Technology in Schools]]
+- [[02 DEVELOP/🌿 Plants/Digital Tools Decision Framework\|Digital Tools Decision Framework]]
+- [[02 DEVELOP/🌿 Plants/Implementing Technology in Education - A Balanced Approach\|Implementing Technology in Education - A Balanced Approach]]
+- [[02 DEVELOP/🌿 Plants/PIONEER AI Model for Education\|PIONEER AI Model for Education]]

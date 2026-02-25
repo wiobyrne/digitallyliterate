@@ -105,3 +105,10 @@ In my work with digital literacies, Socratic questioning helps students examine 
 ## Further Development
 - [[Student Engagement Strategies\|Student Engagement Strategies]] - Broader techniques for active learning
 - [[Classroom Environment Building\|Classroom Environment Building]] - Creating psychological safety for questioning
+
+## Connections
+
+- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
+- [[Student Engagement Strategies\|Student Engagement Strategies]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

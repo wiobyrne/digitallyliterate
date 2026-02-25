@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/participant-researcher/","title":"Participant Researcher: Navigating Embedded Observation and Collaborative Inquiry","tags":["research-methodology","participant-observation","qualitative-research","educational-research","observer-effect","collaborative-inquiry","data-collection","video-ethnography","reflexive-research"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/participant-researcher/","title":"Participant_Researcher","tags":["research-methodology","participant-observation","qualitative-research","educational-research","observer-effect","collaborative-inquiry","data-collection","video-ethnography","reflexive-research"]}
 ---
 
 
-# Participant Researcher: Navigating Embedded Observation and Collaborative Inquiry
+# Participant_Researcher
 
 ## Role Definition and Methodological Positioning
 The **participant researcher** occupies a unique methodological position, gathering information through embedded observation while maintaining commitment to collaborative knowledge creation and minimal disruption of natural educational environments.
@@ -95,3 +95,10 @@ The participant researcher model represents a significant evolution in education
 ---
 
 *This methodological exploration draws from reflective analysis of collaborative educational research practices and ongoing innovation in participant-centered inquiry approaches.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Understanding Network Structure\|Understanding Network Structure]]
+- [[02 DEVELOP/🌿 Plants/Network Visualization Algorithms\|Network Visualization Algorithms]]
+- [[02 DEVELOP/🌿 Plants/Youth as Forerunners\|Youth as Forerunners]]
+- [[Qualitative Research Methods\|Qualitative Research Methods]]

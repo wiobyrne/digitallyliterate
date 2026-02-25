@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/emotionally-intelligent-workflows/","title":"Descriptive Title","tags":["emotional-intelligence","collaboration","epistemology","empathy","ethics","authenticity","communication","inclusivity","emotional-honesty","sustainability"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/emotionally-intelligent-workflows/","title":"Emotionally Intelligent Workflows","tags":["emotional-intelligence","collaboration","epistemology","empathy","ethics","authenticity","communication","inclusivity","emotional-honesty","sustainability"]}
 ---
 
 # Emotionally Intelligent Workflows
@@ -29,3 +29,7 @@ Emotionally intelligent workflows recognize that all work—especially collabora
     
 - **Sustainable, not extractive**: We check in, check out, take breaks, and respect bandwidth. The pace of the group is not set by urgency or overwork.
 
+## Connections
+
+- [[Similar Frameworks\|Similar Frameworks]]
+- [[Background Reading\|Background Reading]]

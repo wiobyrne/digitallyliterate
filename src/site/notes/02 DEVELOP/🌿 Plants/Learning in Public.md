@@ -35,3 +35,9 @@ Learning in public involves transparently documenting your learning process, cha
 - [[Knowledge Sharing\|Knowledge Sharing]]
 - [[Community Learning\|Community Learning]]
 - [[Open Education\|Open Education]]
+
+## Connections
+
+- [[Knowledge Sharing\|Knowledge Sharing]]
+- [[Community Learning\|Community Learning]]
+- [[Open Education\|Open Education]]

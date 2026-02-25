@@ -3,7 +3,7 @@
 ---
 
 
-# Transforming a Newsletter into a Digital Garden with Generative AI
+# Newsletter to Digital Garden with AI
 
 ## Overview
 
@@ -175,3 +175,11 @@ This framework demonstrates how generative AI can serve as a **force multiplier*
 ---
 
 *This framework represents an innovative approach to content transformation that positions AI as a collaborative partner rather than a replacement for human creativity and judgment. It offers a replicable methodology for content creators seeking to leverage AI for meaningful knowledge work.*
+
+## Connections
+
+- [[Digital Garden Methodology\|Digital Garden Methodology]]
+- [[AI as Critical Friend\|AI as Critical Friend]]
+- [[Content Strategy\|Content Strategy]]
+- [[Knowledge Management\|Knowledge Management]]
+- [[Generative AI in Writing\|Generative AI in Writing]]

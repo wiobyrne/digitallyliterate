@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/flow-stoppers/","title":"Flow Stoppers - Identifying and Overcoming Barriers to Optimal Experience","tags":["flow-psychology","productivity","attention-management","optimal-experience","performance-barriers"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/flow-stoppers/","title":"Flow Stoppers","tags":["flow-psychology","productivity","attention-management","optimal-experience","performance-barriers"]}
 ---
 
 
@@ -26,3 +26,9 @@ Find which inhibitor (or two) is currently in the worst shape for you. It is lik
 **Low Self-Worth** — This covers any self-esteem issue: self-critiquing, the feeling of "not good enough," worrying too much, feeling ashamed, feeling anxious and overwhelmed.
 
 Now that we've seen the main Flow Stoppers, let's check out the main [[Solutions to Flow Stoppers\|Solutions to Flow Stoppers]].
+
+## Connections
+
+- [[Flow - The Psychology and Practice of Optimal Experience\|Flow - The Psychology and Practice of Optimal Experience]]
+- [[Solutions to Flow Stoppers\|Solutions to Flow Stoppers]]
+- [[02 DEVELOP/🌿 Plants/Conditions of Flow\|Conditions of Flow]]

@@ -3,7 +3,7 @@
 ---
 
 
-# Prying People's Eyes Open - The Ethics of Awakening and Responsibility
+# Ethics of Awakening and Responsibility
 
 ## The Core Insight
 
@@ -198,3 +198,11 @@ In a world full of difficult truths and necessary awakenings, this simple yet pr
 - [[Trauma-Informed Education\|Trauma-Informed Education]]
 - [[Community Building and Support\|Community Building and Support]]
 - [[Consciousness-Raising Ethics\|Consciousness-Raising Ethics]]
+
+## Connections
+
+- [[Critical Pedagogy Principles\|Critical Pedagogy Principles]]
+- [[Ethical Responsibility in Education\|Ethical Responsibility in Education]]
+- [[Consciousness Raising Methods\|Consciousness Raising Methods]]
+- [[Support Systems for Learning\|Support Systems for Learning]]
+- [[Mentorship Ethics\|Mentorship Ethics]]

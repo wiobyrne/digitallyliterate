@@ -3,7 +3,7 @@
 ---
 
 
-# Generating and Exporting Visualizations - Network Analysis and Data Presentation Best Practices
+# Network Visualization Best Practices
 
 ## Overview
 
@@ -176,3 +176,11 @@ The specific aims that you pursue with your analysis should determine the best a
 *This guide synthesizes network analysis best practices with particular attention to Gephi workflows and academic presentation standards.*  
 *For extended learning resources, see the Mapping Online Publics project materials.*  
 *Implementation should always prioritize transparency, accuracy, and effective communication of research insights.*
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Network Analysis Fundamentals\|Network Analysis Fundamentals]]
+- [[Data Visualization Principles\|Data Visualization Principles]]
+- [[Research Presentation\|Research Presentation]]
+- [[Digital Methods\|Digital Methods]]
+- [[Academic Communication\|Academic Communication]]

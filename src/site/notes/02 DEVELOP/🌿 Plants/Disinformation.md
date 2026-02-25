@@ -422,3 +422,10 @@ Disinformation campaigns represent a key tactic in broader information warfare s
 - [[01 CONSUME/🔗 Web Clippings/Misinformation, Disinformation and Mal-information\|Misinformation, Disinformation and Mal-information]] - Comprehensive taxonomy
 - [[01 CONSUME/📹 Videos/The Disinformation Playbook\|The Disinformation Playbook]] - Tactical analysis of influence operations
 
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Information War\|Information War]]
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]
+- [[01 CONSUME/🔗 Web Clippings/Misinformation, Disinformation and Mal-information\|Misinformation, Disinformation and Mal-information]]
+- [[01 CONSUME/📹 Videos/The Disinformation Playbook\|The Disinformation Playbook]]

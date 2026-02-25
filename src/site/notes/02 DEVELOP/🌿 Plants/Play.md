@@ -33,3 +33,9 @@ Unoccupied play – The child is seemingly not engaged or actively playing with 
 ·         Cooperative play – Cooperative play is where play finally becomes organized into groups and teamwork is seen.  Children are now interested in both the people that they are playing with as well as the activity at hand.  The group is more formalized with a leader, as well as other assigned roles, and play organizes around accomplishing group goals or specific tasks.  Cooperative play begins in the late preschool period, between the ages of 4 and 6. It is uncommon to see children reach this stage until these later years, as it requires an evolved set of organizational skills and a higher degree of social maturity. Cooperative play is indeed the culmination, bringing together all the skills learned across previous stages into action, giving the child the necessary skills for social and group interactions.
 
  
+
+## Connections
+
+- [[Child Development\|Child Development]]
+- [[Learning Theory\|Learning Theory]]
+- [[Social Development\|Social Development]]

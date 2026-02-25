@@ -35,3 +35,9 @@ Community-centered AI represents an alternative to both unrestricted corporate A
 - "[[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]"
 - "[[Democratic Technology Design\|Democratic Technology Design]]"
 - "[[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]"
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]
+- [[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]
+- [[02 DEVELOP/🌿 Plants/Digital Divide\|Digital Divide]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"signal-private-messaging","permalink":"/signal-private-messaging/","title":"Signal: Private Messaging by Design","tags":["signal","privacy-by-design","encryption","communication"]}
+{"dg-publish":true,"dg-permalink":"signal-private-messaging","permalink":"/signal-private-messaging/","title":"Signal - Private Messaging by Design","tags":["signal","privacy-by-design","encryption","communication"]}
 ---
 
 
@@ -132,3 +132,10 @@ Not because something secret is happening, but because **people deserve conversa
 ---
 
 *Good tools create safer defaults. Good habits make those tools meaningful.*
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]
+- [[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]

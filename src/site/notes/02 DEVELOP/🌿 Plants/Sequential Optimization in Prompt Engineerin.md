@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/sequential-optimization-in-prompt-engineerin/","title":"Sequential Optimization","tags":["ai","prompt-engineering"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/sequential-optimization-in-prompt-engineerin/","title":"Sequential Optimization in Prompt Engineerin","tags":["ai","prompt-engineering"]}
 ---
 
 # Sequential Optimization in Prompt Engineerin
@@ -41,3 +41,8 @@ This means that you get **better results** by having a **series of back-and-fort
 - [[Prompt Engineering\|Prompt Engineering]]
 - [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]]
 - [[Fine-tuning (Machine Learning)\|Fine-tuning (Machine Learning)]]
+
+## Connections
+
+- [[Related Link 1\|Related Link 1]]
+- [[Related Link 2\|Related Link 2]]

@@ -3,7 +3,7 @@
 ---
 
 
-# Understanding Network Structure: Clusters, Communities, and Hidden Patterns in Connected Systems
+# Understanding Network Structure
 
 ## Fundamental Principle
 **Most networks have a distinct structure that is related to what the network is about. They contain bunches of nodes, called clusters, that reflect the differences in affinity between the various nodes. These clusters help us to better understand our networks.**
@@ -317,3 +317,10 @@ The goal of network cluster analysis is not simply to categorize or separate, bu
 ---
 
 *This analysis draws from network science research, social media studies, and practical experience with community detection tools and methodologies.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Network Visualization Algorithms\|Network Visualization Algorithms]]
+- [[Participant Researcher\|Participant Researcher]]
+- [[Understanding Network Algorithms\|Understanding Network Algorithms]]
+- [[02 DEVELOP/🌿 Plants/Social Media Network Analysis\|Social Media Network Analysis]]

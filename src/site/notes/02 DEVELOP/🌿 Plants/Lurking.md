@@ -21,3 +21,9 @@ In terms of this topic, I'm interested in the contexts of ghosting and orbiting,
   https: //mattcrosslin.com/pathways/about/
 
 More specifically, what are possible connections between MOOCs, lurking/learning online...and orbiting?
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Legitimate Peripheral Participation\|Legitimate Peripheral Participation]]
+- [[Learning\|Learning]]
+- [[Cognition\|Cognition]]

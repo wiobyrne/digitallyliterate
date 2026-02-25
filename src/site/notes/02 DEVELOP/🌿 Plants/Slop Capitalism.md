@@ -26,3 +26,8 @@ Slop capitalism refers to a business model that thrives on creating problems or 
 - [[Platform Capitalism\|Platform Capitalism]]
 - [[User Engagement\|User Engagement]]
 - [[Tech Monopoly\|Tech Monopoly]]
+
+## Connections
+
+- [[Related Link 1\|Related Link 1]]
+- [[Related Link 2\|Related Link 2]]

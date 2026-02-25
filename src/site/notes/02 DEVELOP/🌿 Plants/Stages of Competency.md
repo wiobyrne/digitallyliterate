@@ -258,3 +258,11 @@ Understanding these stages helps create more compassionate, effective, and susta
 - [[Professional Development\|Professional Development]]
 - [[Growth Mindset\|Growth Mindset]]
 - [[Deliberate Practice\|Deliberate Practice]]
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]
+- [[Learning Theory\|Learning Theory]]
+- [[Skill Development\|Skill Development]]
+- [[Metacognition\|Metacognition]]
+- [[Professional Development\|Professional Development]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/youth-as-forerunners/","title":"Youth as Forerunners: Navigating Technology and Digital Literacy in Progressive Households","tags":["youth-development","digital-literacy","media-mentorship","technology-use","family-dynamics","screen-time","forerunner-families","digital-citizenship","generational-dynamics","progressive-parenting"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/youth-as-forerunners/","title":"Youth as Forerunners","tags":["youth-development","digital-literacy","media-mentorship","technology-use","family-dynamics","screen-time","forerunner-families","digital-citizenship","generational-dynamics","progressive-parenting"]}
 ---
 
 
@@ -229,3 +229,10 @@ The goal is not to create perfect digital citizens, but to raise young people wh
 ---
 
 *This analysis draws from longitudinal research observing families navigating technology use and digital literacy development in progressive household contexts.*
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Get Proximate\|Get Proximate]]
+- [[Intersectionality String Game Activity\|Intersectionality String Game Activity]]
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]
+- [[Media Mentorship\|Media Mentorship]]

@@ -171,3 +171,10 @@ Self-hosting directly supports [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digi
 
 *Self-hosting isn't about perfection. It's about taking the first step toward owning your digital life.*
 
+## Connections
+
+- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]
+- [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]]

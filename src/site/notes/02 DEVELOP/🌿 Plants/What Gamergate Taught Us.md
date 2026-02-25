@@ -75,3 +75,10 @@ These lessons are essential for helping everyone—kids and adults—navigate to
 18. [https://www.youtube.com/watch?v=Dk-dhs6W69o](https://www.youtube.com/watch?v=Dk-dhs6W69o)
 19. [https://perspectivesingamedesign.com/actually-its-about-10-lessons-from-gamergate-5f001b975fd9](https://perspectivesingamedesign.com/actually-its-about-10-lessons-from-gamergate-5f001b975fd9)
 20. [https://journals.sagepub.com/doi/10.1177/14614448231158387](https://journals.sagepub.com/doi/10.1177/14614448231158387)
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Gamergate Harassment and Misinfo Defense\|Gamergate Harassment and Misinfo Defense]]
+- [[02 DEVELOP/🌿 Plants/Gamergate and Misinformation Landscape\|Gamergate and Misinformation Landscape]]
+- [[02 DEVELOP/🌿 Plants/Lessons from Gamergate to Help Spot Fake News Early\|Lessons from Gamergate to Help Spot Fake News Early]]
+- [[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]]

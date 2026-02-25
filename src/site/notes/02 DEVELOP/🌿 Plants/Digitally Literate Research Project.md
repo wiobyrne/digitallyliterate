@@ -37,3 +37,8 @@ This research provides insight into the knowledge, skills, and dispositions that
 - Transparent consent processes
 
 This project represents a significant effort to understand how educators globally are adapting their practice to include digital literacies in meaningful ways.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Project-based learning\|Project-based learning]]
+- [[Teaching Literacies with Technology\|Teaching Literacies with Technology]]

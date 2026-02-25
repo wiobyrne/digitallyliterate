@@ -49,7 +49,7 @@ The central question: who's in charge — you or the model?
 - [[AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] 🌲 — Research framework on how humans negotiate control with AI. Distinguishes "orchestrators" (high agency, active boundaries) from "outsourcers" (passive delegation)
 - [[02 DEVELOP/🌿 Plants/AI Boundary Work and Agency\|AI Boundary Work and Agency]] 🌱 — Explores friction as a feature, not a bug — active boundary-setting as a practice of agency
 - [[02 DEVELOP/🌿 Plants/Cognitive Amplification with AI\|Cognitive Amplification with AI]] 🌱 — Human-in-the-loop design focused on amplifying wisdom, not just speed. The case for productive friction.
-- [[02 DEVELOP/🌱 Seeds/AI and Human Identity 2035\|AI and Human Identity 2035]] 🌱 — What happens to empathy, creativity, and agency when AI partnerships deepen? Speculative but grounded
+- [[02 DEVELOP/🌿 Plants/AI and Human Identity 2035\|AI and Human Identity 2035]] 🌱 — What happens to empathy, creativity, and agency when AI partnerships deepen? Speculative but grounded
 
 ---
 
@@ -84,7 +84,7 @@ Where AI literacy becomes a safety issue.
 The philosophical undercurrent.
 
 - [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] 🌲 — How AI disrupts the self/subject distinction. Identity construction in the age of algorithmic personalization.
-- [[02 DEVELOP/🌱 Seeds/Generative AI and Identity\|Generative AI and Identity]] 🌱 — How generative tools challenge uniqueness and authenticity. Fluidity of subject positions.
+- [[02 DEVELOP/🌿 Plants/Generative AI and Identity\|Generative AI and Identity]] 🌱 — How generative tools challenge uniqueness and authenticity. Fluidity of subject positions.
 - [[02 DEVELOP/🌿 Plants/AI Beyond Simple Mimicry\|AI Beyond Simple Mimicry]] 🌿 — Modern AI has internal representations and reasoning, not just pattern matching. What does that mean for how we relate to it?
 - [[02 DEVELOP/🌱 Seeds/Trust and Sincerity Detection in AI\|Trust and Sincerity Detection in AI]] 🌱 — Can AI help us evaluate trustworthiness of information? Design concepts for a browser extension approach.
 

@@ -65,7 +65,7 @@ The resolution probably isn't choosing between these. It's building an education
 
 ## Connections
 
-- [[02 DEVELOP/🌿 Plants/The 2026 Intelligence Explosion\|The 2026 Intelligence Explosion]] — The capability context
+- [[02 DEVELOP/🌿 Plants/2026 Intelligence Explosion\|2026 Intelligence Explosion]] — The capability context
 - [[02 DEVELOP/🌿 Plants/Knowledge Work Disruption\|Knowledge Work Disruption]] — The labor market evidence
 - [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]] — The Forest this feeds into
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] — Grove on pedagogical frameworks

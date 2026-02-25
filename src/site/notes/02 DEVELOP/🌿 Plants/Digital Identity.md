@@ -36,3 +36,9 @@ For in-depth technical resource:
 - [[Authentication\|Authentication]]
 - [[Biometrics\|Biometrics]]
 - [[Data Privacy\|Data Privacy]]
+
+## Connections
+
+- [[Authentication\|Authentication]]
+- [[Biometrics\|Biometrics]]
+- [[Data Privacy\|Data Privacy]]

@@ -117,3 +117,9 @@ China's decision to offer advanced AI capabilities for free represents a sophist
 China's free AI strategy represents more than technological advancement—it's a comprehensive approach to reshaping global technology leadership, data control, and economic influence. The strategy leverages the power of free access to build market dominance, collect valuable data, and establish technological standards that could define the future of artificial intelligence globally.
 
 The success of this approach challenges traditional assumptions about technology competition and highlights the importance of strategic thinking in technological development. As AI becomes increasingly central to economic and social systems worldwide, the implications of this strategy will likely extend far beyond the technology sector itself.
+
+## Connections
+
+- [[AI Global Competition\|AI Global Competition]]
+- [[Technology Market Disruption\|Technology Market Disruption]]
+- [[Data as Strategic Asset\|Data as Strategic Asset]]

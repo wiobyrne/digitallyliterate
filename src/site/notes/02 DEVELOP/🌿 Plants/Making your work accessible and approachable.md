@@ -90,3 +90,8 @@ nathan_long on Sept 4, 2018 [–]
 > In 2017, economist Richard Thaler was awarded the Nobel Memorial Prize in Economic Sciences for "his contributions to behavioral economics and his pioneering work in establishing that people are predictably irrational in ways that defy economic theory."
 
 Proving that all the other economists are modeling things wrong is more impressive than you make it sound. 
+
+## Connections
+
+- [[Content Strategy\|Content Strategy]]
+- [[Writing Process\|Writing Process]]

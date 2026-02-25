@@ -19,3 +19,9 @@ Your approach is rigorous because it combines established qualitative methods (c
 |**Attention to evidence of boundary-setting (restriction, correction, refusal, modification)**|**Crucial.** This is your primary analytic goal, focusing on **agency** and **epistemic stance**. These actions (restriction, refusal, etc.) are the visible enactments of the Mollick principle that the student must remain the "human in the loop."|Grounds abstract concepts (like _boundary-work_) in **observable data behaviors**, increasing validity and trustworthiness (Yin, 2014).|
 |**Triangulation with final projects and reflections**|**Required for rigor.** Triangulation validates the findings from your primary data (micro-interactions) against secondary data (the final work and the metacognitive data). This specifically captures the **Integration** and **Reflection** stages of your framework.|Enhances the **credibility** and **depth** of your findings by converging evidence from multiple sources (Yin, 2018; Tellis, 1997).|
 |**Students participated as co-investigators, not subjects.**|**High Impact.** This signals adherence to **ethical and reflexive considerations** (Creswell, 2013) and aligns with participatory research models, enriching the analysis by valuing the students' **local knowledge** and interpretations.|Addresses potential researcher bias and promotes **inclusivity**, strengthening the philosophical underpinnings of your qualitative study (Naeem & Thomas, 2025).|
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- [[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]

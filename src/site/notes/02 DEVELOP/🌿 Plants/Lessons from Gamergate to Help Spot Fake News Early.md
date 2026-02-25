@@ -68,3 +68,10 @@ Applying these lessons makes it easier to resist being fooled by the same techni
 18. [https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html](https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html)
 19. [https://journalismresearchnews.org/gamergate-failed-to-capture-the-news-agenda-confirming-its-adherents-worldview/](https://journalismresearchnews.org/gamergate-failed-to-capture-the-news-agenda-confirming-its-adherents-worldview/)
 20. [https://pressthink.org/2016/11/22/tile/gamergate-model-press-relations/](https://pressthink.org/2016/11/22/tile/gamergate-model-press-relations/)
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Gamergate Harassment and Misinfo Defense\|Gamergate Harassment and Misinfo Defense]]
+- [[02 DEVELOP/🌿 Plants/Gamergate and Misinformation Landscape\|Gamergate and Misinformation Landscape]]
+- [[02 DEVELOP/🌿 Plants/What Gamergate Taught Us\|What Gamergate Taught Us]]
+- [[02 DEVELOP/🌿 Plants/Misinformation and Disinformation - Research Synthesis\|Misinformation and Disinformation - Research Synthesis]]

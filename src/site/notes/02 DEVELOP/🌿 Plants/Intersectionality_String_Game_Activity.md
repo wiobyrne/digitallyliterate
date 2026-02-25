@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/intersectionality-string-game-activity/","title":"Intersectionality String Game: Building Empathy Through Shared Connections","tags":["intersectionality","social-justice-education","empathy-building","group-activities","identity-exploration","community-building","diversity-inclusion","experiential-learning","facilitation"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/intersectionality-string-game-activity/","title":"Intersectionality_String_Game_Activity","tags":["intersectionality","social-justice-education","empathy-building","group-activities","identity-exploration","community-building","diversity-inclusion","experiential-learning","facilitation"]}
 ---
 
 
-# Intersectionality String Game: Building Empathy Through Shared Connections
+# Intersectionality_String_Game_Activity
 
 ## Activity Overview
 An experiential learning activity that uses physical string connections to help participants explore intersectionality by visualizing how identities and experiences create both shared connections and unique differences within a group.
@@ -228,3 +228,10 @@ Share 3-4 authentic personal details covering different identity aspects:
 ---
 
 *This activity serves as a powerful introduction to intersectionality while building genuine community connections through shared vulnerability and authentic storytelling.*
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Get Proximate\|Get Proximate]]
+- [[02 DEVELOP/🌿 Plants/Youth as Forerunners\|Youth as Forerunners]]
+- [[Community Engagement Strategies\|Community Engagement Strategies]]
+- [[Empathy Building Activities\|Empathy Building Activities]]

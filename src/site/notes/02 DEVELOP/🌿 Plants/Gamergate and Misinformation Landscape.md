@@ -3,7 +3,7 @@
 ---
 
 
-# How Gamergate Influenced Today’s Misinformation and Disinformation Landscape
+# Gamergate and Misinformation Landscape
 
 ## 1. Playbook for Online Manipulation
 
@@ -47,3 +47,11 @@ Gamergate’s legacy is visible in the tools, tactics, and narratives that defin
 
 [WIRED: How Gamergate led to today's toxic online culture](https://www.perplexity.ai/search/1)  
 [The Guardian: How Gamergate paved the way for the alt-right](https://www.perplexity.ai/search/2)
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Gamergate Harassment and Misinfo Defense\|Gamergate Harassment and Misinfo Defense]]
+- [[02 DEVELOP/🌿 Plants/Lessons from Gamergate to Help Spot Fake News Early\|Lessons from Gamergate to Help Spot Fake News Early]]
+- [[02 DEVELOP/🌿 Plants/What Gamergate Taught Us\|What Gamergate Taught Us]]
+- [[02 DEVELOP/🌿 Plants/Misinformation\|Misinformation]]
+- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]

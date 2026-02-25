@@ -23,7 +23,7 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 
 ### Cultural Analysis
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation for critical engagement with online spaces
-- [[02 DEVELOP/🌱 Seeds/Archive/Extremely Online Culture\|Extremely Online Culture]] — When internet participation becomes primary identity
+- [[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]] — When internet participation becomes primary identity
 - [[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]] — How people build identity through digital participation
 - [[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Framework for understanding levels of internet participation
 - [[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]] — Identity construction through digital sharing
@@ -80,7 +80,7 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 1. [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation concepts and critical thinking
 2. [[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Levels of internet participation
 3. [[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]] — Basic framework for digital identity
-4. [[02 DEVELOP/🌱 Seeds/Archive/Extremely Online Culture\|Extremely Online Culture]] — Deep internet engagement patterns
+4. [[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]] — Deep internet engagement patterns
 
 ### Intermediate: Analyzing Cultural Dynamics
 5. [[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]] — How platforms shape behavior

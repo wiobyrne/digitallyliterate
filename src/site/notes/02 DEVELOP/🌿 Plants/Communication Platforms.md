@@ -143,3 +143,10 @@
 ---
 
 **Key Takeaway:** Matrix/Element provides the optimal balance of privacy, community features, and cooperative values. Success depends on viewing platform migration as capacity building rather than technical challenge.
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]]
+- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]

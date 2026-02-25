@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-develop/plants/gamergate-harassment-and-misinfo-defense/","title":"Gamergate Harassment and Misinfo Defense","tags":["GamerGate"]}
 ---
 
-# How Gamergate’s Harassment Patterns Inform Misinformation Defense
+# Gamergate Harassment and Misinfo Defense
 
 ## Overlapping Tactics: Harassment and Misinformation
 
@@ -64,3 +64,11 @@ By studying how harassment and misinformation were intertwined and amplified dur
 18. [https://www.youtube.com/watch?v=kAOJgsnqI44](https://www.youtube.com/watch?v=kAOJgsnqI44)
 19. [https://statesunited.org/resources/social-media-policies/](https://statesunited.org/resources/social-media-policies/)
 20. [https://ctlj.colorado.edu/wp-content/uploads/2021/02/Heller-1.20.21-Final-Draft.pdf](https://ctlj.colorado.edu/wp-content/uploads/2021/02/Heller-1.20.21-Final-Draft.pdf)
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Gamergate and Misinformation Landscape\|Gamergate and Misinformation Landscape]]
+- [[02 DEVELOP/🌿 Plants/Lessons from Gamergate to Help Spot Fake News Early\|Lessons from Gamergate to Help Spot Fake News Early]]
+- [[02 DEVELOP/🌿 Plants/What Gamergate Taught Us\|What Gamergate Taught Us]]
+- [[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]]
+- [[02 DEVELOP/🌿 Plants/Misinformation and Disinformation - Research Synthesis\|Misinformation and Disinformation - Research Synthesis]]

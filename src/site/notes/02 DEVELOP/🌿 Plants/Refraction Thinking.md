@@ -233,3 +233,11 @@ Like light passing through a prism, our understanding becomes richer and more nu
 - [[Decision Making\|Decision Making]]
 - [[Systems Thinking\|Systems Thinking]]
 - [[Creative Problem Solving\|Creative Problem Solving]]
+
+## Connections
+
+- [[Mental Models\|Mental Models]]
+- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]
+- [[Perspective Taking\|Perspective Taking]]
+- [[Reflective Practice\|Reflective Practice]]
+- [[Decision Making\|Decision Making]]

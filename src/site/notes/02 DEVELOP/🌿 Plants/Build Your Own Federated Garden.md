@@ -439,3 +439,7 @@ As new tools emerge, as I refine my own setup, as others share their workflowsâ€
 **Tags for discovery:** #howto #tutorial #getting-started #obsidian #quartz #jekyll #rss #webmentions #indieweb
 
 *Last tended: 2025-11-04*
+
+## Connections
+
+- [[02 DEVELOP/ðŸŒ¿ Plants/Federating Your Second Brain\|Federating Your Second Brain]]

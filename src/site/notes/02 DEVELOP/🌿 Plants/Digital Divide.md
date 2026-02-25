@@ -28,3 +28,8 @@ The digital divide can be caused by various factors such as economic disparities
 ## **Related Terms**  
 - "[[Information and Communication Technology\|Information and Communication Technology]]"
 - "[[Telecommunication\|Telecommunication]]"
+
+## Connections
+
+- [[Information and Communication Technology\|Information and Communication Technology]]
+- [[Telecommunication\|Telecommunication]]

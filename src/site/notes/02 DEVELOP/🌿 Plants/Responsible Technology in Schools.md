@@ -22,3 +22,10 @@ The responsible use of technology in schools involves several key practices aime
     
 
 These practices help create a safe and productive digital environment in schools, preparing students to be responsible digital citizens both in and out of the classroom.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Teaching Responsible Technology\|Teaching Responsible Technology]]
+- [[02 DEVELOP/🌿 Plants/Digital Tools Decision Framework\|Digital Tools Decision Framework]]
+- [[02 DEVELOP/🌿 Plants/Blanket Bans in Education\|Blanket Bans in Education]]
+- [[02 DEVELOP/🌿 Plants/Generative AI Policy Statement for Education\|Generative AI Policy Statement for Education]]

@@ -111,3 +111,9 @@ The goal isn't to automate thinking away. It's to augment human cognitive capabi
 
 *HITL is more than a design principle — it's a mindset about cognition, ethics, and agency in the age of AI.*
 
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Generative AI and Identity\|Generative AI and Identity]]
+- [[02 DEVELOP/🌿 Plants/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]]

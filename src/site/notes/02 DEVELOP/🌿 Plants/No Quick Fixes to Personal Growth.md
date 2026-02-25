@@ -158,3 +158,11 @@ Embrace the process of growth and change over time. Trust that the seeds you pla
 - [[Resilience Building\|Resilience Building]]
 - [[Patience as Practice\|Patience as Practice]]
 - [[Sustainable Change\|Sustainable Change]]
+
+## Connections
+
+- [[Personal Growth\|Personal Growth]]
+- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Self-Compassion\|Self-Compassion]]
+- [[Mindful Living\|Mindful Living]]
+- [[Resilience Building\|Resilience Building]]

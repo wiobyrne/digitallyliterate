@@ -15,3 +15,10 @@ However, the principle is equally applicable outside of the military context. Fo
 Another example could be in business or project management where rushing into a project without proper planning often leads to mistakes that need correction later on – wasting more time in the end. A well thought out plan executed meticulously often yields better results even if it seems slower initially.
 
 In conclusion, "slow is smooth; smooth is fast" encapsulates a powerful principle for achieving efficiency and effectiveness in various areas of life – including but not limited to military operations, music performance, sports training, business management etc.
+
+## Connections
+
+- [[Deliberate Practice\|Deliberate Practice]]
+- [[Focus\|Focus]]
+- [[Mastery\|Mastery]]
+- [[Productivity\|Productivity]]

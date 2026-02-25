@@ -128,3 +128,8 @@ PAR aligns naturally with movements for educational equity:
 
 *PAR isn't just about studying change — it's about making change happen.*
 
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]]
+- [[02 DEVELOP/🌿 Plants/21st Century Educational Justice\|21st Century Educational Justice]]

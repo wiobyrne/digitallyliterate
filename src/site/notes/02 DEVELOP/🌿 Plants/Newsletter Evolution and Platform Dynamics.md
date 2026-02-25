@@ -466,3 +466,10 @@ Despite digital freedom, **new consolidation problems:**
 🪴 **This note will continue to grow...**
 
 *Last tended: 2025-11-04*
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/History of Digital Gardens\|History of Digital Gardens]]
+- [[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]
+- [[Platform Consolidation Problems\|Platform Consolidation Problems]]
+- [[02 DEVELOP/🌿 Plants/Federating Your Second Brain\|Federating Your Second Brain]]

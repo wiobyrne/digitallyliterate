@@ -35,3 +35,9 @@ The obvious answer for creating the [[02 DEVELOP/🌿 Plants/Conditions of Flow\
 ![Flow Map.png](/img/user/04%20META/%F0%9F%94%97%20Assets/Flow%20Map.png)
 
 The less obvious answer is *HOW*. That's about developing some awareness and skills, along with having some tools and tactics handy. See more about that at [[FlowCreation Theory\|FlowCreation Theory]]. 
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Flow\|Flow]]
+- [[02 DEVELOP/🌿 Plants/Conditions of Flow\|Conditions of Flow]]
+- [[FlowCreation Theory\|FlowCreation Theory]]

@@ -275,3 +275,12 @@ This approach recognizes that good infrastructure is not just about the technolo
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
 - [[Community-Driven Development\|Community-Driven Development]]
 - [[Environmental Impact of Computing\|Environmental Impact of Computing]]
+
+## Connections
+
+- [[01 CONSUME/📚 Books/Digital Minimalism\|Digital Minimalism]]
+- [[Minimal Computing\|Minimal Computing]]
+- [[Open Source Philosophy\|Open Source Philosophy]]
+- [[Sustainable Technology\|Sustainable Technology]]
+- [[Digital Security\|Digital Security]]
+- [[Accessible Technology\|Accessible Technology]]

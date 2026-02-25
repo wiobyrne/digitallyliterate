@@ -50,23 +50,23 @@ Failure to meet this burden results in unsupported speculation rather than reaso
 
 ## Related Concepts
 
-- `[[Falsifiability]]`
+- `[[Falsifiability\|Falsifiability]]`
     
-- `[[Null Hypothesis]]`
+- `[[Null Hypothesis\|Null Hypothesis]]`
     
-- `[[Russell’s Teapot]]`
+- `[[Russell’s Teapot\|Russell’s Teapot]]`
     
-- `[[Extraordinary Claims Require Extraordinary Evidence]]`
+- `[[Extraordinary Claims Require Extraordinary Evidence\|Extraordinary Claims Require Extraordinary Evidence]]`
     
-- `[[Shifting the Burden of Proof]]`
+- `[[Shifting the Burden of Proof\|Shifting the Burden of Proof]]`
     
-- `[[Just Asking Questions (JAQing Off)]]`
+- `[[02 DEVELOP/🌿 Plants/Just Asking Questions (JAQing Off)\|Just Asking Questions (JAQing Off)]]`
     
-- `[[Sealioning]]`
+- `[[02 DEVELOP/🌿 Plants/Sealioning\|Sealioning]]`
     
-- `[[Appeal to Ignorance]]`
+- `[[Appeal to Ignorance\|Appeal to Ignorance]]`
     
-- `[[Disinformation tactics]]`
+- `[[Disinformation tactics\|Disinformation tactics]]`
     
 
 ---
@@ -85,3 +85,15 @@ Failure to meet this burden results in unsupported speculation rather than reaso
 - Compare with **pedagogical discourse**—who carries the burden of proof in power-laden educational spaces?
     
 - Link to digital contexts (e.g., online misinformation, conspiracy theories, and sealioning tactics).
+
+## Connections
+
+- [[Falsifiability]]
+- [[Null Hypothesis]]
+- [[Russell’s Teapot]]
+- [[Extraordinary Claims Require Extraordinary Evidence]]
+- [[Shifting the Burden of Proof]]
+- [[Just Asking Questions (JAQing Off)]]
+- [[Sealioning]]
+- [[Appeal to Ignorance]]
+- [[Disinformation tactics]]

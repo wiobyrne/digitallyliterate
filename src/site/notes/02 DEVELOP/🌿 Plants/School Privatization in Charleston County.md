@@ -3,7 +3,7 @@
 ---
 
 
-# School Privatization in Charleston County - Dark Money and Educational Justice
+# School Privatization in Charleston County
 
 ## Executive Summary
 
@@ -261,3 +261,11 @@ The fight for educational justice in Charleston County serves as a reminder that
 *Sources: Washington Post, Diane Ravitch Blog, Charleston Post and Courier, Live5News, various community organizations and advocacy groups*  
 *Analysis conducted from the perspective of teacher educators working within the contested political environment*  
 *This analysis emphasizes the importance of critical engagement with education policy while maintaining commitment to educational justice and democratic governance*
+
+## Connections
+
+- [[Critical Pedagogy\|Critical Pedagogy]]
+- [[Educational Equity\|Educational Equity]]
+- [[Neoliberalism in Education\|Neoliberalism in Education]]
+- [[Dark Money Politics\|Dark Money Politics]]
+- [[Teacher Education\|Teacher Education]]

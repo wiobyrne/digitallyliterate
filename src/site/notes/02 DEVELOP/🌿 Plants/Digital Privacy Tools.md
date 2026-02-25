@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy-tools-quick-reference","permalink":"/privacy-tools-quick-reference/","title":"Privacy Tools Quick Reference","tags":["privacy-by-design","tools","quick-reference","comparison"]}
+{"dg-publish":true,"dg-permalink":"privacy-tools-quick-reference","permalink":"/privacy-tools-quick-reference/","title":"Digital Privacy Tools","tags":["privacy-by-design","tools","quick-reference","comparison"]}
 ---
 
 
@@ -66,3 +66,11 @@
 ---
 
 *This quick reference shows how Privacy by Design principles guide tool choices. See the linked notes for detailed guidance.*
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]]
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]
+- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]

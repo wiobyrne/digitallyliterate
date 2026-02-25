@@ -215,3 +215,12 @@ Prompt design reveals epistemic stance:
 ## Tags
 
 #framework-component #prompts #cognitive-demand #agency #AI-literacy
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+- [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]
+- [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]

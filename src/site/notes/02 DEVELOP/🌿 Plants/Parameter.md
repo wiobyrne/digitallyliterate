@@ -35,3 +35,8 @@ Find an in-depth technical resource (e.g., research paper, advanced tutorial, or
 - [[Variable\|Variable]]
 - [[Modeling\|Modeling]]
 - [[Optimization\|Optimization]]
+
+## Connections
+
+- [[Related Link 1\|Related Link 1]]
+- [[Related Link 2\|Related Link 2]]

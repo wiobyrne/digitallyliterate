@@ -247,3 +247,12 @@ The Outputs component operationalizes this principle by analyzing:
 ## Tags
 
 #framework-component #outputs #critical-evaluation #AI-literacy #hallucination #bias
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+- [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]
+- [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]

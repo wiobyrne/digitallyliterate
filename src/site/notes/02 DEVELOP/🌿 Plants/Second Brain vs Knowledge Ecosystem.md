@@ -121,3 +121,10 @@ This isn't "replacing" your second brain. It's **rewilding** it.
 🪴 **This note will continue to grow...**
 
 *Last tended: 2025-11-04*
+
+## Connections
+
+- [[Rewilding Knowledge Work\|Rewilding Knowledge Work]]
+- [[02 DEVELOP/🌿 Plants/Why Federation Matters\|Why Federation Matters]]
+- [[02 DEVELOP/🌿 Plants/Federating Your Second Brain\|Federating Your Second Brain]]
+- [[Garden Metaphors for PKM\|Garden Metaphors for PKM]]

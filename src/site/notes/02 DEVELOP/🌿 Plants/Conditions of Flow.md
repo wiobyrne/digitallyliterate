@@ -115,3 +115,9 @@ The conditions of flow relate directly to the four fundamental factors:
 Flow emerges naturally when conditions are right. The goal is to create and maintain optimal conditions rather than forcing the experience. Like a gardener tending plants, we create the environment where flow can flourish naturally.
 
 Understanding these conditions provides the foundation for designing activities, environments, and practices that consistently support optimal experience and peak performance.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Flow Stoppers\|Flow Stoppers]]
+- [[02 DEVELOP/🌿 Plants/Mental Health Prompts\|Mental Health Prompts]]
+- [[02 DEVELOP/🌱 Seeds/Personal Growth Tenets\|Personal Growth Tenets]]

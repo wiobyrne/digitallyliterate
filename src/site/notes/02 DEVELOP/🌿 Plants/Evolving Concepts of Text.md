@@ -287,3 +287,12 @@ The reflection framework presented here offers a starting point for exploring th
 ---
 
 *This framework provides a foundation for exploring the evolving nature of text in digital environments, supporting both individual reflection and collaborative learning about the expanding boundaries of literacy and communication.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[Multimodal Communication\|Multimodal Communication]]
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
+- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]
+- [[Discourse 2.0 Digital Communication Framework\|Discourse 2.0 Digital Communication Framework]]
+- [[Educational Technology\|Educational Technology]]

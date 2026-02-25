@@ -70,3 +70,11 @@ The **attention economy** and **algorithmic amplification** make this fallacy pa
 - How can educators and digital citizens build resilience against this fallacy in an age of viral misinformation?
     
 - How might repetition _appear_ as consensus or evidence in AI-generated or aggregated content?
+
+## Connections
+
+- [[Argumentum ad populum\|Argumentum ad populum]]
+- [[Petitio principii (Begging the Question)\|Petitio principii (Begging the Question)]]
+- [[02 DEVELOP/🌿 Plants/Sealioning\|Sealioning]]
+- [[03 CREATE/🌲 Evergreens/Gish Gallop\|Gish Gallop]]
+- [[Moving the Goalposts\|Moving the Goalposts]]

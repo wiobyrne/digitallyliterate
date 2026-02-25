@@ -145,3 +145,11 @@ This index will grow as I explore, test, and review them over time. Each entry i
 ---
 
 *This index is a living document. Tools will be added as I test and evaluate them.*
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]]
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]
+- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]

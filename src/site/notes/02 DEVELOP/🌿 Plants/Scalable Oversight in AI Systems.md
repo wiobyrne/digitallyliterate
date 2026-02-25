@@ -156,3 +156,9 @@ As artificial intelligence transforms sectors from healthcare to finance, the cr
 Scalable oversight represents a critical requirement for the responsible development and deployment of artificial intelligence systems. As AI capabilities continue to expand and integrate deeper into society, the importance of robust, adaptable oversight mechanisms will only increase. Success requires comprehensive guidelines, transparency prioritization, regular assessment, and continuous evolution of oversight approaches.
 
 The challenge is not merely technical but encompasses ethical, social, and governance dimensions that require broad stakeholder engagement and sustained commitment to responsible AI development. Organizations and governments that invest in scalable oversight capabilities will be better positioned to harness AI's benefits while minimizing potential risks and negative consequences.
+
+## Connections
+
+- [[AI Ethics and Safety\|AI Ethics and Safety]]
+- [[AI Governance Frameworks\|AI Governance Frameworks]]
+- [[AI Transparency\|AI Transparency]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/02-develop/plants/ai-boundaries-framework-integration/","title":"AI Boundaries Framework - Integration","tags":["framework-component","integration","authorship","transformation","boundary-work","AI-literacy"]}
 ---
 
-# Co-Constructing AI Boundaries Framework Component - Integration 
+# AI Boundaries Framework - Integration
 
 ## Definition in This Study
 
@@ -281,3 +281,11 @@ Compare NotebookLM outputs → Final project text → Student reflections
 
 ---
 
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+- [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
+- [[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]

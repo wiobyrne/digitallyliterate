@@ -278,3 +278,9 @@ The future of scale inference computing appears promising, with ongoing research
 The educational and ethical implications of scale inference computing also require careful consideration. As these systems become more powerful and prevalent, ensuring that practitioners have appropriate training and that systems are developed and deployed responsibly becomes increasingly important.
 
 Scale inference computing exemplifies the evolution of computational methods toward more sophisticated, biologically-inspired approaches that can handle the complexity and multi-scale nature of real-world phenomena. As this field continues to develop, it promises to unlock new insights and capabilities across numerous domains while challenging us to think more deeply about the nature of information, scale, and understanding in computational systems.
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]]
+- [[Data Processing\|Data Processing]]
+- [[Algorithm Design\|Algorithm Design]]

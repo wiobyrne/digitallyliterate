@@ -145,3 +145,8 @@ A digital commonplace book should help you:
 
 *The art of selecting and arranging — ars excerpendi — helps synthesize ideas and serves as an aid to composition and argumentation.*
 
+## Connections
+
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]
+- [[02 DEVELOP/🌿 Plants/Self-Hosting for Digital Sovereignty\|Self-Hosting for Digital Sovereignty]]

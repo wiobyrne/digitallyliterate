@@ -20,3 +20,10 @@ In LAVE and WENGER's monograph, however, the theory of LPP more specifically gro
 Breaking LPP down is also helpful in understanding the term. Legitimate means membership in the CoP. Newcomers may not yet be full participants but they are legitimately there. Peripheral is less obvious in that it does not signal a set periphery and center to the CoP, but instead speaks to the starting point of understanding and skill of the newcomers. Participation refers to doing the work of the CoP.
 
 LPP relates to learning in that it is the transformation of identity as the newcomer becomes more conversant and skillful in the practices of the CoP. This is a very different view of learning than, let’s say, the information processing (IP) metaphor. IP assumes that the world is an objective set of information that can be inputted through the senses, to be filtered and associated with prior knowledge. Long-term, and to some extent short-term memory can be drawn upon for future use.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Lurking\|Lurking]]
+- [[Learning\|Learning]]
+- [[Cognition\|Cognition]]
+- [[Communities of Practice\|Communities of Practice]]

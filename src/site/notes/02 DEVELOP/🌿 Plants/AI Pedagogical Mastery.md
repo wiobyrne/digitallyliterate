@@ -3,7 +3,7 @@
 ---
 
 
-# AI Pedagogical Mastery - Educational Advantage in AI Interaction
+# AI Pedagogical Mastery
 
 ## Overview
 
@@ -166,3 +166,11 @@ The future belongs to those who can teach - both humans and AI - how to learn to
 **Related Frameworks**: [[02 DEVELOP/🌿 Plants/AI Communication Mastery\|AI Communication Mastery]], [[Cognitive Load Theory\|Cognitive Load Theory]], [[Learning Experience Design\|Learning Experience Design]], [[Educational Technology Integration\|Educational Technology Integration]]
 **Update Frequency**: Quarterly review recommended due to rapid AI and educational technology development
 **Target Audience**: Educators, instructional designers, educational leaders, professional development specialists
+
+## Connections
+
+- [[AI Communication Mastery - Linguistic Advantage in AI Interaction\|AI Communication Mastery - Linguistic Advantage in AI Interaction]]
+- [[Cognitive Load Theory Applications\|Cognitive Load Theory Applications]]
+- [[Metacognitive Learning Strategies\|Metacognitive Learning Strategies]]
+- [[Instructional Design Principles\|Instructional Design Principles]]
+- [[Scaffolding Framework\|Scaffolding Framework]]

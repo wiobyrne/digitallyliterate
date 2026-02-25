@@ -35,3 +35,9 @@ In-depth technical resource: [Theory of Mind in Autism Spectrum Disorder](https:
 - [[02 DEVELOP/🌱 Seeds/Empathy\|Empathy]]
 - [[Social Cognition\|Social Cognition]]
 - [[Cognitive Development\|Cognitive Development]]
+
+## Connections
+
+- [[02 DEVELOP/🌱 Seeds/Empathy\|Empathy]]
+- [[Social Cognition\|Social Cognition]]
+- [[Cognitive Development\|Cognitive Development]]

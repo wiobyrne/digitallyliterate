@@ -131,3 +131,11 @@ These small choices protect others from carrying information they don't need to 
 ---
 
 *Healthy communication isn't about secrecy. It's about respect for the people in the conversation.*
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]
+- [[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]
+- [[03 CREATE/🪴 Groves/Group Architecture & Trust\|Group Architecture & Trust]]
+- [[03 CREATE/🪴 Groves/Ephemeral Communication & Information Half-Life\|Ephemeral Communication & Information Half-Life]]

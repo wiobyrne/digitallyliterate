@@ -277,3 +277,10 @@ Federation enables **sustainable knowledge work**:
 🪴 **This note will continue to grow...**
 
 *Last tended: 2025-11-04*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Second Brain vs Knowledge Ecosystem\|Second Brain vs Knowledge Ecosystem]]
+- [[ActivityPub and Fediverse\|ActivityPub and Fediverse]]
+- [[IndieWeb Principles\|IndieWeb Principles]]
+- [[02 DEVELOP/🌿 Plants/Federating Your Second Brain\|Federating Your Second Brain]]

@@ -305,3 +305,12 @@ Future development in this area will likely focus on balancing user agency with 
 - [[Digital Inequality\|Digital Inequality]]
 - [[Content Strategy\|Content Strategy]]
 - [[Community Management\|Community Management]]
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Social Media Activity\|Social Media Activity]]
+- [[Social Network Analysis\|Social Network Analysis]]
+- [[Digital Influence\|Digital Influence]]
+- [[Engagement Metrics\|Engagement Metrics]]
+- [[Platform Algorithms\|Platform Algorithms]]
+- [[03 CREATE/🌲 Evergreens/Networked Publics\|Networked Publics]]

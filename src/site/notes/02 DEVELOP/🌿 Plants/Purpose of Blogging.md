@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/purpose-of-blogging/","title":"Purpose of Blogging: Building Identity, Network, and Voice in Digital Communities","tags":["blogging","digital-identity","online-communities","networked-learning","web-presence","scale-vs-intimacy","social-media","digital-writing","educational-technology"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/purpose-of-blogging/","title":"Purpose of Blogging","tags":["blogging","digital-identity","online-communities","networked-learning","web-presence","scale-vs-intimacy","social-media","digital-writing","educational-technology"]}
 ---
 
 
@@ -254,3 +254,10 @@ The question is not whether your blog reaches thousands, but whether it helps yo
 ---
 
 *This analysis draws from educational technology research, community building practice, and ongoing observation of successful blogging communities across academic and professional contexts.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Discourse 2.0\|02 DEVELOP/🌿 Plants/Discourse 2.0]]
+- [[02 DEVELOP/🌿 Plants/Social Media Activity\|Social Media Activity]]
+- [[Digital Identity Formation\|Digital Identity Formation]]
+- [[Networked Learning\|Networked Learning]]

@@ -42,3 +42,11 @@ This phase focuses on the student's response to the AI's contribution, which is 
 |**5. Reflection** 🧠|**Articulation of Boundaries, Ethics, and Epistemic Stance:** The student's commentary on the process.|**Metacognitive Boundary:** This provides the students' own words on _who is responsible for what_. Look for statements where they assign responsibility—e.g., "The AI did the synthesis, but I had to correct the logic," clarifying the ultimate human responsibility for the **final knowledge product**.|
 
 In short, this framework shows not just _what_ the students did, but _why_ they did it, and how their actions in the Notebook LM workspace demonstrate the difficult process of **setting and adjusting the rules** for an AI partnership.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]

@@ -52,17 +52,17 @@ This behavior:
 
 ## Related Tactics & Concepts
 
-- `[[Just Asking Questions (JAQing Off)]]`
+- `[[02 DEVELOP/🌿 Plants/Just Asking Questions (JAQing Off)\|Just Asking Questions (JAQing Off)]]`
     
-- `[[Concern Trolling]]`
+- `[[Concern Trolling\|Concern Trolling]]`
     
-- `[[Moving the Goalposts]]`
+- `[[Moving the Goalposts\|Moving the Goalposts]]`
     
-- `[[Burden of Proof]]`
+- `[[02 DEVELOP/🌿 Plants/Burden of Proof\|Burden of Proof]]`
     
-- `[[Disinformation tactics]]`
+- `[[Disinformation tactics\|Disinformation tactics]]`
     
-- `[[Filibuster as rhetorical strategy]]`
+- `[[Filibuster as rhetorical strategy\|Filibuster as rhetorical strategy]]`
     
 
 ---
@@ -84,3 +84,13 @@ This behavior:
 - What are effective **counterstrategies** for community moderation or digital pedagogy?
     
 - How does this tactic overlap with **weaponized civility** or **algorithmically amplified harassment**?
+
+## Connections
+
+- [[Just Asking Questions (JAQing Off)]]
+- [[Concern Trolling]]
+- [[Moving the Goalposts]]
+- [[Burden of Proof]]
+- [[Disinformation tactics]]
+- [[Filibuster as rhetorical strategy]]
+- [Sealioning.png](/img/user/04%20META/%F0%9F%94%97%20Assets/Sealioning.png)

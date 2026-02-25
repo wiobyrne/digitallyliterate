@@ -247,3 +247,11 @@ Put down some of the rocks. Your future self will thank you.
 - [[Self-Compassion\|Self-Compassion]]
 - [[Sustainable Living\|Sustainable Living]]
 - [[Crisis Management\|Crisis Management]]
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]
+- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Stress Management\|Stress Management]]
+- [[Boundaries\|Boundaries]]
+- [[Self-Compassion\|Self-Compassion]]

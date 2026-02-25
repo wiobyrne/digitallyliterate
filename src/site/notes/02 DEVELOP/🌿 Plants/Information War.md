@@ -396,4 +396,8 @@ Information warfare encompasses both offensive operations (propaganda, disinform
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible participation in information ecosystems
 - [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]] - Maintaining human agency in automated information systems
 
+## Connections
 
+- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]]
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
+- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]

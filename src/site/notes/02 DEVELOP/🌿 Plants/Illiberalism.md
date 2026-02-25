@@ -29,3 +29,7 @@ Wikipedia link: [Illiberalism](https://en.wikipedia.org/wiki/Illiberal_democracy
 [[02 DEVELOP/🌿 Plants/Liberalism\|Liberalism]]
 [[Democracy\|Democracy]]
 
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Liberalism\|Liberalism]]
+- [[Democracy\|Democracy]]

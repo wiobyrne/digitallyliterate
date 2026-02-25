@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/just-asking-questions-ja-qing-off/","title":"Just Asking Questions","tags":["GamerGate","discourse"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/just-asking-questions-ja-qing-off/","title":"Just Asking Questions (JAQing Off)","tags":["GamerGate","discourse"]}
 ---
 
 # Just Asking Questions (JAQing Off)
@@ -71,19 +71,19 @@ This strategy is often used to imply something is suspicious without taking resp
 
 ## Related Concepts
 
-- `[[Burden of Proof]]`
+- `[[02 DEVELOP/🌿 Plants/Burden of Proof\|Burden of Proof]]`
     
-- `[[Sealioning]]`
+- `[[02 DEVELOP/🌿 Plants/Sealioning\|Sealioning]]`
     
-- `[[Gish Gallop]]`
+- `[[03 CREATE/🌲 Evergreens/Gish Gallop\|Gish Gallop]]`
     
-- `[[Loaded Question]]`
+- `[[Loaded Question\|Loaded Question]]`
     
-- `[[Critical Thinking]]`
+- `[[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]`
     
-- `[[PRATT (Point Refuted A Thousand Times)]]`
+- `[[PRATT (Point Refuted A Thousand Times)\|PRATT (Point Refuted A Thousand Times)]]`
     
-- `[[Disinformation tactics]]`
+- `[[Disinformation tactics\|Disinformation tactics]]`
     
 
 ---
@@ -95,3 +95,13 @@ This strategy is often used to imply something is suspicious without taking resp
 - Might explore overlap with **algorithmic amplification** of JAQ-style content.
     
 - Compare with tactics in persuasive or manipulative communication.
+
+## Connections
+
+- [[Burden of Proof]]
+- [[Sealioning]]
+- [[Gish Gallop]]
+- [[Loaded Question]]
+- [[Critical Thinking]]
+- [[PRATT (Point Refuted A Thousand Times)]]
+- [[Disinformation tactics]]

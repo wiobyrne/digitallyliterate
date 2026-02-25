@@ -3,7 +3,7 @@
 ---
 
 
-# Generating Animations from Screenplays - AI-Powered Text-to-Animation Systems
+# Generative Animation from Screenplays
 
 ## Overview
 
@@ -210,3 +210,11 @@ The future of AI-generated animation in education will likely be characterized b
 ---
 
 *This analysis examines the current state and educational potential of AI-powered text-to-animation systems, drawing from research papers, commercial platforms, and educational technology trends.*
+
+## Connections
+
+- [[AI Video Generation\|AI Video Generation]]
+- [[Natural Language Processing\|Natural Language Processing]]
+- [[Educational Content Creation\|Educational Content Creation]]
+- [[Multimodal AI Systems\|Multimodal AI Systems]]
+- [[Creative AI Applications\|Creative AI Applications]]

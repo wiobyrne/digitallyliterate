@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/education-policy/","title":"Education Policy and Academic Blogging: Bridging Research, Practice, and Public Engagement","tags":["education-policy","academic-blogging","public-scholarship","research-communication","academic-writing","public-engagement","educational-research","scholar-advocacy","knowledge-translation"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/education-policy/","title":"Education_Policy","tags":["education-policy","academic-blogging","public-scholarship","research-communication","academic-writing","public-engagement","educational-research","scholar-advocacy","knowledge-translation"]}
 ---
 
 
-# Education Policy and Academic Blogging: Bridging Research, Practice, and Public Engagement
+# Education_Policy
 
 ## The Scholar's Public Engagement Dilemma
 
@@ -66,3 +66,10 @@ Education policy blogging represents a powerful opportunity for scholars to fulf
 ---
 
 *This analysis draws from academic blogging research, public scholarship literature, and practical experience with scholar-public engagement across education policy contexts.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Purpose of Blogging\|Purpose of Blogging]]
+- [[02 DEVELOP/🌿 Plants/Discourse 2.0\|02 DEVELOP/🌿 Plants/Discourse 2.0]]
+- [[Academic Writing Translation\|Academic Writing Translation]]
+- [[Public Scholarship\|Public Scholarship]]

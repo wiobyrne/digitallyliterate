@@ -100,3 +100,10 @@ This is digital literacy applied to care.
 - [[03 CREATE/🪴 Groves/Ephemeral Communication & Information Half-Life\|Ephemeral Communication & Information Half-Life]]
 - [[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]
 - [[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]
+- [[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]
+- [[03 CREATE/🪴 Groves/Ephemeral Communication & Information Half-Life\|Ephemeral Communication & Information Half-Life]]
+- [[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]

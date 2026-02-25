@@ -111,3 +111,9 @@ Choose a small, concrete step that moves you toward connection rather than withd
 4. **Adapt as Needed:** Modify prompts to fit your specific situations
 
 This practice combines cognitive-behavioral therapy principles with mindful self-reflection, creating a structured approach to emotional wellness and healthier relationships.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Mental Health Prompts\|Mental Health Prompts]]
+- [[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]]
+- [[Self-Confidence\|Self-Confidence]]

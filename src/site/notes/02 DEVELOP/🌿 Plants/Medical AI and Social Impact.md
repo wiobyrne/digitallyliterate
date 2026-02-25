@@ -3,7 +3,7 @@
 ---
 
 
-# Medical AI and Social Impact - Critical Analysis of Healthcare Technology
+# Medical AI and Social Impact
 
 ## Executive Summary
 
@@ -200,3 +200,9 @@ The critical analysis points toward the necessity of addressing healthcare inequ
 This critical perspective challenges healthcare practitioners, policymakers, researchers, and technologists to move beyond techno-optimistic narratives toward more complex and honest assessments of how healthcare technologies interact with social power structures and contribute to or undermine health justice goals. The future of medical AI depends not only on technical advancement but on the development of governance frameworks that can ensure these powerful technologies serve public health and social justice rather than reproducing and amplifying existing healthcare inequities.
 
 The critical examination of medical AI ultimately reveals the need for broader conversations about healthcare as a social right, the role of technology in advancing or undermining social justice, and the importance of democratic participation in shaping the technologies that increasingly influence our health and well-being. These conversations require moving beyond the "insufficiency of promise" toward more transformative visions of healthcare technology that center equity, justice, and community empowerment.
+
+## Connections
+
+- [[AI Ethics\|AI Ethics]]
+- [[Healthcare Policy\|Healthcare Policy]]
+- [[Technology Impact\|Technology Impact]]

@@ -53,3 +53,9 @@ In daily life, the empathy-to-compassion progression might look like:
 This framework helps us move beyond simply feeling what others feel to actively contributing to their wellbeing and the betterment of our shared human experience.
 
 Understanding both empathy and compassion as complementary rather than identical forces allows us to be more effective in our relationships and more intentional in our responses to others' needs.
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]]
+- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[02 DEVELOP/🌿 Plants/Human Connection\|Human Connection]]

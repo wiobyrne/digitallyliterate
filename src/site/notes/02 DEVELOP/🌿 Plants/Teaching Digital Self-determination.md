@@ -181,3 +181,10 @@ Rather than individual test scores, success measured through:
 ---
 
 **Key Takeaway:** Tool migration becomes transformative curriculum when approached through critical digital pedagogy that treats technology choices as opportunities for building both technical skills and critical consciousness about power, governance, and social justice in digital spaces.
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[04 META/🗄️ Archive/MOCs Migration/Digital Resilience MOC\|Digital Resilience MOC]]

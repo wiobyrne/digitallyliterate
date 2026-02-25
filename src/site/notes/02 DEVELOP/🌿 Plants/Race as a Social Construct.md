@@ -251,3 +251,11 @@ The metaphor of construction is particularly powerful because it emphasizes both
 ---
 
 *This analysis draws on interdisciplinary scholarship in sociology, history, anthropology, genetics, and critical race theory to provide a comprehensive understanding of race as a social construct and its implications for contemporary society.*
+
+## Connections
+
+- [[Critical Race Theory\|Critical Race Theory]]
+- [[02 DEVELOP/🌿 Plants/Racial Socialization\|Racial Socialization]]
+- [[02 DEVELOP/🌿 Plants/Implicit Bias\|Implicit Bias]]
+- [[Systemic Racism\|Systemic Racism]]
+- [[White Supremacy\|White Supremacy]]

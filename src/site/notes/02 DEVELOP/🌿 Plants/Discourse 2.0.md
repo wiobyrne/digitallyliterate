@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/discourse-2-0/","title":"Discourse 2.0: Evolution of Communication in Web 2.0 Environments","tags":["discourse-analysis","web-2-0","computer-mediated-communication","social-media","digital-communication","multimodal-discourse","user-generated-content","collaborative-media","network-communication"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/discourse-2-0/","title":"Discourse 2.0","tags":["discourse-analysis","web-2-0","computer-mediated-communication","social-media","digital-communication","multimodal-discourse","user-generated-content","collaborative-media","network-communication"]}
 ---
 
 
-# Discourse 2.0: Evolution of Communication in Web 2.0 Environments
+# Discourse 2.0
 
 ## Defining Discourse 2.0
 **Discourse 2.0** represents the evolution of online communication that emerged alongside **Web 2.0 platforms**—web-based environments incorporating user-generated content and social interaction, often alongside or in response to structures and multimedia content provided by the platforms themselves.
@@ -266,3 +266,12 @@ The study of Discourse 2.0 ultimately reveals communication as an ongoing collab
 ---
 
 *This analysis draws from computer-mediated communication research, platform studies, and empirical observation of communication practices across Web 2.0 environments.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Purpose of Blogging\|Purpose of Blogging]]
+- [[02 DEVELOP/🌿 Plants/Social Media Activity\|Social Media Activity]]
+- [[Network Communication Patterns\|Network Communication Patterns]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/🌿 Plants/Evolving Concepts of Text\|Evolving Concepts of Text]]
+- [[02 DEVELOP/🌿 Plants/Habermas and Discourse Ethics Framework\|Habermas and Discourse Ethics Framework]]

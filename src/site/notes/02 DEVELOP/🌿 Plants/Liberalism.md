@@ -30,3 +30,9 @@ Wikipedia link: [Liberalism](https://en.wikipedia.org/wiki/Liberalism)
 - [[Democracy\|Democracy]]
 - [[Individual Rights\|Individual Rights]]
 - [[Free Market\|Free Market]]
+
+## Connections
+
+- [[Democracy\|Democracy]]
+- [[Individual Rights\|Individual Rights]]
+- [[Free Market\|Free Market]]

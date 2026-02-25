@@ -3,7 +3,7 @@
 ---
 
 
-# Online Content Construction - Directional Framework for Digital Content Analysis
+# Online Content Construction Framework
 
 ## Overview
 
@@ -215,3 +215,11 @@ Through systematic application of these four directional lenses, learners develo
 - [[Critical Media Analysis\|Critical Media Analysis]]
 - [[Information Architecture in Education\|Information Architecture in Education]]
 - [[Constructivist Digital Pedagogy\|Constructivist Digital Pedagogy]]
+
+## Connections
+
+- [[Online Reading Comprehension\|Online Reading Comprehension]]
+- [[Digital Literacy Frameworks\|Digital Literacy Frameworks]]
+- [[02 DEVELOP/🌿 Plants/Information Architecture\|Information Architecture]]
+- [[Content Analysis Methods\|Content Analysis Methods]]
+- [[ORMS Methodology\|ORMS Methodology]]

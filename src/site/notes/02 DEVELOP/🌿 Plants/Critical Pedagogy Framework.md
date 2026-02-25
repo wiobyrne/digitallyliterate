@@ -69,3 +69,11 @@ My analysis in [[Critical Pedagogy Blinds When Progressive Education Perpetuates
 - Supports [[02 DEVELOP/🌿 Plants/Student Response Management\|Student Response Management]] by normalizing intellectual challenge
 - Informs [[Classroom Environment Building\|Classroom Environment Building]] for psychological safety
 - Connects to [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]] as tool for challenging assumptions
+
+## Connections
+
+- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[Student Empowerment\|Student Empowerment]]
+- [[Democratic Learning\|Democratic Learning]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/social-media-activity/","title":"Social Media Activity: Understanding Participation Patterns and Engagement Dynamics","tags":["social-media","social-network-analysis","digital-engagement","user-behavior","participation-patterns","content-creation","social-interaction","platform-analytics","digital-citizenship"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/social-media-activity/","title":"Social Media Activity","tags":["social-media","social-network-analysis","digital-engagement","user-behavior","participation-patterns","content-creation","social-interaction","platform-analytics","digital-citizenship"]}
 ---
 
 
@@ -259,3 +259,10 @@ As social media continues evolving, the fundamental challenge remains supporting
 ---
 
 *This analysis draws from social media research, digital ethnography, platform studies, and ongoing observation of user behavior patterns across diverse social media environments.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Discourse 2.0\|02 DEVELOP/🌿 Plants/Discourse 2.0]]
+- [[02 DEVELOP/🌿 Plants/Purpose of Blogging\|Purpose of Blogging]]
+- [[02 DEVELOP/🌿 Plants/Understanding Network Structure\|Understanding Network Structure]]
+- [[Digital Engagement Patterns\|Digital Engagement Patterns]]

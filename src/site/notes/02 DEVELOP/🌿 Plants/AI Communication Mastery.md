@@ -3,7 +3,7 @@
 ---
 
 
-# AI Communication Mastery - Linguistic Advantage in AI Interaction
+# AI Communication Mastery
 
 ## Overview
 
@@ -189,3 +189,10 @@ The linguistic advantage in AI interaction represents a fundamental shift in how
 **Applications**: Professional development, educational curriculum design, AI literacy training
 **Related Frameworks**: [[02 DEVELOP/🌿 Plants/AI Pedagogical Mastery\|AI Pedagogical Mastery]], [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]], [[Communication Competence Model\|Communication Competence Model]]
 **Update Frequency**: Quarterly review recommended due to rapid AI development
+
+## Connections
+
+- [[AI Pedagogical Mastery - Educational Advantage in AI Interaction\|AI Pedagogical Mastery - Educational Advantage in AI Interaction]]
+- [[Communication Theory and Practice\|Communication Theory and Practice]]
+- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[Prompt Engineering Fundamentals\|Prompt Engineering Fundamentals]]

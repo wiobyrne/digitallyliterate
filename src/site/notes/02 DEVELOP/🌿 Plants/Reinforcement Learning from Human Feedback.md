@@ -35,3 +35,10 @@ Reinforcement Learning from Human Feedback involves training algorithms by provi
 
 
 [[04 META/🗄️ Archive/MOCs Migration/AI and Machine Learning MOC\|AI and Machine Learning MOC]]
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Reinforcement Learning\|Reinforcement Learning]]
+- [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]]
+- [[Human-in-the-loop Machine Learning\|Human-in-the-loop Machine Learning]]
+- [[04 META/🗄️ Archive/MOCs Migration/AI and Machine Learning MOC\|AI and Machine Learning MOC]]

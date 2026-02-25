@@ -35,3 +35,9 @@ Systematic intellectual persistence recognizes that profound intellectual develo
 - "[[03 CREATE/🌲 Evergreens/Knowledge Building Blocks\|Knowledge Building Blocks]]"
 - "[[03 CREATE/🌲 Evergreens/Personal Knowledge Management\|Personal Knowledge Management]]"
 - "[[02 DEVELOP/🌿 Plants/Learning in Public\|Learning in Public]]"
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Knowledge Building Blocks\|Knowledge Building Blocks]]
+- [[03 CREATE/🌲 Evergreens/Personal Knowledge Management\|Personal Knowledge Management]]
+- [[02 DEVELOP/🌿 Plants/Learning in Public\|Learning in Public]]

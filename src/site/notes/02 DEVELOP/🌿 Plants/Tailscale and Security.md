@@ -61,3 +61,9 @@ To fully secure your Proxmox setup, you should also:
 **Tailscale enhances your security by providing secure remote access.** But it's just one component of a comprehensive security strategy. You need to combine it with other security measures to fully "lock down" your Proxmox environment.
 
 Think of Tailscale as a secure front door to your house - it's excellent protection, but you still need locks on individual rooms, security cameras, and alarm systems for complete protection.
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Proxmox Networking Overview\|Proxmox Networking Overview]]
+- [[Security Adversaries\|Security Adversaries]]
+- [[Threat Model\|Threat Model]]

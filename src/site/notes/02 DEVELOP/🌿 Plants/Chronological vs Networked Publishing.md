@@ -350,3 +350,10 @@ Moving from chronological to networked publishing means:
 🪴 **This note will continue to grow...**
 
 *Last tended: 2025-11-04*
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/History of Digital Gardens\|History of Digital Gardens]]
+- [[Blog Evolution and Platform Dynamics\|Blog Evolution and Platform Dynamics]]
+- [[02 DEVELOP/🌿 Plants/Why Federation Matters\|Why Federation Matters]]
+- [[02 DEVELOP/🌿 Plants/Federating Your Second Brain\|Federating Your Second Brain]]

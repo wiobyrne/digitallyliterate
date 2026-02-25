@@ -12,3 +12,13 @@ The concept of "live human signposts" represents a powerful framework for unders
 ## Conclusion
 
 The live human signpost concept recognizes that hope and guidance are most powerful when they are embodied in real people who can demonstrate through their lives that change is possible. Vincent Harding's vision continues to offer valuable guidance for how communities can identify, support, and learn from the signposts that already exist among them while creating conditions for new signposts to emerge, bridging individual possibility and collective transformation.
+
+## Connections
+
+- [[transformational-leadership\|transformational-leadership]]
+- [[community-wisdom\|community-wisdom]]
+- [[experiential-learning\|experiential-learning]]
+- [[social-movement-building\|social-movement-building]]
+- [[Community Leadership\|Community Leadership]]
+- [[Mentorship\|Mentorship]]
+- [[Social Change\|Social Change]]

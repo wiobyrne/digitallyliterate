@@ -32,3 +32,9 @@ Information architecture involves creating categories, labels, and navigation sy
 - [[User Experience Design\|User Experience Design]]
 - [[Taxonomy\|Taxonomy]]
 - [[Navigation Design\|Navigation Design]]
+
+## Connections
+
+- [[User Experience Design\|User Experience Design]]
+- [[Taxonomy\|Taxonomy]]
+- [[Navigation Design\|Navigation Design]]

@@ -35,3 +35,9 @@ Most digital platforms operate on business models that profit from capturing and
 - "[[03 CREATE/🌲 Evergreens/Attention\|Attention]]"
 - "[[Digital Wellness\|Digital Wellness]]"
 - "[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]"
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Attention\|Attention]]
+- [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]
+- [[02 DEVELOP/🌿 Plants/Digital Divide\|Digital Divide]]

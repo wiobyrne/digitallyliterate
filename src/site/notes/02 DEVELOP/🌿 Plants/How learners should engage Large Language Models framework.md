@@ -102,3 +102,11 @@ Your framework effectively captures the three core concepts you mentioned by bre
 * [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
 * [[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]
 * [[03 CREATE/🌲 Evergreens/Agency\|Agency]] | [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]] | [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[03 CREATE/📊 Presentations/LRA 2025 Presentation\|LRA 2025 Presentation]]
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
+- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
+- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]

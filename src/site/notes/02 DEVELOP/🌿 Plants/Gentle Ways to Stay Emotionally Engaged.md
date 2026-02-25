@@ -125,3 +125,11 @@ Remember that staying emotionally engaged is not about being constantly availabl
 - [[Mindful Relationships\|Mindful Relationships]]
 - [[Conflict Resolution\|Conflict Resolution]]
 - [[Personal Boundaries\|Personal Boundaries]]
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Courageous Community\|Courageous Community]]
+- [[02 DEVELOP/🌿 Plants/Reflective Listening\|Reflective Listening]]
+- [[Communication Strategies\|Communication Strategies]]
+- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Mindful Relationships\|Mindful Relationships]]

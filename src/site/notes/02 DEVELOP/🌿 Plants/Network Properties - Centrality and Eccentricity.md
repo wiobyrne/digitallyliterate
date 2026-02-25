@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/network-properties-centrality-and-eccentricity/","title":"Network Properties: Centrality and Eccentricity","tags":["network-analysis","social-network-analysis","centrality-measures","data-visualization","graph-theory","network-metrics","social-media-analysis"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/network-properties-centrality-and-eccentricity/","title":"Network Properties - Centrality and Eccentricity","tags":["network-analysis","social-network-analysis","centrality-measures","data-visualization","graph-theory","network-metrics","social-media-analysis"]}
 ---
 
 
@@ -223,7 +223,7 @@ Network properties build upon the concept of **distances between nodes** - the s
 
 ## Related Concepts
 
-- **[[02 DEVELOP/🌱 Seeds/Archive/Understanding the structure of your network\|Understanding the structure of your network]]**: Foundation for interpreting centrality measures
+- **[[02 DEVELOP/🌱 Seeds/Network Topology The Architecture of Digital Affinity\|Network Topology The Architecture of Digital Affinity]]**: Foundation for interpreting centrality measures
 - **[[Network_visualisation_algorithms\|Network_visualisation_algorithms]]**: Technical approaches to representing centrality visually
 - **[[Social Network Analysis\|Social Network Analysis]]**: Broader methodological framework
 - **[[Graph Theory\|Graph Theory]]**: Mathematical foundation for centrality concepts
@@ -242,3 +242,11 @@ Future developments in dynamic network analysis, multilayer approaches, and mach
 ---
 
 *This analysis provides a foundation for applying centrality measures in social network analysis, with practical guidance for implementation and interpretation across different research contexts.*
+
+## Connections
+
+- [[02 DEVELOP/🌱 Seeds/Network Topology The Architecture of Digital Affinity\|Network Topology The Architecture of Digital Affinity]]
+- [[Network_visualisation_algorithms\|Network_visualisation_algorithms]]
+- [[Social Network Analysis\|Social Network Analysis]]
+- [[Data Visualization\|Data Visualization]]
+- [[Graph Theory\|Graph Theory]]

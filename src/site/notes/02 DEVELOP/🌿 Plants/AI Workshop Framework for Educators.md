@@ -140,3 +140,9 @@ By the end of the workshop, participants will have:
 
 *The goal isn't just to use AI confidently—it's to question it, too.*
 
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]]
+- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]]
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]
+- [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]]

@@ -59,3 +59,12 @@ Historian Timothy Snyder connects modern false flag strategies to *targeted demo
 - Citizens United v. FEC (2010) and its enabling of anonymous funding for political misinformation
 
 ---
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Argumentum ad Nauseam\|Argumentum ad nauseam]]
+- [[Limited hangout\|Limited hangout]]
+- [[Psychological operations (PSYOP)\|Psychological operations (PSYOP)]]
+- [[Gaslighting\|Gaslighting]]
+- [[Information warfare\|Information warfare]]
+- [[Deepfake\|Deepfake]]

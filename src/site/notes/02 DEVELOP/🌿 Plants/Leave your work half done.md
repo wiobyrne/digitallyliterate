@@ -19,3 +19,9 @@ However, this strategy should be used with caution. Leaving every task half done
 
 In conclusion, leaving your work half done at the end of the day can improve productivity and motivation, reduce procrastination, promote better work-life balance, and provide a clear starting point for the next day. By strategically utilizing this method, you can enhance both your efficiency and overall job satisfaction.
 
+## Connections
+
+- [[Productivity\|Productivity]]
+- [[Psychology\|Psychology]]
+- [[Work-Life Balance\|Work-Life Balance]]
+- [[Getting Things Done\|Getting Things Done]]

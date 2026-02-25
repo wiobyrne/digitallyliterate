@@ -18,4 +18,8 @@ When CS curriculum developers prioritize the needs of the industry, rather than 
 [[equity\|equity]]
 [[racism\|racism]]
 
+## Connections
 
+- [[Lead user innovation\|Lead user innovation]]
+- [[equity\|equity]]
+- [[Design Justice\|Design Justice]]

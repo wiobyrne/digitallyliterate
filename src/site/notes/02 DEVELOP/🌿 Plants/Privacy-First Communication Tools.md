@@ -133,3 +133,10 @@ Before choosing tools, understand what makes communication "privacy by design":
 ---
 
 *Privacy in communication isn't optional — it's foundational to trust.*
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]]

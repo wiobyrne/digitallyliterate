@@ -400,3 +400,10 @@ git push origin main
 *Last tended: 2025-11-04*
 
 **Have questions about my setup?** Reach out via [your contact method].
+
+## Connections
+
+- [[03 CREATE/🌲 Evergreens/Digital Garden Setup Guide\|Digital Garden Setup Guide]]
+- [[Tools for Federated Publishing\|Tools for Federated Publishing]]
+- [[02 DEVELOP/🌿 Plants/Federating Your Second Brain\|Federating Your Second Brain]]
+- [[Publishing Workflows\|Publishing Workflows]]

@@ -69,3 +69,9 @@
 - Consider the intersectionality between language, cognition, diversity, and equity in education. How do all these elements interact to shape an individual's educational experience?
 
 These prompts serve as tools for self-assessment, educational reflection, and ongoing mental health monitoring, providing structured ways to examine both personal wellbeing and broader educational equity issues.
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Daily CBT-style Journaling Practice\|Daily CBT-style journaling practice]]
+- [[Self-Confidence\|Self-Confidence]]
+- [[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]]

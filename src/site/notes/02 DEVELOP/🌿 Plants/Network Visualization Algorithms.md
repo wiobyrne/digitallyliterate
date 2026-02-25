@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-develop/plants/network-visualization-algorithms/","title":"Network Visualization Algorithms: Mathematical Approaches to Spatial Network Layout","tags":["network-visualization","algorithms","gephi","force-atlas","graph-layout","mathematical-modeling","data-visualization","network-analysis","spatial-analysis"]}
+{"dg-publish":true,"permalink":"/02-develop/plants/network-visualization-algorithms/","title":"Network Visualization Algorithms","tags":["network-visualization","algorithms","gephi","force-atlas","graph-layout","mathematical-modeling","data-visualization","network-analysis","spatial-analysis"]}
 ---
 
 
@@ -78,3 +78,10 @@ Network visualization algorithms represent powerful tools for revealing hidden p
 ---
 
 *This analysis draws from network science literature, practical experience with visualization tools, and ongoing research in algorithmic approaches to network layout and interpretation.*
+
+## Connections
+
+- [[02 DEVELOP/🌿 Plants/Understanding Network Structure\|Understanding Network Structure]]
+- [[Participant Researcher\|Participant Researcher]]
+- [[Network Analysis Methods\|Network Analysis Methods]]
+- [[Data Visualization Tools\|Data Visualization Tools]]

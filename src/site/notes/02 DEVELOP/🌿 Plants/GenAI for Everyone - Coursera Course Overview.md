@@ -59,3 +59,9 @@ This course serves as the foundation for a comprehensive learning path exploring
 - The technology enhances human capabilities rather than replacing human judgment
 - Understanding GenAI basics is essential for modern professional development
 - Ethical considerations and responsible implementation are crucial for organizational success
+
+## Connections
+
+- [[AI Applications\|AI Applications]]
+- [[Machine Learning Fundamentals\|Machine Learning Fundamentals]]
+- [[Generative AI Ethics\|Generative AI Ethics]]

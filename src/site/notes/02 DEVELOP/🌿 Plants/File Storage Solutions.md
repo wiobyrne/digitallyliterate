@@ -151,3 +151,11 @@
 ---
 
 **Key Takeaway:** Cooperative hosting provides the optimal starting point, offering immediate privacy improvements while building capacity for potential future self-hosting based on community priorities and technical development.
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]]
+- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]]
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]

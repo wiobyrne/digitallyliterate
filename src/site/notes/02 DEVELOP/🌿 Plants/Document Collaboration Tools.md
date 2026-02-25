@@ -130,3 +130,10 @@ Comprehensive data migration tools prevent loss.
 ---
 
 **Key Takeaway:** CryptPad provides the optimal balance of privacy, usability, and features for collaborative document work. Success depends on framing migration as a learning opportunity rather than a technical burden.
+
+## Connections
+
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]]
+- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]]
+- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]]
