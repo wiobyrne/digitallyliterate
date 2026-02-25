@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","title":"Professional Bio","tags":["bio","professional","about","speaker"]}
+{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","title":"Bio","tags":["bio","professional","about","speaker"]}
 ---
 
 
 # Bio
-# W. Ian O'Byrne, Ph.D.
 
+**W. Ian O'Byrne, Ph.D.**
 *Associate Professor of Literacy Education | Digital Literacy Researcher | Educational Technology Leader*
 
 ---
@@ -51,6 +51,6 @@ Dr. O'Byrne is available to speak on a range of topics concerning the thoughtful
 ## 🔗 Connect and Learn More
 
 - **Full CV:** [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]]
-- **Research Areas:** [[Research Interests\|Research Interests]]  
+- **Speaking & Consulting:** [[04 META/👤 About Me/Work With Me\|Work With Me]]
 - **Contact Information:** [[04 META/👤 About Me/Contact\|Contact]]
 

@@ -70,7 +70,7 @@ Center for Educator Recruitment, Retention, & Advancement (CERRA)
 
 ## 📚 Selected Recent Publications
 
-*For the complete archive of all publications, see [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]].*
+*For the complete archive of all publications, visit [wiobyrne.com](https://wiobyrne.com).*
 
 ### Journal Articles (2020-2025)
 
@@ -179,5 +179,4 @@ My teaching centers on empowering educators to thoughtfully integrate technology
 
 ---
 
-*Last updated: June 1, 2025 | Version 2025.2*  
-*For comprehensive publication lists and detailed research information, visit [wiobyrne.com](https://wiobyrne.com)*
+*Last updated: February 2026 | For comprehensive publication lists and detailed research information, visit [wiobyrne.com](https://wiobyrne.com)*

@@ -72,7 +72,7 @@ My analysis in [[Critical Pedagogy Blinds When Progressive Education Perpetuates
 
 ## Connections
 
-- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
 - [[Student Empowerment\|Student Empowerment]]
 - [[Democratic Learning\|Democratic Learning]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

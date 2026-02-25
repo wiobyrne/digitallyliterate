@@ -217,7 +217,7 @@ Research supports several effective approaches:
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]] - Foundational understanding of digital privacy rights and practices
 - [[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]] - Building capacity to navigate digital challenges
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] - Technical and critical skills for digital participation
-- [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]] - Comprehensive resource collection for digital safety
+- [[03 CREATE/🪴 Groves/Privacy and Security MOC\|Privacy and Security MOC]] - Comprehensive resource collection for digital safety
 
 ## Connections
 
@@ -225,4 +225,4 @@ Research supports several effective approaches:
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
 - [[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
-- [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]]
+- [[03 CREATE/🪴 Groves/Privacy and Security MOC\|Privacy and Security MOC]]

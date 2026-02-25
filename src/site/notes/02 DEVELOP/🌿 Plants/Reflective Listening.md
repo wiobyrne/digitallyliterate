@@ -192,7 +192,7 @@ The practice requires ongoing commitment and self-awareness, but the rewards—f
 - [[Communication Strategies\|Communication Strategies]]
 - [[02 DEVELOP/🌱 Seeds/Empathy\|Empathy]]
 - [[Conflict Resolution\|Conflict Resolution]]
-- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
 - [[Therapeutic Communication\|Therapeutic Communication]]
 
 ## Connections

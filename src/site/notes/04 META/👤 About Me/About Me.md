@@ -18,6 +18,7 @@ This site is my working notebook. Ideas here range from rough fragments to polis
 - [[04 META/👤 About Me/Bio\|Bio]] — short and long bios for introductions and events
 - [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]] — full academic record
 - [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]] — how I think about learning and technology
+- [[04 META/👤 About Me/Work With Me\|Work With Me]] — speaking, workshops, and consulting
 - [[04 META/👤 About Me/Contact\|Contact]] — say hello
 
 ---

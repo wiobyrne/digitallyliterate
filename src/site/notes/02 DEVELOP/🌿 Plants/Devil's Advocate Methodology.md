@@ -107,7 +107,7 @@ Must be implemented with awareness of insights from [[Critical Pedagogy Blinds W
 
 ## Connections
 
-- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
 - [[02 DEVELOP/🌿 Plants/Constructivism and Cognitive Dissonance\|Constructivism and Cognitive Dissonance]]
 - [[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
 - [[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]]

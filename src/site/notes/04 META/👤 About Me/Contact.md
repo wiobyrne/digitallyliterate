@@ -4,41 +4,31 @@
 
 # Contact
 
-I partner with forward-thinking organizations implementing digital literacy transformation at scale.
+Say hello at [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net).
 
-Whether you're developing institutional AI literacy strategies, combating information disorder, or building organizational knowledge systems, I bring both foundational expertise and cutting-edge frameworks.
-
-## Strategic Inquiries
-
-**Email:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)
-
-For strategic consulting, organizational partnerships, speaking engagements, or custom framework development.
-
-## Speaking + Thought Leadership
-
-Organizations book me for keynotes, strategic workshops, and advisory work on:
-
-- Institutional AI literacy implementation
-- Information integrity at organizational scale
-- Digital transformation strategy for educational institutions
-- Next-generation knowledge management systems
-
-## Media + Research Collaboration
-
-For interviews, research partnerships, or media commentary on digital literacy, AI in education, or information ecosystem challenges.
+I read everything and try to respond thoughtfully. If you’re working on something related to digital literacy, education, AI, or the open web — I’d like to hear about it.
 
 ---
 
-## Follow the Development Process
+## Speaking & Workshops
 
-The frameworks and strategies I develop here become the solutions organizations implement:
+I keynote and run workshops on:
 
-👉 **[[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]** — 850+ strategic leaders receive frameworks, analysis, and early access to emerging thinking
+- Digital literacy and new media in education
+- AI literacy — what it means for learners, teachers, and institutions
+- Privacy, surveillance, and digital sovereignty
+- Anti-racist approaches to educational technology
 
-👉 **[Professional Portfolio](https://wiobyrne.com)** — Case studies, speaking topics, and strategic positioning
+If you’re organizing a conference or running professional development in these areas, get in touch.
+
+## Research & Collaboration
+
+I work with researchers, educators, and organizations on projects related to literacy, technology, and equity. If you’re building something in this space and think there’s overlap, I’m open to a conversation.
+
+## Media
+
+For interviews or commentary on digital literacy, AI in education, or information environments, reach out directly.
 
 ---
 
-**Response Approach:** Strategic inquiries receive priority response within 48 hours. All messages are read and considered thoughtfully.
-
-_Organizations serious about digital literacy transformation find the investment in foundational expertise pays exponential returns._
+I write a weekly newsletter — [Digitally Literate](https://digitallyliterate.net/newsletter) — and keep a professional portfolio at [wiobyrne.com](https://wiobyrne.com).

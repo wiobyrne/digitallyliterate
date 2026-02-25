@@ -137,7 +137,7 @@ Must implement with awareness of [[Critical Pedagogy Blinds When Progressive Edu
 
 ## Connections
 
-- [[04 META/🗄️ Archive/MOCs Migration/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
 - [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
 - [[02 DEVELOP/🌿 Plants/Student Response Management\|Student Response Management]]
 - [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]]

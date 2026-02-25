@@ -189,9 +189,9 @@ User asks: \"How do I learn about Y?\" → MOC
 - [[🗺️ MOC Template\|🗺️ MOC Template]] - Template for MOC creation with all required elements
 
 ### Current Examples
-- [[04 META/🗄️ Archive/MOCs Migration/Digital Resilience MOC\|Digital Resilience MOC]] - Exemplar MOC with learning progressions and thematic organization
-- [[04 META/🗄️ Archive/MOCs Migration/Privacy and Security MOC\|Privacy and Security MOC]] - Tool-focused content demonstrating Index-like characteristics
-- [[04 META/🗄️ Archive/MOCs Migration/AI and Machine Learning MOC\|AI and Machine Learning MOC]] - Hybrid approach with both reference and thematic elements
+- [[03 CREATE/🪴 Groves/Digital Resilience MOC\|Digital Resilience MOC]] - Exemplar MOC with learning progressions and thematic organization
+- [[03 CREATE/🪴 Groves/Privacy and Security MOC\|Privacy and Security MOC]] - Tool-focused content demonstrating Index-like characteristics
+- [[03 CREATE/🪴 Groves/AI and Machine Learning MOC\|AI and Machine Learning MOC]] - Hybrid approach with both reference and thematic elements
 
 ### System Integration
 - [[04 META/📋 Guides/Vault - Directory Style Guide Overview\|Vault - Directory Style Guide Overview]] - Master framework for vault organization

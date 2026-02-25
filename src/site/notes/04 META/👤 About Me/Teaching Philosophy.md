@@ -4,7 +4,6 @@
 
 
 # Teaching Philosophy
-## W. Ian O'Byrne
 
 *Empowering educators to thoughtfully integrate technology in ways that amplify student voice, promote equity, and develop critical digital literacies.*
 
@@ -131,9 +130,9 @@ As an educator, I commit to:
 
 This teaching philosophy connects directly to my broader professional work:
 
-- **Research Focus:** [[Research Interests\|Research Interests]] in digital literacies and educational equity
-- **Professional Identity:** [[04 META/👤 About Me/Bio\|Bio]] as scholar-practitioner bridging research and practice  
+- **Professional Identity:** [[04 META/👤 About Me/Bio\|Bio]] as scholar-practitioner bridging research and practice
 - **Career Trajectory:** [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]] demonstrating sustained commitment to education
+- **Speaking & Consulting:** [[04 META/👤 About Me/Work With Me\|Work With Me]] for workshops and professional development
 - **Public Engagement:** Active blogging and open scholarship at [digitallyliterate.net](https://digitallyliterate.net)
 
 ---
@@ -141,8 +140,4 @@ This teaching philosophy connects directly to my broader professional work:
 *"We don't have to be perfect, just engaged and committed to aligning values with action."* - Brené Brown
 
 This philosophy guides every aspect of my teaching practice, from course design to daily interactions with students, ensuring that technology integration serves human flourishing and social justice.
-
-## Theoretical Framework and Methodologies
-
-For a comprehensive exploration of the theoretical foundations, pedagogical techniques, and practical implementation strategies that inform this philosophy, see [[04 META/👤 About Me/Curriculum Vitae\|Curriculum Vitae]] and [[Research Interests\|Research Interests]].
 

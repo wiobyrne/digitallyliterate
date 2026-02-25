@@ -211,5 +211,5 @@ The principles outlined here provide a foundation for creating visualizations th
 **Source**: Synthesized from visualization literature, Tableau documentation, and professional best practices
 **Validation**: Based on established design principles, user research, and communication effectiveness studies
 **Applications**: Research training, presentation preparation, publication development, professional communication
-**Related Frameworks**: [[04 META/🗄️ Archive/Google Keep/Data analysis\|Data Analysis]], [[Research Communication\|Research Communication]], [[Academic Writing\|Academic Writing]], [[Statistical Methods\|Statistical Methods]]
+**Related Frameworks**: [[Data Analysis\|Data Analysis]], [[Research Communication\|Research Communication]], [[Academic Writing\|Academic Writing]], [[Statistical Methods\|Statistical Methods]]
 **Update Frequency**: Annual review recommended due to evolving tools and standards

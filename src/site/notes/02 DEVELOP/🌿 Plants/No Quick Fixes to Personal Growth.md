@@ -152,7 +152,7 @@ Embrace the process of growth and change over time. Trust that the seeds you pla
 
 ## Related Concepts
 - [[Personal Growth\|Personal Growth]]
-- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
 - [[Self-Compassion\|Self-Compassion]]
 - [[Mindful Living\|Mindful Living]]
 - [[Resilience Building\|Resilience Building]]
@@ -162,7 +162,7 @@ Embrace the process of growth and change over time. Trust that the seeds you pla
 ## Connections
 
 - [[Personal Growth\|Personal Growth]]
-- [[04 META/🗄️ Archive/MOCs Migration/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
 - [[Self-Compassion\|Self-Compassion]]
 - [[Mindful Living\|Mindful Living]]
 - [[Resilience Building\|Resilience Building]]

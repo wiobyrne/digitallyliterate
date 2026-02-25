@@ -73,5 +73,5 @@ The framework established by Gamergate continues evolving, making ongoing analys
 ## Related Documentation
 
 **Source Materials**: [[02 DEVELOP/🌿 Plants/What Gamergate Taught Us\|What Gamergate Taught Us]], [[02 DEVELOP/🌿 Plants/Lessons from Gamergate to Help Spot Fake News Early\|Lessons from Gamergate to Help Spot Fake News Early]]  
-**Framework Integration**: See [[04 META/🗄️ Archive/MOCs Migration/Internet Culture MOC\|Internet Culture MOC]] for broader context  
+**Framework Integration**: See [[03 CREATE/🪴 Groves/Internet Culture MOC\|Internet Culture MOC]] for broader context  
 **Applications**: Connected to [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] and [[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]] frameworks
