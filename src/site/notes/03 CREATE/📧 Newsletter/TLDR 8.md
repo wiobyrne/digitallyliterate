@@ -124,7 +124,7 @@ Sesame Street moving to HBO feels like a test case for public goods in private h
 - **[[Open Badges\|Open Badges]]** — Earning Doug Belshaw's Open Badge Awareness through practice and revision.
 - **[[Teen Technology Use\|Teen Technology Use]]** — Atlantic's tween insights on phones, social media, and popularity.
 - **[[Reading and eBooks\|Reading and eBooks]]** — How screens are changing reading practices and novelists' writing.
-- **[[Privacy and Security\|Privacy and Security]]** — Facebook tracking laughter patterns, evolving online expression.
+- **[[03 CREATE/🪴 Groves/Privacy and Security\|Privacy and Security]]** — Facebook tracking laughter patterns, evolving online expression.
 - **[[Google Alphabet\|Google Alphabet]]** — Reorganization enabling focus beyond search, trust questions.
 - **[[Sesame Street\|Sesame Street]]** — HBO deal implications for educational access and equity.
 - **[[Information Evaluation\|Information Evaluation]]** — Teaching healthy skepticism for online reading.

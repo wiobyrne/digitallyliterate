@@ -57,5 +57,5 @@ Understanding both empathy and compassion as complementary rather than identical
 ## Connections
 
 - [[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]]
-- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Emotional Intelligence MOC\|Emotional Intelligence MOC]]
 - [[02 DEVELOP/🌿 Plants/Human Connection\|Human Connection]]

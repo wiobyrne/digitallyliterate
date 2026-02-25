@@ -108,7 +108,7 @@ In my work with digital literacies, Socratic questioning helps students examine 
 
 ## Connections
 
-- [[03 CREATE/🪴 Groves/Teaching Philosophy MOC\|Teaching Philosophy MOC]]
+- [[Teaching Philosophy MOC\|Teaching Philosophy MOC]]
 - [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
 - [[Student Engagement Strategies\|Student Engagement Strategies]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

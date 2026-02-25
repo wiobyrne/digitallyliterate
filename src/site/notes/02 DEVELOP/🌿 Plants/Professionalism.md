@@ -33,4 +33,4 @@ Professionalism encapsulates qualities such as honesty/candor, empathy and self-
 
 - [[Ethics\|Ethics]]
 - [[Leadership\|Leadership]]
-- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Emotional Intelligence MOC\|Emotional Intelligence MOC]]

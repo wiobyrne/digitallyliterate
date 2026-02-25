@@ -107,7 +107,7 @@ As educators navigate racial tumult in classrooms, the challenge isn't whether t
 
 - **[[Maria Popova\|Maria Popova]]** — Brain Pickings creator on building successful blogs and creating time.
 - **[[Teen Technology Use\|Teen Technology Use]]** — Pew research on digital friendships through games, social media, and mobile.
-- **[[Privacy and Security\|Privacy and Security]]** — Privacy Badger 1.0 preventing pervasive web tracking.
+- **[[03 CREATE/🪴 Groves/Privacy and Security\|Privacy and Security]]** — Privacy Badger 1.0 preventing pervasive web tracking.
 - **[[Open Educational Resources\|Open Educational Resources]]** — Coalition letter calling for strong federal OER policy.
 - **[[Open Badges\|Open Badges]]** — Doug Belshaw's visual hierarchy thinking, learning by doing.
 - **[[Graphic Design\|Graphic Design]]** — Dean Vipond's primer for four-year-olds and digital writers.

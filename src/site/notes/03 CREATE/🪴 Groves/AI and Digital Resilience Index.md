@@ -33,9 +33,9 @@ Use this hub to explore:
 
 ## 🔗 Related Maps of Content
 
-- [[03 CREATE/🪴 Groves/AI and Machine Learning MOC\|AI and Machine Learning MOC]]  
-- [[03 CREATE/🪴 Groves/Digital Resilience MOC\|Digital Resilience MOC]]  
-- [[03 CREATE/🪴 Groves/Privacy and Security MOC\|Privacy and Security MOC]]  
+- [[AI and Machine Learning MOC\|AI and Machine Learning MOC]]  
+- [[Digital Resilience MOC\|Digital Resilience MOC]]  
+- [[Privacy and Security MOC\|Privacy and Security MOC]]  
 
 ---
 

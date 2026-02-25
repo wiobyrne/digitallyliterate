@@ -241,7 +241,7 @@ Put down some of the rocks. Your future self will thank you.
 
 ## Related Concepts
 - [[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]
-- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Emotional Intelligence MOC\|Emotional Intelligence MOC]]
 - [[Stress Management\|Stress Management]]
 - [[Boundaries\|Boundaries]]
 - [[Self-Compassion\|Self-Compassion]]
@@ -251,7 +251,7 @@ Put down some of the rocks. Your future self will thank you.
 ## Connections
 
 - [[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]
-- [[03 CREATE/🪴 Groves/Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[Emotional Intelligence MOC\|Emotional Intelligence MOC]]
 - [[Stress Management\|Stress Management]]
 - [[Boundaries\|Boundaries]]
 - [[Self-Compassion\|Self-Compassion]]

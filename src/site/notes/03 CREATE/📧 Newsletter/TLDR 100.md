@@ -118,7 +118,7 @@ As I work these tools into my everyday use, I'll continue to share what I learn.
 **🌱 Connected Concepts**:
 
 - [[Future of Work\|Future of Work]] — AI and automation transforming workplace dynamics, with robot co-workers becoming more common, requiring society to prepare for significant shifts in employment and develop new skills for an evolving job market.
-- [[Privacy and Security\|Privacy and Security]] — VPNs provide essential protection for online browsing, requiring users to understand encryption basics and privacy tools as fundamental digital literacy skills for safe internet navigation.
+- [[03 CREATE/🪴 Groves/Privacy and Security\|Privacy and Security]] — VPNs provide essential protection for online browsing, requiring users to understand encryption basics and privacy tools as fundamental digital literacy skills for safe internet navigation.
 - [[Platform Manipulation\|Platform Manipulation]] — Twitter serves as infrastructure for news dissemination while being gamed by bots and fake accounts to spread misinformation, raising questions about why we rely on platforms vulnerable to manipulation and propaganda.
 - [[Technology Adoption\|Technology Adoption]] — Mary Meeker's Internet Trends Report and Pew Research on seniors reveal uneven technology adoption patterns shaped by age, income, and education, with global smartphone growth slowing while voice interfaces replace typing.
 - [[Climate Action\|Climate Action]] — Paris Climate Accord withdrawal highlights tension between scientific consensus and policy decisions, requiring behavioral change, technological innovation, and addressing psychological barriers to accepting climate facts.

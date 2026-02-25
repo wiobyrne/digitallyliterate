@@ -114,7 +114,7 @@ The debate around Windows 10 privacy, expert security practices, and teaching ch
 - **[[Creative Commons\|Creative Commons]]** — CC licensing as foundation for building and sharing OER.
 - **[[Open Educational Resources\|Open Educational Resources]]** — Cable Green interview on teaching, learning, and sharing openly.
 - **[[Open Badges\|Open Badges]]** — Doug Belshaw and Bryan Mathers' collaborative OB101 course.
-- **[[Privacy and Security\|Privacy and Security]]** — Expert practices vs. average users, LastPass, Windows 10 settings.
+- **[[03 CREATE/🪴 Groves/Privacy and Security\|Privacy and Security]]** — Expert practices vs. average users, LastPass, Windows 10 settings.
 - **[[Remix Culture\|Remix Culture]]** — 1981 ABC introducing hip-hop as "personal poetry" and new genre.
 - **[[Digital Parenting\|Digital Parenting]]** — Teaching children attention amid digital distractions.
 - **[[Decision Making\|Decision Making]]** — Cognitive and emotional factors, trusting your gut.

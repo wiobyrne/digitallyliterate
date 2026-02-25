@@ -40,9 +40,9 @@ This index sits at the **top of your tech-society structure**:
 These are your primary concept hubs related to technology and society:
 
 - [[Digital Literacies MOC\|Digital Literacies MOC]] — Literacy practices in digitally-mediated contexts  
-- [[03 CREATE/🪴 Groves/Digital Resilience MOC\|Digital Resilience MOC]] — Skills and philosophies for privacy and security  
-- [[03 CREATE/🪴 Groves/Privacy and Security MOC\|Privacy and Security MOC]] — Open-source tools and digital protection resources  
-- [[03 CREATE/🪴 Groves/AI and Machine Learning MOC\|AI and Machine Learning MOC]] — Core AI/ML concepts and applications  
+- [[Digital Resilience MOC\|Digital Resilience MOC]] — Skills and philosophies for privacy and security  
+- [[Privacy and Security MOC\|Privacy and Security MOC]] — Open-source tools and digital protection resources  
+- [[AI and Machine Learning MOC\|AI and Machine Learning MOC]] — Core AI/ML concepts and applications  
 - [[03 CREATE/🪴 Groves/AI and Digital Resilience Index\|AI and Digital Resilience Index]] — AI’s intersection with privacy and autonomy  
 - [[Critical Technology Studies MOC\|Critical Technology Studies MOC]] — Structural and ideological critiques of tech  
 - [[Platform Studies Index\|Platform Studies Index]] — Power, policy, and resistance in digital platforms  
@@ -93,9 +93,9 @@ These project areas showcase your applied work in these domains:
 ## 📍 Related Hubs
 
 - [[Digital Literacies MOC\|Digital Literacies MOC]] – Literacy, culture, and identity in digital spaces  
-- [[03 CREATE/🪴 Groves/Digital Resilience MOC\|Digital Resilience MOC]] – Privacy, security, and digital well-being  
+- [[Digital Resilience MOC\|Digital Resilience MOC]] – Privacy, security, and digital well-being  
 - [[03 CREATE/🪴 Groves/AI and Digital Resilience Index\|AI and Digital Resilience Index]] – Navigating AI’s ethical risks  
-- [[03 CREATE/🪴 Groves/Privacy and Security MOC\|Privacy and Security MOC]] – Practical privacy-first tools and platforms  
+- [[Privacy and Security MOC\|Privacy and Security MOC]] – Practical privacy-first tools and platforms  
 - [[Critical Technology Studies MOC\|Critical Technology Studies MOC]] – Deconstructing sociotechnical systems
 
 ---
