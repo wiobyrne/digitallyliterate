@@ -34,7 +34,7 @@ Ideas move through stages of maturity:
 - 🪴 **Groves** — curated clusters of related notes on a theme
 - 🌳 **Forests** — big-picture syntheses across multiple groves
 
-Not sure where to start? Explore the [[03 CREATE/🪴 Groves/🪴 Groves\|Groves]], or just wander. Follow links. See what connects.
+Not sure where to start? Explore the [Groves](/groves), or just wander. Follow links. See what connects.
 
 ---
 
