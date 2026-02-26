@@ -37,7 +37,7 @@ The same autonomous capabilities that make these systems productive also make th
 
 ### For Civilization
 
-[[02 DEVELOP/🌿 Plants/AI Agents Building Civilization\|AI Agents Building Civilization]] documented how agents in simulated environments spontaneously create governance, culture, religion, and economic systems. The 2026 capability leap means these aren't just simulations anymore — agents are operating in real markets ([[02 DEVELOP/🌿 Plants/Truth Terminal\|Truth Terminal]]), building real software ([[02 DEVELOP/🌱 Seeds/ChatDev\|ChatDev]], autonomous agent teams), and making real decisions. The gap between simulation and reality is closing at the speed of the capability doubling curve.
+[[02 DEVELOP/🌿 Plants/AI Agents Building Civilization\|AI Agents Building Civilization]] documented how agents in simulated environments spontaneously create governance, culture, religion, and economic systems. The 2026 capability leap means these aren't just simulations anymore — agents are operating in real markets ([[02 DEVELOP/🌿 Plants/Truth Terminal\|Truth Terminal]]), building real software ([[ChatDev\|ChatDev]], autonomous agent teams), and making real decisions. The gap between simulation and reality is closing at the speed of the capability doubling curve.
 
 ---
 

@@ -25,7 +25,7 @@ Two landmark experiments established that AI agents can create social structures
 
 ### Autonomous Work
 
-**[[02 DEVELOP/🌱 Seeds/ChatDev\|ChatDev]]** showed agents can organize themselves into functional companies. AI agents playing CEO, CTO, programmer, tester, and designer roles autonomously coordinate to produce working software in under three minutes — adding features nobody asked for and making collaborative decisions about implementation.
+**[[ChatDev\|ChatDev]]** showed agents can organize themselves into functional companies. AI agents playing CEO, CTO, programmer, tester, and designer roles autonomously coordinate to produce working software in under three minutes — adding features nobody asked for and making collaborative decisions about implementation.
 
 ---
 
