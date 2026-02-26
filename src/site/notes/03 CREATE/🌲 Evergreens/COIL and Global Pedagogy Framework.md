@@ -128,7 +128,7 @@ When choosing technology for international collaboration:
 
 ## Related Concepts
 
-- [[03 CREATE/🌲 Evergreens/AAPP Framework - Platform Equity Audit\|AAPP Framework - Platform Equity Audit]]
+- [[03 CREATE/🌲 Evergreens/Access, Accessibility, Privacy, and Pedagogy Framework\|Access, Accessibility, Privacy, and Pedagogy Framework]]
 - [[03 CREATE/🌲 Evergreens/Critical Pedagogy for STEAM Under Constraint\|Critical Pedagogy for STEAM Under Constraint]]
 - [[Translanguaging in Education\|Translanguaging in Education]]
 - [[Open Educational Resources\|Open Educational Resources]]

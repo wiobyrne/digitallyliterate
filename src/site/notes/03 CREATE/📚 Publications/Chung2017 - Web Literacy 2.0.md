@@ -3,7 +3,7 @@
 ---
 
 
-# Web Literacy 2.0
+# Chung2017 - Web Literacy 2.0
 
 Chung, An-Me; Bond Gill, I; O'Byrne, Ian (2017) Web Literacy 2.0. *Repéré à: https://mozilla. github. io/content/web-lit-whitepaper*.
 

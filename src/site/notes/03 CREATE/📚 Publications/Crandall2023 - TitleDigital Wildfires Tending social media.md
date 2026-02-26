@@ -3,7 +3,7 @@
 ---
 
 
-# No TitleDigital Wildfires: Tending to social media in the ELA classroom
+# Crandall2023 - TitleDigital Wildfires Tending social media
 
 Crandall, Bryan Ripley; O'Byrne, Ian; Dail, Jennifer; et al. (2023) No TitleDigital Wildfires: Tending to social media in the ELA classroom. *NCTE: Special Issues: Critical Media Literacy*, 2.
 

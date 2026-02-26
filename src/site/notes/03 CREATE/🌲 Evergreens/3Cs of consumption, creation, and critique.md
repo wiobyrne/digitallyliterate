@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"3cs-of-consumption-creation-and-critique","permalink":"/3cs-of-consumption-creation-and-critique/","title":"3Cs of consumption, creation, and critique","tags":["media-literacy","consumption","creation","critique","digital-literacy"]}
+{"dg-publish":true,"dg-permalink":"consumption-creation-critique","permalink":"/consumption-creation-critique/","title":"3Cs of consumption, creation, and critique","tags":["media-literacy","consumption","creation","critique","digital-literacy"]}
 ---
 
 # 3Cs of consumption, creation, and critique

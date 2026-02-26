@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-permalink":"ai-and-the-question-of-self","permalink":"/ai-and-the-question-of-self/","title":"AI and the Question of Self","tags":["self","subjectivity","identity","generative-AI","theory"]}
 ---
 
+# AI and the Question of Self
 
 ## Core Claim
 
