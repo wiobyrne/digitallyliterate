@@ -13,7 +13,7 @@ Although literacy research has traditionally focused on content area and discipl
 
 ## 📄 Full Text
 
-<iframe src="/img/user/pubs/Toward_Transdisciplinarity_Constructing.pdf" width="100%" height="900px" title="Toward_Transdisciplinarity_Constructing.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/03%20CREATE/%F0%9F%93%9A%20Publications/Attachments/Toward_Transdisciplinarity_Constructing.pdf" width="100%" height="900px" title="Toward_Transdisciplinarity_Constructing.pdf" style="border:1px solid #ccc;"></iframe>
 
 ## Notes
 
@@ -25,3 +25,9 @@ Although literacy research has traditionally focused on content area and discipl
 - [[Content Area Literacy\|Content Area Literacy]]
 - [[Transdisciplinarity\|Transdisciplinarity]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+
+## Connected Concepts
+
+- [[Disciplinary Literacy\|Disciplinary Literacy]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]

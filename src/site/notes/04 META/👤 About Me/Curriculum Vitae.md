@@ -51,11 +51,8 @@ University of New Haven, Education Department
 **Director, Initiative for Literacy in a Digital Age** | 2025-present  
 *Oversee development of outreach initiatives and identification of Divergent Award winners*
 
-**Teaching Fellows Director and Program Lead for Pre-Collegiate Programs** | 2022-present  
+**College of Charleston Teaching Fellows Director and Program Lead for Pre-Collegiate Programs** | 2022-present  
 Center for Educator Recruitment, Retention, & Advancement (CERRA)
-
-**e-Editor, Literacy Research Association** | 2019-present  
-*Oversee website development and social media communications for the organization*
 
 ---
 
@@ -70,7 +67,7 @@ Center for Educator Recruitment, Retention, & Advancement (CERRA)
 
 ## 📚 Selected Recent Publications
 
-*For the complete archive of all publications, visit [wiobyrne.com](https://wiobyrne.com).*
+*For the complete archive, see [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]].*
 
 ### Journal Articles (2020-2025)
 
@@ -179,4 +176,10 @@ My teaching centers on empowering educators to thoughtfully integrate technology
 
 ---
 
-*Last updated: February 2026 | For comprehensive publication lists and detailed research information, visit [wiobyrne.com](https://wiobyrne.com)*
+*Last updated: February 2026 | Full publication archive: [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]]*
+
+## Connected Concepts
+
+- [[04 META/👤 About Me/About Me\|About Me]]
+- [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]]
+- [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]]

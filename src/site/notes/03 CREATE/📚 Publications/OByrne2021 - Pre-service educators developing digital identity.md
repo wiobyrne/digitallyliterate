@@ -13,7 +13,7 @@ This article discusses a study on preservice education students and the implemen
 
 ## 📄 Full Text
 
-<iframe src="/img/user/pubs/Pre_Service_Educators_Developing_a_Digit.pdf" width="100%" height="900px" title="Pre_Service_Educators_Developing_a_Digit.pdf" style="border:1px solid #ccc;"></iframe>
+<iframe src="/img/user/03%20CREATE/%F0%9F%93%9A%20Publications/Attachments/Pre_Service_Educators_Developing_a_Digit.pdf" width="100%" height="900px" title="Pre_Service_Educators_Developing_a_Digit.pdf" style="border:1px solid #ccc;"></iframe>
 
 ## Notes
 
@@ -25,3 +25,8 @@ This article discusses a study on preservice education students and the implemen
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
 - [[Domain of One's Own\|Domain of One's Own]]
 - [[Multiliteracies\|Multiliteracies]]
+
+## Connected Concepts
+
+- [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
