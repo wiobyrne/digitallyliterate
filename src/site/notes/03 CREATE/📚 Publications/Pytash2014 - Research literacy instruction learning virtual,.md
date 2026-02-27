@@ -5,13 +5,15 @@
 
 # Research on literacy instruction and learning in virtual, blended, and hybrid environments
 
+## Citation
+
 Pytash, Kristine E; O’Byrne, W Ian (2014) Research on literacy instruction and learning in virtual, blended, and hybrid environments. *Handbook of research on K-12 online and blended learning*, 179-200. ETC Press.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

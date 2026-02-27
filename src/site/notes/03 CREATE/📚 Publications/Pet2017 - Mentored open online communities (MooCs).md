@@ -3,7 +3,9 @@
 ---
 
 
-# Pet2017 - Mentored open online communities (MooCs)
+# Mentored open online communities (MooCs) as a third space for teaching and learning in higher education
+
+## Citation
 
 Pet, Sue Ringler; Silvestri, Katarina; Loomis, Stephanie; O’Byrne, W. Ian; Kist, William. (2017) Mentored open online communities (MooCs) as a third space for teaching and learning in higher education. In *MOOCs and Higher Education*.
 

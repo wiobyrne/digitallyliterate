@@ -3,7 +3,9 @@
 ---
 
 
-# Turner2024 - importance digital media literacy
+# The importance of digital media literacy
+
+## Citation
 
 Turner, Kristen Hawley; Eisenstock, Bobbie; Hicks, Troy; et al. (2024) The importance of digital media literacy. *Handbook of children and screens: Digital media, development, and well-being from birth through adolescence*, 541-548. Springer Nature Switzerland Cham.
 
@@ -11,7 +13,7 @@ Turner, Kristen Hawley; Eisenstock, Bobbie; Hicks, Troy; et al. (2024) The impor
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

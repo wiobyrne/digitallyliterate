@@ -5,6 +5,8 @@
 
 # Defining Instructional Text: Eight literacy scholars discuss framing and trade-offs
 
+## Citation
+
 Hruby, George; Hiebert, Elfrieda; McGill-Franzen, Anne; Draper, Roni Jo; Serafini, Frank; Chandler-Olcott, Kelly; McVerry, J. Greg; O'Byrne, W Ian (2019). Defining Instructional Text: Eight literacy scholars discuss framing and trade-offs. *Ubiquity: The Journal of Literature, Literacy, and the Arts, Research Strand*, 6(1), 8–43.
 
 ## Abstract

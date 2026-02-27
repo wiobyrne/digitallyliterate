@@ -3,7 +3,9 @@
 ---
 
 
-# Jocius2023 - Creating sustainable computational
+# Creating sustainable computational thinking infusion: An analysis of teacher-led practitioner inquiry projects
+
+## Citation
 
 Jocius, Robin; Albert, Jennifer; Joshi, Deepti; Blanton, Melanie; O’Byrne, W. Ian. (2023) Creating sustainable computational thinking infusion: An analysis of teacher-led practitioner inquiry projects. *Journal of Technology and Teacher Education*, 31(4), 493–522.
 

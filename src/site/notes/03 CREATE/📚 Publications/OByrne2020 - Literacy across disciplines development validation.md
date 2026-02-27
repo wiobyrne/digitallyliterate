@@ -5,6 +5,8 @@
 
 # Literacy across the Disciplines: Development and Validation of an Instrument to Assess Literacy Instruction in Middle and High School Classrooms
 
+## Citation
+
 O'Byrne, W Ian; Savitz, Rachelle S.; Morrison, Jennifer; Kane, Britnie; Lilly, Todd; Ming, Kavin Michelle; Aldrich, Charlene (2020). Literacy across the Disciplines: Development and Validation of an Instrument to Assess Literacy Instruction in Middle and High School Classrooms. *The Clearing House: A Journal of Educational Strategies, Issues and Ideas*. https://doi.org/10.1080/00098655.2020.1860874
 
 ## Abstract

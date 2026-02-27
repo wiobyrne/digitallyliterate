@@ -5,12 +5,14 @@
 
 # 3D Printed Iron Gates
 
+## Citation
+
 Hunter-Doniger, Tracey; Radakovic, Nenad; O’Byrne, William Ian; et al. 3D Printed Iron Gates.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 *Connections to be identified.*

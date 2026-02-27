@@ -5,13 +5,15 @@
 
 # The new literacies of online reading comprehension and the irony of No Child Left Behind: Students who require our assistance the most, actually receive it the least
 
+## Citation
+
 Leu, Donald J; McVerry, J Gregory; O’Byrne, W Ian; et al. (2009) The new literacies of online reading comprehension and the irony of No Child Left Behind: Students who require our assistance the most, actually receive it the least. *Lesley Mandel Morrow, Robert Rueda, & Diane Lapp. Handbook of research on literacy instruction: Issues of diversity, policy, and equity. New York: Guilford*.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

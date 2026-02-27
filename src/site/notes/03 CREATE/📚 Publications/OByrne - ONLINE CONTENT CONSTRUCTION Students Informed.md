@@ -5,13 +5,15 @@
 
 # ONLINE CONTENT CONSTRUCTION: Students as Informed Readers and Writers of Multimodal Information
 
+## Citation
+
 O’Byrne, W Ian ONLINE CONTENT CONSTRUCTION: Students as Informed Readers and Writers of Multimodal Information. *3 Design Elements of Picturebooks: Interpreting Visual Images and Design Elements of Contemporary Picturebooks*.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

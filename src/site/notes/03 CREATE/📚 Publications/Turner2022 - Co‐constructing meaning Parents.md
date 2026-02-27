@@ -5,13 +5,15 @@
 
 # Co‐constructing meaning: Parents and children navigating digital literacies together
 
+## Citation
+
 Turner, Kristen Hawley; Stevens, Elizabeth Years; Paciga, Kathleen; et al. (2022) Co‐constructing meaning: Parents and children navigating digital literacies together. *Journal of Adolescent & Adult Literacy*, 66(3), 158-167.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

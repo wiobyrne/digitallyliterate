@@ -5,6 +5,8 @@
 
 # Employing digital spaces to resist harmful discourses: intersections of learning, technology, and politics showing up in the lowcountry
 
+## Citation
+
 O'Byrne, W Ian; Hale, Jon (2018). Employing digital spaces to resist harmful discourses: intersections of learning, technology, and politics showing up in the lowcountry. *Learning, Media and Technology*, 43(4), 390–399. https://doi.org/10.1080/17439884.2018.1498351
 
 ## Abstract

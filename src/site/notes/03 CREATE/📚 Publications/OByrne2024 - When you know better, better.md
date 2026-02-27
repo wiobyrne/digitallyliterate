@@ -3,7 +3,9 @@
 ---
 
 
-# OByrne2024 - When you know better, better
+# When you know better, do better: Developing antiracist, digitally literate educators through critical media literacy
+
+## Citation
 
 O’Byrne, W. Ian; Crandall, Bryan Ripley; Price-Dennis, Detra; Witte, Shelbie; Goering, Christian Z; Dail, Jennifer S. (2024) When you know better, do better: Developing anti-racist, digitally literate educators through critical media literacy. In M. Barnes & R. Marlatt (Eds.), *Teaching for Equity, Justice, and Antiracism with Digital Literacy Practices*.
 

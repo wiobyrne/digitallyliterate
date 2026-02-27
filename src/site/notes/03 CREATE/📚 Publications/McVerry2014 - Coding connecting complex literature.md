@@ -5,6 +5,8 @@
 
 # Coding and Connecting Complex Literature
 
+## Citation
+
 McVerry, J. Gregory; O'Byrne, W Ian (2014). Coding and Connecting Complex Literature. In *Using Technology to Enhance Reading* (Chapter 14, pp. 130–131+).
 
 ## Abstract

@@ -5,12 +5,14 @@
 
 # Comments on Greenhow, Robelia, and Hughes: Expanding the new literacies conversation
 
+## Citation
+
 Leu, Donald J; O’Byrne, W Ian; Zawilinski, Lisa; et al. (2009) Comments on Greenhow, Robelia, and Hughes: Expanding the new literacies conversation. *Educational Researcher*, 38(4), 264. SAGE Publications.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 *Connections to be identified.*

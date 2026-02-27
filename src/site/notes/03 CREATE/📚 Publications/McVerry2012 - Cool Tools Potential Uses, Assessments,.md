@@ -5,13 +5,15 @@
 
 # Cool Tools: Potential Uses, Assessments, and Methodologies for the Literacy Educator and Researcher
 
+## Citation
+
 McVerry, J Gregory; O'Byrne, Ian; John, Bartles; et al. (2012) Cool Tools: Potential Uses, Assessments, and Methodologies for the Literacy Educator and Researcher. *Literacy Research Association*.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

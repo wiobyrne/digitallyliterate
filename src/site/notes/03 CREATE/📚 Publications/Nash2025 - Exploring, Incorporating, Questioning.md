@@ -3,7 +3,9 @@
 ---
 
 
-# Nash2025 - Exploring, Incorporating, Questioning
+# Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education
+
+## Citation
 
 Nash, Brady L; Garcia, Merideth; Young, Carl A; Turner, Kristen Hawley; Rice, Mary; Piotrowski, Amy; O'Byrne, W. Ian; McBride, Cherise; McGrail, Ewa; Moran, Clarice. (2025) Exploring, incorporating, and questioning generative artificial intelligence in English teacher education. *English Education*, 57(2), 158–165.
 

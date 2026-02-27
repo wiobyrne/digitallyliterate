@@ -5,6 +5,8 @@
 
 # Designing Spaces for Creativity and Divergent Thinking: Pre-Service Teachers Creating Stop Motion Animation on Tablets
 
+## Citation
+
 O'Byrne, W Ian; Radakovic, Nenad; Hunter-Doniger, Tracey; Fox, Madison; Kern, Reggie; Parnell, Stephanie (2018). Designing Spaces for Creativity and Divergent Thinking: Pre-Service Teachers Creating Stop Motion Animation on Tablets. *International Journal of Education in Mathematics, Science and Technology (IJEMST)*, 6(2), 182–199. https://doi.org/10.18404/ijemst.408942
 
 ## Abstract

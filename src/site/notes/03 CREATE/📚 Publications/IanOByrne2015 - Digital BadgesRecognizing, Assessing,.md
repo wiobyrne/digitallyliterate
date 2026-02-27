@@ -3,7 +3,9 @@
 ---
 
 
-# IanOByrne2015 - Digital BadgesRecognizing, Assessing,
+# Digital badges: Recognizing, assessing, and motivating learners in and out of school contexts
+
+## Citation
 
 O’Byrne, W. Ian; Schenke, Katerina; Willis, James E; Hickey, Daniel T. (2015) Digital badges: Recognizing, assessing, and motivating learners in and out of school contexts. *Journal of Adolescent & Adult Literacy*, 58(6), 451–454. https://doi.org/10.1002/jaal.381
 

@@ -3,7 +3,9 @@
 ---
 
 
-# Joshi2022 - Project Sustainability through Teacher Autonomy
+# Project Sustainability through Teacher Autonomy in CT Infusion
+
+## Citation
 
 Joshi, Deepti; Jocius, Robin; Blanton, Melanie; Albert, Jennifer; O’Byrne, Ian. (2022) Project sustainability through teacher autonomy in CT infusion. In *Proceedings of the 54th ACM Technical Symposium on Computer Science Education* (SIGCSE 2023, Toronto, ON), p. 1387. https://doi.org/10.1145/3545947.3576332
 

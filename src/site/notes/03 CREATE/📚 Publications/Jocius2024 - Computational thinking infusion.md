@@ -3,7 +3,9 @@
 ---
 
 
-# Jocius2024 - Computational thinking infusion
+# Computational thinking infusion as transformative teaching: investigating content area teacher perspectives and practices
+
+## Citation
 
 Jocius, Robin; Albert, Jennifer; O’Byrne, W Ian; et al. (2024) Computational thinking infusion as transformative teaching: investigating content area teacher perspectives and practices. *Computer Science Education*, 34(2), 222-251. Routledge.
 
@@ -11,7 +13,7 @@ Jocius, Robin; Albert, Jennifer; O’Byrne, W Ian; et al. (2024) Computational t
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

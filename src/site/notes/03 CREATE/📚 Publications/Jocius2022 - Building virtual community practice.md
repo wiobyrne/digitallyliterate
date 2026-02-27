@@ -3,7 +3,9 @@
 ---
 
 
-# Jocius2022 - Building virtual community practice 
+# Building a virtual community of practice: Teacher learning for computational thinking infusion
+
+## Citation
 
 Jocius, Robin; O'Byrne, W Ian; Albert, Jennifer; Joshi, Deepti; Blanton, Melanie; Robinson, Richard; Andrews, Ashley; Barnes, Tiffany; Catete, Veronica. (2022) Building a virtual community of practice: Teacher learning for computational thinking infusion. *TechTrends*, 66(3), 547–559. https://doi.org/10.1007/s11528-022-00729-6
 

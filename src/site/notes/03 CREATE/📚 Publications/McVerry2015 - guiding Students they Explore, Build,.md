@@ -3,7 +3,9 @@
 ---
 
 
-# McVerry2015 - guiding Students they Explore, Build,
+# Guiding students as they explore, build, and connect online
+
+## Citation
 
 McVerry, J. Gregory; Belshaw, Doug; O’Byrne, W. Ian. (2015) Guiding students as they explore, build, and connect online. *Journal of Adolescent & Adult Literacy*, 58(8), 632–635. https://doi.org/10.1002/jaal.411
 

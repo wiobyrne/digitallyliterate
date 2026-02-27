@@ -5,13 +5,15 @@
 
 # Transcending disciplinary literacy in a digital world
 
+## Citation
+
 O’Byrne, Ian (2023) Transcending disciplinary literacy in a digital world. *Disciplinary literacies: Unpacking research, theory, and practice*, 248. Guilford Publications.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

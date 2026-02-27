@@ -5,12 +5,14 @@
 
 # Navigating the Cs of change
 
+## Citation
+
 McVerry, JG; Zawilinski, L; O’Byrne, WI (2009) Navigating the Cs of change. *Educational Leadership*, 67(1), 1-6.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 *Connections to be identified.*

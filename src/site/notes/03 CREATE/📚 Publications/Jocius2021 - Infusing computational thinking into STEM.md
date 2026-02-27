@@ -3,7 +3,9 @@
 ---
 
 
-# Jocius2021 - Infusing computational thinking into STEM
+# Infusing computational thinking into STEM teaching: From professional development to classroom practice
+
+## Citation
 
 Jocius, Robin; O’Byrne, W. Ian; Albert, Jennifer; Joshi, Deepti; Robinson, Richard; Andrews, Ashley. (2021) Infusing computational thinking into STEM teaching: From professional development to classroom practice. *Educational Technology & Society*, 24(4), 166–179.
 

@@ -3,7 +3,9 @@
 ---
 
 
-# Savitz2024 - Secondary Teachers’ Adolescent Literacy Efficacy
+# Secondary Teachers’ Adolescent Literacy Efficacy and Professional Learning Considerations
+
+## Citation
 
 Savitz, Rachelle S; Morrison, Jennifer D; Brown, Christy; Aldrich, Charlene; Kane, Britnie D; O’Byrne, W. Ian. (2024) Secondary teachers’ adolescent literacy efficacy and professional learning considerations. *Reading Research Quarterly*, 59(1), 102–123. https://doi.org/10.1002/rrq.521
 

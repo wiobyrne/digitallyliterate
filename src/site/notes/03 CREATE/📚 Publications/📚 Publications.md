@@ -17,9 +17,9 @@ For a broader overview of my work, see [[04 META/👤 About Me/Curriculum Vitae\
 
 ### 2025
 
-- [[03 CREATE/📚 Publications/Jocius2025 - Moving Through Messy Middle\|Moving Through the Messy Middle: Longitudinal Case Studies of Teachers' Computational Thinking Infusion]] — *Technology, Knowledge and Learning*
+- [[03 CREATE/📚 Publications/Moving Through the Messy Middle Longitudinal Case Studies of Teachers' Computational Thinking Infusion\|Moving Through the Messy Middle: Longitudinal Case Studies of Teachers' Computational Thinking Infusion]] — *Technology, Knowledge and Learning*
 - [[03 CREATE/📚 Publications/Nash2025 - Exploring, Incorporating, Questioning\|Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education]] — *English Education*
-- [[01 CONSUME/📥 Inbox/Savitz2025 - Middle High School Teachers' Perceived\|Savitz2025 - Middle High School Teachers' Perceived]] — *AERA Open*
+- [[01 CONSUME/📥 Inbox/Savitz2025 - Middle High School Teachers' Perceived\|Middle and High School Teachers' Perceived Expertise and Needs in Disciplinary Literac]] — *AERA Open*
 
 ### 2024
 
@@ -146,6 +146,10 @@ For a broader overview of my work, see [[04 META/👤 About Me/Curriculum Vitae\
 - [[03 CREATE/📚 Publications/OByrne2014 - Online content construction Empowering students\|Online content construction: Empowering students as readers and writers of online information]] — *Exploring Technology for Writing and Writing Instruction*
 - [[03 CREATE/📚 Publications/Pet2014 - Multimodal response writing poetry experience\|Multimodal response and writing as poetry experience]] — *Exploring Multimodal Composition and Digital Writing*
 - [[03 CREATE/📚 Publications/Pytash2014 - Research literacy instruction learning virtual,\|Research on literacy instruction and learning in virtual, blended, and hybrid environments]] — *Handbook of Research on K-12 Online and Blended Learning*
+
+### 2013
+
+- [[03 CREATE/📚 Publications/Leu2013 - New literacies online reading comprehension\|New literacies of online reading comprehension]] — *The Encyclopedia of Applied Linguistics* (Wiley-Blackwell)
 
 ### 2011
 

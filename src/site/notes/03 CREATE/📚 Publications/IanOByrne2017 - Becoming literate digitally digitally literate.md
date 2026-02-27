@@ -3,7 +3,9 @@
 ---
 
 
-# IanOByrne2017 - Becoming literate digitally digitally literate
+# Becoming literate digitally in a digitally literate environment of their own
+
+## Citation
 
 O’Byrne, W. Ian; Pytash, Kristine E. (2017) Becoming literate digitally in a digitally literate environment of their own. *Journal of Adolescent & Adult Literacy*, 60(5), 499–504. https://doi.org/10.1002/jaal.595
 

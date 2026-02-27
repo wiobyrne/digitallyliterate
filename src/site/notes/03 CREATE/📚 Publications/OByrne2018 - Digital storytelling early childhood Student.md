@@ -5,6 +5,8 @@
 
 # Digital storytelling in early childhood: Student illustrations shaping social interactions
 
+## Citation
+
 O'Byrne, William Ian; Houser, Katherine; Stone, Ryan; White, Mary (2018). Digital storytelling in early childhood: Student illustrations shaping social interactions. *Frontiers in Psychology*, 9, 1800. https://doi.org/10.3389/fpsyg.2018.01800
 
 *Corrigendum published 2019: Katherine Houser was inadvertently omitted from the original author list. Corrected in Front. Psychol. 9:2749. https://doi.org/10.3389/fpsyg.2018.02749*

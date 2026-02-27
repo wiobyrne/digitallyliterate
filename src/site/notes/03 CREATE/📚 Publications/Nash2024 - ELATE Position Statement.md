@@ -3,7 +3,9 @@
 ---
 
 
-# Nash2024 - ELATE Position Statement
+# ELATE Position Statement: Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education
+
+## Citation
 
 Nash, Brady L; Garcia, Merideth; Young, Carl A; Turner, Kristen Hawley; Rice, Mary; Piotrowski, Amy; O’Byrne, W. Ian; McBride, Cherise; McGrail, Ewa; Moran, Clarice. (2024) ELATE position statement: Exploring, incorporating, and questioning generative artificial intelligence in English teacher education. *National Council of Teachers of English*. https://ncte.org/statement/exploring-incorporating-and-questioning-generative-artificial-intelligence-in-english-teacher-education/
 

@@ -5,6 +5,8 @@
 
 # Online content construction: Empowering students as readers and writers of online information
 
+## Citation
+
 O'Byrne, W Ian (2014). Online content construction: Empowering students as readers and writers of online information. In *Exploring Technology for Writing and Writing Instruction* (Chapter 16, pp. 276–297). IGI Global. https://doi.org/10.4018/978-1-4666-4341-3.ch016
 
 ## Abstract

@@ -5,6 +5,8 @@
 
 # Empowering learners in the reader/writer nature of the digital informational space
 
+## Citation
+
 O'Byrne, W Ian (2014). Empowering learners in the reader/writer nature of the digital informational space. *Journal of Adolescent & Adult Literacy*, 58(2), 102–104. https://doi.org/10.1002/jaal.337
 
 ## Abstract

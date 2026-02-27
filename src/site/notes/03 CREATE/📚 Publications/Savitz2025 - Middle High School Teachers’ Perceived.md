@@ -3,7 +3,9 @@
 ---
 
 
-# Savitz2025 - Middle High School Teachers’ Perceived
+# Middle and High School Teachers’ Perceived Expertise and Needs in Disciplinary Literacy
+
+## Citation
 
 Savitz, Rachelle S; Morrison, Jennifer D; Brown, Christy; Kane, Britnie D; Aldrich, Charlene; O’Byrne, W. Ian. (2025) Middle and high school teachers’ perceived expertise and needs in disciplinary literacy. *AERA Open*, 11. https://doi.org/10.1177/23328584251400255
 

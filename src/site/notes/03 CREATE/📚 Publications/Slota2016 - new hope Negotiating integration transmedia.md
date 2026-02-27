@@ -3,7 +3,9 @@
 ---
 
 
-# Slota2016 - new hope Negotiating integration transmedia
+# A new hope: Negotiating the integration of transmedia storytelling and literacy instruction
+
+## Citation
 
 Slota, Stephen T; Young, Michael F; O’Byrne, W. Ian; Ballestrini, Kevin. (2016) A new hope: Negotiating the integration of transmedia storytelling and literacy instruction. *Journal of Adolescent & Adult Literacy*, 59(6), 642–646. https://doi.org/10.1002/jaal.512
 

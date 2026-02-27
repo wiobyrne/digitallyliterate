@@ -5,13 +5,15 @@
 
 # Online reading comprehension assessment: A preliminary study of online reading comprehension ability in rich and poor schools.
 
+## Citation
+
 Leu, Don; Coiro, Julie; O'Byrne, Ian; et al. (2012) Online reading comprehension assessment: A preliminary study of online reading comprehension ability in rich and poor schools.. *Literacy Research Association*.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

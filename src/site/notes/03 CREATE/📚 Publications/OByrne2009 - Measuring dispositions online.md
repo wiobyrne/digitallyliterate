@@ -5,13 +5,15 @@
 
 # Measuring the dispositions of online reading comprehension: A preliminary validation study
 
+## Citation
+
 O’Byrne, W Ian; McVerry, J Gregory (2009) Measuring the dispositions of online reading comprehension: A preliminary validation study. *National reading conference yearbook*, 58, 362-375.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

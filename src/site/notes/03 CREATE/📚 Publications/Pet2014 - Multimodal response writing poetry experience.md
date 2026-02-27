@@ -5,6 +5,8 @@
 
 # Multimodal response and writing as poetry experience
 
+## Citation
+
 Pet, Sue Ringler; McVerry, J. Gregory; O'Byrne, W Ian (2014). Multimodal response and writing as poetry experience. In *Exploring Multimodal Composition and Digital Writing* (Chapter 13, pp. 201–225). IGI Global. https://doi.org/10.4018/978-1-4666-4345-1.ch013
 
 ## Abstract

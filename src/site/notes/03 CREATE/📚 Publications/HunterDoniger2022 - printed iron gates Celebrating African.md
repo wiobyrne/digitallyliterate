@@ -3,7 +3,9 @@
 ---
 
 
-# HunterDoniger2022 - printed iron gates Celebrating African
+# 3D printed iron gates: Celebrating an African American artist through a transdisciplinary lesson
+
+## Citation
 
 Hunter-Doniger, Tracey; Radakovic, Nenad; O’Byrne, William Ian; Adams, Britnee; Gourdie, Emma; Heckman, Christian; Smith, Dillan. (2022) 3D printed iron gates: Celebrating an African American artist through a transdisciplinary lesson. *Art Education*, 75(4), 33–38. https://doi.org/10.1080/00043125.2022.2053463
 

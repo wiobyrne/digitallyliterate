@@ -3,7 +3,9 @@
 ---
 
 
-# Chung2017 - Web Literacy 2.0
+# Web Literacy 2.0
+
+## Citation
 
 Chung, An-Me; Bond Gill, I; O'Byrne, Ian (2017) Web Literacy 2.0. *Repéré à: https://mozilla. github. io/content/web-lit-whitepaper*.
 
@@ -11,7 +13,7 @@ Chung, An-Me; Bond Gill, I; O'Byrne, Ian (2017) Web Literacy 2.0. *Repéré à: 
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

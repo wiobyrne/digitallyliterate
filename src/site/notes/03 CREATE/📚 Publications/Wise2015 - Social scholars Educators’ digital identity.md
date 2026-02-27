@@ -3,7 +3,9 @@
 ---
 
 
-# Wise2015 - Social scholars Educators’ digital identity
+# Social scholars: Educators’ digital identity construction in open, online learning environments
+
+## Citation
 
 Wise, Julie B; O’Byrne, W. Ian. (2015) Social scholars: Educators’ digital identity construction in open, online learning environments. *Literacy Research: Theory, Method, and Practice*, 64(1), 398–414. https://doi.org/10.1177/2381336915617607
 

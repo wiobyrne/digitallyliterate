@@ -3,7 +3,9 @@
 ---
 
 
-# Crandall2024 - Finding Exponential Hope Courageous Communities
+# Finding Exponential Hope in Courageous Communities
+
+## Citation
 
 Crandall, Bryan Ripley; Dail, Jennifer; Goering, Christian Z; Mora, Raúl Alberto; O’Byrne, W. Ian; Price-Dennis, Detra; Witte, Shelbie. (2024) Finding exponential hope in courageous communities. *Voices from the Middle*, 32(1), 19–22.
 

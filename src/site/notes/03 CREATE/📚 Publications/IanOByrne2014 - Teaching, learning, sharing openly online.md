@@ -5,6 +5,8 @@
 
 # Teaching, learning, and sharing openly online
 
+## Citation
+
 O'Byrne, W Ian; Roberts, Verena; LaBonte, Randy; Graham, Lee (2014). Teaching, learning, and sharing openly online. *Journal of Adolescent & Adult Literacy*, 58(4), 277–280. https://doi.org/10.1002/jaal.365
 
 ## Abstract

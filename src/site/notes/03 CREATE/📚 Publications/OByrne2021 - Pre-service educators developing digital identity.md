@@ -5,6 +5,8 @@
 
 # Pre-service educators developing a digital identity
 
+## Citation
+
 O'Byrne, W Ian; Hunter-Doniger, Tracey (2021). Pre-service educators developing a digital identity. *TechTrends*, 65(4), 444–453. https://doi.org/10.1007/s11528-021-00617-5
 
 ## Abstract
@@ -19,7 +21,7 @@ This article discusses a study on preservice education students and the implemen
 
 *Reading notes and annotations to be added.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

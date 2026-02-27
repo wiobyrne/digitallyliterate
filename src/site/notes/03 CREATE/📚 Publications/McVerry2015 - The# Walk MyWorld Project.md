@@ -5,12 +5,14 @@
 
 # The# Walk MyWorld Project
 
+## Citation
+
 McVerry, G; O’Byrne, I; Pytash, K; et al. (2015) The# Walk MyWorld Project. *Civic Media Project. Cambridge, MA: MIT Press. Available online at: https://sites. google. com/site/walkmyworldproject*.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 *Connections to be identified.*

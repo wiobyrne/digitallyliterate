@@ -5,6 +5,8 @@
 
 # Empowering students as critical readers and writers in online spaces
 
+## Citation
+
 O'Byrne, W Ian (2018). Empowering students as critical readers and writers in online spaces. In *Best Practices in Teaching Digital Literacies* (Literacy Research, Practice and Evaluation, Vol. 9, Chapter 15, pp. 233–250). Emerald Publishing Limited. https://doi.org/10.1108/S2048-045820180000009018
 
 ## Abstract

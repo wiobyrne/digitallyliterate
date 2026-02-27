@@ -3,7 +3,9 @@
 ---
 
 
-# Crandall2023 - TitleDigital Wildfires Tending social media
+# Digital Wildfires: Tending to social media in the ELA classroom
+
+## Citation
 
 O’Byrne, W. Ian; Crandall, Bryan Ripley; Dail, Jennifer S; Goering, Christian Z; Mora, Raúl Alberto; Price-Dennis, Detra; Witte, Shelbie. (2023) Digital wildfires: Tending to social media in the ELA classroom. *Critical Media Literacy*, 2, 19–26.
 

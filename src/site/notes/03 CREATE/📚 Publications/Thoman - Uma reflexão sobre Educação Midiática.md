@@ -5,12 +5,14 @@
 
 # Uma reflexão sobre a Educação Midiática
 
+## Citation
+
 Thoman, Elizabeth; Jolls, Tessa; Hobbs, Renee; et al. Uma reflexão sobre a Educação Midiática.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 *Connections to be identified.*

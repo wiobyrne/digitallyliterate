@@ -3,7 +3,9 @@
 ---
 
 
-# Garcia2021 - Author Today Tomorrow Should Have
+# Today Is the Tomorrow We Should Have Prepared for Yesterday: Rebuilding Our Classrooms to Facilitate Student-Centered, Teacher-Sustaining, Tech-Supported Education
+
+## Citation
 
 Garcia, Merideth; Marlatt, Rick; McDermott, Maureen; O’Byrne, W. Ian. (2021) Today is the tomorrow we should have prepared for yesterday: Rebuilding our classrooms to facilitate student-centered, teacher-sustaining, tech-supported education. *Voices from the Middle*, 28(4), 21–24.
 

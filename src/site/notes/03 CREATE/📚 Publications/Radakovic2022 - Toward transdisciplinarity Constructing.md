@@ -5,6 +5,8 @@
 
 # Toward transdisciplinarity: Constructing meaning where disciplines intersect, combine, and shift
 
+## Citation
+
 Radakovic, Nenad; O'Byrne, W Ian; Negreiros, Melissa; Hunter-Doniger, Tracey; Pears, Emily; Littlejohn, Cymone (2022). Toward transdisciplinarity: Constructing meaning where disciplines intersect, combine, and shift. *Literacy Research: Theory, Method, and Practice*, 71(1), 398–417. https://doi.org/10.1177/23813377221113515
 
 ## Abstract
@@ -19,7 +21,7 @@ Although literacy research has traditionally focused on content area and discipl
 
 *Reading notes and annotations to be added.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[Disciplinary Literacy\|Disciplinary Literacy]]
 - [[Content Area Literacy\|Content Area Literacy]]

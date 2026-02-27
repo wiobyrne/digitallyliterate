@@ -3,7 +3,9 @@
 ---
 
 
-# OByrne2019 - Educate, empower, advocate
+# Educate, empower, advocate: Amplifying marginalized voices in a digital society
+
+## Citation
 
 O’Byrne, W. Ian. (2019) Educate, empower, advocate: Amplifying marginalized voices in a digital society. *Contemporary Issues in Technology and Teacher Education*, 19(4), 640–669.
 

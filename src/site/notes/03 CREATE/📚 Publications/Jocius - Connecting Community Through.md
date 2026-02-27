@@ -5,12 +5,14 @@
 
 # Connecting a Community Through Computational Thinking and Robotics Breadcrumb
 
+## Citation
+
 Jocius, Robin; Albert, Jennifer; Bhonsle, Rachana; et al. Connecting a Community Through Computational Thinking and Robotics Breadcrumb.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[Computational Thinking\|Computational Thinking]]

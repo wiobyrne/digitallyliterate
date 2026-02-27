@@ -5,13 +5,15 @@
 
 # Open scholarship: leveraging social networks and communities as a digitally agile researcher
 
+## Citation
+
 O’Byrne, W Ian (2017) Open scholarship: leveraging social networks and communities as a digitally agile researcher. *The Digitally-Agile Researcher*, 12. McGraw-Hill Education (UK).
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]

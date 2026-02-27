@@ -5,12 +5,14 @@
 
 # Wicked Problems
 
+## Citation
+
 O'Byrne, Ian Wicked Problems.
 
 ## Abstract
 
 *To be added when PDF is located.*
 
-## Connection to the Garden
+## Connected Concepts
 
 *Connections to be identified.*
