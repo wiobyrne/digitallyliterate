@@ -3,7 +3,7 @@
 ---
 
 
-# The new literacies of online reading comprehension: Expanding the literacy and learning curriculum
+# Leu2011 - New literacies online reading comprehension expanding
 
 Leu, Donald J.; McVerry, J. Gregory; O'Byrne, W Ian; Kiili, Carita; Zawilinski, Lisa; Everett-Cacopardo, Heidi; Kennedy, Clint; Forzani, Elena (2011). The new literacies of online reading comprehension: Expanding the literacy and learning curriculum. *Journal of Adolescent & Adult Literacy*, 55(1), 5–14. https://doi.org/10.1598/JAAL.55.1.1
 

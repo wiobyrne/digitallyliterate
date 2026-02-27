@@ -19,7 +19,7 @@ For a broader overview of my work, see [[04 META/👤 About Me/Curriculum Vitae\
 
 - [[03 CREATE/📚 Publications/Jocius2025 - Moving Through Messy Middle\|Moving Through the Messy Middle: Longitudinal Case Studies of Teachers' Computational Thinking Infusion]] — *Technology, Knowledge and Learning*
 - [[03 CREATE/📚 Publications/Nash2025 - Exploring, Incorporating, Questioning\|Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education]] — *English Education*
-- [[Savitz2025 - Middle High School Teachers' Perceived\|Middle and High School Teachers' Perceived Expertise and Needs in Disciplinary Literacy]] — *AERA Open*
+- [[01 CONSUME/📥 Inbox/Savitz2025 - Middle High School Teachers' Perceived\|Savitz2025 - Middle High School Teachers' Perceived]] — *AERA Open*
 
 ### 2024
 
