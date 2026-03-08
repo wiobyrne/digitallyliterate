@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"end-to-end-encryption","permalink":"/end-to-end-encryption/","title":"End-to-end encryption","tags":["encryption","privacy","security","digital-resilience"]}
+{"dg-publish":true,"dg-permalink":"end-to-end-encryption","permalink":"/end-to-end-encryption/","title":"End-to-End Encryption","tags":["encryption","privacy","security","digital-resilience"]}
 ---
 
 # End-to-End Encryption
@@ -38,3 +38,5 @@ In-depth technical resource: [Research paper on End-to-End Encryption](insert li
 ## **Related Terms**  
 - "[[Public Key Encryption\|Public Key Encryption]]"
 - "[[Data Encryption\|Data Encryption]]"
+
+## Connections

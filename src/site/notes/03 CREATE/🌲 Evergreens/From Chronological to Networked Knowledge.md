@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"from-chronological-to-networked-knowledge","permalink":"/from-chronological-to-networked-knowledge/","title":"From Chronological to Networked Knowledge","tags":["newsletter","digital-garden","attention-economy","knowledge-architecture","chronological-sort"]}
 ---
 
-
+# From Chronological to Networked Knowledge
 ## Core Claim
 
 We are leaving the "chronological sort era"—the period since Moveable Type when online content was organized primarily by recency. The shift toward **networked knowledge** addresses fundamental limitations in how we've organized information online: more content creates stress, not value.
@@ -151,3 +151,5 @@ The relationship shifts from "I need to keep up" to "This is here when I need it
 > "Organizations need systems that unlock value from existing knowledge assets rather than generating more content to consume."
 
 > "The future isn't more content. It's better connections."
+
+## Connections

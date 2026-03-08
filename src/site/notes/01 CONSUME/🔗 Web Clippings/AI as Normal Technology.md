@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/ai-as-normal-technology/","title":"AI as Normal Technology"}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/ai-as-normal-technology/","title":"AI as Normal Technology","tags":["ai","creativity","research"]}
 ---
 
 # AI as Normal Technology

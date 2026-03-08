@@ -127,3 +127,5 @@ Fostering agency in AI-literacy requires:
 ## Tags
 
 #concept #agency #AI-literacy #student-control #authorship
+
+## Connections

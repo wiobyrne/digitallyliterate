@@ -15,4 +15,4 @@ Jocius, Robin; Albert, Jennifer; Bhonsle, Rachana; et al. Connecting a Community
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]

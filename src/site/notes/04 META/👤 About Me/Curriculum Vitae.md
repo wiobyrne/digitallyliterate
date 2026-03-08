@@ -42,8 +42,8 @@ College of Charleston, Education Department
 - Advanced Technology Applications in Education (Graduate)
 - Curriculum, Instruction, & Assessment, Grades 5-8 (Undergraduate)
 
-**Assistant Professor Educational Technologies** | 2011 – 2015  
-*Director Instructional Technology & Digital Media Literacy Program*  
+**Assistant Professor Educational Technologies** | 2011 – 2015
+*Director [[03 CREATE/🎓 Teaching/IT&DML Program\|Instructional Technology & Digital Media Literacy Program]]*
 University of New Haven, Education Department
 
 ### Current Leadership Roles
@@ -183,3 +183,4 @@ My teaching centers on empowering educators to thoughtfully integrate technology
 - [[04 META/👤 About Me/About Me\|About Me]]
 - [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]]
 - [[04 META/👤 About Me/Teaching Philosophy\|Teaching Philosophy]]
+- [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]

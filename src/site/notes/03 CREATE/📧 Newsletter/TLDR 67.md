@@ -125,7 +125,7 @@ Specifically, he adapts three of Sun Tzu's teachings that can help build better 
 
 - **[[Brain and Technology\|Brain and Technology]]** — Is Google making us dumber debate, we really won't know until decades from now, adapted to other technologies.
 - **[[Coding\|Coding]]** — John Jones on computational thinking, I want children and students to know they can make the magic happen.
-- **[[Computational Thinking\|Computational Thinking]]** — We should focus on coding and computational participation in schools, readers and writers of digital media.
+- **[[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]** — We should focus on coding and computational participation in schools, readers and writers of digital media.
 - **[[BadgeChain\|BadgeChain]]** — Annual report blockchain and distributed ledger technologies in education, big things on horizon past year blast.
 - **[[Meditation\|Meditation]]** — Tony Robbins guided meditation resolving internal conflict, I meditate every morning scrub brain fresh start.
 - **[[Hurricane Matthew\|Hurricane Matthew]]** — We were in crosshairs lucky only lost power for a day, thoughts to those suffered or still suffering.

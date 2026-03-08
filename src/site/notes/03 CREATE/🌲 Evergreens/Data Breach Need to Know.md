@@ -19,4 +19,4 @@ As highlighted by Intel Education’s K-12 Blueprint resource, while parents und
 ## Reflection
 Understanding the concept of 'need-to-know' basis in relation to data access control is essential not just in the context of educational institutions but across all sectors. Implementing role-based data access can significantly reduce the chances of a data breach and protect privacy. This idea links to broader themes of data security, privacy laws, and ethical considerations in my knowledge base.
 
-
+## Connections

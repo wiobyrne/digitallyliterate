@@ -29,5 +29,5 @@ If I were doing it again I'd push harder on what "infusion" actually looks like 
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

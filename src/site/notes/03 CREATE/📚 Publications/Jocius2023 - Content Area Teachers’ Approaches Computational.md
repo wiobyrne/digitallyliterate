@@ -3,7 +3,7 @@
 ---
 
 
-# Content Area Teachers’ Approaches to Computational Thinking Infusion
+# Jocius2023 - Content Area Teachers’ Approaches Computational
 
 ## Citation
 
@@ -15,5 +15,5 @@ Jocius, Robin; Albert, Jennifer; Blanton, Melanie; et al. (2023) Content Area Te
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

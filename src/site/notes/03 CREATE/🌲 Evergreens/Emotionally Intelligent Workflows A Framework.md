@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"emotionally-intelligent-workflows-a-framework","permalink":"/emotionally-intelligent-workflows-a-framework/","title":"Authoritative Framework Title","tags":["emotional-intelligence","collaboration","work-culture","team-dynamics","communication","leadership","human-centered-design","learning-environments","values-alignment"]}
+{"dg-publish":true,"dg-permalink":"emotionally-intelligent-workflows-a-framework","permalink":"/emotionally-intelligent-workflows-a-framework/","title":"Emotionally Intelligent Workflows A Framework","tags":["emotional-intelligence","collaboration","work-culture","team-dynamics","communication","leadership","human-centered-design","learning-environments","values-alignment"]}
 ---
 
 
-# Emotionally Intelligent Workflows: A Framework
+# Emotionally Intelligent Workflows A Framework
 
 ## Core Premise
 
@@ -120,4 +120,4 @@ This framework builds on and connects to several related ideas:
 - **[[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]]** - Essential for the "transparency without performance" this framework requires
 - **[[03 CREATE/🌲 Evergreens/Digital Resilience\|03 CREATE/🌲 Evergreens/Digital Resilience]]** - Supports the sustainable, boundary-respecting work this framework promotes
 
-
+## Connections

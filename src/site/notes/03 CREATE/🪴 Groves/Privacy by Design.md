@@ -220,3 +220,5 @@ The technical frontier — ways to use data without exposing it.
 ---
 
 *Privacy by design isn't about being paranoid. It's about choosing tools that respect you by default.*
+
+## Connections

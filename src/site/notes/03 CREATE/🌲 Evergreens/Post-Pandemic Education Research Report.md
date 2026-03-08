@@ -172,3 +172,5 @@ The research indicates that without proactive intervention, technology will cont
 - AI bias in educational applications
 - Community-controlled technology initiatives
 - Teacher technology integration best practices
+
+## Connections

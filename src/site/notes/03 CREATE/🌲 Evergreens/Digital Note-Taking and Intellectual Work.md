@@ -3,7 +3,7 @@
 ---
 
 
-# Digital Note-Taking and Intellectual Work: A Critical Analysis
+# Digital Note-Taking and Intellectual Work
 
 ## Overview
 
@@ -166,3 +166,5 @@ The goal is not rejecting technology but developing wisdom about its appropriate
 The story of note-taking system experimentation serves as a cautionary tale about technological solutionism while honoring the genuine human desire to enhance intellectual capabilities. The most sophisticated note-taking system is no substitute for reading carefully, thinking critically, writing clearly, and engaging authentically with ideas and people.
 
 The "un-annotated life" may indeed not be worth living, but the annotation itself is not the life. The notes serve the thinker, not the reverse. This fundamental insight offers a foundation for thoughtful engagement with whatever productivity tools the future may bring.
+
+## Connections

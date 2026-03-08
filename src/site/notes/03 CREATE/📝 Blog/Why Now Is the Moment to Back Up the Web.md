@@ -117,3 +117,7 @@ Large-language models (LLMs) and data-harvesting bots are already mining open re
 **“We’re not just writing for today’s clicks, we’re preserving tomorrow’s discoveries.”**
 
 By embracing a culture of **redundancy**, **openness**, and **community engagement**, we can ensure that the web remains a reliable, enduring home for research and teaching. Let’s start today, because the history we save now will be tomorrow’s foundation.
+
+## Connected Concepts
+
+*Part of the [[03 CREATE/📝 Blog/Blog Post Index\|Blog Post Index]].*

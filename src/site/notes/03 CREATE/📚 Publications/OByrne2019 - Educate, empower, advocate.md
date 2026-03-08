@@ -29,4 +29,4 @@ The educate/empower/advocate frame came out of the data and has stayed with me. 
 
 - [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
-- [[Critical Media Literacy\|Critical Media Literacy]]
+- [[03 CREATE/📝 Blog/Critical Media Literacy\|Critical Media Literacy]]

@@ -150,3 +150,5 @@ To foster critical epistemic stance:
 ## Tags
 
 #concept #epistemic-stance #knowledge-construction #AI-literacy #critical-thinking
+
+## Connections

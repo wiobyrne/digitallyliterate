@@ -32,3 +32,5 @@ For example, one common dark pattern is 'bait-and-switch', where the user sets o
 - "[[User Interface Design\|User Interface Design]]"
 - "[[User Experience (UX)\|User Experience (UX)]]"
 - "[[Cognitive Bias\|Cognitive Bias]]"
+
+## Connections

@@ -16,3 +16,5 @@ External Links:
 1. [Understanding Attack Surface Analysis](https://www.rapid7.com/fundamentals/attack-surface-analysis/)
 2. [Minimizing Cybersecurity Risk with Attack Surface Reduction](https://www.csoonline.com/article/3239674/how-to-reduce-your-attack-surface-and-minimize-cybersecurity-risk.html)
 3. [What is Attack Surface?](https://www.paloaltonetworks.com/cyberpedia/what-is-an-attack-surface)
+
+## Connections

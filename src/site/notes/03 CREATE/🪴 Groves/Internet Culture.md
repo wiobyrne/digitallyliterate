@@ -116,3 +116,5 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 ---
 
 *You can't teach media literacy if you don't understand the media. Internet culture is the required reading.*
+
+## Connections

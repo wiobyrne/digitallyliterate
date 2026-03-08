@@ -40,3 +40,5 @@ Use this hub to explore:
 ---
 
 > 💡 This Index is a specialized hub within the broader [[03 CREATE/🪴 Groves/Technology & Society Index\|Technology & Society Index]]. Use it to deepen your understanding of AI’s complex interplay with privacy and resilience.
+
+## Connections

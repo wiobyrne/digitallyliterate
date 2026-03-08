@@ -3,7 +3,7 @@
 ---
 
 
-# Cosmopolitan Digital Literacies - Research Notes on Global Community and Identity
+# Cosmopolitan Digital Literacies
 
 ## Executive Summary
 
@@ -242,3 +242,5 @@ The critical awareness of power, microaggression, and the habits of inquiry inhe
 The methodological innovations suggested by these notes—including artifact-based data collection, simulated recall techniques, and recognition of participants' existing inquiry habits—provide valuable directions for research that can capture the complexity of cosmopolitan digital literacy practices while respecting participants' expertise about their own experiences.
 
 Overall, these research notes point toward understanding cosmopolitan digital literacies as sophisticated practices that require educational approaches capable of supporting identity development, critical analysis, global community engagement, and multilingual digital participation. The research suggests that effective education in this area must move beyond teaching about technology or culture in isolation toward facilitating genuine participation in global digital communities while developing critical awareness of the power dynamics that shape these communities.
+
+## Connections

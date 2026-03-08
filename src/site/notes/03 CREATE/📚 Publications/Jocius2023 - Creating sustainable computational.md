@@ -3,7 +3,7 @@
 ---
 
 
-# Creating sustainable computational thinking infusion: An analysis of teacher-led practitioner inquiry projects
+# Jocius2023 - Creating sustainable computational
 
 ## Citation
 
@@ -27,6 +27,6 @@ What I keep thinking about is the sustainability question. Researcher-practition
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
 - [[Communities of Practice\|Communities of Practice]]

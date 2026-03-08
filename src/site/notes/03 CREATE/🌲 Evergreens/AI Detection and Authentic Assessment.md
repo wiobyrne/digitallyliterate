@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"ai-detection-and-authentic-assessment","permalink":"/ai-detection-and-authentic-assessment/","title":"AI Detection and Authentic Assessment","tags":["AI-detection","authentic-assessment","cheating","equity","scaffolding"]}
 ---
 
-
+# AI Detection and Authentic Assessment
 ## Core Claim
 
 The question isn't "How do we catch students using AI?" The question is: **Why are our assessments so easily bypassed by AI in the first place?**
@@ -172,3 +172,5 @@ Instead of "Did you use AI?", ask:
 > "Many AI detection tools are based on standard academic English, privileging users of standard academic English over other languages and literacy practices."
 
 > "Using AI outputs as a starting point for original work, incorporating personal insights and refinements, represents a sophisticated approach to learning and creativity."
+
+## Connections

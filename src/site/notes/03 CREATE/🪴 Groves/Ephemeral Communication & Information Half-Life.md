@@ -111,3 +111,5 @@ The point is to be **intentional** about what persists and what doesn't, rather 
 ---
 
 *Not everything needs to be remembered. Sometimes the most caring thing you can do with information is let it go.*
+
+## Connections

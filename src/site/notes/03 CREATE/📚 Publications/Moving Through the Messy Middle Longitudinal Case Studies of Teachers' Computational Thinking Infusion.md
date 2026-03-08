@@ -27,5 +27,5 @@ The longitudinal design was hard to pull off. Keeping two teachers engaged acros
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

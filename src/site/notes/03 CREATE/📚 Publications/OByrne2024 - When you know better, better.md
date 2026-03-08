@@ -29,4 +29,4 @@ For preservice teachers especially, this intersection is where the real work is.
 
 - [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
-- [[Critical Media Literacy\|Critical Media Literacy]]
+- [[03 CREATE/📝 Blog/Critical Media Literacy\|Critical Media Literacy]]

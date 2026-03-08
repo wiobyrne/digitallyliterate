@@ -71,3 +71,7 @@ It’s one thing to take notes for yourself, and another to share them—raw, ev
 If you’re on the fence about publishing your own digital garden, I can’t recommend the experience enough. Yes, there are technical hurdles—but each one you overcome gives you a little more ownership of your digital space.
 
 Cover image [CC BY-SA 3.0](https://www.deviantart.com/cyclicalcore/art/Tunnel-452133085)
+
+## Connected Concepts
+
+*Part of the [[03 CREATE/📝 Blog/Blog Post Index\|Blog Post Index]].*

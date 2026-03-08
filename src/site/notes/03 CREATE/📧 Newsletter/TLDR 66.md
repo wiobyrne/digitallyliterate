@@ -125,7 +125,7 @@ Openness and participation are antidotes to surveillance and control.
 - **[[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]** — Yahoo scanning emails for intelligence officials, I'll assume no sense of privacy in online communications.
 - **[[Yahoo\|Yahoo]]** — Security breach didn't tell members, secretly scanning emails, I'm deleting account they don't deserve trust.
 - **[[Google Home\|Google Home]]** — Ordered one to test in home and classroom, trojan horse for AI pumping information to machine learning.
-- **[[Digital Portfolios\|Digital Portfolios]]** — Silvia Tolisano blogfolios as glue holding together digital identity metacognitive skills reflection and assessment.
+- **[[03 CREATE/📝 Blog/Digital portfolios\|Digital Portfolios]]** — Silvia Tolisano blogfolios as glue holding together digital identity metacognitive skills reflection and assessment.
 - **[[Rubrics\|Rubrics]]** — Jennifer Hurley threw away rubrics, where is human response, prefer funny observant comments from thinking caring person.
 - **[[01 CONSUME/👥 People/James Gleick\|James Gleick]]** — I devoured The Information years ago, Time Travel mixes literature science fiction technology, looks like great read.
 

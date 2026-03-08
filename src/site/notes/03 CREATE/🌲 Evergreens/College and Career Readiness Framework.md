@@ -3,7 +3,7 @@
 ---
 
 
-# College & Career Readiness - Comprehensive Curriculum Framework
+# College and Career Readiness Framework
 
 ## Executive Summary
 
@@ -315,3 +315,5 @@ The framework's strength lies in its holistic approach, recognizing that college
 The emphasis on artifact-based assessment ensures that students create tangible resources they can use beyond course completion, while the systematic approach to skill development provides clear pathways for student growth and achievement. This framework serves as both a practical implementation guide and a model for comprehensive student preparation programming in higher education contexts.
 
 Through careful implementation and ongoing evaluation, this curriculum framework can significantly enhance student success outcomes while supporting institutional effectiveness and mission achievement. The adaptable design allows for customization to different institutional contexts while maintaining focus on evidence-based practices and comprehensive student development.
+
+## Connections

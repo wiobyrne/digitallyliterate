@@ -331,3 +331,5 @@ The ultimate goal is to transform your notes from passive storage into an active
 - Horn, R. E. (1998). *Visual Language: Global Communication for the 21st Century*
 - Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*
 - Allen, D. (2001). *Getting Things Done: The Art of Stress-Free Productivity*
+
+## Connections

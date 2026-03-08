@@ -15,4 +15,4 @@ Albert, Jennifer; Jocius, Robin; Barnes, Tiffany; et al. (2020) Research-based d
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]

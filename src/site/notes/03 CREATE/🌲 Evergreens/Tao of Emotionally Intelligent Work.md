@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tao-of-emotionally-intelligent-work","permalink":"/tao-of-emotionally-intelligent-work/","title":"The Tao of Emotionally Intelligent Work","tags":["emotional-intelligence","collaboration","communication","learning","workflows","ethos","philosophy-of-work","human-connection"]}
+{"dg-publish":true,"dg-permalink":"tao-of-emotionally-intelligent-work","permalink":"/tao-of-emotionally-intelligent-work/","title":"Tao of Emotionally Intelligent Work","tags":["emotional-intelligence","collaboration","communication","learning","workflows","ethos","philosophy-of-work","human-connection"]}
 ---
 
 # Tao of Emotionally Intelligent Work
@@ -127,4 +127,4 @@ This Tao builds upon and connects to several complementary frameworks:
 - **[[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]]** - Essential foundation for the "emotional exposure" that makes this work possible
 - **[[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]]** - Important for creating the "boundaried compassion" and shame-resilient environments this approach needs
 
-
+## Connections

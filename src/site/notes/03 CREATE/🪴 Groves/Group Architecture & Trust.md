@@ -112,3 +112,5 @@ These five questions prevent most of the problems that cause harm in group digit
 ---
 
 *The shape of the room matters as much as the lock on the door.*
+
+## Connections

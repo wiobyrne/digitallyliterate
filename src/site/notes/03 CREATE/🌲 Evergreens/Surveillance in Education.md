@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"surveillance-in-education","permalink":"/surveillance-in-education/","title":"Surveillance in Education","tags":["surveillance","data-collection","student-privacy","surveillance-capitalism","enshittification"]}
 ---
 
-
+# Surveillance in Education
 ## Core Claim
 
 Privacy in education isn't optional—it's about **power**. Each new layer of data collection adds to an expanding infrastructure of surveillance that shapes not only how we study and teach, but how we are governed within the academy.
@@ -147,3 +147,5 @@ The question isn't whether to use technology. It's **whose interests the technol
 > "The everyday becomes the infrastructure of surveillance without anyone asking whether it should."
 
 > "If we treat surveillance as normal, students will too."
+
+## Connections

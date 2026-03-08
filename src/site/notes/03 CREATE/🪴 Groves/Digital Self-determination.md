@@ -138,3 +138,5 @@ This Grove contributes to: **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework
 ---
 
 *This wiki exists to make privacy and security accessible to everyone — not just tech experts. You're invited to join this journey.*
+
+## Connections

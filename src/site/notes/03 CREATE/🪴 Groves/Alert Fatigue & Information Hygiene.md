@@ -112,3 +112,5 @@ Information hygiene isn't about being perfect. It's about building habits that h
 ---
 
 *The best thing you can do for your community's safety is slow down before you hit share.*
+
+## Connections

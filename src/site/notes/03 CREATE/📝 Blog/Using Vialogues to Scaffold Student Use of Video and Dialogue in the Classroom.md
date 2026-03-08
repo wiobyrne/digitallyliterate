@@ -39,3 +39,9 @@ Once you're logged in, and you visit the vialogue you want to comment on, click 
 Cover photo by pedrosek http://flickr.com/photos/pedrosek/16844437580 shared under a Creative Commons (BY) license
 
 [[03 CREATE/📝 Blog/Blog Post Index\|Blog Post Index]]
+
+## Connected Concepts
+
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+
+*Part of the [[03 CREATE/📝 Blog/Blog Post Index\|Blog Post Index]].*

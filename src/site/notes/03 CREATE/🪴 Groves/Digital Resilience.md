@@ -130,3 +130,5 @@ Concepts that connect to digital resilience across the vault.
 ---
 
 *Resilience isn't about being perfect. It's about being prepared.*
+
+## Connections

@@ -39,9 +39,11 @@ In computing and mathematics, an algorithm is like a recipe that precisely defin
 - [[02 DEVELOP/Notes/Artificial Intelligence\|02 DEVELOP/Notes/Artificial Intelligence]]
 - [[Data Analysis\|Data Analysis]]
 - [[Coding\|Coding]]
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[02 DEVELOP/🌿 Plants/Algorithm Types\|Algorithm Types]]
 - [[02 DEVELOP/🌿 Plants/Algorithm Characteristics and Properties\|Algorithm Characteristics and Properties]]
 
 
 [[AI Index\|AI Index]]
+
+## Connections

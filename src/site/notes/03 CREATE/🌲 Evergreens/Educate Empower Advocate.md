@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"educate-empower-advocate","permalink":"/educate-empower-advocate/","title":"Critical Pedagogy Framework: Educate, Empower, Advocate","tags":["master-framework","definitive-reference","critical-pedagogy","educational-framework","social-justice","transformative-education","digital-activism","comprehensive-analysis"]}
+{"dg-publish":true,"dg-permalink":"educate-empower-advocate","permalink":"/educate-empower-advocate/","title":"Educate Empower Advocate","tags":["master-framework","definitive-reference","critical-pedagogy","educational-framework","social-justice","transformative-education","digital-activism","comprehensive-analysis"]}
 ---
 
 
@@ -148,3 +148,5 @@ The success of this framework depends not on perfect implementation, but on sust
 - Ginwright, S. (2010). *Black youth rising: Activism and radical healing in urban America*. Teachers College Press.
 - Freire, P. (1970). *Pedagogy of the oppressed*. Continuum International Publishing Group.
 - hooks, b. (1994). *Teaching to transgress: Education as the practice of freedom*. Routledge.
+
+## Connections

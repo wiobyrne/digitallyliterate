@@ -151,3 +151,5 @@ Combine [[03 CREATE/🌲 Evergreens/Educate Empower Advocate\|Educate Empower Ad
 ---
 
 *Emotional intelligence is not about being nice. It's about creating conditions where honesty, growth, and care can coexist.*
+
+## Connections

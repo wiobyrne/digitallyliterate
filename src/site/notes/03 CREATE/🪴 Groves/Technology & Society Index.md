@@ -68,7 +68,7 @@ These recurring themes weave through the above MOCs:
 ### 📚 Literacy & Education  
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]  
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]  
-- [[Computational Thinking\|Computational Thinking]]  
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]  
 - [[Critical Digital Pedagogy\|Critical Digital Pedagogy]]
 
 ### ✊🏽 Resistance & Futures  
@@ -101,3 +101,5 @@ These project areas showcase your applied work in these domains:
 ---
 
 > 💡 This is a **living hub**. As your vault grows, revisit this index to link new clusters, MOCs, and atomic notes to keep your knowledge ecosystem connected and accessible.
+
+## Connections

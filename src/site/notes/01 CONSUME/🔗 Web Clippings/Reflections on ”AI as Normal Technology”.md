@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/reflections-on-ai-as-normal-technology/","title":"Reflections on ”AI as Normal Technology”"}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/reflections-on-ai-as-normal-technology/","title":"Reflections on ”AI as Normal Technology”","tags":["ai","reading","creativity"]}
 ---
 
 # Reflections on ”AI as Normal Technology”

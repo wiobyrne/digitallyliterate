@@ -33,3 +33,5 @@ Understanding the concept of security controls is key in the field of informatio
 External Links:
 1. [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 2. [Understanding Security Control Types](https://www.csoonline.com/article/2126076/what-is-a-security-control-type-and-how-it-enhances-security.html)
+
+## Connections

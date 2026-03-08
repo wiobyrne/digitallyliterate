@@ -28,5 +28,5 @@ For ELA teachers specifically, the digital wildfire frame offers something usefu
 ## Connected Concepts
 
 - [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
-- [[Critical Media Literacy\|Critical Media Literacy]]
+- [[03 CREATE/📝 Blog/Critical Media Literacy\|Critical Media Literacy]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

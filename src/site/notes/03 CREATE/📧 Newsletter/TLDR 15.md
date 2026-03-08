@@ -151,7 +151,7 @@ Michio Kaku's quote resonates: impossible is just engineering problems. Weather 
 - **[[Visual Thinking\|Visual Thinking]]** — Web design negative space, art and creativity integration.
 - **[[Pew Research\|Pew Research]]** — Teens, technology, and romantic relationships findings.
 - **[[Secret Coders\|Secret Coders]]** — Gene Luen Yang's comic teaching computer science fundamentals.
-- **[[Computational Thinking\|Computational Thinking]]** — Gateway for coding without shoehorning into classrooms.
+- **[[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]** — Gateway for coding without shoehorning into classrooms.
 - **[[Google Cardboard\|Google Cardboard]]** — VR/AR instructional opportunities, terribly fascinating future.
 - **[[Smartphone Productivity\|Smartphone Productivity]]** — Apps for good: PocketCasts, Feedly, Slack, Trello, Pushbullet.
 - **[[Mechanical Pumpkin\|Mechanical Pumpkin]]** — Halloween project teaching mechanics, physics, wiring.

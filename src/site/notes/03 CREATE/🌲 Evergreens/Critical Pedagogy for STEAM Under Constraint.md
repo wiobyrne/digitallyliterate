@@ -158,3 +158,5 @@ The work is not about waiting for ideal conditions but about practicing agency w
 - [[03 CREATE/🌲 Evergreens/Labor-Based Grading Contracts\|Labor-Based Grading Contracts]]
 - [[02 DEVELOP/🌿 Plants/Learning Environment Portfolio Design\|Learning Environment Portfolio Design]]
 - [[02 DEVELOP/🌿 Plants/Emergent Strategy for Digital Literacy Movements\|Emergent Strategy for Digital Literacy Movements]]
+
+## Connections

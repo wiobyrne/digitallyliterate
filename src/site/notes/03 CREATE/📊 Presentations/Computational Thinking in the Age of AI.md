@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/presentations/computational-thinking-in-the-age-of-ai/","tags":["education","ai","computational-thinking","computer-science"]}
+{"dg-publish":true,"dg-permalink":"computational-thinking-age-of-ai","permalink":"/computational-thinking-age-of-ai/","title":"Computational Thinking in the Age of AI","tags":["presentation","computational-thinking","ai","education","k12"]}
 ---
 
 # Computational Thinking in the Age of AI

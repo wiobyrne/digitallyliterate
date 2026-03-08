@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"hitl-pedagogy-toolkit","permalink":"/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["human-in-the-loop","AI-literacy","classroom-practice","prompts","student-agency"]}
 ---
 
-
+# HITL Pedagogy Toolkit
 ## Core Claim
 
 Human-in-the-Loop (HITL) is not just a technical framework—it's a **pedagogical mindset**. One that centers human judgment, creativity, and care in interactions with AI systems. The goal: classrooms where students don't just consume AI outputs but learn to **shape them**—ethically, critically, and creatively.
@@ -138,3 +138,5 @@ The theory tells us *why* boundary work matters. The toolkit shows *how* to cult
 > "Let's build classrooms where students don't just consume AI outputs but learn to shape them. Ethically, critically, and creatively."
 
 > "What decision did I make today that the AI didn't? Why was that important?"
+
+## Connections

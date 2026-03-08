@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"boundary-work","permalink":"/boundary-work/","title":"Boundary Work","tags":["boundary-work","human-AI-collaboration","responsibility","authorship","ethical-AI-use","knowledge-construction"]}
+{"dg-publish":true,"dg-permalink":"boundary-work","permalink":"/boundary-work/","title":"Boundary-work","tags":["boundary-work","human-AI-collaboration","responsibility","authorship","ethical-AI-use","knowledge-construction"]}
 ---
 
 # Boundary-work
@@ -87,3 +87,5 @@ Strong boundary-work practices indicate:
 ## Tags
 
 #concept #boundary-work #AI-literacy #agency #ethics
+
+## Connections

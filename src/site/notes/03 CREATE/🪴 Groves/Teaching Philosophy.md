@@ -127,3 +127,5 @@ Where pedagogy meets artificial intelligence.
 ---
 
 *Teaching is not about having the answers. It's about creating the conditions where learners find their own.*
+
+## Connections

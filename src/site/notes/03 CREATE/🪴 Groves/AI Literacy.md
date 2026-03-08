@@ -139,3 +139,5 @@ AI literacy is not a separate domain from digital literacy. It's the newest, mos
 ---
 
 *AI literacy is not about keeping up with the technology. It's about refusing to be kept by it.*
+
+## Connections

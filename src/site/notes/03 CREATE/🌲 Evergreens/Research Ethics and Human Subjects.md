@@ -3,7 +3,7 @@
 ---
 
 
-# Research Ethics and Human Subjects Protection - Historical Foundations and Principles
+# Research Ethics and Human Subjects
 
 ## Overview
 
@@ -468,3 +468,5 @@ As research methods and contexts continue to evolve rapidly, so too must our eth
 **Applications**: Research training, IRB education, academic coursework, professional development, institutional policy development
 **Related Frameworks**: [[IRB Procedures\|IRB Procedures]], [[Qualitative Research Ethics\|Qualitative Research Ethics]], [[Data Management\|Data Management]], [[Research Integrity\|Research Integrity]], [[Publication Ethics\|Publication Ethics]]
 **Update Frequency**: Annual review recommended due to evolving regulations, technologies, and practices
+
+## Connections

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"courageous-community","permalink":"/courageous-community/","tags":["community-building","educational-leadership","social-justice","mental-health","self-care","advocacy","equity","inclusive-education","professional-development","critical-pedagogy"]}
+{"dg-publish":true,"dg-permalink":"courageous-community","permalink":"/courageous-community/","title":"Courageous Community","tags":["community-building","educational-leadership","social-justice","mental-health","self-care","advocacy","equity","inclusive-education","professional-development","critical-pedagogy"]}
 ---
 
 
@@ -107,3 +107,5 @@ The courage required is not the absence of fear, but the willingness to act in s
 - [[Educational Equity\|Educational Equity]]
 - [[Community Organizing\|Community Organizing]]
 - [[Restorative Justice in Education\|Restorative Justice in Education]]
+
+## Connections

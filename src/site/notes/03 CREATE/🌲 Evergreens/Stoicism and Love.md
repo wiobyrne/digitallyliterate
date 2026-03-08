@@ -219,3 +219,5 @@ Mature Stoic practice contributes to broader human flourishing:
 - Creating culture that supports virtue development in others
 
 The Stoic approach to love and relationships provides a comprehensive framework for ethical development that emphasizes virtue, wisdom, and service to the common good while maintaining practical applicability to daily life and interpersonal challenges. Through consistent practice and community support, individuals can develop the capacity for genuine love that transforms both themselves and their relationships with others.
+
+## Connections

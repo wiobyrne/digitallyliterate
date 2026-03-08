@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"wicked-problems-as-pedagogy","permalink":"/wicked-problems-as-pedagogy/","title":"Wicked Problems as Pedagogy","tags":["wicked-problems","ethics-education","interdisciplinary","authentic-assessment","AI-in-education"]}
 ---
 
-
+# Wicked Problems as Pedagogy
 ## Core Claim
 
 Wicked problems—complex, interconnected societal issues with no clear solution—provide the ideal pedagogical scaffold for authentic learning. When students work on problems that are **real, local, and resistant to easy answers**, shortcuts become harder and less valued. The learning itself becomes the point.
@@ -186,3 +186,5 @@ This is what the note on [[03 CREATE/🌲 Evergreens/AI Detection and Authentic 
 > "AI as thought partner, not answer machine. Students should interrogate AI outputs, not accept them uncritically."
 
 > "The four components: Ethical Awareness, Ethical Analysis, Ethical Argumentation, Ethical Action."
+
+## Connections

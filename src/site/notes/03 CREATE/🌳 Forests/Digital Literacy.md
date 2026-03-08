@@ -94,7 +94,7 @@ Threads that weave through multiple Groves and don't belong to just one.
 ### Ethics and Accountability
 - [[Ethics in AI\|Ethics in AI]] — Frameworks for responsible development
 - [[Critical Digital Pedagogy\|Critical Digital Pedagogy]] — Teaching that interrogates the tools it uses
-- [[Computational Thinking\|Computational Thinking]] — The cognitive skill set, not just "learn to code"
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]] — The cognitive skill set, not just "learn to code"
 
 ### Resistance and Futures
 - [[Platform Refusal\|Platform Refusal]] — Choosing not to participate in extractive systems

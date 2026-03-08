@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/the-ai-2027-scenario-how-realistic-is-it/","title":"The “AI 2027” Scenario: How realistic is it?"}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/the-ai-2027-scenario-how-realistic-is-it/","title":"The “AI 2027” Scenario: How realistic is it?","tags":["ai","productivity","race","research"]}
 ---
 
 # The “AI 2027” Scenario How realistic is it

@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"digital-literacies-research-paradigms","permalink":"/digital-literacies-research-paradigms/","title":"Digital Literacies Research Paradigms","tags":["research-design","positivism","interpretivism","critical-theory","post-qualitative","methodology"]}
 ---
 
-
+# Digital Literacies Research Paradigms
 ## Core Claim
 
 Digital literacies research has evolved from technical competencies to encompass complex sociocultural practices, critical engagements, and material-technological entanglements. **Ontological and epistemological assumptions underpin methodological choices**—understanding these assumptions is essential for designing research and evaluating claims.
@@ -265,3 +265,5 @@ The key is **coherence**—ontological and epistemological assumptions should al
 > "The key is coherence—ontological and epistemological assumptions should align across the design."
 
 > "From functional literacy to sociocultural practice to critical/transformative to post-qualitative—each wave builds on and challenges what came before."
+
+## Connections

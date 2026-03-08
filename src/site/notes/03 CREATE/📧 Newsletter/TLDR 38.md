@@ -144,7 +144,7 @@ Malcolm Gladwell: Often a sign of expertise is noticing what doesn't happen. Blo
 - **[[Remix Mobilities\|Remix Mobilities]]** — Four distinct mobilities and relational tendencies bursting drifting leveraging turning.
 - **[[Research\|Research]]** — Daniel Lemire what the heck is interesting research, first bar is it of interest to us and the community second whether work is ambitious.
 - **[[Stephen Downes\|Stephen Downes]]** — Thanks to Stephen Downes for originally sharing Daniel Lemire's research perspectives.
-- **[[Digital Portfolios\|Digital Portfolios]]** — MindShift examines role in application process and induction into higher education, tremendous opportunities to utilize and invigorate.
+- **[[03 CREATE/📝 Blog/Digital portfolios\|Digital Portfolios]]** — MindShift examines role in application process and induction into higher education, tremendous opportunities to utilize and invigorate.
 - **[[XKCD\|XKCD]]** — Randall Munroe coming to America's science textbooks, skillfully explains the complex Thing Explainer.
 - **[[01 CONSUME/👥 People/Randall Munroe\|Randall Munroe]]** — American cartoonist author creator of webcomic XKCD, Houghton Mifflin folding art and illustrations into textbooks.
 - **[[Google Nik\|Google Nik]]** — Advanced suite of tools for photo and image editing now free, professional grade products typically cost hundreds of dollars.

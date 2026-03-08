@@ -121,7 +121,7 @@ My Facebook personality profile says I'm 26, more intelligent than 51% of people
 **🌱 Connected Concepts**:
 
 - **[[Hybrid and Blended Learning\|Hybrid and Blended Learning]]** — JAAL column on modifying pedagogy across time, place, path, and pace.
-- **[[IT&DML Program\|IT&DML Program]]** — Life and death of UNH literacy & technology program, documenting the end.
+- **[[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]** — Life and death of UNH literacy & technology program, documenting the end.
 - **[[Psychology Replication Crisis\|Psychology Replication Crisis]]** — 75% of social psych experiments fail replication, stop journal worship.
 - **[[Oliver Sacks\|Oliver Sacks]]** — Neurologist exploring brain's quirks, reading list legacy at 82.
 - **[[Pixar in a Box\|Pixar in a Box]]** — Khan Academy course teaching practical school applications through creative projects.

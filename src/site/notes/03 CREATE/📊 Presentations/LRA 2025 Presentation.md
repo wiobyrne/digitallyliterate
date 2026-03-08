@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/presentations/lra-2025-presentation/","title":"LRA 2025 Presentation","tags":["presentation","LRA2025","AI-literacy","framework","conference","qualitative-research","NotebookLM"]}
+{"dg-publish":true,"dg-permalink":"lra-2025","permalink":"/lra-2025/","title":"LRA 2025 Presentation","tags":["presentation","LRA2025","ai-literacy","framework","conference","qualitative-research","NotebookLM"]}
 ---
 
 # LRA 2025 Presentation

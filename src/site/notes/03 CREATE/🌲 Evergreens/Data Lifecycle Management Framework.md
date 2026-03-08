@@ -3,7 +3,7 @@
 ---
 
 
-# Data Lifecycle Management - Comprehensive Framework for Information Governance
+# Data Lifecycle Management Framework
 
 ## Overview
 
@@ -196,3 +196,5 @@ Ultimately, the data lifecycle is about stewarding one of our most valuable reso
 **Applications**: Research training, organizational development, policy formulation, system design
 **Related Frameworks**: [[Research Ethics\|Research Ethics]], [[Data Security\|Data Security]], [[Information Governance\|Information Governance]], [[Digital Preservation\|Digital Preservation]]
 **Update Frequency**: Semi-annual review recommended due to rapid technological evolution
+
+## Connections

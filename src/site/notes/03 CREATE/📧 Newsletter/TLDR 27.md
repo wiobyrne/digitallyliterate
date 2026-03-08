@@ -164,7 +164,7 @@ Picasso: If you paint a wild horse, you might not see the horse...but surely you
 
 - **[[WalkMyWorld Project\|WalkMyWorld Project]]** — Social Scholars examining participants from two years ago, digital identity construction.
 - **[[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]]** — Educators create and curate online brand, challenges highlighted.
-- **[[Computational Thinking\|Computational Thinking]]** — JAAL column on coding/programming as literacy activities, computational participation.
+- **[[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]** — JAAL column on coding/programming as literacy activities, computational participation.
 - **[[03 CREATE/📝 Blog/Transmedia Storytelling\|Transmedia Storytelling]]** — A New Hope column submitted to JAAL, digital storytelling and transmedia narratives.
 - **[[Collaborative Scholarship\|Collaborative Scholarship]]** — Please leave comments on Google Doc, we'll fold in your comments as we go to press.
 - **[[AdvocatED\|AdvocatED]]** — Privacy, Identity, & Protecting Yourself online, educate empower advocate.

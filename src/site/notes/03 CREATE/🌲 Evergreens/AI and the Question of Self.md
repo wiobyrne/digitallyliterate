@@ -117,3 +117,5 @@ Digital literacy now includes understanding how AI shapes our sense of self. Bei
 > "That individuals are socially constructed is easy enough to say, but is a bit tough to swallow when you are the 'cultural phenomenon' that's socially constructed."
 
 > "In the age of generative AI, individuality is not solely defined by our inherent traits but is also shaped by our interactions with AI-generated content."
+
+## Connections

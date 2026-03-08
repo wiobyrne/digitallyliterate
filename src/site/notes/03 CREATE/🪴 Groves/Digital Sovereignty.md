@@ -77,3 +77,5 @@ Most people don't need "full" sovereignty. Even small steps matter.
 ---
 
 *Digital sovereignty isn't all-or-nothing. Every step toward ownership is a step toward freedom.*
+
+## Connections

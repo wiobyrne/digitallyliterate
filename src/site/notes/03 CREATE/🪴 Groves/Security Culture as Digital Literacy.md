@@ -106,3 +106,5 @@ This grove contains four notes, each exploring a different dimension of security
 ---
 
 *Security culture isn't about suspicion. It's about paying attention to the people around you and making choices that reduce harm.*
+
+## Connections

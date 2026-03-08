@@ -60,3 +60,5 @@ This process is enabled by high switching costs and the platform's position as b
 - "[[Rent-Seeking\|Rent-Seeking]]" - Extracting value without creating new wealth
 - "[[Planned Obsolescence\|Planned Obsolescence]]" - Deliberately limiting product lifespan
 - "[[AI Slop\|AI Slop]]" - Low-quality AI-generated content
+
+## Connections

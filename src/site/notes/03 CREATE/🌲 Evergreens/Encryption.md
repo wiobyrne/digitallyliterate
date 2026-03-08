@@ -40,3 +40,5 @@ For beginners, encryption can be understood as:
 - [[Cryptography\|Cryptography]]
 - [[Decryption\|Decryption]]
 - [[Data Security\|Data Security]]
+
+## Connections

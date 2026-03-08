@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"ai-boundary-co-construction","permalink":"/ai-boundary-co-construction/","title":"AI Boundary Co-Construction","tags":["boundary-work","human-in-the-loop","agency","AI-ethics","nexus-analysis","pre-service-teachers","literacy-education"]}
 ---
 
-# AI-Boundary-Co-Construction
+# AI Boundary Co-Construction
 
 ## Core Claim
 
@@ -156,3 +156,5 @@ It also clarifies what this work is *not* about: comparing AI tools, measuring l
 > "This study uses generative AI as a site for examining how pre-service teachers enact ethical boundary work and professional agency under conditions of institutional ambiguity."
 
 > "Ethical AI literacy is practiced, not declared. HITL is not a switch—it's a relationship."
+
+## Connections

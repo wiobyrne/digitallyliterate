@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"risk-and-teaching-academic-analysis","permalink":"/risk-and-teaching-academic-analysis/","title":"Risk and Teaching: Academic Analysis of Pandemic Education","tags":["teaching","risk-assessment","pandemic-education","teacher-development","case-studies","educational-policy"]}
+{"dg-publish":true,"dg-permalink":"risk-and-teaching-academic-analysis","permalink":"/risk-and-teaching-academic-analysis/","title":"Risk and Teaching Academic Analysis","tags":["teaching","risk-assessment","pandemic-education","teacher-development","case-studies","educational-policy"]}
 ---
 
 
@@ -365,3 +365,5 @@ As we face future crises—whether pandemic, climate change, or other existentia
 - Crisis management in educational institutions
 - Professional identity formation during disruption
 - Equity and social justice in educational policy
+
+## Connections

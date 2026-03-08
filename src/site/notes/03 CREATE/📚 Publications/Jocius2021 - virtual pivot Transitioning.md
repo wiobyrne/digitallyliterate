@@ -15,5 +15,5 @@ Jocius, Robin; Joshi, Deepti; Albert, Jennifer; et al. (2021) The virtual pivot:
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

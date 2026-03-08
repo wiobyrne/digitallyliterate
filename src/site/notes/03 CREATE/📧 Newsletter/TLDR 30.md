@@ -154,7 +154,7 @@ Marvin Minsky: But there's a big difference between "impossible" and "hard to im
 - **[[Why Would I Want To\|Why Would I Want To]]** — Question answered through writing, call to friends and colleagues.
 - **[[One Space on Internet\|One Space on Internet]]** — Build and maintain, guidance to my students and WalkMyWorld members.
 - **[[Evernote\|Evernote]]** — My online multimodal notebook, colleague asked how members organize materials as we research.
-- **[[Podcasting\|Podcasting]]** — First real podcast for WalkMyWorld, trying to learn this is the messy part.
+- **[[03 CREATE/📝 Blog/Podcasting\|Podcasting]]** — First real podcast for WalkMyWorld, trying to learn this is the messy part.
 - **[[Soundtrack of My Life\|Soundtrack of My Life]]** — Each week I'll add a track, learning through making.
 - **[[01 CONSUME/👥 People/Marvin Minsky\|Marvin Minsky]]** — Passed away this week age 88, pioneer in artificial intelligence and philosopher.
 - **[[Ray Kurzweil\|Ray Kurzweil]]** — Interviews Minsky about brain cognition construction of artificial intelligence.

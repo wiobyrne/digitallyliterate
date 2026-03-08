@@ -126,7 +126,7 @@ Baldwin's charge about responsibility resonates powerfully with this issue's the
 
 **🌱 Connected Concepts**:
 
-- [[Online Disinhibition Effect\|Online Disinhibition Effect]] — Digital spaces lower barriers to expressing anger and impulses normally suppressed in face-to-face interactions enabling both hateful behavior and liberatory speech in [[Digital Communication\|Digital Communication]].
+- [[03 CREATE/📝 Blog/Online disinhibition effect\|Online Disinhibition Effect]] — Digital spaces lower barriers to expressing anger and impulses normally suppressed in face-to-face interactions enabling both hateful behavior and liberatory speech in [[Digital Communication\|Digital Communication]].
 - [[Climate Crisis 2040\|Climate Crisis 2040]] — UN IPCC report reveals catastrophic impacts within current students' lifetimes requiring unprecedented economic transformation that political systems resist in [[Climate Education\|Climate Education]].
 - [[Facebook Privacy Breaches\|Facebook Privacy Breaches]] — Revised hack figures showing 30 million affected with sensitive location and search data stolen demonstrates continuing pattern of inadequate security in [[Platform Accountability\|Platform Accountability]].
 - [[Disruptive Pedagogy\|Disruptive Pedagogy]] — [[Julie Fellmayer\|Julie Fellmayer]] examines education as practice of freedom requiring teachers to challenge oppressive systems despite institutional resistance and personal risk in [[Critical Pedagogy\|Critical Pedagogy]].

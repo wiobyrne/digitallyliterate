@@ -178,3 +178,5 @@ iface vmbr0.100 inet static
 ```
 
 This networking guide provides the foundation for robust Proxmox deployments with reliable container connectivity and proper network segmentation.
+
+## Connections

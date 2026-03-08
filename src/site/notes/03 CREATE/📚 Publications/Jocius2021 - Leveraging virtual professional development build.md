@@ -15,5 +15,5 @@ Jocius, Robin; O'Byrne, Ian; Blanton, Melanie; et al. (2021) Leveraging virtual 
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

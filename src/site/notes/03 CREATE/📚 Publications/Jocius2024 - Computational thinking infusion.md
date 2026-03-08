@@ -3,7 +3,7 @@
 ---
 
 
-# Computational thinking infusion as transformative teaching: investigating content area teacher perspectives and practices
+# Jocius2024 - Computational thinking infusion
 
 ## Citation
 
@@ -15,5 +15,5 @@ Jocius, Robin; Albert, Jennifer; O’Byrne, W Ian; et al. (2024) Computational t
 
 ## Connected Concepts
 
-- [[Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

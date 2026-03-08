@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"what-ai-cannot-know","permalink":"/what-ai-cannot-know/","title":"What AI Cannot Know","tags":["tacit-knowledge","embodied-learning","AI-limits","oral-tradition","sensory-knowledge"]}
 ---
 
-
+# What AI Cannot Know
 ## Core Claim
 
 Not all knowledge is written down. Much of what humans know, create, and pass down is embedded in gesture, rhythm, ritual, oral storytelling, and environmental cues. These systems of meaning are powerful, complex, and deeply human—yet they are rendered invisible or irrelevant in dominant AI and technological narratives.
@@ -120,3 +120,5 @@ The knowledge that cannot be captured in training data—the feel of the palm, t
 > "The food would *sing* when it was ready. No timer, no checklist—just tuned-in attention and apprenticeship."
 
 > "The most powerful intelligence may not come from bigger models or faster chips, but from our ability to imagine technologies that serve life in all its diverse, embodied, and unscripted forms."
+
+## Connections

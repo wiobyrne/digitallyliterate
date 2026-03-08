@@ -25,4 +25,4 @@ The intersections between learning, technology, and media are often the scene of
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
-- [[Critical Media Literacy\|Critical Media Literacy]]
+- [[03 CREATE/📝 Blog/Critical Media Literacy\|Critical Media Literacy]]

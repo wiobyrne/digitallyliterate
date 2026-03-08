@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"aapp-framework","permalink":"/aapp-framework/","title":"AAPP Framework - Platform Equity Audit","tags":["platform-audit","digital-equity","privacy","accessibility","federated-systems","digital-sovereignty"]}
+{"dg-publish":true,"dg-permalink":"aapp-framework","permalink":"/aapp-framework/","title":"Access, Accessibility, Privacy, and Pedagogy Framework","tags":["platform-audit","digital-equity","privacy","accessibility","federated-systems","digital-sovereignty"]}
 ---
 
-# Access, Accessibility, Privacy, and Pedagogy Framework 
+# Access, Accessibility, Privacy, and Pedagogy Framework
 
 ## Overview
 
@@ -129,3 +129,5 @@ A fully equity-centered AAPP audit specifically defines "Privacy" and "Access" t
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
 - [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]]
 - [[02 DEVELOP/🌿 Plants/InitiatED - From Classroom to Community\|InitiatED - From Classroom to Community]]
+
+## Connections

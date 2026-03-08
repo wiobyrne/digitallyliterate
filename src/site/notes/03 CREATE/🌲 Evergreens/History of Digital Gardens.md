@@ -402,3 +402,5 @@ Gardens are **counter-movement to platform capitalism:**
 🪴 **This note will continue to grow...**
 
 *Last tended: 2025-11-04*
+
+## Connections

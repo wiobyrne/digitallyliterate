@@ -75,3 +75,5 @@ I do believe analogies are beneficial; they make complex problems easier to comm
 > You can learn a lot more than you think you can.
 
 * * *
+
+## Connections

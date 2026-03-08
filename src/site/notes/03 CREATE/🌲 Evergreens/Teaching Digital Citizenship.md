@@ -234,3 +234,5 @@ Current research in digital citizenship education demonstrates:
 ---
 
 *Digital citizenship education is an ongoing process that must evolve with technological advancement and social change. Successful implementation requires commitment from educators, families, and communities to create supportive environments where students can develop the knowledge, skills, and dispositions needed for responsible digital participation.*
+
+## Connections

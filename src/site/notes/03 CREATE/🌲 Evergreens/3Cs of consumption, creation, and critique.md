@@ -279,3 +279,5 @@ The framework is grounded in several key educational principles:
 ---
 
 *The 3Cs framework provides a comprehensive foundation for media literacy education that prepares students to be thoughtful consumers, creative producers, and critical analysts of media in an increasingly complex digital world. Through integrated attention to consumption, creation, and critique, educators can foster the knowledge, skills, and dispositions students need for effective participation in democratic society.*
+
+## Connections

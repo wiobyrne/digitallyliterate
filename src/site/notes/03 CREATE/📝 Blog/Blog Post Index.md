@@ -1,34 +1,51 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/blog/blog-post-index/","title":"Blog Post Index","tags":["blog-posts","index"]}
+{"dg-publish":true,"dg-permalink":"blog","permalink":"/blog/","title":"Blog Post Index","tags":["blog","index"]}
 ---
 
 
 # Blog Post Index
 
-## Welcome
-Welcome to the blog post index for my main blog, wiobyrne.com. Here you'll find drafts of posts, published pieces, and documentation of changes made in content. Click on any note to dive into insights, reflections, and resources.
+Notes here are drafts, published posts, and archived pieces from wiobyrne.com. Each post links back here via its Connected Concepts section.
 
-Use the search bar at the top right to quickly find specific content, or explore through the sitemap on the left for detailed navigation.
+## Recent Published Posts
 
-## Recent Blog Posts
-
-### Last 5 Published Posts
-| Title | Tags |
-| ----- | ---- |
+| Title                                                                                                                                                                                                 | Date              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[03 CREATE/📝 Blog/Thinking Out Loud What Self-Hosting Is Teaching Me About Computational Thinking\|Thinking Out Loud What Self-Hosting Is Teaching Me About Computational Thinking]]             | February 27, 2026 |
+| [[03 CREATE/📝 Blog/Under the Hood Setting up a Self-Hosted Jitsi Server on Reclaim Cloud\|Under the Hood Setting up a Self-Hosted Jitsi Server on Reclaim Cloud]]                                 | February 27, 2026 |
+| [[03 CREATE/📝 Blog/Beyond Zoom Why We Took Control of Our Video Conferencing with Jitsi Meet\|Beyond Zoom Why We Took Control of Our Video Conferencing with Jitsi Meet]]                         | February 26, 2026 |
+| [[03 CREATE/📝 Blog/The Door Was Never Locked\|The Door Was Never Locked]]                                                                                                                         | February 25, 2026 |
+| [[03 CREATE/📝 Blog/AI Literacy, AI Illiteracy, and the Trouble With Naming the Gap\|AI Literacy, AI Illiteracy, and the Trouble With Naming the Gap]]                                             | January 20, 2026  |
+| [[03 CREATE/📝 Blog/Finding the “Goldilocks Zone” for AI in Curriculum Logistics, Not Logic\|Finding the “Goldilocks Zone” for AI in Curriculum Logistics, Not Logic]]                             | January 13, 2026  |
+| [[03 CREATE/📝 Blog/Why We Need Better Language for AI (Even When the Models Won’t Tell Us What They Are)\|Why We Need Better Language for AI (Even When the Models Won’t Tell Us What They Are)]] | January 12, 2026  |
+| [[03 CREATE/📝 Blog/Ungrading 2.0 Labor, Agency, and the Research Archive\|Ungrading 2.0 Labor, Agency, and the Research Archive]]                                                                 | January 08, 2026  |
+| [[03 CREATE/📝 Blog/From Ungrading to Infrastructure What I Learned When I Stopped Grading\|From Ungrading to Infrastructure What I Learned When I Stopped Grading]]                               | January 07, 2026  |
+| [[03 CREATE/📝 Blog/The Digital Shredder Signal Disappearing Messages\|The Digital Shredder Signal Disappearing Messages]]                                                                         | January 04, 2026  |
 
 { .block-language-dataview}
 
-### Last 5 Drafts
-| Title | Tags |
-| ----- | ---- |
+## Drafts in Progress
+
+| Title                                                                                                                                                     | Date              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[03 CREATE/📝 Blog/Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP\|Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP]] | March 06, 2026    |
+| [[03 CREATE/📝 Blog/Local First AI in Obsidian with Ollama\|Local First AI in Obsidian with Ollama]]                                                   | March 03, 2026    |
+| [[03 CREATE/📝 Blog/📝 Blog\|📝 Blog]]                                                                                                                 | February 19, 2026 |
+| [[03 CREATE/📝 Blog/What I Learned Building (and Writing) With AI\|What I Learned Building (and Writing) With AI]]                                     | October 15, 2025  |
+| [[03 CREATE/📝 Blog/Using AI as a Research Partner\|Using AI as a Research Partner]]                                                                   | October 12, 2025  |
+| [[03 CREATE/📝 Blog/When the AI Forgets\|When the AI Forgets]]                                                                                         | October 10, 2025  |
+| [[03 CREATE/📝 Blog/Homelab Journey, Part 10 Reflection & Next Steps\|Homelab Journey, Part 10 Reflection & Next Steps]]                               | October 09, 2025  |
+| [[03 CREATE/📝 Blog/Homelab Journey, Part 2 Hardware Research & Acquisition\|Homelab Journey, Part 2 Hardware Research & Acquisition]]                 | October 09, 2025  |
+| [[03 CREATE/📝 Blog/Homelab Journey, Part 3 Base System & Hypervisor Setup\|Homelab Journey, Part 3 Base System & Hypervisor Setup]]                   | October 09, 2025  |
+| [[03 CREATE/📝 Blog/Homelab Journey, Part 4 Network Configuration\|Homelab Journey, Part 4 Network Configuration]]                                     | October 09, 2025  |
 
 { .block-language-dataview}
----
-
-## Using this Index
-
-Use the search bar at the top right of this page or the sitemap on the left to find specific themes or explore related issues. This index will grow with each new newsletter, so check back regularly!
 
 ---
 
-Thank you for exploring the index of my main blog. Stay tuned for new issues and updates! Connect with me at hello@wiobyrne.com or explore all past issues in this index.
+## Connected Concepts
+
+- [[04 META/👤 About Me/About Me\|About Me]]
+- [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]]
+- [[02 DEVELOP/🌿 Plants/Digital Garden Strategy - Site Consolidation\|Digital Garden Strategy - Site Consolidation]]
+- [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]

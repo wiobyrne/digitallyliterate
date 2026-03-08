@@ -41,3 +41,5 @@ Data minimization is an important concept in data privacy and security. By only 
 - [[Data Privacy\|Data Privacy]]
 - [[GDPR (General Data Protection Regulation)\|GDPR (General Data Protection Regulation)]]
 - [[Information Security\|Information Security]]
+
+## Connections

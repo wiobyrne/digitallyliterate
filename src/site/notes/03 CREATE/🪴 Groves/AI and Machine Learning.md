@@ -72,7 +72,7 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 - [[Teaching AI Literacy\|Teaching AI Literacy]] 🔹
 - [[AI in K–12 Education\|AI in K–12 Education]] 🔸
 - [[Ethical AI Curriculum\|Ethical AI Curriculum]] 🔸
-- [[Computational Thinking\|Computational Thinking]] 🔹
+- [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]] 🔹
 - [[AI as Cognitive Amplifier\|AI as Cognitive Amplifier]] 🔸
 - [[AI for Inquiry-Based Learning\|AI for Inquiry-Based Learning]] 🔸
 - [[Media Literacy and AI\|Media Literacy and AI]] 🔹
@@ -109,3 +109,5 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 - [[Platform Studies MOC\|Platform Studies MOC]]  
 - [[Privacy and Security MOC\|Privacy and Security MOC]]  
 - [[Digital Literacy MOC\|Digital Literacy MOC]]  
+
+## Connections

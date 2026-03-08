@@ -34,7 +34,7 @@ This section is for those who need to quickly find professional details for an i
 
 - **Position:** Associate Professor of Literacy Education, College of Charleston
 - **Education:** Ph.D. in Educational Psychology, University of Connecticut
-- **Research Focus:** [[Digital Literacies\|Digital Literacies]], [[Computational Thinking\|Computational Thinking]], [[Educational Equity\|Educational Equity]]
+- **Research Focus:** [[Digital Literacies\|Digital Literacies]], [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]], [[Educational Equity\|Educational Equity]]
 - **Recognition:** Divergent Award for Excellence in 21st Century Literacies Research (2021); Excellence in Collegiate Education and Leadership Award (2020); Mozilla Network50 (2017)
 - **Service:** Director, Initiative for Literacy in a Digital Age
 ### Speaking & Engagement

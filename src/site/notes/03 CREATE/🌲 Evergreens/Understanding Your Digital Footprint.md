@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"understanding-your-digital-footprint","permalink":"/understanding-your-digital-footprint/","title":"Understanding Your Digital Footprint","tags":["digital-resilience","digital-footprint"]}
 ---
 
-# Understanding Your Digital Footprint 
+# Understanding Your Digital Footprint
 ## Mapping Your Online Presence
 
 ## Initial draft and research
@@ -191,3 +191,4 @@ As we continue to integrate technology into every aspect of our lives, understan
 
 ---
 
+## Connections

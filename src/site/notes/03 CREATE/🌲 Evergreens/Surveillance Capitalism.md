@@ -436,3 +436,5 @@ Unlike traditional capitalism that focused on manufacturing and selling products
 ---
 
 **Note Development Status**: This Plant note provides comprehensive foundational understanding of surveillance capitalism as an economic system that commodifies human experience through data extraction and behavioral modification. It examines the mechanisms, impacts, and resistance strategies while connecting to broader questions of technology, democracy, and human agency in digital societies.
+
+## Connections

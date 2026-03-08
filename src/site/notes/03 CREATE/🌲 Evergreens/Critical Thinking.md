@@ -496,3 +496,4 @@ Critical thinking serves as a primary defense against information manipulation b
 - [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Strategic thinking about information manipulation
 - [[02 DEVELOP/🌿 Plants/AI and Education Research Ideas\|AI and Education Research Ideas]] - Critical thinking in AI-enhanced learning environments
 
+## Connections

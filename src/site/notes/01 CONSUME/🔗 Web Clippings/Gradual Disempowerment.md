@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-consume/web-clippings/gradual-disempowerment/","title":"Gradual Disempowerment"}
+{"dg-publish":true,"permalink":"/01-consume/web-clippings/gradual-disempowerment/","title":"Gradual Disempowerment","tags":["ai","research","cognition"]}
 ---
 
 # Gradual Disempowerment

@@ -66,3 +66,5 @@ By implementing the layered strategies outlined across infrastructure, behavior,
 18. [https://www.privacyworld.blog](https://www.privacyworld.blog/)
 19. [https://www.brafton.com/blog/creation/blog-post-ideas/](https://www.brafton.com/blog/creation/blog-post-ideas/)
 20. [https://writefreely.org](https://writefreely.org/)
+
+## Connections

@@ -42,3 +42,5 @@ For beginners, security can be understood as:
 - [[Cybersecurity\|Cybersecurity]]
 - [[03 CREATE/🌲 Evergreens/Encryption\|Encryption]]
 - [[Firewall\|Firewall]]
+
+## Connections

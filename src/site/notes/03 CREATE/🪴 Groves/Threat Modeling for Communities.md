@@ -136,3 +136,5 @@ Threat modeling for communities is the digital equivalent: thinking ahead so tha
 ---
 
 *You don't need to be a security expert to protect your community. You just need to be willing to ask honest questions and follow through on the answers.*
+
+## Connections

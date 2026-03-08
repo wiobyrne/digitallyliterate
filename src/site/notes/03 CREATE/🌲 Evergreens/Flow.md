@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"flow","permalink":"/flow/","title":"Flow: The Psychology and Practice of Optimal Experience","tags":["flow-psychology","peak-performance","optimal-experience","attention-management","deliberate-practice","productivity-systems","mindfulness-practice","cognitive-psychology"]}
+{"dg-publish":true,"dg-permalink":"flow","permalink":"/flow/","title":"Flow","tags":["flow-psychology","peak-performance","optimal-experience","attention-management","deliberate-practice","productivity-systems","mindfulness-practice","cognitive-psychology"]}
 ---
 
 
-# Flow: The Psychology and Practice of Optimal Experience
+# Flow
 
 *I am effortless effort, timeless time*
 
@@ -147,3 +147,5 @@ When you get repetitions of [[Deliberate Practice\|Deliberate Practice]] and gai
 - Jackson, S. A., & Csikszentmihalyi, M. (1999). *Flow in Sports*. Human Kinetics.
 - Kotler, S. (2014). *The Rise of Superman: Decoding the Science of Ultimate Human Performance*. New Harvest.
 - Nakamura, J., & Csikszentmihalyi, M. (2014). The concept of flow. In *Flow and the Foundations of Positive Psychology* (pp. 239-263). Springer.
+
+## Connections

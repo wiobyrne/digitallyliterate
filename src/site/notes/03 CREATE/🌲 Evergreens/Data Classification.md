@@ -21,3 +21,5 @@ The primary benefits of data classification include improved efficiency in manag
 External Links:
 - [Understanding Data Classification](https://www.varonis.com/blog/data-classification/)
 - [Benefits of Data Classification](https://digitalguardian.com/blog/what-data-classification-and-what-are-its-benefits)
+
+## Connections
