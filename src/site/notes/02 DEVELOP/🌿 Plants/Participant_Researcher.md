@@ -97,8 +97,8 @@ The participant researcher model represents a significant evolution in education
 *This methodological exploration draws from reflective analysis of collaborative educational research practices and ongoing innovation in participant-centered inquiry approaches.*
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/Understanding Network Structure\|Understanding Network Structure]]
-- [[02 DEVELOP/🌿 Plants/Network Visualization Algorithms\|Network Visualization Algorithms]]
-- [[02 DEVELOP/🌿 Plants/Youth as Forerunners\|Youth as Forerunners]]
-- [[Qualitative Research Methods\|Qualitative Research Methods]]
+- [[03 CREATE/🌲 Evergreens/Research Ethics and Human Subjects\|Research Ethics and Human Subjects]]
+- [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blind Spots\|Critical Pedagogy Blind Spots]]
+- [[02 DEVELOP/🌱 Seeds/Digitally literate scholar\|Digitally literate scholar]]
+- [[02 DEVELOP/🌿 Plants/Digitally Literate Research Project Survey Components\|Digitally Literate Research Project Survey Components]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

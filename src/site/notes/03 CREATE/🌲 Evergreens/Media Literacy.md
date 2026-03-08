@@ -338,7 +338,8 @@ Media literacy education draws from critical pedagogy traditions, emphasizing:
 ### Related Concepts
 - [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Ethical participation in digital society
 - [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] - Technical and critical skills for digital participation  
-- [[03 CREATE/📝 Blog/IT&DML Syllabus for Foundations in Media Literacy\|IT&DML Syllabus for Foundations in Media Literacy]] - Academic curriculum framework
+- [[03 CREATE/🔨 Projects/Archive/IT&DML Program/IT&DML Syllabus for Foundations in Media Literacy\|IT&DML Syllabus for Foundations in Media Literacy]] - Academic curriculum framework
 - [[Digital Resilience MOC\|Digital Resilience MOC]] - Building capacity to navigate digital challenges
 - [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]] - Analytical skills underlying media literacy
 
+## Connections

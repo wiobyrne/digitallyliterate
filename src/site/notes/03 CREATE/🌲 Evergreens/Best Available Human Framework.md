@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"the-best-available-human-a-pragmatic-framework-for-ai-decision-making","permalink":"/the-best-available-human-a-pragmatic-framework-for-ai-decision-making/","title":"Best Available Human Framework","tags":["ai","decision-making","best-available-human"]}
 ---
 
-# The Best Available Human A Pragmatic Framework for AI Decision-Making
+# Best Available Human Framework
 ## A Pragmatic Framework for AI Decision-Making
 
 The "Best Available Human" (BAH) standard represents a pragmatic framework for determining when artificial intelligence should be employed over human expertise, proposed by Ethan Mollick of the University of Pennsylvania's Wharton School. This concept fundamentally shifts the evaluation criteria from comparing AI to perfect or ideal human performance to assessing AI against the actual human resources available in a given situation. Rather than asking whether AI can outperform the world's leading experts, the BAH standard poses a more practical question: "Is the AI better or worse than the best human you have access to at that moment?"[1](https://www.forbes.com/sites/joemckendrick/2024/07/12/how-generative-ai-rattles-the-workplace/)[4](https://www.oneusefulthing.org/p/the-best-available-human-standard) This approach acknowledges the reality that most people and organizations do not have access to top-tier experts for every task, making AI a potentially valuable alternative when human expertise is limited, unavailable, or insufficient.
@@ -81,3 +81,5 @@ Moving forward, successful application of the Best Available Human standard will
 8. [https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to](https://www.oneusefulthing.org/p/15-times-to-use-ai-and-5-not-to)
 9. [https://twitter.com/emollick/status/1738033016826425462](https://twitter.com/emollick/status/1738033016826425462)
 10. [https://mitsloan.mit.edu/ideas-made-to-matter/how-to-tap-ais-potential-while-avoiding-its-pitfalls-workplace](https://mitsloan.mit.edu/ideas-made-to-matter/how-to-tap-ais-potential-while-avoiding-its-pitfalls-workplace)
+
+## Connections

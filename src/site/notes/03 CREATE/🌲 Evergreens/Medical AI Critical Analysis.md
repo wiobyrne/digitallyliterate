@@ -3,7 +3,7 @@
 ---
 
 
-# Medical AI Critical Analysis - Technology Promise vs Social Reality
+# Medical AI Critical Analysis
 
 ## Executive Summary
 
@@ -186,3 +186,5 @@ Moving forward requires abandoning technological solutionist approaches in favor
 The critique of medical AI ultimately calls for a broader transformation of healthcare systems and social structures that prioritizes human dignity, community empowerment, and health equity over technological innovation and commercial profit. Only through such transformation can the promise of technology be aligned with the goal of health justice for all communities.
 
 This analysis demonstrates that the problem with medical AI is not insufficient technical development but insufficient attention to the social conditions and structural inequalities that fundamentally determine health outcomes. Addressing these challenges requires moving beyond technological solutions toward comprehensive social transformation that centers community needs and health equity in all aspects of healthcare system design and implementation.
+
+## Connections

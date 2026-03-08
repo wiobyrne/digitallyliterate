@@ -18,7 +18,8 @@ The term Just So stories refers to the fictional tales by Rudyard Kipling that e
 Just So stories are speculative and untestable accounts of how natural selection shaped certain traits or behaviors in organisms. They often ignore the complexity and contingency of evolutionary processes and the role of non-adaptive factors, such as drift, mutation, or developmental constraints. By presenting traits or behaviors as optimal and inevitable adaptations, they can also reinforce biological determinism, the belief that human biology determines human destiny and social order.
 
 ## Connections
-
-- [[Evolutionary Theory\|Evolutionary Theory]]
-- [[Scientific Method\|Scientific Method]]
-- [[Biological Determinism\|Biological Determinism]]
+- [[03 CREATE/🪴 Groves/Critical Evaluation and Digital Literacy\|Critical Evaluation and Digital Literacy]]
+- [[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]]
+- [[03 CREATE/📝 Blog/First Principles Thinking\|First Principles Thinking]]
+- [[02 DEVELOP/🌿 Plants/Worldview Beneath the Code\|Worldview Beneath the Code]]
+- [[03 CREATE/🌲 Evergreens/Popping the Why Stack\|Popping the Why Stack]]

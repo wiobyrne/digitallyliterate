@@ -263,9 +263,8 @@ The fight for educational justice in Charleston County serves as a reminder that
 *This analysis emphasizes the importance of critical engagement with education policy while maintaining commitment to educational justice and democratic governance*
 
 ## Connections
-
-- [[Critical Pedagogy\|Critical Pedagogy]]
-- [[Educational Equity\|Educational Equity]]
-- [[Neoliberalism in Education\|Neoliberalism in Education]]
-- [[Dark Money Politics\|Dark Money Politics]]
-- [[Teacher Education\|Teacher Education]]
+- [[02 DEVELOP/🌿 Plants/Schoolification\|Schoolification]]
+- [[03 CREATE/🌲 Evergreens/Historical Parallels in Social Change\|Historical Parallels in Social Change]]
+- [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blind Spots\|Critical Pedagogy Blind Spots]]
+- [[02 DEVELOP/🌿 Plants/What is Social Justice\|What is Social Justice]]
+- [[03 CREATE/🌲 Evergreens/College and Career Readiness Framework\|College and Career Readiness Framework]]

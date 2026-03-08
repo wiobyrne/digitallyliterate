@@ -219,3 +219,5 @@ Munger particularly emphasizes algebraic inversion—solving problems by approac
 - Build communities of practice around mental model development
 
 Munger's mental models framework provides a comprehensive approach to decision-making that leverages insights from multiple disciplines to improve accuracy, reduce errors, and develop more sophisticated understanding of complex situations. The key to effective application lies in developing fluency with individual models while maintaining ability to integrate insights across disciplines.
+
+## Connections

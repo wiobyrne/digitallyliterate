@@ -92,6 +92,8 @@ nathan_long on Sept 4, 2018 [–]
 Proving that all the other economists are modeling things wrong is more impressive than you make it sound. 
 
 ## Connections
-
-- [[Content Strategy\|Content Strategy]]
-- [[Writing Process\|Writing Process]]
+- [[03 CREATE/🌲 Evergreens/Digital Garden Blogging Series\|Digital Garden Blogging Series]]
+- [[02 DEVELOP/🌿 Plants/Newsletter Evolution and Platform Dynamics\|Newsletter Evolution and Platform Dynamics]]
+- [[02 DEVELOP/🌿 Plants/Newsletter to Digital Garden with AI\|Newsletter to Digital Garden with AI]]
+- [[03 CREATE/🌲 Evergreens/Adopting New Digital Tools\|Adopting New Digital Tools]]
+- [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]

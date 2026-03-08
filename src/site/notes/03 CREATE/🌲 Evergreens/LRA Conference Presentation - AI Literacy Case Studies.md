@@ -129,3 +129,5 @@ A: As qualitative case studies, we don't claim generalizability. We offer transf
 - [[03 CREATE/🌲 Evergreens/Orchestrated Collaboration vs Algorithmic Passivity\|Orchestrated Collaboration vs Algorithmic Passivity]]
 - [[SPOC Model\|SPOC Model]]
 - [[Pre-Service Teacher AI Literacy\|Pre-Service Teacher AI Literacy]]
+
+## Connections

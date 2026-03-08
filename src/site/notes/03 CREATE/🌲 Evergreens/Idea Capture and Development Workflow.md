@@ -225,3 +225,5 @@ just accepting outputs uncritically.
 - [[Digital Garden\|Digital Garden]]
 - [[Zettelkasten Method\|Zettelkasten Method]]
 - [[02 DEVELOP/🌿 Plants/Progressive Summarization\|Progressive Summarization]]
+
+## Connections

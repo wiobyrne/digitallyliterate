@@ -265,3 +265,5 @@ The 24-item instrument was developed through:
 ---
 
 *This assessment instrument represents a comprehensive tool for understanding student attitudes toward generative AI in educational contexts. Regular updates and refinements based on ongoing research and changing technology landscape are recommended.*
+
+## Connections

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"human-in-the-loop","permalink":"/human-in-the-loop/","title":"Human-in-the-Loop: Agency and Responsibility in AI-Mediated Systems","tags":["human-centered-ai","ai-ethics","cognitive-amplification","digital-pedagogy","technology-governance","human-agency","responsible-ai","educational-technology"]}
+{"dg-publish":true,"dg-permalink":"human-in-the-loop","permalink":"/human-in-the-loop/","title":"Human in the Loop","tags":["human-centered-ai","ai-ethics","cognitive-amplification","digital-pedagogy","technology-governance","human-agency","responsible-ai","educational-technology"]}
 ---
 
 
-# Human in the Loop 
+# Human in the Loop
 ## Agency and Responsibility in AI-Mediated Systems
 
 ## **Definition**
@@ -329,3 +329,4 @@ Rather than pursuing AI systems that maximize capability regardless of human com
 - Cathy O'Neil: *Weapons of Math Destruction* - Social impacts of algorithmic decision-making
 - Safiya Noble: *Algorithms of Oppression* - Bias and discrimination in AI systems
 
+## Connections

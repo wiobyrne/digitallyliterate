@@ -765,3 +765,5 @@ dg-publish: true
 *Last tended: 2025-11-04*
 
 **Questions about setup?** Ask in the [Obsidian Discord](https://obsidian.md/community) or reach out to gardeners you admire.
+
+## Connections

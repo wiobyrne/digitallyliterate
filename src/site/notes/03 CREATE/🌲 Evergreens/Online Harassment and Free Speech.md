@@ -3,7 +3,7 @@
 ---
 
 
-# Online Harassment and Free Speech - Intersectional Critique of Liberal Frameworks
+# Online Harassment and Free Speech
 
 ## Executive Summary
 
@@ -228,3 +228,5 @@ Moving forward, the development of adequate responses to online harassment requi
 This critical analysis demonstrates that addressing online harassment effectively requires more than policy tweaks or platform improvements—it requires fundamental rethinking of how we understand freedom, safety, and democracy in digital contexts. The intersectional approach provides essential tools for this rethinking while insisting that solutions must center the voices and experiences of those most affected by digital violence.
 
 The future of digital rights depends not only on protecting individual expression but on creating conditions for collective safety and democratic participation that enable all communities to engage meaningfully in digital spaces. This requires moving beyond the limitations of liberal free speech discourse toward more expansive and inclusive frameworks that can address the complex realities of digital life in the 21st century.
+
+## Connections

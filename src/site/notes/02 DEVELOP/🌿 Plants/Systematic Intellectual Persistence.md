@@ -37,7 +37,8 @@ Systematic intellectual persistence recognizes that profound intellectual develo
 - "[[02 DEVELOP/🌿 Plants/Learning in Public\|Learning in Public]]"
 
 ## Connections
-
-- [[03 CREATE/🌲 Evergreens/Knowledge Building Blocks\|Knowledge Building Blocks]]
-- [[03 CREATE/🌲 Evergreens/Personal Knowledge Management\|Personal Knowledge Management]]
-- [[02 DEVELOP/🌿 Plants/Learning in Public\|Learning in Public]]
+- [[03 CREATE/📝 Blog/First Principles Thinking\|First Principles Thinking]]
+- [[02 DEVELOP/🌿 Plants/Strategic Reading\|Strategic Reading]]
+- [[03 CREATE/🌲 Evergreens/Self-Efficacy and Self-Confidence in Learning\|Self-Efficacy and Self-Confidence in Learning]]
+- [[03 CREATE/🌲 Evergreens/Digital Note-Taking and Intellectual Work\|Digital Note-Taking and Intellectual Work]]
+- [[03 CREATE/🌲 Evergreens/Munger's Mental Models\|Munger's Mental Models]]

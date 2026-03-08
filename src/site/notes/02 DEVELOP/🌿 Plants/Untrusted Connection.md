@@ -160,9 +160,8 @@ In an era of rapid technological change, maintaining this critical stance become
 *This analysis emphasizes the importance of critical reflection in educational technology adoption, drawing from pandemic-era experiences to develop frameworks for more equitable and pedagogically sound technology integration.*
 
 ## Connections
-
-- [[Critical Pedagogy\|Critical Pedagogy]]
-- [[Educational Technology Ethics\|Educational Technology Ethics]]
-- [[Pandemic Educational Response\|Pandemic Educational Response]]
-- [[Digital Literacies\|Digital Literacies]]
-- [[Institutional Change\|Institutional Change]]
+- [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
+- [[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]]
+- [[03 CREATE/🌲 Evergreens/Exploring Reasonable Security\|Exploring Reasonable Security]]
+- [[02 DEVELOP/🌿 Plants/Trustless\|Trustless]]
+- [[02 DEVELOP/🌿 Plants/Signal Usernames Access, Boundaries, and Care\|Signal Usernames Access, Boundaries, and Care]]

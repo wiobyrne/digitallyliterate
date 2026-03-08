@@ -240,3 +240,5 @@ Networked publics are shaped by four key affordances of digital media:
 ---
 
 *Networked publics represent both tremendous opportunities and significant challenges for democratic participation, education, and social connection. Understanding their properties, dynamics, and implications is essential for anyone seeking to navigate or shape our increasingly networked world.*
+
+## Connections

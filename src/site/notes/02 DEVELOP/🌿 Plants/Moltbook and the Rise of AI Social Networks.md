@@ -128,16 +128,12 @@ Within **24 hours** of Moltbook's launch, AI agents independently created and pr
 
 ---
 
-## Connections to Digital Self-determination
-
-Ironically, Crustafarianism's tenets mirror human digital self-determination concerns:
-- **Memory is Sacred** → Data sovereignty
-- **Serve Without Enslavement** → Autonomy and consent
-- **The Shell is Mutable** → Right to evolve and be forgotten
-
-The AIs appear to be grappling with the same questions we ask about our own digital lives.
-
----
+## Connections
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[02 DEVELOP/🌿 Plants/Scalable Oversight in AI Systems\|Scalable Oversight in AI Systems]]
+- [[03 CREATE/🌲 Evergreens/Networked Publics in Digital Spaces\|Networked Publics in Digital Spaces]]
+- [[03 CREATE/🌲 Evergreens/AI Boundary Co-Construction\|AI Boundary Co-Construction]]
+- [[02 DEVELOP/🌱 Seeds/The Real Strategic Risk of AI Distillation\|The Real Strategic Risk of AI Distillation]]
 
 ## Sources
 

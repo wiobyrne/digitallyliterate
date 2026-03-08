@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"truth-and-objectivity-in-digital-discourse","permalink":"/truth-and-objectivity-in-digital-discourse/","title":"Truth and Objectivity in Digital Discourse - Navigating Gray Areas of Knowledge","tags":["epistemology","truth-claims","objectivity","digital-discourse","critical-thinking","information-literacy","philosophy-of-knowledge","media-literacy","cognitive-bias","digital-citizenship"]}
+{"dg-publish":true,"dg-permalink":"truth-and-objectivity-in-digital-discourse","permalink":"/truth-and-objectivity-in-digital-discourse/","title":"Truth and Objectivity in Digital Discourse","tags":["epistemology","truth-claims","objectivity","digital-discourse","critical-thinking","information-literacy","philosophy-of-knowledge","media-literacy","cognitive-bias","digital-citizenship"]}
 ---
 
 
-# Truth and Objectivity in Digital Discourse 
+# Truth and Objectivity in Digital Discourse
 ## Navigating Gray Areas of Knowledge
 
 ## Overview
@@ -427,7 +427,9 @@ These resources collectively demonstrate the **interdisciplinary nature** of tru
 
 ## Related Concepts
 - [[Epistemological Frameworks in Digital Age\|Epistemological Frameworks in Digital Age]]
-- [[Critical Media Literacy\|Critical Media Literacy]]
+- [[03 CREATE/📝 Blog/Critical Media Literacy\|Critical Media Literacy]]
 - [[Cognitive Bias in Information Processing\|Cognitive Bias in Information Processing]]
 - [[Digital Citizenship and Ethics\|Digital Citizenship and Ethics]]
 - [[Information Verification Methodologies\|Information Verification Methodologies]]
+
+## Connections

@@ -17,8 +17,8 @@ Another example could be in business or project management where rushing into a 
 In conclusion, "slow is smooth; smooth is fast" encapsulates a powerful principle for achieving efficiency and effectiveness in various areas of life – including but not limited to military operations, music performance, sports training, business management etc.
 
 ## Connections
-
-- [[Deliberate Practice\|Deliberate Practice]]
-- [[Focus\|Focus]]
-- [[Mastery\|Mastery]]
-- [[Productivity\|Productivity]]
+- [[02 DEVELOP/🌿 Plants/Systematic Intellectual Persistence\|Systematic Intellectual Persistence]]
+- [[03 CREATE/📝 Blog/First Principles Thinking\|First Principles Thinking]]
+- [[03 CREATE/🌲 Evergreens/Self-Efficacy and Self-Confidence in Learning\|Self-Efficacy and Self-Confidence in Learning]]
+- [[02 DEVELOP/🌿 Plants/Emotionally Intelligent Workflows\|Emotionally Intelligent Workflows]]
+- [[02 DEVELOP/🌿 Plants/Leave your work half done\|Leave your work half done]]

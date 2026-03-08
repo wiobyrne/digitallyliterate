@@ -3,7 +3,7 @@
 ---
 
 
-# Networked Publics in Digital Spaces - Ad Hoc, Complementary, and Competing Communities
+# Networked Publics in Digital Spaces
 
 ## Overview
 
@@ -276,3 +276,5 @@ The evolution from ad hoc crisis response to sustained complementary communities
 - [[Platform Studies and Community Formation\|Platform Studies and Community Formation]]
 - [[Crisis Communication Networks\|Crisis Communication Networks]]
 - [[Online Community Governance Models\|Online Community Governance Models]]
+
+## Connections

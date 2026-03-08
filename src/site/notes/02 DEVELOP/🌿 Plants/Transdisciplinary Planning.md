@@ -393,9 +393,8 @@ Going beyond disciplines doesn't mean abandoning disciplinary knowledge, but rat
 - [[Authentic Assessment\|Authentic Assessment]]
 
 ## Connections
-
-- [[Systems Thinking\|Systems Thinking]]
-- [[Problem-Based Learning\|Problem-Based Learning]]
-- [[Curriculum Design\|Curriculum Design]]
-- [[Educational Innovation\|Educational Innovation]]
-- [[Collaborative Learning\|Collaborative Learning]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[03 CREATE/🌲 Evergreens/COIL and Global Pedagogy Framework\|COIL and Global Pedagogy Framework]]
+- [[03 CREATE/🌲 Evergreens/College and Career Readiness Framework\|College and Career Readiness Framework]]
+- [[03 CREATE/🌲 Evergreens/Research Ethics and Human Subjects\|Research Ethics and Human Subjects]]
+- [[03 CREATE/🌲 Evergreens/Cosmopolitan Digital Literacies\|Cosmopolitan Digital Literacies]]

@@ -202,7 +202,8 @@ This critical perspective challenges healthcare practitioners, policymakers, res
 The critical examination of medical AI ultimately reveals the need for broader conversations about healthcare as a social right, the role of technology in advancing or undermining social justice, and the importance of democratic participation in shaping the technologies that increasingly influence our health and well-being. These conversations require moving beyond the "insufficiency of promise" toward more transformative visions of healthcare technology that center equity, justice, and community empowerment.
 
 ## Connections
-
-- [[AI Ethics\|AI Ethics]]
-- [[Healthcare Policy\|Healthcare Policy]]
-- [[Technology Impact\|Technology Impact]]
+- [[03 CREATE/🌲 Evergreens/Medical AI Critical Analysis\|Medical AI Critical Analysis]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[02 DEVELOP/🌿 Plants/Optimization Worldview in Tech Culture\|Optimization Worldview in Tech Culture]]
+- [[02 DEVELOP/🌿 Plants/Community-Centered AI\|Community-Centered AI]]
+- [[03 CREATE/🌲 Evergreens/Research Ethics and Human Subjects\|Research Ethics and Human Subjects]]

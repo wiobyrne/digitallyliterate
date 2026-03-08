@@ -217,3 +217,5 @@ After implementation:
 - [[Digital Garden\|Digital Garden]]
 - [[Zettelkasten Method\|Zettelkasten Method]]
 - [[PARA Method\|PARA Method]]
+
+## Connections

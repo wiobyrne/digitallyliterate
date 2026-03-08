@@ -177,9 +177,8 @@ This framework demonstrates how generative AI can serve as a **force multiplier*
 *This framework represents an innovative approach to content transformation that positions AI as a collaborative partner rather than a replacement for human creativity and judgment. It offers a replicable methodology for content creators seeking to leverage AI for meaningful knowledge work.*
 
 ## Connections
-
-- [[Digital Garden Methodology\|Digital Garden Methodology]]
-- [[AI as Critical Friend\|AI as Critical Friend]]
-- [[Content Strategy\|Content Strategy]]
-- [[Knowledge Management\|Knowledge Management]]
-- [[Generative AI in Writing\|Generative AI in Writing]]
+- [[02 DEVELOP/🌿 Plants/Newsletter Evolution and Platform Dynamics\|Newsletter Evolution and Platform Dynamics]]
+- [[03 CREATE/🌲 Evergreens/Digital Garden Blogging Series\|Digital Garden Blogging Series]]
+- [[03 CREATE/🌲 Evergreens/Active Reading with Hypothesis\|Active Reading with Hypothesis]]
+- [[03 CREATE/🌲 Evergreens/Digital Note-Taking and Intellectual Work\|Digital Note-Taking and Intellectual Work]]
+- [[02 DEVELOP/🌿 Plants/Web Annotations and Connected Knowledge\|Web Annotations and Connected Knowledge]]

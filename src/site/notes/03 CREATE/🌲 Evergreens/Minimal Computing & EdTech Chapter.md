@@ -106,3 +106,5 @@ Innovation priorities should focus on development of educational technology tool
 Minimal computing approaches to educational technology have important policy implications including advocacy for educational technology policies that prioritize community control and equity over efficiency and standardization, development of funding and support mechanisms for alternative educational technology approaches, and resistance to policies that mandate dependence on commercial educational technology platforms.
 
 The integration of minimal computing principles with critical educational technology studies provides a powerful framework for developing more equitable, sustainable, and community-controlled approaches to technology in education that resist the dominance of Big Ed-tech and create space for educational technology that truly serves learning and community empowerment.
+
+## Connections

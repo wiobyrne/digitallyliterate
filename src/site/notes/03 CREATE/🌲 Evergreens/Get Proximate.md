@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"get-proximate","permalink":"/get-proximate/","title":"Get Proximate: The Transformative Power of Proximity in Social Change","tags":["empathy","community-engagement","community-building","social-impact","social-justice","proximity","human-dynamics","systemic-change","relationship-building","activism"]}
+{"dg-publish":true,"dg-permalink":"get-proximate","permalink":"/get-proximate/","title":"Get Proximate","tags":["empathy","community-engagement","community-building","social-impact","social-justice","proximity","human-dynamics","systemic-change","relationship-building","activism"]}
 ---
 
 
@@ -19,3 +19,5 @@ As global challenges require local solutions, and as democratic institutions dep
 ---
 
 *"The ultimate goal of the architect of peace is to construct a world in which all human beings can live, not merely side by side, but in proximity to one another, in genuine community."* - Dr. Martin Luther King Jr.
+
+## Connections

@@ -239,7 +239,9 @@ Every digital note becomes a stepping stone to greater understanding, a tool for
 - [[Digital Tools for Learning\|Digital Tools for Learning]]
 - [[Information Organization\|Information Organization]]
 - [[Creative Process\|Creative Process]]
-- [[Learning Strategies\|Learning Strategies]]
+- [[03 CREATE/📝 Blog/Learning Strategies\|Learning Strategies]]
 - [[Second Brain\|Second Brain]]
 - [[Zettelkasten Method\|Zettelkasten Method]]
 - [[Building a Second Brain\|Building a Second Brain]]
+
+## Connections

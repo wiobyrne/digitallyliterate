@@ -82,3 +82,5 @@ Low-agency interactions terminate at "Acceptable." High-agency practice requires
 - [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
 - [[03 CREATE/🌲 Evergreens/Nexus Analysis for AI Literacy Research\|Nexus Analysis for AI Literacy Research]]
 - [[SPOC Model for AI Interaction Analysis\|SPOC Model for AI Interaction Analysis]]
+
+## Connections

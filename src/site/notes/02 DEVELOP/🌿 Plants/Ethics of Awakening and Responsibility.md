@@ -200,9 +200,8 @@ In a world full of difficult truths and necessary awakenings, this simple yet pr
 - [[Consciousness-Raising Ethics\|Consciousness-Raising Ethics]]
 
 ## Connections
-
-- [[Critical Pedagogy Principles\|Critical Pedagogy Principles]]
-- [[Ethical Responsibility in Education\|Ethical Responsibility in Education]]
-- [[Consciousness Raising Methods\|Consciousness Raising Methods]]
-- [[Support Systems for Learning\|Support Systems for Learning]]
-- [[Mentorship Ethics\|Mentorship Ethics]]
+- [[03 CREATE/🌲 Evergreens/Research Ethics and Human Subjects\|Research Ethics and Human Subjects]]
+- [[02 DEVELOP/🌿 Plants/What is Social Justice\|What is Social Justice]]
+- [[02 DEVELOP/🌿 Plants/Pathways to Radical Empathy\|Pathways to Radical Empathy]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[02 DEVELOP/🌿 Plants/Ideological Clarity\|Ideological Clarity]]

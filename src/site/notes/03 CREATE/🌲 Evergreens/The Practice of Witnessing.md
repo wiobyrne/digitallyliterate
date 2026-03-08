@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"the-practice-of-witnessing","permalink":"/the-practice-of-witnessing/","title":"The Practice of Witnessing","tags":["witnessing","noticing","freire","equanimity","naming"]}
 ---
 
-
+# The Practice of Witnessing
 ## Core Claim
 
 There is a difference between looking and witnessing. **Looking is passive—it scans the surface. Witnessing is active—it acknowledges complexity, texture, and reality without rushing to fix it.**
@@ -155,3 +155,5 @@ Witnessing is the foundation. Without seeing clearly, seeking and serving become
 > "Orientation is care. Repetition is kindness."
 
 > "Naming the burden is a form of liberation."
+
+## Connections

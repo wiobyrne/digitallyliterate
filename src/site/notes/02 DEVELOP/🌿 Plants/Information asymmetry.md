@@ -19,7 +19,8 @@ When CS curriculum developers prioritize the needs of the industry, rather than 
 [[racism\|racism]]
 
 ## Connections
-
-- [[Lead user innovation\|Lead user innovation]]
-- [[equity\|equity]]
-- [[Design Justice\|Design Justice]]
+- [[03 CREATE/🌲 Evergreens/Networked Publics in Digital Spaces\|Networked Publics in Digital Spaces]]
+- [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
+- [[02 DEVELOP/🌿 Plants/Attention Economy vs Values Alignment\|Attention Economy vs Values Alignment]]
+- [[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]]
+- [[02 DEVELOP/🌿 Plants/Hierarchies and Networks\|Hierarchies and Networks]]

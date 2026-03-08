@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"ai-geopolitics-and-the-open-model-question","permalink":"/ai-geopolitics-and-the-open-model-question/","title":"AI Geopolitics and the Open Model Question","tags":["open-source","AI-race","infrastructure","DeepSeek","china"]}
 ---
 
-
+# AI Geopolitics and the Open Model Question
 ## Core Claim
 
 The comparison between DeepSeek and TikTok is flawed. The real issue isn't about user data collection in a social media app—it's about **infrastructure control** and whether open or closed AI models will dominate the future.
@@ -111,3 +111,5 @@ History may prove some current interpretations wrong. The landscape is shifting 
 > "This is infrastructure-level power—less visible than data collection, but potentially more consequential."
 
 > "The landscape is shifting faster than analysis can keep up."
+
+## Connections

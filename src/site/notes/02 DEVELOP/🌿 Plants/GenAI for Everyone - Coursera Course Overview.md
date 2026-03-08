@@ -61,7 +61,8 @@ This course serves as the foundation for a comprehensive learning path exploring
 - Ethical considerations and responsible implementation are crucial for organizational success
 
 ## Connections
-
-- [[AI Applications\|AI Applications]]
-- [[Machine Learning Fundamentals\|Machine Learning Fundamentals]]
-- [[Generative AI Ethics\|Generative AI Ethics]]
+- [[02 DEVELOP/🌿 Plants/Generative AI for Everyone\|Generative AI for Everyone]]
+- [[03 CREATE/🪴 Groves/AI Literacy\|AI Literacy]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[03 CREATE/🌲 Evergreens/The 2025 AI Index Report - Stanford HAI\|The 2025 AI Index Report - Stanford HAI]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

@@ -43,6 +43,8 @@ This means that you get **better results** by having a **series of back-and-fort
 - [[Fine-tuning (Machine Learning)\|Fine-tuning (Machine Learning)]]
 
 ## Connections
-
-- [[Related Link 1\|Related Link 1]]
-- [[Related Link 2\|Related Link 2]]
+- [[02 DEVELOP/🌿 Plants/Prompt Evolution and AI Interaction Patterns\|Prompt Evolution and AI Interaction Patterns]]
+- [[02 DEVELOP/🌿 Plants/Prompt Sequencing and Dialogue-Based AI\|Prompt Sequencing and Dialogue-Based AI]]
+- [[02 DEVELOP/🌿 Plants/Knowledge-Gradient Policy for Prompt Learning\|Knowledge-Gradient Policy for Prompt Learning]]
+- [[02 DEVELOP/🌿 Plants/Chain of Thought Prompting\|Chain of Thought Prompting]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]

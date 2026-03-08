@@ -37,7 +37,9 @@ Community-centered AI represents an alternative to both unrestricted corporate A
 - "[[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]"
 
 ## Connections
-
-- [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]
-- [[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]]
-- [[02 DEVELOP/🌿 Plants/Digital Divide\|Digital Divide]]
+- [[03 CREATE/🌲 Evergreens/AI Policy Beyond Blanket Bans\|AI Policy Beyond Blanket Bans]]
+- [[02 DEVELOP/🌿 Plants/Staying Human in the Loop\|Staying Human in the Loop]]
+- [[03 CREATE/🌲 Evergreens/Best Available Human Framework\|Best Available Human Framework]]
+- [[03 CREATE/🌲 Evergreens/AI Boundary Co-Construction\|AI Boundary Co-Construction]]
+- [[02 DEVELOP/🌿 Plants/What is Social Justice\|What is Social Justice]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

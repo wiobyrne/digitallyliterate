@@ -3,7 +3,7 @@
 ---
 
 
-# Network Analysis Fundamentals - Nodes, Edges, and Digital Relationship Mapping
+# Network Analysis Fundamentals
 
 ## Overview
 
@@ -386,3 +386,5 @@ Understanding these fundamentals empowers us to become more **thoughtful partici
 - [[Digital Community Building\|Digital Community Building]]
 - [[Information Flow Analysis\|Information Flow Analysis]]
 - [[Network Visualization Techniques\|Network Visualization Techniques]]
+
+## Connections

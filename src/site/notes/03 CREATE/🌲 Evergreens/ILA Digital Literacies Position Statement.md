@@ -3,7 +3,7 @@
 ---
 
 
-# Digital Literacies Position Statement Development - ILA Collaborative Framework
+# ILA Digital Literacies Position Statement
 
 ## Overview
 
@@ -382,3 +382,5 @@ The ongoing relevance of these questions underscores the **enduring value of col
 - [[Professional Learning Communities\|Professional Learning Communities]]
 - [[International Literacy Standards\|International Literacy Standards]]
 - [[Educational Technology Integration\|Educational Technology Integration]]
+
+## Connections

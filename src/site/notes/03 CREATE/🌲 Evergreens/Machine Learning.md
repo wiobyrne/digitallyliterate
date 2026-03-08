@@ -42,3 +42,5 @@ Examples of machine learning include email filtering, detection of network intru
 - [[02 DEVELOP/🌿 Plants/Unsupervised Learning\|Unsupervised Learning]]
 
 [[AI Index\|AI Index]]
+
+## Connections

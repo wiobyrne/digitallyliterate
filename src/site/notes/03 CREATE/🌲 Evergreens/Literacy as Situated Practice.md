@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"literacy-as-situated-practice","permalink":"/literacy-as-situated-practice/","title":"Literacy as Situated Practice","tags":["new-literacy-studies","situated-practice","anti-racism","digital-literacies","intersectionality"]}
 ---
 
-
+# Literacy as Situated Practice
 ## Core Claim
 
 Literacy is not a neutral, universal skill but a **social practice** embedded in specific cultural, historical, and institutional contexts. What counts as "being literate" depends on the **where**—whether in classrooms, workplaces, online spaces, or community activism.
@@ -150,3 +150,5 @@ This perspective pushes educators and activists to move beyond skill-building to
 > "Understanding literacy and anti-racism as situated practices means recognizing that place matters—not just physical places, but digital, institutional, and ideological spaces."
 
 > "Identity and literacy practices are not one-size-fits-all."
+
+## Connections

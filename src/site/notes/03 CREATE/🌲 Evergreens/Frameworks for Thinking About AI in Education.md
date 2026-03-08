@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"frameworks-for-thinking-about-ai-in-education","permalink":"/frameworks-for-thinking-about-ai-in-education/","title":"Frameworks for Thinking About AI in Education","tags":["bentoism","complexity","contingency","structural-crisis","AI-ethics"]}
 ---
 
-
+# Frameworks for Thinking About AI in Education
 ## Core Claim
 
 The future of AI in education will not be singular but **plural**—consisting of many different use cases across millions of schools, each situated in local contexts with varying degrees of autonomy. Any framework that promises a universal settlement (either utopian adoption or catastrophic collapse) misunderstands the complexity of the terrain.
@@ -172,3 +172,5 @@ When encountering claims about AI in education, ask:
 > "Quick wins that entrench systems may mitigate against human flourishing over the longer term."
 
 > "What about Future Us?"
+
+## Connections

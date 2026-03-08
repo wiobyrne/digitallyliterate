@@ -468,8 +468,8 @@ Despite digital freedom, **new consolidation problems:**
 *Last tended: 2025-11-04*
 
 ## Connections
-
-- [[03 CREATE/🌲 Evergreens/History of Digital Gardens\|History of Digital Gardens]]
-- [[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]
-- [[Platform Consolidation Problems\|Platform Consolidation Problems]]
-- [[02 DEVELOP/🌿 Plants/Federating Your Second Brain\|Federating Your Second Brain]]
+- [[02 DEVELOP/🌿 Plants/Newsletter to Digital Garden with AI\|Newsletter to Digital Garden with AI]]
+- [[03 CREATE/🌲 Evergreens/Digital Garden Blogging Series\|Digital Garden Blogging Series]]
+- [[03 CREATE/🌲 Evergreens/Networked Publics in Digital Spaces\|Networked Publics in Digital Spaces]]
+- [[02 DEVELOP/🌿 Plants/Reclaiming Our Tools\|Reclaiming Our Tools]]
+- [[02 DEVELOP/🌿 Plants/Slop Capitalism\|Slop Capitalism]]

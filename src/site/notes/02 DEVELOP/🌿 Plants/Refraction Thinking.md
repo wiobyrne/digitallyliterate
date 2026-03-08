@@ -235,9 +235,8 @@ Like light passing through a prism, our understanding becomes richer and more nu
 - [[Creative Problem Solving\|Creative Problem Solving]]
 
 ## Connections
-
-- [[Mental Models\|Mental Models]]
-- [[03 CREATE/🌲 Evergreens/Critical Thinking\|Critical Thinking]]
-- [[Perspective Taking\|Perspective Taking]]
-- [[Reflective Practice\|Reflective Practice]]
-- [[Decision Making\|Decision Making]]
+- [[03 CREATE/📝 Blog/First Principles Thinking\|First Principles Thinking]]
+- [[03 CREATE/🌲 Evergreens/Munger's Mental Models\|Munger's Mental Models]]
+- [[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]]
+- [[03 CREATE/🌲 Evergreens/Popping the Why Stack\|Popping the Why Stack]]
+- [[03 CREATE/🪴 Groves/Critical Evaluation and Digital Literacy\|Critical Evaluation and Digital Literacy]]

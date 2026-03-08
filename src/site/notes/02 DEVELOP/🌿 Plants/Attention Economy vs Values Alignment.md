@@ -37,7 +37,9 @@ Most digital platforms operate on business models that profit from capturing and
 - "[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]"
 
 ## Connections
-
-- [[03 CREATE/🌲 Evergreens/Attention\|Attention]]
-- [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]]
-- [[02 DEVELOP/🌿 Plants/Digital Divide\|Digital Divide]]
+- [[03 CREATE/🌲 Evergreens/Networked Publics in Digital Spaces\|Networked Publics in Digital Spaces]]
+- [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
+- [[02 DEVELOP/🌿 Plants/Reclaiming Our Tools\|Reclaiming Our Tools]]
+- [[02 DEVELOP/🌿 Plants/Slop Capitalism\|Slop Capitalism]]
+- [[02 DEVELOP/🌿 Plants/Worldview Beneath the Code\|Worldview Beneath the Code]]
+- [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]

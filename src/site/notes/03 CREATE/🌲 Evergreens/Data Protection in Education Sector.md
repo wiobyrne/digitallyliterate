@@ -30,3 +30,5 @@ External Links:
 - Family Educational Rights and Privacy Act (FERPA): https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html
 - General Data Protection Regulation (GDPR): https://gdpr-info.eu/ 
 - Security Measures in EdTech: https://er.educause.edu/articles/2017/3/the-top-10-it-issues-and-strategic-technologies-for-2017-student-success-and-data-security
+
+## Connections

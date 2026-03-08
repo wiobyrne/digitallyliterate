@@ -170,19 +170,12 @@ The lack of algorithmic awareness among students suggests urgent need for resear
 
 **Student Rights**: Explore student rights and agency in increasingly surveilled educational environments.
 
-## Connections to Broader Educational Theory
-
-### Critical Pedagogy
-
-The student's desire to learn despite systemic constraints connects to Paulo Freire's emphasis on supporting student curiosity and critical thinking, even within oppressive systems.
-
-### Student Voice and Agency
-
-The interview highlights importance of including student perspectives in educational decision-making, connecting to broader movements for student voice and participatory educational governance.
-
-### Digital Equity
-
-The technology access and literacy gaps revealed connect to broader questions of digital equity and the need for comprehensive approaches to digital inclusion.
+## Connections
+- [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
+- [[03 CREATE/🌲 Evergreens/Networked Publics in Digital Spaces\|Networked Publics in Digital Spaces]]
+- [[03 CREATE/🌲 Evergreens/AI Policy Beyond Blanket Bans\|AI Policy Beyond Blanket Bans]]
+- [[03 CREATE/🌲 Evergreens/Adopting New Digital Tools\|Adopting New Digital Tools]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
 
 ## Conclusion
 

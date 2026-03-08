@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"platform-capture-and-knowledge-liberation","permalink":"/platform-capture-and-knowledge-liberation/","title":"Platform Capture and Knowledge Liberation","tags":["digital-garden","platform-capture","plain-text","knowledge-management","AI-voice","newsletter"]}
 ---
 
-
+# Platform Capture and Knowledge Liberation
 ## Core Claim
 
 When your knowledge lives in platforms you don't control, you don't own it—you're renting access to your own thinking. The solution isn't finding a better platform. It's building infrastructure where ideas can **accumulate, connect, and compound** rather than disappearing into chronological feeds.
@@ -158,3 +158,5 @@ The digital garden isn't finished. Gardens never are. But it's now possible to s
 > "The goal was connection, not annotation."
 
 > "When platforms die—and they will—plain text survives."
+
+## Connections

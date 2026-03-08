@@ -117,3 +117,5 @@ The AI Index represents Stanford HAI's seventh annual comprehensive analysis, tr
 - Annual updates tracking AI's continuous evolution
 - Methodology transparency for research validation
 - Cross-sector collaboration for comprehensive data collection
+
+## Connections

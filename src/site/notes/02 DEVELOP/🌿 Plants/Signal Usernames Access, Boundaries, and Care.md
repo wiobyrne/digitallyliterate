@@ -106,10 +106,8 @@ Like disappearing messages or small group chats, their value comes from **how th
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
 
 ## Connections
-
-- [[Signal: Private Messaging by Design\|Signal: Private Messaging by Design]]
-- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
-- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]
+- [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
+- [[02 DEVELOP/🌿 Plants/Privacy Tools Index Template\|Privacy Tools Index Template]]
+- [[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]]
+- [[02 DEVELOP/🌿 Plants/Personal Risk Assessments in Privacy-First Digital Literacy\|Personal Risk Assessments in Privacy-First Digital Literacy]]
 - [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]
-- [[02 DEVELOP/🌿 Plants/Signal Group Hygiene & Communication Norms\|Signal Group Hygiene & Communication Norms]]
-- [[02 DEVELOP/🌿 Plants/Disappearing Messages as a Care Practice\|Disappearing Messages as a Care Practice]]

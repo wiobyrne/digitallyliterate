@@ -249,9 +249,8 @@ Put down some of the rocks. Your future self will thank you.
 - [[Crisis Management\|Crisis Management]]
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/No Quick Fixes to Personal Growth\|No Quick Fixes to Personal Growth]]
-- [[Emotional Intelligence MOC\|Emotional Intelligence MOC]]
-- [[Stress Management\|Stress Management]]
-- [[Boundaries\|Boundaries]]
-- [[Self-Compassion\|Self-Compassion]]
+- [[02 DEVELOP/🌿 Plants/Emotionally Intelligent Workflows\|Emotionally Intelligent Workflows]]
+- [[02 DEVELOP/🌿 Plants/Pathways to Radical Empathy\|Pathways to Radical Empathy]]
+- [[02 DEVELOP/🌱 Seeds/Psychological Safety as Foundation\|Psychological Safety as Foundation]]
+- [[03 CREATE/🌲 Evergreens/Self-Efficacy and Self-Confidence in Learning\|Self-Efficacy and Self-Confidence in Learning]]
+- [[02 DEVELOP/🌿 Plants/Leave your work half done\|Leave your work half done]]

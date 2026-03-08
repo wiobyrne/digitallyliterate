@@ -282,10 +282,8 @@ Compare NotebookLM outputs → Final project text → Student reflections
 ---
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
-- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
-- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
-- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
-- [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
-- [[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]
+- [[03 CREATE/🌲 Evergreens/AI Boundary Co-Construction\|AI Boundary Co-Construction]]
+- [[03 CREATE/🌲 Evergreens/AI Policy Beyond Blanket Bans\|AI Policy Beyond Blanket Bans]]
+- [[02 DEVELOP/🌿 Plants/Staying Human in the Loop\|Staying Human in the Loop]]
+- [[02 DEVELOP/🌿 Plants/Scalable Oversight in AI Systems\|Scalable Oversight in AI Systems]]
+- [[03 CREATE/🌲 Evergreens/Best Available Human Framework\|Best Available Human Framework]]

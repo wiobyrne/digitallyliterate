@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"collective-hope-and-liberatory-traditions","permalink":"/collective-hope-and-liberatory-traditions/","title":"Collective Hope and Liberatory Traditions","tags":["freire","radical-hope","movement-building","liberatory-education","collective-action"]}
 ---
 
-
+# Collective Hope and Liberatory Traditions
 ## Core Claim
 
 Individual positive thinking cannot sustain movement work. The traditions that matter understand hope as fundamentally **collective, political, and action-oriented**. Hope is not optimism—it's a practice that requires struggle, community, and transformation of both self and world.
@@ -146,3 +146,5 @@ The theoretical traditions provide the **intellectual and moral grounding** to s
 > "Individual positive thinking cannot sustain movement work. The traditions that matter understand hope as fundamentally collective, political, and action-oriented."
 
 > "This grounding transforms a learning series into a movement-building experience."
+
+## Connections

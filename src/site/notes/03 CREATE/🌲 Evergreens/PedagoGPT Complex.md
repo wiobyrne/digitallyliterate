@@ -112,3 +112,5 @@ The PedagoGPT Complex consolidates technological power by:
 ---
 
 *This entry is part of ongoing research into the intersection of corporate power, education, and artificial intelligence. It represents a critical perspective on contemporary AI education initiatives and their implications for democratic society.*
+
+## Connections

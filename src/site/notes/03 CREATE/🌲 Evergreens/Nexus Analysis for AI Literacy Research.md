@@ -126,3 +126,5 @@ A multi-dimensional analytical framework operationalizing Nexus Analysis for AI 
 - [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
 - [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
 - [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
+
+## Connections

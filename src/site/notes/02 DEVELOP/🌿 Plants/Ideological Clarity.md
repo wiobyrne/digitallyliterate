@@ -9,8 +9,11 @@
 Ideological clarity refers to the process of understanding and articulating one's beliefs, values, and practices related to education and the educational system. It involves identifying and comparing individual explanations for the existing socioeconomic and political hierarchy with the dominant society's ideology. This concept is crucial in education, as it enables educators to develop a nuanced awareness of their own language ideologies, identities, experiences, and teaching contexts, ultimately addressing linguistic inequities.
 
 ## Connections
-- **Linked Ideas:** Critical pedagogy, teacher identity formation, linguistic justice
-- **Notes:** Essential for developing culturally responsive and socially just educational practices
+- [[02 DEVELOP/🌿 Plants/Critical Pedagogy Blind Spots\|Critical Pedagogy Blind Spots]]
+- [[02 DEVELOP/🌿 Plants/What is Social Justice\|What is Social Justice]]
+- [[02 DEVELOP/🌿 Plants/Worldview Beneath the Code\|Worldview Beneath the Code]]
+- [[02 DEVELOP/🌿 Plants/Deep Canvassing\|Deep Canvassing]]
+- [[02 DEVELOP/🌿 Plants/Pathways to Radical Empathy\|Pathways to Radical Empathy]]
 
 ## Development
 

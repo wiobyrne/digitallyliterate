@@ -95,7 +95,8 @@ The success demonstrates potential for:
 China's DeepSeek strategy represents a sophisticated approach to AI competition that challenges conventional wisdom about resource requirements, development methodologies, and market positioning. By emphasizing efficiency, collaboration, and strategic innovation, DeepSeek demonstrates alternative pathways to AI leadership that could reshape global technology competition dynamics.
 
 ## Connections
-
-- [[AI Global Competition\|AI Global Competition]]
-- [[Open Source AI Models\|Open Source AI Models]]
-- [[Cost-Effective AI Development\|Cost-Effective AI Development]]
+- [[02 DEVELOP/🌿 Plants/DeepSeek Global Impact\|DeepSeek Global Impact]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[03 CREATE/🌲 Evergreens/The 2025 AI Index Report - Stanford HAI\|The 2025 AI Index Report - Stanford HAI]]
+- [[02 DEVELOP/🌿 Plants/Why China's Free AI Strategy is Transformative\|Why China's Free AI Strategy is Transformative]]
+- [[02 DEVELOP/🌿 Plants/Slop Capitalism\|Slop Capitalism]]

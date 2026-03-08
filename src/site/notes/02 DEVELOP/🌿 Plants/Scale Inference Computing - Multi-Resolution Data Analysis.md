@@ -280,7 +280,8 @@ The educational and ethical implications of scale inference computing also requi
 Scale inference computing exemplifies the evolution of computational methods toward more sophisticated, biologically-inspired approaches that can handle the complexity and multi-scale nature of real-world phenomena. As this field continues to develop, it promises to unlock new insights and capabilities across numerous domains while challenging us to think more deeply about the nature of information, scale, and understanding in computational systems.
 
 ## Connections
-
-- [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]]
-- [[Data Processing\|Data Processing]]
-- [[Algorithm Design\|Algorithm Design]]
+- [[03 CREATE/🌲 Evergreens/Data Visualization Best Practices\|Data Visualization Best Practices]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[03 CREATE/🌲 Evergreens/RAG Systems Architecture\|RAG Systems Architecture]]
+- [[03 CREATE/🌲 Evergreens/The 2025 AI Index Report - Stanford HAI\|The 2025 AI Index Report - Stanford HAI]]
+- [[03 CREATE/🌲 Evergreens/Medical AI Critical Analysis\|Medical AI Critical Analysis]]

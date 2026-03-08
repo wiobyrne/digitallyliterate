@@ -3,7 +3,7 @@
 ---
 
 
-# Data Visualization Excellence - Best Practices for Research Communication and Analysis
+# Data Visualization Best Practices
 
 ## Overview
 
@@ -213,3 +213,5 @@ The principles outlined here provide a foundation for creating visualizations th
 **Applications**: Research training, presentation preparation, publication development, professional communication
 **Related Frameworks**: [[Data Analysis\|Data Analysis]], [[Research Communication\|Research Communication]], [[Academic Writing\|Academic Writing]], [[Statistical Methods\|Statistical Methods]]
 **Update Frequency**: Annual review recommended due to evolving tools and standards
+
+## Connections

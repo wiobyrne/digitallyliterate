@@ -152,7 +152,6 @@ If none of these solutions work:
 This systematic approach addresses the vast majority of Ubuntu Bluetooth issues through progressive troubleshooting steps.
 
 ## Connections
-
-- [[Linux\|Linux]]
-- [[Hardware Troubleshooting\|Hardware Troubleshooting]]
-- [[Ubuntu\|Ubuntu]]
+- [[02 DEVELOP/🌿 Plants/Self-Hosting Cloud Roadmap and Minimal Computing\|Self-Hosting Cloud Roadmap and Minimal Computing]]
+- [[02 DEVELOP/🌿 Plants/Reclaiming Our Tools\|Reclaiming Our Tools]]
+- [[03 CREATE/🌲 Evergreens/Adopting New Digital Tools\|Adopting New Digital Tools]]

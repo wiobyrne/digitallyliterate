@@ -3,7 +3,7 @@
 ---
 
 
-# Technology-Enabled Surveillance and Civil Rights: The Infrastructure of Oppression
+# Technology-Enabled Surveillance and Civil Rights
 
 ## Overview
 
@@ -109,3 +109,5 @@ Once comprehensive surveillance capabilities are built, they cannot be easily di
 While surveillance infrastructure may be "irreversible" technically, political and social resistance continues through limiting further expansion, protecting vulnerable communities, and building alternative futures that prioritize democratic governance of technology, privacy by design, political mobilization treating digital rights as social justice work, and international cooperation recognizing surveillance as a global threat.
 
 The stakes could not be higher. The infrastructure of oppression being built today will shape possibilities for democracy, civil liberties, and human rights for generations to come. The choices made now about surveillance technology, data governance, and algorithmic accountability will determine whether technology serves human flourishing or becomes a tool for systematic oppression and social control.
+
+## Connections

@@ -3,7 +3,7 @@
 ---
 
 
-# Historical Parallels and Theoretical Frameworks in Social Change Work
+# Historical Parallels in Social Change
 
 The concept of "[[03 CREATE/📝 Blog/Build Without Broadcasting\|Build Without Broadcasting]]" represents a fundamental tension in social change work between the necessity of organizing collective power and the imperative to protect participants from retaliation or suppression. This approach recognizes that effective social transformation often requires careful cultivation of community strength while maintaining operational security, particularly when confronting entrenched power structures that may respond with violence or repression.
 
@@ -183,3 +183,4 @@ Contemporary organizers must navigate new challenges presented by digital techno
 110. [https://www.theclueless.company/build-in-public-or-build-in-stealth/](https://www.theclueless.company/build-in-public-or-build-in-stealth/)
 111. [https://www.numberanalytics.com/blog/empowering-change-movement-building-essentials](https://www.numberanalytics.com/blog/empowering-change-movement-building-essentials)
 
+## Connections

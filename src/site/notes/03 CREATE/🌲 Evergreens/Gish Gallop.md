@@ -3,7 +3,7 @@
 ---
 
 
-# # Gish Gallop
+# Gish Gallop
 
 ## Definition
 
@@ -149,3 +149,5 @@ The **Gish Gallop** is a fallacious debate tactic where someone drowns their opp
 ## Tags
 
 #logical-fallacies #debate-tactics #rhetoric #argumentation #critical-thinking #misinformation
+
+## Connections

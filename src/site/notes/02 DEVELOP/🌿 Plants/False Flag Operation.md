@@ -61,10 +61,8 @@ Historian Timothy Snyder connects modern false flag strategies to *targeted demo
 ---
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/Argumentum ad Nauseam\|Argumentum ad nauseam]]
-- [[Limited hangout\|Limited hangout]]
-- [[Psychological operations (PSYOP)\|Psychological operations (PSYOP)]]
-- [[Gaslighting\|Gaslighting]]
-- [[Information warfare\|Information warfare]]
-- [[Deepfake\|Deepfake]]
+- [[02 DEVELOP/🌿 Plants/Digital Wildfires - Misinformation and Information Disorder\|Digital Wildfires - Misinformation and Information Disorder]]
+- [[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]]
+- [[03 CREATE/🌲 Evergreens/Online Harassment and Free Speech\|Online Harassment and Free Speech]]
+- [[02 DEVELOP/🌱 Seeds/mal-information\|mal-information]]
+- [[02 DEVELOP/🌱 Seeds/Structural Blueprints Gamergate and Information Ecosystems\|Structural Blueprints Gamergate and Information Ecosystems]]

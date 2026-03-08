@@ -37,6 +37,8 @@ Find an in-depth technical resource (e.g., research paper, advanced tutorial, or
 - [[Optimization\|Optimization]]
 
 ## Connections
-
-- [[Related Link 1\|Related Link 1]]
-- [[Related Link 2\|Related Link 2]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[02 DEVELOP/🌿 Plants/Knowledge-Gradient Policy for Prompt Learning\|Knowledge-Gradient Policy for Prompt Learning]]
+- [[03 CREATE/🌲 Evergreens/RAG Systems Architecture\|RAG Systems Architecture]]
+- [[02 DEVELOP/🌿 Plants/Chain of Thought\|Chain of Thought]]
+- [[02 DEVELOP/🌿 Plants/AI and ML Glossary Framework\|AI and ML Glossary Framework]]

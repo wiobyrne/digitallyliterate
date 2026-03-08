@@ -30,6 +30,8 @@ Wikipedia link: [Illiberalism](https://en.wikipedia.org/wiki/Illiberal_democracy
 [[Democracy\|Democracy]]
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/Liberalism\|Liberalism]]
-- [[Democracy\|Democracy]]
+- [[02 DEVELOP/🌿 Plants/Ideological Clarity\|Ideological Clarity]]
+- [[03 CREATE/🌲 Evergreens/Historical Parallels in Social Change\|Historical Parallels in Social Change]]
+- [[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]]
+- [[02 DEVELOP/🌿 Plants/Worldview Beneath the Code\|Worldview Beneath the Code]]
+- [[03 CREATE/🌲 Evergreens/Online Harassment and Free Speech\|Online Harassment and Free Speech]]

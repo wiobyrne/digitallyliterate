@@ -32,3 +32,5 @@ Guard what enters your mind, and what stays in the mind. Reduce distractions. Re
 
 - Reducing Distractions in Intensity and Frequency
 - Having a Good Diet
+
+## Connections

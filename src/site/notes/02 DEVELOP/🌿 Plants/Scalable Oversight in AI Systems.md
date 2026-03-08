@@ -158,7 +158,8 @@ Scalable oversight represents a critical requirement for the responsible develop
 The challenge is not merely technical but encompasses ethical, social, and governance dimensions that require broad stakeholder engagement and sustained commitment to responsible AI development. Organizations and governments that invest in scalable oversight capabilities will be better positioned to harness AI's benefits while minimizing potential risks and negative consequences.
 
 ## Connections
-
-- [[AI Ethics and Safety\|AI Ethics and Safety]]
-- [[AI Governance Frameworks\|AI Governance Frameworks]]
-- [[AI Transparency\|AI Transparency]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[03 CREATE/🌲 Evergreens/AI Boundary Co-Construction\|AI Boundary Co-Construction]]
+- [[02 DEVELOP/🌿 Plants/Staying Human in the Loop\|Staying Human in the Loop]]
+- [[03 CREATE/🌲 Evergreens/Best Available Human Framework\|Best Available Human Framework]]
+- [[03 CREATE/🌲 Evergreens/The 2025 AI Index Report - Stanford HAI\|The 2025 AI Index Report - Stanford HAI]]

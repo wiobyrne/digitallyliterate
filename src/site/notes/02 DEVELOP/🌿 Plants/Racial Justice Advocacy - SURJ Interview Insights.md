@@ -124,14 +124,13 @@ This interview suggests several areas for further investigation:
 - **Digital Organizing**: How can online platforms best support genuine rather than performative racial justice engagement?
 - **Educational Approach**: What pedagogical methods most effectively engage white people in sustained anti-racist learning?
 
-## Connections to Broader Work
-
-This interview connects to broader themes in social justice education:
-
-- **Critical Pedagogy**: Paulo Freire's emphasis on education for liberation and social transformation
-- **Community Organizing**: Saul Alinsky and contemporary organizing models for social change
-- **White Studies**: Academic examination of whiteness and white identity in racial justice work
-- **Social Movement Theory**: Understanding how individual awareness transforms into collective action
+## Connections
+- [[02 DEVELOP/🌿 Plants/What is Social Justice\|What is Social Justice]]
+- [[02 DEVELOP/🌿 Plants/Pathways to Radical Empathy\|Pathways to Radical Empathy]]
+- [[02 DEVELOP/🌿 Plants/Deep Canvassing\|Deep Canvassing]]
+- [[02 DEVELOP/🌿 Plants/Colonization and Gaslighting - Research Synthesis\|Colonization and Gaslighting - Research Synthesis]]
+- [[02 DEVELOP/🌿 Plants/Anti-racist computer science\|Anti-racist computer science]]
+- [[03 CREATE/🌲 Evergreens/Historical Parallels in Social Change\|Historical Parallels in Social Change]]
 
 ## Conclusion
 

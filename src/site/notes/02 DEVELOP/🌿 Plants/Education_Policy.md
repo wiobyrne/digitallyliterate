@@ -68,8 +68,8 @@ Education policy blogging represents a powerful opportunity for scholars to fulf
 *This analysis draws from academic blogging research, public scholarship literature, and practical experience with scholar-public engagement across education policy contexts.*
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/Purpose of Blogging\|Purpose of Blogging]]
-- [[02 DEVELOP/🌿 Plants/Discourse 2.0\|02 DEVELOP/🌿 Plants/Discourse 2.0]]
-- [[Academic Writing Translation\|Academic Writing Translation]]
-- [[Public Scholarship\|Public Scholarship]]
+- [[03 CREATE/🌲 Evergreens/College and Career Readiness Framework\|College and Career Readiness Framework]]
+- [[02 DEVELOP/🌿 Plants/Schoolification\|Schoolification]]
+- [[02 DEVELOP/🌿 Plants/School Privatization in Charleston County\|School Privatization in Charleston County]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[02 DEVELOP/🌿 Plants/What is Social Justice\|What is Social Justice]]

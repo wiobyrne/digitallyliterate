@@ -28,6 +28,8 @@ Slop capitalism refers to a business model that thrives on creating problems or 
 - [[Tech Monopoly\|Tech Monopoly]]
 
 ## Connections
-
-- [[Related Link 1\|Related Link 1]]
-- [[Related Link 2\|Related Link 2]]
+- [[02 DEVELOP/🌿 Plants/Optimization Worldview in Tech Culture\|Optimization Worldview in Tech Culture]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[02 DEVELOP/🌿 Plants/Attention Economy vs Values Alignment\|Attention Economy vs Values Alignment]]
+- [[02 DEVELOP/🌿 Plants/Worldview Beneath the Code\|Worldview Beneath the Code]]
+- [[03 CREATE/🌲 Evergreens/The 2025 AI Index Report - Stanford HAI\|The 2025 AI Index Report - Stanford HAI]]

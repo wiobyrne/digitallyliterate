@@ -161,3 +161,5 @@ Sample framing:
 - [[03 CREATE/🌲 Evergreens/Critical Pedagogy for STEAM Under Constraint\|Critical Pedagogy for STEAM Under Constraint]]
 - [[02 DEVELOP/🌿 Plants/Learning Environment Portfolio Design\|Learning Environment Portfolio Design]]
 - [[03 CREATE/🌲 Evergreens/Orchestrated Collaboration vs Algorithmic Passivity\|Orchestrated Collaboration vs Algorithmic Passivity]]
+
+## Connections

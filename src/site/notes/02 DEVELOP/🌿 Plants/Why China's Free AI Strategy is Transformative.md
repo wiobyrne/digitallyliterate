@@ -119,7 +119,8 @@ China's free AI strategy represents more than technological advancement—it's a
 The success of this approach challenges traditional assumptions about technology competition and highlights the importance of strategic thinking in technological development. As AI becomes increasingly central to economic and social systems worldwide, the implications of this strategy will likely extend far beyond the technology sector itself.
 
 ## Connections
-
-- [[AI Global Competition\|AI Global Competition]]
-- [[Technology Market Disruption\|Technology Market Disruption]]
-- [[Data as Strategic Asset\|Data as Strategic Asset]]
+- [[02 DEVELOP/🌿 Plants/China's Strategic AI Approach with DeepSeek\|China's Strategic AI Approach with DeepSeek]]
+- [[02 DEVELOP/🌿 Plants/DeepSeek Global Impact\|DeepSeek Global Impact]]
+- [[03 CREATE/🪴 Groves/AI and Machine Learning\|AI and Machine Learning]]
+- [[02 DEVELOP/🌿 Plants/Slop Capitalism\|Slop Capitalism]]
+- [[02 DEVELOP/🌿 Plants/Optimization Worldview in Tech Culture\|Optimization Worldview in Tech Culture]]

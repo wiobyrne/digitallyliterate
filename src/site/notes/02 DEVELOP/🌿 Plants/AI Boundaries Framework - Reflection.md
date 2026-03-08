@@ -303,9 +303,8 @@ Reflection serves a dual purpose:
 ---
 
 ## Connections
-
-- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
-- [[03 CREATE/🌲 Evergreens/Agency\|Agency]]
-- [[03 CREATE/🌲 Evergreens/Boundary-work\|Boundary-work]]
-- [[03 CREATE/🌲 Evergreens/Epistemic Stance\|Epistemic Stance]]
-- [[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]
+- [[03 CREATE/🌲 Evergreens/AI Boundary Co-Construction\|AI Boundary Co-Construction]]
+- [[03 CREATE/🌲 Evergreens/AI Policy Beyond Blanket Bans\|AI Policy Beyond Blanket Bans]]
+- [[02 DEVELOP/🌿 Plants/AI Boundaries Framework - Integration\|AI Boundaries Framework - Integration]]
+- [[02 DEVELOP/🌿 Plants/Staying Human in the Loop\|Staying Human in the Loop]]
+- [[03 CREATE/🌲 Evergreens/Research Ethics and Human Subjects\|Research Ethics and Human Subjects]]

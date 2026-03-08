@@ -30,7 +30,8 @@ Self-awareness is an essential part of professionalism. Knowing your strengths a
 Professionalism encapsulates qualities such as honesty/candor, empathy and self-awareness which are important for not just individual growth but also for fostering healthy work environments. These characteristics form the foundation of effective professional relationships and successful career development.
 
 ## Connections
-
-- [[Ethics\|Ethics]]
-- [[Leadership\|Leadership]]
-- [[Emotional Intelligence MOC\|Emotional Intelligence MOC]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[03 CREATE/🌲 Evergreens/Self-Efficacy and Self-Confidence in Learning\|Self-Efficacy and Self-Confidence in Learning]]
+- [[02 DEVELOP/🌿 Plants/Emotionally Intelligent Workflows\|Emotionally Intelligent Workflows]]
+- [[03 CREATE/🌲 Evergreens/Organizational Culture That Breathes\|Organizational Culture That Breathes]]
+- [[02 DEVELOP/🌱 Seeds/Psychological Safety as Foundation\|Psychological Safety as Foundation]]

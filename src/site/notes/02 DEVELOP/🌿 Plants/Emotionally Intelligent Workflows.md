@@ -30,6 +30,8 @@ Emotionally intelligent workflows recognize that all work—especially collabora
 - **Sustainable, not extractive**: We check in, check out, take breaks, and respect bandwidth. The pace of the group is not set by urgency or overwork.
 
 ## Connections
-
-- [[Similar Frameworks\|Similar Frameworks]]
-- [[Background Reading\|Background Reading]]
+- [[03 CREATE/🌲 Evergreens/Organizational Culture That Breathes\|Organizational Culture That Breathes]]
+- [[02 DEVELOP/🌱 Seeds/Psychological Safety as Foundation\|Psychological Safety as Foundation]]
+- [[03 CREATE/🌲 Evergreens/Self-Efficacy and Self-Confidence in Learning\|Self-Efficacy and Self-Confidence in Learning]]
+- [[02 DEVELOP/🌿 Plants/Default mode network\|Default mode network]]
+- [[02 DEVELOP/🌿 Plants/Drama triangle\|Drama triangle]]

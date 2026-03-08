@@ -111,36 +111,12 @@ User asks: \"How do I learn about Y?\" → MOC
 - **Backward Linking**: Individual notes reference their organizing Index or MOC
 - **Cross-Pollination**: Strategic connections between related Indexes and MOCs
 
-## Connections and Integration
-
-### Related Frameworks
-
-#### **Knowledge Development Stages**
-- **Seeds → Plants → Evergreens**: Content maturity progression
-- **Index vs MOC**: Navigation tool differentiation
-- **Integration**: Both frameworks support vault-wide organization coherence
-
-#### **Digital Garden Principles**
-- **Learning in Public**: MOCs as external-facing synthesis and exploration tools
-- **Personal Knowledge Management**: Indexes as internal organization and reference systems
-- **Progressive Disclosure**: Layered information architecture serving different user needs
-
-### Cross-Domain Links
-
-#### **Information Architecture**
-- **Faceted Classification Systems**: Multiple organizational schemes for complex domains
-- **Information Seeking Behavior**: Research on how users navigate knowledge systems
-- **User Experience Design**: Principles for designing effective navigation interfaces
-
-#### **Cognitive Science**
-- **Dual Process Theory**: System 1 (quick lookup) vs System 2 (deliberate exploration)
-- **Cognitive Load Theory**: Managing information complexity through appropriate organization
-- **Schema Theory**: How mental models affect information processing and retrieval
-
-#### **Educational Technology**
-- **Scaffolded Learning**: Progressive skill development through guided pathways
-- **Resource-Based Learning**: Comprehensive material access through organized collections
-- **Self-Directed Learning**: Tools that support both structured and exploratory approaches
+## Connections
+- [[03 CREATE/🌲 Evergreens/Digital Note-Taking and Intellectual Work\|Digital Note-Taking and Intellectual Work]]
+- [[02 DEVELOP/🌿 Plants/Scalability of Tagging\|Scalability of Tagging]]
+- [[02 DEVELOP/🌿 Plants/Web Archiving Workflow for Obsidian\|Web Archiving Workflow for Obsidian]]
+- [[03 CREATE/🌲 Evergreens/Digital Garden Blogging Series\|Digital Garden Blogging Series]]
+- [[02 DEVELOP/🌿 Plants/Systematic Intellectual Persistence\|Systematic Intellectual Persistence]]
 
 ## Future Development
 

@@ -14,11 +14,9 @@ The concept of "live human signposts" represents a powerful framework for unders
 The live human signpost concept recognizes that hope and guidance are most powerful when they are embodied in real people who can demonstrate through their lives that change is possible. Vincent Harding's vision continues to offer valuable guidance for how communities can identify, support, and learn from the signposts that already exist among them while creating conditions for new signposts to emerge, bridging individual possibility and collective transformation.
 
 ## Connections
-
-- [[transformational-leadership\|transformational-leadership]]
-- [[community-wisdom\|community-wisdom]]
-- [[experiential-learning\|experiential-learning]]
-- [[social-movement-building\|social-movement-building]]
-- [[Community Leadership\|Community Leadership]]
-- [[Mentorship\|Mentorship]]
-- [[Social Change\|Social Change]]
+- [[02 DEVELOP/🌿 Plants/Live Human Signposts Framework\|Live Human Signposts Framework]]
+- [[02 DEVELOP/🌿 Plants/InitiatED - Educators as Civil Rights Leaders\|InitiatED - Educators as Civil Rights Leaders]]
+- [[02 DEVELOP/🌿 Plants/Pathways to Radical Empathy\|Pathways to Radical Empathy]]
+- [[02 DEVELOP/🌿 Plants/Deep Canvassing\|Deep Canvassing]]
+- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
+- [[03 CREATE/🌲 Evergreens/Historical Parallels in Social Change\|Historical Parallels in Social Change]]
