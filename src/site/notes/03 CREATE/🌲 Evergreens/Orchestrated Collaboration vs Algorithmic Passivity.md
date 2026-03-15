@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"orchestrated-collaboration-vs-algorithmic-passivity","permalink":"/orchestrated-collaboration-vs-algorithmic-passivity/","title":"Orchestrated Collaboration vs Algorithmic Passivity","tags":["AI-literacy","boundary-work","pre-service-teachers","agency","human-AI-collaboration","epistemic-authority"]}
+{"dg-publish":true,"dg-permalink":"orchestrated-collaboration-vs-algorithmic-passivity","permalink":"/orchestrated-collaboration-vs-algorithmic-passivity/","title":"Orchestrated Collaboration vs Algorithmic Passivity","tags":["AI-literacy","boundary-work","pre-service-teachers","agency","human-AI-collaboration","epistemic-authority","teacher-education"]}
 ---
 
 # Orchestrated Collaboration vs Algorithmic Passivity

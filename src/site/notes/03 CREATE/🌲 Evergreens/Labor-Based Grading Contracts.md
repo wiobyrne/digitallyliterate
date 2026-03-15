@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"labor-based-grading-contracts","permalink":"/labor-based-grading-contracts/","title":"Labor-Based Grading Contracts","tags":["ungrading","labor-based-grading","assessment","grade-bundles","contract-grading"]}
+{"dg-publish":true,"dg-permalink":"labor-based-grading-contracts","permalink":"/labor-based-grading-contracts/","title":"Labor-Based Grading Contracts","tags":["ungrading","labor-based-grading","assessment","grade-bundles","contract-grading","teacher-education"]}
 ---
 
 # Labor-Based Grading Contracts

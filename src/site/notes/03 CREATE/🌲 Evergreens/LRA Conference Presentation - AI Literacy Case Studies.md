@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lra-conference-presentation-ai-literacy-case-studies","permalink":"/lra-conference-presentation-ai-literacy-case-studies/","title":"LRA Conference Presentation - AI Literacy Case Studies","tags":["conference-presentation","LRA","case-study","SPOC-model","qualitative-research"]}
+{"dg-publish":true,"dg-permalink":"lra-conference-presentation-ai-literacy-case-studies","permalink":"/lra-conference-presentation-ai-literacy-case-studies/","title":"LRA Conference Presentation - AI Literacy Case Studies","tags":["conference-presentation","LRA","case-study","SPOC-model","qualitative-research","ai-in-education"]}
 ---
 
 

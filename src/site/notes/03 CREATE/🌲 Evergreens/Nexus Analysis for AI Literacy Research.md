@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nexus-analysis-for-ai-literacy-research","permalink":"/nexus-analysis-for-ai-literacy-research/","title":"Nexus Analysis for AI Literacy Research","tags":["nexus-analysis","methodology","digital-trace-data","mediated-discourse-analysis","SPOC-model","qualitative-research"]}
+{"dg-publish":true,"dg-permalink":"nexus-analysis-for-ai-literacy-research","permalink":"/nexus-analysis-for-ai-literacy-research/","title":"Nexus Analysis for AI Literacy Research","tags":["nexus-analysis","methodology","digital-trace-data","mediated-discourse-analysis","SPOC-model","qualitative-research","ai-literacy"]}
 ---
 
 # Nexus Analysis for AI Literacy Research

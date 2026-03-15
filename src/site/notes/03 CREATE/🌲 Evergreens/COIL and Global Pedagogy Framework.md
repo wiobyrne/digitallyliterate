@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"coil-and-global-pedagogy-framework","permalink":"/coil-and-global-pedagogy-framework/","title":"COIL and Global Pedagogy Framework","tags":["COIL","global-pedagogy","translanguaging","faculty-development","international-collaboration"]}
+{"dg-publish":true,"dg-permalink":"coil-and-global-pedagogy-framework","permalink":"/coil-and-global-pedagogy-framework/","title":"COIL and Global Pedagogy Framework","tags":["COIL","global-pedagogy","translanguaging","faculty-development","international-collaboration","international-education","course-development"]}
 ---
 
 

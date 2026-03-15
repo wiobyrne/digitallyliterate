@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"sc-teacher-certification-navigation-guide","permalink":"/sc-teacher-certification-navigation-guide/","title":"SC Teacher Certification Navigation Guide","tags":["certification","south-carolina","praxis","edTPA","PPAT"]}
+{"dg-publish":true,"dg-permalink":"sc-teacher-certification-navigation-guide","permalink":"/sc-teacher-certification-navigation-guide/","title":"SC Teacher Certification Navigation Guide","tags":["certification","south-carolina","praxis","edTPA","PPAT","teacher-preparation"]}
 ---
 
 

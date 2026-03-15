@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"septima-clark-and-citizenship-schools","permalink":"/septima-clark-and-citizenship-schools/","title":"Septima Clark and Citizenship Schools","tags":["citizenship-schools","civil-rights","literacy-education","grassroots-organizing","critical-pedagogy"]}
+{"dg-publish":true,"dg-permalink":"septima-clark-and-citizenship-schools","permalink":"/septima-clark-and-citizenship-schools/","title":"Septima Clark and Citizenship Schools","tags":["citizenship-schools","civil-rights","literacy-education","grassroots-organizing","critical-pedagogy","digital-literacy","social-justice"]}
 ---
 
 # Septima Clark and Citizenship Schools

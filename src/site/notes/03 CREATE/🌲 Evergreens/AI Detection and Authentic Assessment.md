@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-detection-and-authentic-assessment","permalink":"/ai-detection-and-authentic-assessment/","title":"AI Detection and Authentic Assessment","tags":["AI-detection","authentic-assessment","cheating","equity","scaffolding"]}
+{"dg-publish":true,"dg-permalink":"ai-detection-and-authentic-assessment","permalink":"/ai-detection-and-authentic-assessment/","title":"AI Detection and Authentic Assessment","tags":["AI-detection","authentic-assessment","cheating","equity","scaffolding","ai-in-education","pedagogy"]}
 ---
 
 # AI Detection and Authentic Assessment

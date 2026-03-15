@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critical-pedagogy-for-steam-under-constraint","permalink":"/critical-pedagogy-for-steam-under-constraint/","title":"Critical Pedagogy for STEAM Under Constraint","tags":["critical-pedagogy","STEAM","scripted-curriculum","stealth-STEAM","equity-audit","teacher-agency"]}
+{"dg-publish":true,"dg-permalink":"critical-pedagogy-for-steam-under-constraint","permalink":"/critical-pedagogy-for-steam-under-constraint/","title":"Critical Pedagogy for STEAM Under Constraint","tags":["critical-pedagogy","STEAM","scripted-curriculum","stealth-STEAM","equity-audit","teacher-agency","teacher-education"]}
 ---
 
 # Critical Pedagogy for STEAM Under Constraint

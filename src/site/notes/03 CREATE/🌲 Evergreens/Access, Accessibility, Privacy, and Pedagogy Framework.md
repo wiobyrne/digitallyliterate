@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"aapp-framework","permalink":"/aapp-framework/","title":"Access, Accessibility, Privacy, and Pedagogy Framework","tags":["platform-audit","digital-equity","privacy","accessibility","federated-systems","digital-sovereignty"]}
+{"dg-publish":true,"dg-permalink":"aapp-framework","permalink":"/aapp-framework/","title":"Access, Accessibility, Privacy, and Pedagogy Framework","tags":["platform-audit","digital-equity","privacy","accessibility","federated-systems","digital-sovereignty","educational-technology"]}
 ---
 
 # Access, Accessibility, Privacy, and Pedagogy Framework

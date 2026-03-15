@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"surveillance-in-education","permalink":"/surveillance-in-education/","title":"Surveillance in Education","tags":["surveillance","data-collection","student-privacy","surveillance-capitalism","enshittification"]}
+{"dg-publish":true,"dg-permalink":"surveillance-in-education","permalink":"/surveillance-in-education/","title":"Surveillance in Education","tags":["surveillance","data-collection","student-privacy","surveillance-capitalism","enshittification","education-policy","technology-ethics"]}
 ---
 
 # Surveillance in Education

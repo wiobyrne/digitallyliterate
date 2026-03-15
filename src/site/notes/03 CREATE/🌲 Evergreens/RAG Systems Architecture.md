@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rag-systems-technical-architecture-and-implementation-guide","permalink":"/rag-systems-technical-architecture-and-implementation-guide/","title":"RAG Systems Architecture","tags":["rag-systems","retrieval-augmented-generation","ai-architecture","knowledge-management","technical-implementation","personalized-ai","vector-databases","embedding-models"]}
+{"dg-publish":true,"dg-permalink":"rag-systems-technical-architecture-and-implementation-guide","permalink":"/rag-systems-technical-architecture-and-implementation-guide/","title":"RAG Systems Architecture","tags":["rag-systems","retrieval-augmented-generation","ai-architecture","knowledge-management","technical-implementation","personalized-ai","vector-databases","embedding-models","ai-and-education"]}
 ---
 
 

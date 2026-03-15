@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"from-chronological-to-networked-knowledge","permalink":"/from-chronological-to-networked-knowledge/","title":"From Chronological to Networked Knowledge","tags":["newsletter","digital-garden","attention-economy","knowledge-architecture","chronological-sort"]}
+{"dg-publish":true,"dg-permalink":"from-chronological-to-networked-knowledge","permalink":"/from-chronological-to-networked-knowledge/","title":"From Chronological to Networked Knowledge","tags":["newsletter","digital-garden","attention-economy","knowledge-architecture","chronological-sort","pkm-philosophy"]}
 ---
 
 # From Chronological to Networked Knowledge

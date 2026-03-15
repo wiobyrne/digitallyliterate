@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-geopolitics-and-the-open-model-question","permalink":"/ai-geopolitics-and-the-open-model-question/","title":"AI Geopolitics and the Open Model Question","tags":["open-source","AI-race","infrastructure","DeepSeek","china"]}
+{"dg-publish":true,"dg-permalink":"ai-geopolitics-and-the-open-model-question","permalink":"/ai-geopolitics-and-the-open-model-question/","title":"AI Geopolitics and the Open Model Question","tags":["open-source","AI-race","infrastructure","DeepSeek","china","ai-policy","geopolitics","technology-ethics"]}
 ---
 
 # AI Geopolitics and the Open Model Question

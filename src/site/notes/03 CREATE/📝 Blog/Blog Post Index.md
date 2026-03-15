@@ -28,6 +28,7 @@ Notes here are drafts, published posts, and archived pieces from wiobyrne.com. E
 
 | Title                                                                                                                                                     | Date              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[03 CREATE/📝 Blog/Homelab Journey, Part 4b Security Without a Fortress\|Homelab Journey, Part 4b Security Without a Fortress]]                       | March 14, 2026    |
 | [[03 CREATE/📝 Blog/Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP\|Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP]] | March 06, 2026    |
 | [[03 CREATE/📝 Blog/Local First AI in Obsidian with Ollama\|Local First AI in Obsidian with Ollama]]                                                   | March 03, 2026    |
 | [[03 CREATE/📝 Blog/📝 Blog\|📝 Blog]]                                                                                                                 | February 19, 2026 |
@@ -37,7 +38,6 @@ Notes here are drafts, published posts, and archived pieces from wiobyrne.com. E
 | [[03 CREATE/📝 Blog/Homelab Journey, Part 10 Reflection & Next Steps\|Homelab Journey, Part 10 Reflection & Next Steps]]                               | October 09, 2025  |
 | [[03 CREATE/📝 Blog/Homelab Journey, Part 2 Hardware Research & Acquisition\|Homelab Journey, Part 2 Hardware Research & Acquisition]]                 | October 09, 2025  |
 | [[03 CREATE/📝 Blog/Homelab Journey, Part 3 Base System & Hypervisor Setup\|Homelab Journey, Part 3 Base System & Hypervisor Setup]]                   | October 09, 2025  |
-| [[03 CREATE/📝 Blog/Homelab Journey, Part 4 Network Configuration\|Homelab Journey, Part 4 Network Configuration]]                                     | October 09, 2025  |
 
 { .block-language-dataview}
 

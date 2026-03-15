@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"decentralized-network-organization-for-educational-communities","permalink":"/decentralized-network-organization-for-educational-communities/","title":"Decentralized Network for Education","tags":["decentralized-networks","cooperative-governance","network-organization","educational-communities","distributed-leadership","community-building"]}
+{"dg-publish":true,"dg-permalink":"decentralized-network-organization-for-educational-communities","permalink":"/decentralized-network-organization-for-educational-communities/","title":"Decentralized Network for Education","tags":["decentralized-networks","cooperative-governance","network-organization","educational-communities","distributed-leadership","community-building","organizational-design"]}
 ---
 
 

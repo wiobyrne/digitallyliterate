@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"what-ai-cannot-know","permalink":"/what-ai-cannot-know/","title":"What AI Cannot Know","tags":["tacit-knowledge","embodied-learning","AI-limits","oral-tradition","sensory-knowledge"]}
+{"dg-publish":true,"dg-permalink":"what-ai-cannot-know","permalink":"/what-ai-cannot-know/","title":"What AI Cannot Know","tags":["tacit-knowledge","embodied-learning","AI-limits","oral-tradition","sensory-knowledge","ai-philosophy","epistemology","embodied-knowledge"]}
 ---
 
 # What AI Cannot Know

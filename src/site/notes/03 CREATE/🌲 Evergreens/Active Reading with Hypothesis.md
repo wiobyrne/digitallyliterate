@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"active-reading-with-hypothesis","permalink":"/active-reading-with-hypothesis/","title":"Active Reading with Hypothesis","tags":["hypothesis","annotation","active-reading","student-guide","web-annotation"]}
+{"dg-publish":true,"dg-permalink":"active-reading-with-hypothesis","permalink":"/active-reading-with-hypothesis/","title":"Active Reading with Hypothesis","tags":["hypothesis","annotation","active-reading","student-guide","web-annotation","pedagogy","teaching-tools","digital-literacy"]}
 ---
 
 

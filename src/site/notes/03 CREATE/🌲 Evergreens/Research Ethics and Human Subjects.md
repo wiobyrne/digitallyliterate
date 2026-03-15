@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"research-ethics-and-human-subjects-protection-historical-foundations-and-principles","permalink":"/research-ethics-and-human-subjects-protection-historical-foundations-and-principles/","title":"Research Ethics and Human Subjects","tags":["research-ethics","human-subjects-research","belmont-report","informed-consent","research-integrity","ethical-principles","irb-regulations","social-behavioral-research","academic-research","methodology"]}
+{"dg-publish":true,"dg-permalink":"research-ethics-and-human-subjects-protection-historical-foundations-and-principles","permalink":"/research-ethics-and-human-subjects-protection-historical-foundations-and-principles/","title":"Research Ethics and Human Subjects","tags":["research-ethics","human-subjects-research","belmont-report","informed-consent","research-integrity","ethical-principles","irb-regulations","social-behavioral-research","academic-research","methodology","research-methods"]}
 ---
 
 

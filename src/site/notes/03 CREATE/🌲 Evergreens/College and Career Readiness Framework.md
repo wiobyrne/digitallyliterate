@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"college-and-career-readiness-comprehensive-curriculum-framework","permalink":"/college-and-career-readiness-comprehensive-curriculum-framework/","title":"College and Career Readiness Framework","tags":["curriculum-design","college-readiness","career-preparation","student-development","global-competence","financial-literacy","study-skills","critical-thinking"]}
+{"dg-publish":true,"dg-permalink":"college-and-career-readiness-comprehensive-curriculum-framework","permalink":"/college-and-career-readiness-comprehensive-curriculum-framework/","title":"College and Career Readiness Framework","tags":["curriculum-design","college-readiness","career-preparation","student-development","global-competence","financial-literacy","study-skills","critical-thinking","curriculum-development","educational-leadership"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"frameworks-for-thinking-about-ai-in-education","permalink":"/frameworks-for-thinking-about-ai-in-education/","title":"Frameworks for Thinking About AI in Education","tags":["bentoism","complexity","contingency","structural-crisis","AI-ethics"]}
+{"dg-publish":true,"dg-permalink":"frameworks-for-thinking-about-ai-in-education","permalink":"/frameworks-for-thinking-about-ai-in-education/","title":"Frameworks for Thinking About AI in Education","tags":["bentoism","complexity","contingency","structural-crisis","AI-ethics","ai-in-education","theory","frameworks"]}
 ---
 
 # Frameworks for Thinking About AI in Education

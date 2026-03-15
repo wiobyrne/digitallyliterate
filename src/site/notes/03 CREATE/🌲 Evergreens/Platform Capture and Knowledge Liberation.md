@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"platform-capture-and-knowledge-liberation","permalink":"/platform-capture-and-knowledge-liberation/","title":"Platform Capture and Knowledge Liberation","tags":["digital-garden","platform-capture","plain-text","knowledge-management","AI-voice","newsletter"]}
+{"dg-publish":true,"dg-permalink":"platform-capture-and-knowledge-liberation","permalink":"/platform-capture-and-knowledge-liberation/","title":"Platform Capture and Knowledge Liberation","tags":["digital-garden","platform-capture","plain-text","knowledge-management","AI-voice","newsletter","digital-autonomy","pkm-philosophy"]}
 ---
 
 # Platform Capture and Knowledge Liberation

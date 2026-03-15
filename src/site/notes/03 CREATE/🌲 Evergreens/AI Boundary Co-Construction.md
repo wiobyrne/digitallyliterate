@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-boundary-co-construction","permalink":"/ai-boundary-co-construction/","title":"AI Boundary Co-Construction","tags":["boundary-work","human-in-the-loop","agency","AI-ethics","nexus-analysis","pre-service-teachers","literacy-education"]}
+{"dg-publish":true,"dg-permalink":"ai-boundary-co-construction","permalink":"/ai-boundary-co-construction/","title":"AI Boundary Co-Construction","tags":["boundary-work","human-in-the-loop","agency","AI-ethics","nexus-analysis","pre-service-teachers","literacy-education","research-framework","ai-literacy","teacher-education"]}
 ---
 
 # AI Boundary Co-Construction

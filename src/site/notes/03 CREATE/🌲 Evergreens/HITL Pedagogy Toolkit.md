@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"hitl-pedagogy-toolkit","permalink":"/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["human-in-the-loop","AI-literacy","classroom-practice","prompts","student-agency"]}
+{"dg-publish":true,"dg-permalink":"hitl-pedagogy-toolkit","permalink":"/hitl-pedagogy-toolkit/","title":"HITL Pedagogy Toolkit","tags":["human-in-the-loop","AI-literacy","classroom-practice","prompts","student-agency","ai-pedagogy","teaching-practice"]}
 ---
 
 # HITL Pedagogy Toolkit
