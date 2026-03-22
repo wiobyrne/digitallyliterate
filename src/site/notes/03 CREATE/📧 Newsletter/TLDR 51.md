@@ -121,7 +121,7 @@ Be a yardstick of quality.
 - **[[Blockchain\|Blockchain]]** — Brian Behlendorf on distributed technologies, BadgeChain Ethereum collaborative read using Hypothes.is.
 - **[[Human Origins\|Human Origins]]** — Kurzgesagt video on technological engineered society, good for classroom discussions.
 - **[[Brexit\|Brexit]]** — Uncertainty for UK universities and higher ed, hope against isolationism and for third spaces.
-- **[[Connected Learning\|Connected Learning]]** — Howard Rheingold on research validating principles improve learning outcomes for non-dominant youth.
+- **[[03 CREATE/📝 Blog/Connected Learning\|Connected Learning]]** — Howard Rheingold on research validating principles improve learning outcomes for non-dominant youth.
 - **[[Domain of One's Own\|Domain of One's Own]]** — JAAL column K through higher ed, big question about assessment effects.
 - **[[Professional Development\|Professional Development]]** — Four types of teachers lagger majority early adopter innovator, recognize and respect each.
 

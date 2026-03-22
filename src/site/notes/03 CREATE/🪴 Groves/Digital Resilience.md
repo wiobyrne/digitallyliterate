@@ -95,7 +95,7 @@ Concepts that connect to digital resilience across the vault.
 ### Psychology and Attention
 - [[Attention Economy\|Attention Economy]] — The system designed to capture your focus
 - [[Information Overload\|Information Overload]] — Too much signal, not enough filter
-- [[Digital Boundaries\|Digital Boundaries]] / [[01 CONSUME/📚 Books/Digital Minimalism\|Digital Minimalism]] — Setting limits
+- [[Digital Boundaries\|Digital Boundaries]] / [[03 CREATE/📝 Blog/Digital Minimalism\|Digital Minimalism]] — Setting limits
 - [[Fear of Missing Out (FOMO)\|Fear of Missing Out (FOMO)]] — The anxiety that keeps you scrolling
 - [[Mental Health and Tech Use\|Mental Health and Tech Use]] — What the research actually shows
 - [[Platform Design and Manipulation\|Platform Design and Manipulation]] / [[Addiction by Design\|Addiction by Design]] — How apps exploit psychology

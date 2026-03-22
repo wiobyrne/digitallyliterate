@@ -8,7 +8,7 @@ The notion of citizenship and citizenship education are [[floating signifiers\|f
 
 [[Westheimer & Kahne\|Westheimer & Kahne]]
 
-[[01 CONSUME/📰 Papers/2019 - Sant\|2019 - Sant]]
+[[2019 - Sant\|2019 - Sant]]
 
 ## Connections
 

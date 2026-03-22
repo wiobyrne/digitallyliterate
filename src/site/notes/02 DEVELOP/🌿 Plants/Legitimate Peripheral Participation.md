@@ -14,7 +14,7 @@ In LAVE and WENGER's monograph, however, the theory of LPP more specifically gro
 
 "There are strong goals for learning because learners, as peripheral participants, can develop a view of what the whole enterprise is about, and what there is to be learned. Learning itself is an improvised practice; a learning curriculum unfolds in opportunities for engagement in practice. It is not specified as a set of dictates for proper practice" (1991, p.93; italics added). 
 
-[[01 CONSUME/📰 Papers/2009 - Hougaard\|2009 - Hougaard]]
+[[2009 - Hougaard\|2009 - Hougaard]]
 
 
 Breaking LPP down is also helpful in understanding the term. Legitimate means membership in the CoP. Newcomers may not yet be full participants but they are legitimately there. Peripheral is less obvious in that it does not signal a set periphery and center to the CoP, but instead speaks to the starting point of understanding and skill of the newcomers. Participation refers to doing the work of the CoP.

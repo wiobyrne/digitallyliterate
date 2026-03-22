@@ -278,7 +278,7 @@ This approach recognizes that good infrastructure is not just about the technolo
 
 ## Connections
 
-- [[01 CONSUME/📚 Books/Digital Minimalism\|Digital Minimalism]]
+- [[03 CREATE/📝 Blog/Digital Minimalism\|Digital Minimalism]]
 - [[Minimal Computing\|Minimal Computing]]
 - [[Open Source Philosophy\|Open Source Philosophy]]
 - [[Sustainable Technology\|Sustainable Technology]]
