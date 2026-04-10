@@ -5,138 +5,73 @@
 
 # Digital Self-determination
 
-*Take Back Your Digital Life*
+Most of your digital life is governed by systems you didn't choose, built by people whose interests aren't yours, running on rules you never agreed to. Digital self-determination is the practice of changing that, one decision at a time.
 
-> A community guide to privacy, sovereignty, and resilience in the digital age.
-
----
-
-## What is Digital Self-determination?
-
-Digital self-determination is the right of individuals and communities to decide how their data, identity, and participation are governed in the digital world. It's rooted in political philosophy and collective rights, emphasizing **agency + context + power structures**.
-
-This isn't just about what tools you use — it's about **who controls the systems you're embedded in**.
-
-**Examples in practice:**
-- Indigenous data governance movements (e.g. OCAP® principles)
-- Digital sovereignty debates (EU, Global South)
-- Community-run platforms and protocols (Mastodon, Solid, Matrix)
+It isn't a technical skill. It's a stance. The question isn't whether you can configure a privacy setting correctly. It's whether you understand who controls the systems you depend on and whether you've thought about what alternatives exist. That kind of understanding is available to anyone willing to ask the right questions, and it changes how you see every app, platform, and device you use.
 
 ---
 
-## Why This Matters
+## Key Terms
 
-**"If a product is free, you are the product."**
+**Digital self-determination** is the right of individuals and communities to decide how their data, identity, and participation are governed in the digital world. It draws from political philosophy and the language of self-governance, and it applies that language to digital life. Who decides what happens to your photos, your messages, your location history, your purchasing patterns? Right now, mostly other people do.
 
-In exchange for the convenience of free apps and platforms, we often trade away our privacy and personal data. Tech giants collect our photos, chats, and browsing habits — then quietly harvest and exploit this information for profit.
+**[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]** is the name for the business model underlying most of the free digital tools we use. Your attention, behavior, and data are the product being sold. The platforms aren't broken or accidentally privacy-violating. They're working exactly as designed, optimized to extract information and convert it into advertising revenue and predictive modeling. Understanding this model makes the choices clearer.
 
-This isn't abstract policy. It affects ordinary people:
-- Targeted ads following us everywhere
-- Sensitive information potentially leaking
-- Communities having little control over online spaces
+**[[03 CREATE/🌲 Evergreens/Dark Patterns\|Dark Patterns]]** are design choices that trick or pressure users into giving up more than they intended. They show up as confusing opt-out flows, pre-checked consent boxes, interfaces that make the privacy-protective choice harder to find than the data-sharing one. They're not accidents. They're features, built to serve the platform at the user's expense.
 
----
+**[[03 CREATE/🌲 Evergreens/Enshittification\|Enshittification]]** describes the predictable cycle of platform decay. A platform starts by being genuinely useful to attract users, then shifts its value toward advertisers and shareholders once users are locked in, then degrades further as the extraction intensifies. Recognizing this cycle helps you see platforms for what they are, temporary tools that will eventually work against you.
 
-## The Three Pillars
+**[[03 CREATE/🌲 Evergreens/Agency\|Agency]]** in digital contexts means maintaining meaningful control over your digital life, not just in theory but in practice. It's the difference between having privacy settings available and actually understanding what they do. Between using a tool and understanding whose interests that tool serves. High agency doesn't require technical expertise. It requires the habit of asking questions.
 
-Digital self-determination rests on three interconnected ideas:
+**[[02 DEVELOP/🌿 Plants/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]** describes what happens when your information, relationships, and work become locked inside a platform you don't control. Moving away becomes harder over time because the cost of leaving keeps rising. Digital self-determination requires thinking about this before it happens, building habits and using tools that keep your options open.
 
-### [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] 🪴
-Tools and services built to **protect your privacy by default**, so you don't have to be an expert to stay safe. The tool itself does the privacy work.
+**[[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]]** matters because most people dramatically underestimate how much information they generate simply by living their lives online. Every search, click, purchase, location check-in, and social interaction adds to a persistent record. Understanding what that record contains and who has access to it is the starting point for any meaningful privacy practice.
 
-### [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] 🌿
-**Owning and controlling your digital information** and infrastructure. You decide where your data lives and who can access it.
-
-### [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] 🌿
-The skills and habits to **stay safe and strong online**, even when technology or threats change. Building capacity, not dependency.
-
-**Security Culture** (practice layer) — How communities enact privacy, sovereignty, and resilience together through shared norms. See [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]].
+**[[03 CREATE/🌲 Evergreens/Encryption\|Encryption]]** is the technical mechanism that makes digital privacy possible. It transforms readable data into something that can only be decoded with the right key. [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]] specifically means that even the service provider can't read your messages, only the sender and recipient can. When a tool uses end-to-end encryption, it shifts power toward the user.
 
 ---
 
-## Core Questions
+## Go Deeper
 
-- What does it mean to have agency in digital spaces?
-- How do we balance convenience with control?
-- What skills and knowledge enable digital self-determination?
-- How can tool choices become opportunities for learning?
+**Understanding the Problem**
 
----
+- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] — the business model you're participating in whether you know it or not
+- [[03 CREATE/🌲 Evergreens/Dark Patterns\|Dark Patterns]] — how platforms are designed to work against you
+- [[03 CREATE/🌲 Evergreens/Enshittification\|Enshittification]] — why platforms that start good tend to go bad
+- [[02 DEVELOP/🌿 Plants/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — what happens when you don't plan your exit
+- [[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]] — what you leave behind and who collects it
 
-## The Toolkit
+**Taking Action**
 
-Practical tools for taking back control:
+- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — how to build this capacity in a community or classroom
+- [[03 CREATE/🌲 Evergreens/Digital Tool Choice as Values Expression\|Digital Tool Choice as Values Expression]] — why the tools you choose are a form of values communication
+- [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] — working toward better without demanding perfect
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]] — what it looks like to maintain meaningful control
+- [[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]] — the real tradeoffs, honestly assessed
 
-| Need | Privacy-First Solution | Why It Protects You |
-|------|------------------------|---------------------|
-| Messaging | [[Signal\|Signal]], [[Session\|Session]] | End-to-end encryption by default |
-| Documents | [[CryptPad\|CryptPad]] | Zero-knowledge — even servers can't read your docs |
-| Community Chat | [[Matrix\|Matrix]]/Element | Encrypted + community-controlled servers |
-| File Storage | [[Nextcloud\|Nextcloud]] | Your data, your servers, your rules |
+**In Education**
 
----
+- [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] — how data collection operates in schools
+- [[03 CREATE/🌲 Evergreens/Technology-Enabled Surveillance and Civil Rights\|Technology-Enabled Surveillance and Civil Rights]] — the broader legal and civil liberties context
+- [[03 CREATE/🌲 Evergreens/Student Information Privacy and Data Security Best Practices\|Student Information Privacy and Data Security Best Practices]] — practical guidance for educators
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]] — the broader pedagogical framework
 
-## Getting Started
+**How Encryption Works**
 
-**For Individuals:**
-1. Start with one tool swap (Signal for texting is easiest)
-2. Understand the "why" before the "how"
-3. Build habits gradually — this is a practice, not a destination
-
-**For Communities:**
-1. Identify privacy champions who can learn deeply and support others
-2. Run old and new systems in parallel during transitions
-3. Frame tool changes as learning opportunities, not technical burdens
-4. Make decisions together — cooperative governance strengthens adoption
+- [[03 CREATE/🌲 Evergreens/Encryption\|Encryption]] — the foundational concept
+- [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]] — what it means when a tool claims to protect your messages
 
 ---
 
-## Related Groves
+## Start Here
 
-- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools built to protect you by default
-- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — Owning your data and infrastructure
-- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Skills for staying safe online
+New to this topic? Start with [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]. Once you understand the business model, everything else about why privacy matters and why change is hard starts to make sense.
 
 ---
 
-## Seeds (Foundational Concepts)
+## Connected Groves
 
-- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy matters
-- [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
-- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions
-- [[02 DEVELOP/🌿 Plants/Surveillance and Data Ethics in Education\|Surveillance and Data Ethics in Education]] — The expanding data dragnet
-- [[02 DEVELOP/🌿 Plants/Unwritten Knowledge Systems\|Unwritten Knowledge Systems]] — What AI leaves out
-- [[02 DEVELOP/🌿 Plants/Literacy Technology and Social Justice\|Literacy Technology and Social Justice]] — Critical lens on digital spaces
-- [[02 DEVELOP/🌿 Plants/21st Century Educational Justice\|21st Century Educational Justice]] — Educators in today's civil rights struggle
-- [[02 DEVELOP/🌿 Plants/Generative AI and Identity\|Generative AI and Identity]] — How AI challenges notions of self
-- [[02 DEVELOP/🌿 Plants/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Navigating change without paralysis
-- [[02 DEVELOP/🌿 Plants/Building Educator Advocacy Networks\|Building Educator Advocacy Networks]] — Organizing for educational justice
-
----
-
-## Plants (Growing Knowledge)
-
-- [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Curated list of privacy-forward tools
-- [[02 DEVELOP/🌿 Plants/Privacy-First Communication Tools\|Privacy-First Communication Tools]] — Signal, Matrix, Jitsi setup guides
-- [[02 DEVELOP/🌿 Plants/Self-Hosting for Digital Sovereignty\|Self-Hosting for Digital Sovereignty]] — Taking control of your infrastructure
-- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — Pedagogy and approach
-- [[02 DEVELOP/🌿 Plants/Document Collaboration Tools\|Document Collaboration Tools]] — CryptPad and alternatives
-- [[02 DEVELOP/🌿 Plants/Communication Platforms\|Communication Platforms]] — Matrix vs Signal deep dive
-- [[02 DEVELOP/🌿 Plants/File Storage Solutions\|File Storage Solutions]] — Nextcloud options
-- [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Principles\|Anti-Racist Digital Literacy Principles]] — Framework for equity-centered curriculum
-- [[02 DEVELOP/🌿 Plants/AI Workshop Framework for Educators\|AI Workshop Framework for Educators]] — Professional development structure
-- [[02 DEVELOP/🌿 Plants/Building a Digital Commonplace Book\|Building a Digital Commonplace Book]] — Personal knowledge management
-- [[02 DEVELOP/🌿 Plants/Participatory Action Research in Education\|Participatory Action Research in Education]] — Research with, not on, educators
-- [[02 DEVELOP/🌿 Plants/Zotero Obsidian Research Workflow\|Zotero Obsidian Research Workflow]] — Academic knowledge management
-
----
-
-## Potential Forest
-
-This Grove contributes to: **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]**
-
----
-
-*This wiki exists to make privacy and security accessible to everyone — not just tech experts. You're invited to join this journey.*
-
-## Connections
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — tools built to protect you by default, not by configuration
+- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — who controls the infrastructure your digital life runs on
+- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — building the capacity to sustain good practices over time
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — how communities develop shared norms around digital safety

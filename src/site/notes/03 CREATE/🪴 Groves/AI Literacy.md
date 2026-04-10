@@ -5,151 +5,73 @@
 
 # AI Literacy
 
-*Knowing what the machine is doing — and what it's doing to you*
+AI literacy isn't about keeping up with the technology. It's about refusing to be kept by it.
 
-> AI literacy isn't about learning to prompt better. It's about understanding who built the system, what it optimizes for, and what it costs you to use it.
-
----
-
-## What This Is
-
-AI literacy is the ability to critically evaluate, effectively interact with, and make informed decisions about artificial intelligence. But "literacy" here means more than technical skill. It means understanding AI as a system of power — who funds it, what it extracts, whose interests it serves, and where it fails.
-
-This Grove gathers everything in the vault about AI from a literacy perspective: the foundational concepts, the educational frameworks, the safety concerns, and the human questions AI raises about identity, agency, and trust.
+Most conversations about AI focus on what it can do. AI literacy asks harder questions. Who built this? What does it optimize for? What does it cost you to use it, in data, in attention, in agency? These aren't technical questions. They're civic ones. And they matter for anyone who uses digital tools, not just people who work in tech.
 
 ---
 
-## The Core Tension
+## Key Terms
 
-AI tools are simultaneously:
-- **The most powerful learning amplifiers** available to educators
-- **The most sophisticated extraction systems** ever built for attention and data
+**AI Literacy** is the ability to critically evaluate, effectively interact with, and make informed decisions about artificial intelligence. This goes beyond knowing how to use AI tools. It means understanding the systems behind them, who they serve, and what they get in return.
 
-Teaching AI literacy means holding both truths. Not technophobia. Not techno-optimism. A clear-eyed understanding of what you're working with.
+**[[03 CREATE/🌲 Evergreens/AI Illiteracy\|AI Illiteracy]]** is the gap between using AI and understanding it. It shows up as misplaced trust (treating AI outputs as more reliable than they are), invisible bias (not seeing whose assumptions are embedded in the system), and unchecked automation (delegating decisions that deserve human judgment). It's not about being bad with technology. It's about not having the frameworks to evaluate what the technology is actually doing.
 
----
+**[[03 CREATE/🌲 Evergreens/Bias in AI\|Bias in AI]]** refers to the way AI systems reflect the data they were trained on, and that data was created by humans, in specific historical moments, with specific blind spots. Bias isn't a bug that gets patched. It's a structural feature of systems trained on human-generated content. Understanding this changes how you interpret AI outputs, especially in high-stakes contexts like healthcare, hiring, and education.
 
-## Foundational Concepts
+**[[03 CREATE/🌲 Evergreens/Human in the Loop\|Human in the Loop]]** is the principle that humans should remain involved in consequential AI-assisted decisions rather than fully delegating to automated systems. It isn't just a safety mechanism. It's an ethical commitment to maintaining accountability. When AI makes a decision that affects someone's life, a human should be able to explain and own that decision.
 
-These seeds and evergreens define the landscape.
+**[[03 CREATE/🌲 Evergreens/Agency\|Agency]]** in AI contexts means maintaining deliberate control over how you engage with AI tools, choosing when to use them, how to prompt them, and how critically to evaluate what they produce. High agency looks like using AI as a tool you're directing. Low agency looks like having the AI direct you.
 
-- [[03 CREATE/🌲 Evergreens/AI Illiteracy\|AI Illiteracy]] 🌲 — What it looks like when people can't critically evaluate AI: misplaced trust, invisible bias, unchecked automation
-- [[02 DEVELOP/🌱 Seeds/Big Five Ideas in AI\|Big Five Ideas in AI]] 🌱 — Perception, representation, learning, natural interaction, societal impact — the educational framework
-- [[02 DEVELOP/🌿 Plants/Frame Problem in AI\|Frame Problem in AI]] 🌱 — Why AI can't tell what's relevant and why that matters for everything from self-driving cars to essay graders
-- [[03 CREATE/🌲 Evergreens/Bias in AI\|Bias in AI]] 🌲 — Systematic discrimination baked into training data and algorithms, from healthcare to criminal justice
-- [[02 DEVELOP/🌿 Plants/AI and Emergent Behavior\|AI and Emergent Behavior]] 🌿 — How simple rules at scale produce complex behavior — flocking birds, ant colonies, and LLMs
-- [[02 DEVELOP/🌿 Plants/AI Classification Matrix\|AI Classification Matrix]] 🌿 — A 2x2 taxonomy: narrow vs. general, basic vs. advanced — helps people place what they're actually using
+**[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]** is the business model underlying most free AI tools. Your data and behavior are the product. AI systems are often designed to maximize engagement, extract information, and build predictive profiles, not to serve your interests. Understanding this model is foundational to understanding why AI behaves the way it does.
 
-### Understanding AI Systems
+**[[03 CREATE/🌲 Evergreens/What AI Cannot Know\|What AI Cannot Know]]** points to the real limits of AI systems that are often invisible in the outputs they produce. AI can't verify information in real time, doesn't know what it doesn't know, and can generate confident-sounding text about things it's wrong about. Knowing the edges of the tool matters as much as knowing what it can do.
 
-What AI systems are actually made of — and why the layers matter.
-
-- [[02 DEVELOP/🌿 Plants/AI System Layers\|AI System Layers]] 🌿 — The hub framework: model vs. harness vs. product, plus four analytical lenses (agency, memory, identity, orchestration). Start here.
-- [[02 DEVELOP/🌿 Plants/AI Model\|AI Model]] 🌿 — The trained capability itself. Weights, config, tokenizer — smaller than most people expect, and intentionally incomplete without a wrapper.
-- [[02 DEVELOP/🌿 Plants/AI Harness\|AI Harness]] 🌿 — The runtime wrapper around the model. Prompts, tools, memory systems, orchestration, UI. This is where most real-world behavior gets shaped.
-- [[02 DEVELOP/🌿 Plants/AI Product\|AI Product]] 🌿 — The full system people actually use. Servers, billing, routing, telemetry, hidden prompts, feature flags. Explains why products change silently.
-- [[02 DEVELOP/🌿 Plants/AI System Infrastructure\|AI System Infrastructure]] 🌿 — The backend that keeps the product running. The layer that explains unstable model identity, tiered access, and invisible control.
-- [[03 CREATE/📝 Blog/You're Not Just Using a Model - The Four Layers of Every AI System\|You're Not Just Using a Model - The Four Layers of Every AI System]] 🌱 — Blog post draft: accessible version of this framework for a general audience
-- [[03 CREATE/📝 Blog/Inside Claude Code - What Four Layers of AI Look Like in Practice\|Inside Claude Code - What Four Layers of AI Look Like in Practice]] 🌱 — Blog post draft: maps the four layers onto Claude Code using the leaked repo as a case study
+**[[03 CREATE/🌲 Evergreens/Best Available Human Framework\|Best Available Human Framework]]** is a pragmatic way to evaluate AI. Compare it not to an idealized expert, but to the actual human resources available in a given context. A busy teacher with 30 students gets different value from AI than a well-resourced professional with time to verify everything. This framework cuts through both hype and blanket dismissal.
 
 ---
 
-## Human Agency & Boundary Work
+## Go Deeper
 
-The central question: who's in charge — you or the model?
+**Understanding AI**
 
-- [[AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] 🌲 — Research framework on how humans negotiate control with AI. Distinguishes "orchestrators" (high agency, active boundaries) from "outsourcers" (passive delegation)
-- [[02 DEVELOP/🌿 Plants/AI Boundary Work and Agency\|AI Boundary Work and Agency]] 🌱 — Explores friction as a feature, not a bug — active boundary-setting as a practice of agency
-- [[02 DEVELOP/🌿 Plants/Cognitive Amplification with AI\|Cognitive Amplification with AI]] 🌱 — Human-in-the-loop design focused on amplifying wisdom, not just speed. The case for productive friction.
-- [[02 DEVELOP/🌿 Plants/AI and Human Identity 2035\|AI and Human Identity 2035]] 🌱 — What happens to empathy, creativity, and agency when AI partnerships deepen? Speculative but grounded
+- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] — what AI actually is, stripped of hype
+- [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]] — how AI systems learn from data
+- [[03 CREATE/🌲 Evergreens/General Attitudes Toward Generative AI\|General Attitudes Toward Generative AI]] — how people are actually responding to these tools
+- [[03 CREATE/🌲 Evergreens/Orchestrated Collaboration vs Algorithmic Passivity\|Orchestrated Collaboration vs Algorithmic Passivity]] — two very different ways of working with AI
 
----
+**AI in Education**
 
-## AI in the Classroom
+- [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] — structural lenses for making school-level decisions about AI
+- [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] — why detection tools don't work, and what to do instead
+- [[03 CREATE/🌲 Evergreens/Human in the Loop\|Human in the Loop]] — keeping humans accountable in AI-assisted decisions
+- [[02 DEVELOP/🌿 Plants/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] — practical classroom tools for human-in-the-loop teaching
+- [[03 CREATE/🌲 Evergreens/PedagoGPT Complex\|PedagoGPT Complex]] — the risks of outsourcing pedagogical judgment to AI
 
-Practical frameworks for teaching with and about AI.
+**AI and Power**
 
-- [[02 DEVELOP/🌿 Plants/AI Workshop Framework for Educators\|AI Workshop Framework for Educators]] 🌿 — 3-strand design: understanding AI/ML, designing AI-enhanced learning, AI as cognitive amplifier
-- [[02 DEVELOP/🌿 Plants/AI Summer Workshop for K-8 Teachers\|AI Summer Workshop for K-8 Teachers]] 🌿 — 5-day hands-on workshop with PRADA computational thinking framework, emotional anchors, and deliverables
-- [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] 🌲 — Detection tools don't work and create equity problems. Reframes assessment design as the real solution.
-- [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] 🌲 — Applies Bentoism (Now Me/Us, Future Me/Us) to AI decisions. Centers structural interests over individual adoption.
-- [[AI Pedagogical Mastery - Educational Advantage\|AI Pedagogical Mastery - Educational Advantage]] 🌿 — Educators have a hidden superpower: scaffolding, assessment, metacognition all multiply AI interaction quality
-- [[AI Communication Mastery - Linguistic Advantage\|AI Communication Mastery - Linguistic Advantage]] 🌿 — Linguistic sophistication creates compound advantages in AI interaction through semantic precision
-- [[02 DEVELOP/🌿 Plants/AI Ethics in Education Policy\|AI Ethics in Education Policy]] 🌱 — Framework for transparent, trust-based AI use in courses with disclosure and reflection requirements
+- [[03 CREATE/🌲 Evergreens/AI Geopolitics and the Open Model Question\|AI Geopolitics and the Open Model Question]] — who controls the infrastructure, and why it matters
+- [[03 CREATE/🌲 Evergreens/AI Policy Beyond Blanket Bans\|AI Policy Beyond Blanket Bans]] — what thoughtful AI governance actually looks like
+- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] — the business model behind most AI tools
+- [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] — what AI does to how we understand identity and authorship
 
----
+**AI Literacy in Practice**
 
-## Safety, Sycophancy & Systemic Risk
-
-Where AI literacy becomes a safety issue.
-
-- [[02 DEVELOP/🌿 Plants/AI Safety Spending Gap\|AI Safety Spending Gap]] 🌿 — Frontier labs spend billions on capability. All U.S. safety orgs combined: $133M. The structural imbalance driving everything below.
-- [[AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance\|AI Policy and Regulation Beyond Blanket Bans to Nuanced Governance]] 🌲 — Risk-based regulation, sectoral approaches, and accountability mechanisms. The policy alternative to panic.
-- [[03 CREATE/🌲 Evergreens/AI Geopolitics and the Open Model Question\|AI Geopolitics and the Open Model Question]] 🌲 — Open vs. closed models as an infrastructure control issue. Who owns the compute?
-- [[Best Available Human Standard - Pragmatic Framework\|Best Available Human Standard - Pragmatic Framework]] 🌲 — Evaluate AI against actual available human resources, not idealized experts. A pragmatic lens.
-- [[02 DEVELOP/🌿 Plants/Cheating Tension - Moral Ambiguity in AI Use\|Cheating Tension - Moral Ambiguity in AI Use]] 🌱 — Student guilt around AI use. The gap between policy and embodied practice.
+- [[03 CREATE/🌲 Evergreens/AI Illiteracy\|AI Illiteracy]] — what it looks like, and why smart people have it
+- [[03 CREATE/🌲 Evergreens/AI Boundary Co-Construction\|AI Boundary Co-Construction]] — research on how people negotiate control with AI systems
+- [[03 CREATE/🌲 Evergreens/Agency\|Agency]] — maintaining authorship in AI-assisted work
+- [[03 CREATE/🌲 Evergreens/Nexus Analysis for AI Literacy Research\|Nexus Analysis for AI Literacy Research]] — research framework for studying AI literacy in real contexts
 
 ---
 
-## Identity, Trust & What AI Means for Being Human
+## Start Here
 
-The philosophical undercurrent.
-
-- [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] 🌲 — How AI disrupts the self/subject distinction. Identity construction in the age of algorithmic personalization.
-- [[02 DEVELOP/🌿 Plants/Generative AI and Identity\|Generative AI and Identity]] 🌱 — How generative tools challenge uniqueness and authenticity. Fluidity of subject positions.
-- [[02 DEVELOP/🌿 Plants/AI Beyond Simple Mimicry\|AI Beyond Simple Mimicry]] 🌿 — Modern AI has internal representations and reasoning, not just pattern matching. What does that mean for how we relate to it?
-- [[02 DEVELOP/🌱 Seeds/Trust and Sincerity Detection in AI\|Trust and Sincerity Detection in AI]] 🌱 — Can AI help us evaluate trustworthiness of information? Design concepts for a browser extension approach.
+New to this topic? Start with [[03 CREATE/🌲 Evergreens/AI Illiteracy\|AI Illiteracy]]. It reframes the question from "how do I use AI?" to "what does it mean to actually understand what I'm using?"
 
 ---
 
-## Broader Landscape
+## Connected Groves
 
-Concepts that connect to this Grove but live elsewhere in the vault.
-
-### Technical Foundations
-- [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] — The umbrella concept
-- [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]] / [[02 DEVELOP/🌿 Plants/Deep Learning\|Deep Learning]] / [[02 DEVELOP/🌿 Plants/Neural Networks\|Neural Networks]] — How AI systems actually work
-- [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] / [[Large Language Models (LLMs)\|Large Language Models (LLMs)]] — The technology behind ChatGPT and its successors
-- [[02 DEVELOP/🌿 Plants/Generative AI\|Generative AI]] — Models that create text, images, code
-- [[Computer Vision\|Computer Vision]] / [[02 DEVELOP/🌿 Plants/Reinforcement Learning\|Reinforcement Learning]] — Other branches of ML
-
-### Ethics and Accountability
-- [[Algorithmic Accountability\|Algorithmic Accountability]] — Who's responsible when the model is wrong?
-- [[Algorithmic Oppression\|Algorithmic Oppression]] — Structural discrimination encoded in systems
-- [[AI and Labor\|AI and Labor]] — Automation, displacement, and the value of human work
-- [[AI and Democracy\|AI and Democracy]] — Algorithmic influence on political discourse
-- [[Transparency vs Explainability\|Transparency vs Explainability]] — Two different problems often conflated
-- [[Responsible AI Development\|Responsible AI Development]] — Industry frameworks and their limits
-
-### Critical and Interdisciplinary
-- [[Critical AI Studies\|Critical AI Studies]] — Academic field interrogating AI as a power structure
-- [[Feminist AI\|Feminist AI]] / [[Decolonizing AI\|Decolonizing AI]] — Challenging whose values AI encodes
-- [[AI and Climate Justice\|AI and Climate Justice]] — The environmental cost of computation
-- [[AI Narratives in Popular Culture\|AI Narratives in Popular Culture]] — How fiction shapes public understanding
-
-### Privacy-Preserving AI
-- [[Privacy-Preserving AI\|Privacy-Preserving AI]] — The bridge to [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
-- [[Federated Learning\|Federated Learning]] / [[Differential Privacy\|Differential Privacy]] / [[Homomorphic Encryption\|Homomorphic Encryption]] — Technical approaches to AI that doesn't spy on you
-
----
-
-## Related Groves
-
-- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework: agency, context, and power in digital systems
-- [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]] — Staying strong and sustainable when the tools keep changing
-- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect by default — the infrastructure AI literacy needs
-- [[03 CREATE/🪴 Groves/Internet Culture\|Internet Culture]] — The platform dynamics that AI systems amplify
-
----
-
-## Potential Forest
-
-This Grove feeds into: **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]**
-
-AI literacy is not a separate domain from digital literacy. It's the newest, most urgent frontier of the same fight: understanding who built the system you're using, what it costs you, and what alternatives exist.
-
----
-
-*AI literacy is not about keeping up with the technology. It's about refusing to be kept by it.*
-
-## Connections
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — the parent framework, who controls your digital life
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — tools that protect by default, including from AI extraction
+- [[03 CREATE/🪴 Groves/Internet Culture\|Internet Culture]] — the platform dynamics that AI systems operate within and amplify
