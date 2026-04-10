@@ -40,6 +40,18 @@ These seeds and evergreens define the landscape.
 - [[02 DEVELOP/🌿 Plants/AI and Emergent Behavior\|AI and Emergent Behavior]] 🌿 — How simple rules at scale produce complex behavior — flocking birds, ant colonies, and LLMs
 - [[02 DEVELOP/🌿 Plants/AI Classification Matrix\|AI Classification Matrix]] 🌿 — A 2x2 taxonomy: narrow vs. general, basic vs. advanced — helps people place what they're actually using
 
+### Understanding AI Systems
+
+What AI systems are actually made of — and why the layers matter.
+
+- [[02 DEVELOP/🌿 Plants/AI System Layers\|AI System Layers]] 🌿 — The hub framework: model vs. harness vs. product, plus four analytical lenses (agency, memory, identity, orchestration). Start here.
+- [[02 DEVELOP/🌿 Plants/AI Model\|AI Model]] 🌿 — The trained capability itself. Weights, config, tokenizer — smaller than most people expect, and intentionally incomplete without a wrapper.
+- [[02 DEVELOP/🌿 Plants/AI Harness\|AI Harness]] 🌿 — The runtime wrapper around the model. Prompts, tools, memory systems, orchestration, UI. This is where most real-world behavior gets shaped.
+- [[02 DEVELOP/🌿 Plants/AI Product\|AI Product]] 🌿 — The full system people actually use. Servers, billing, routing, telemetry, hidden prompts, feature flags. Explains why products change silently.
+- [[02 DEVELOP/🌿 Plants/AI System Infrastructure\|AI System Infrastructure]] 🌿 — The backend that keeps the product running. The layer that explains unstable model identity, tiered access, and invisible control.
+- [[03 CREATE/📝 Blog/You're Not Just Using a Model - The Four Layers of Every AI System\|You're Not Just Using a Model - The Four Layers of Every AI System]] 🌱 — Blog post draft: accessible version of this framework for a general audience
+- [[03 CREATE/📝 Blog/Inside Claude Code - What Four Layers of AI Look Like in Practice\|Inside Claude Code - What Four Layers of AI Look Like in Practice]] 🌱 — Blog post draft: maps the four layers onto Claude Code using the leaked repo as a case study
+
 ---
 
 ## Human Agency & Boundary Work
