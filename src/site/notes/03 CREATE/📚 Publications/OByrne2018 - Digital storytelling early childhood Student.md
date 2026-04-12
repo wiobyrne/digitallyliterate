@@ -23,4 +23,4 @@ This study tests an instructional model designed to empower students in an early
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

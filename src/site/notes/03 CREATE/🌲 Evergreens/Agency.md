@@ -40,7 +40,7 @@ This conceptualization of agency draws from:
 - Constraining AI to prevent over-delegation
 - Asking for critique, synthesis, or comparison (not just summary)
 
-### 3. Agency over Output Evaluation ([[02 DEVELOP/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]])
+### 3. Agency over Output Evaluation ([[03 CREATE/🔨 Projects/Active/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]])
 - Critically assessing quality and bias
 - Recognizing hallucinations or errors
 - Deciding what merits trust
@@ -119,7 +119,7 @@ Fostering agency in AI-literacy requires:
 ## Related Notes
 
 - [[02 DEVELOP/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
-- [[02 DEVELOP/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- [[04 META/🔧 Workbench/STEAM Research/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
 - [[02 DEVELOP/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
 
 ---

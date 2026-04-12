@@ -47,7 +47,7 @@ Boundary-work appears throughout the analytic framework:
 
 - **[[03 CREATE/🔨 Projects/Active/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]]** - Boundaries set through source curation
 - **[[03 CREATE/🔨 Projects/Active/Co-constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]]** - Boundaries enacted through prompt constraints
-- **[[02 DEVELOP/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]** - Boundaries triggered by output quality assessment
+- **[[03 CREATE/🔨 Projects/Active/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]** - Boundaries triggered by output quality assessment
 - **[[Co-Constructing AI Boundaries Framework Component - Integration\|Co-Constructing AI Boundaries Framework Component - Integration]]** - Boundaries made visible in modification/rejection
 - **[[Co-Constructing AI Boundaries Framework Component - Reflection\|Co-Constructing AI Boundaries Framework Component - Reflection]]** - Boundaries articulated through metacognition
 
@@ -79,7 +79,7 @@ Strong boundary-work practices indicate:
 ## Related Notes
 
 - [[02 DEVELOP/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
-- [[02 DEVELOP/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- [[04 META/🔧 Workbench/STEAM Research/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
 - [[02 DEVELOP/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
 
 ---

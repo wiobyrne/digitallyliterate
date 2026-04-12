@@ -16,4 +16,4 @@ Zawilinski, Lisa; Carter, Amy; O’Byrne, Ian; et al. (2007) Toward a taxonomy o
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

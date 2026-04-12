@@ -39,7 +39,7 @@ The presentation is built around an adapted analytic framework from Mollick & Mo
 
 - **Slide Deck:** [Link to Google Drive](https://docs.google.com/presentation/d/1cNSKL4WmH1PS14Pj2cue8SFlyFwInGweujgvq-xM95k/edit?usp=sharing)
 - **Research Methods:** [[04 META/🔧 Workbench/STEAM Research/Co-Constructing AI Boundaries Research Methods Justification\|Co-Constructing AI Boundaries Research Methods Justification]]
-- **Framework Justification:** [[02 DEVELOP/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- **Framework Justification:** [[04 META/🔧 Workbench/STEAM Research/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
 - **Additional Analysis:** [[02 DEVELOP/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
 
 ---

@@ -19,7 +19,7 @@ Companion to the May 2015 JAAL column: [[03 CREATE/📚 Publications/McVerry2015
 
 ## Connected Concepts
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/🌿 Plants/Four Cs of Digital Literacy\|Four Cs of Digital Literacy]]
+- [[02 DEVELOP/Four Cs of Digital Literacy\|Four Cs of Digital Literacy]]
 - [[03 CREATE/🎓 Teaching/ORMS MOOC\|ORMS MOOC]]

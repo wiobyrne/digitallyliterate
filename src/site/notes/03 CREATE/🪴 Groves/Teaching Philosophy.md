@@ -108,7 +108,7 @@ Where pedagogy meets artificial intelligence.
 
 ## Research and Community
 
-- [[02 DEVELOP/Participatory Action Research STEAM Project\|Participatory Action Research STEAM Project]] 🌿 — Mixed-methods study of STEAM teachers
+- [[04 META/🔧 Workbench/STEAM Research/Participatory Action Research STEAM Project\|Participatory Action Research STEAM Project]] 🌿 — Mixed-methods study of STEAM teachers
 - [[02 DEVELOP/Anti-Racist Digital Literacy Practices\|Anti-Racist Digital Literacy Practices]] 🌿 — Conference session and chapter content
 - [[02 DEVELOP/InitiatED 21st Century Educational Justice\|InitiatED 21st Century Educational Justice]] 🌿 — Educational justice research initiative
 - [[03 CREATE/🎓 Teaching/Assessment Tools and Rubrics Collection\|Assessment Tools and Rubrics Collection]] 🌿 — Video, portfolio, literacy, STEAM rubrics

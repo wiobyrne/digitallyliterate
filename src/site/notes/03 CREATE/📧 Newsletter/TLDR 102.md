@@ -120,7 +120,7 @@ The post then suggests a 50/50 mix of [LaCroix Coconut](http://www.lacroixwater.
 - [[Gendered Language\|Gendered Language]] — Research on how we talk to children reveals patterns where men routinely talk down to or over women in public forums, demanding deeper examination of the words we use and the weight they carry when negotiating gender, race, and class in education.
 - [[EdTech Critical Evaluation\|EdTech Critical Evaluation]] — We rarely question the tools we use or their terms of service, either trusting EdTech platforms like Turnitin or not knowing enough to distrust them, requiring rubrics to evaluate how institutions and vendors handle student data and content.
 - [[Student Surveillance\|Student Surveillance]] — Rhode Island school districts give themselves permission to remotely spy on students through school-issued laptops, echoing the 2010 Lower Merion webcam scandal but on a grander scale, raising fundamental questions about student privacy rights.
-- [[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]] — Following individuals like Jonny Sun who successfully build digital identities on platforms like Twitter provides insight into the possibilities and pathways for shaping authentic online presence in academic and creative spaces.
+- [[02 DEVELOP/Digital Identity\|Digital Identity]] — Following individuals like Jonny Sun who successfully build digital identities on platforms like Twitter provides insight into the possibilities and pathways for shaping authentic online presence in academic and creative spaces.
 
 ---
 

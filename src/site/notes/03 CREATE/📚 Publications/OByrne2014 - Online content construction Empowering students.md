@@ -24,5 +24,5 @@ It is increasingly clear that this generation of adolescents is almost always co
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Online Research and Media Skills\|Online Research and Media Skills]]
