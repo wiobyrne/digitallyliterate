@@ -69,6 +69,6 @@ Per UNH Graduate School policy, students whose work falls at C+ or below are req
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]
 - [[Online Content Creation\|Online Content Creation]]
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[New Literacies\|New Literacies]]
 - [[03 CREATE/🪴 Groves/Critical Evaluation and Digital Literacy\|Critical Evaluation and Digital Literacy]]

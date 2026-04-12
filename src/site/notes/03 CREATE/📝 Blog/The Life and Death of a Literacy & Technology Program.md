@@ -50,7 +50,7 @@ Cover photo by Frank Wittig http://flickr.com/photos/frankwittig/17421814826 sha
 
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]
 - [[03 CREATE/📚 Publications/OByrne2015 - Hybrid blended learning Modifying pedagogy\|OByrne2015 - Hybrid blended learning Modifying pedagogy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Open Education\|Open Education]]
 - [[New Literacies\|New Literacies]]
 

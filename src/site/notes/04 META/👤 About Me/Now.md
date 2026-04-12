@@ -11,9 +11,9 @@ This is my "now page" – a snapshot of what I'm currently focused on, learning 
 
 ## 🔍 Current Focus
 
-- **[[02 DEVELOP/🌿 Plants/Signpost Sessions Framework\|Signpost Sessions]]**: Facilitating cross-sector asynchronous learning sessions through [[02 DEVELOP/🌿 Plants/InitiatED 21st Century Educational Justice\|InitiatED]]. Building community infrastructure around collective inquiry and educator civil rights frameworks.
+- **[[03 CREATE/🔨 Projects/Active/Signpost Sessions Framework\|Signpost Sessions]]**: Facilitating cross-sector asynchronous learning sessions through [[02 DEVELOP/InitiatED 21st Century Educational Justice\|InitiatED]]. Building community infrastructure around collective inquiry and educator civil rights frameworks.
 - **AI and Cybersecurity for K-8**: Developing background knowledge, learning materials, and assessments for teaching AI literacy and cybersecurity to younger students and their teachers.
-- **[[02 DEVELOP/🌿 Plants/Digital Sovereignty Framework\|Digital Sovereignty]] in Practice**: Less theory, more doing. Self-hosting services, building out the homelab, and documenting what it actually takes to own your digital infrastructure.
+- **[[02 DEVELOP/Digital Sovereignty Framework\|Digital Sovereignty]] in Practice**: Less theory, more doing. Self-hosting services, building out the homelab, and documenting what it actually takes to own your digital infrastructure.
 
 ---
 
@@ -29,7 +29,7 @@ This is my "now page" – a snapshot of what I'm currently focused on, learning 
 
 ## 🌱 Learning
 
-- **Local AI**: Running [[02 DEVELOP/🌿 Plants/Local AI Setup - Ollama and AnythingLLM with Obsidian\|Ollama and AnythingLLM]] locally to work with my vault privately. Interested in what AI assistance looks like when the model stays on your hardware.
+- **Local AI**: Running [[04 META/🔧 Workbench/Obsidian/Local AI Setup - Ollama and AnythingLLM with Obsidian\|Ollama and AnythingLLM]] locally to work with my vault privately. Interested in what AI assistance looks like when the model stays on your hardware.
 - **Network Infrastructure**: Sorting out the gap between my garage office and the main house. Learning more about Ubiquiti hardware and how to build a reliable setup without relying on consumer mesh systems.
 - **Homelab Systems**: Each new service I spin up teaches me something — about Linux, about networking, about where my knowledge has gaps.
 
@@ -38,7 +38,7 @@ This is my "now page" – a snapshot of what I'm currently focused on, learning 
 ## 📝 Projects
 
 - **Digital Garden**: Ongoing. Recently rebuilt the About Me section, converted the newsletter page to a dynamic template, and cleaned up a significant backlog of publishing conflicts.
-- **[[02 DEVELOP/🌿 Plants/Homelab Journey Overview\|Homelab Blog Series]]**: Documenting the build — Proxmox, Frigate, Home Assistant, TrueNAS — as a public record of the process, not just the outcome.
+- **[[02 DEVELOP/Homelab Journey Overview\|Homelab Blog Series]]**: Documenting the build — Proxmox, Frigate, Home Assistant, TrueNAS — as a public record of the process, not just the outcome.
 - **Digitally Literate Newsletter**: Writing and curating the weekly [[04 META/🛠️ System/Digitally Literate\|Digitally Literate]] newsletter.
 
 ---

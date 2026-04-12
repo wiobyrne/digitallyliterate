@@ -25,7 +25,7 @@ My choices prioritize open standards, data portability, and privacy by design. I
 ### Mobile
 
 - **Phone**: Google Pixel 9 Pro XL
-- **Tablet**: Boox Note Air 5c — primary e-ink device for reading and annotation. Slower screen, intentionally. See [[02 DEVELOP/🌱 Seeds/E-Ink and Intentional Computing\|E-Ink and Intentional Computing]].
+- **Tablet**: Boox Note Air 5c — primary e-ink device for reading and annotation. Slower screen, intentionally. See [[02 DEVELOP/E-Ink and Intentional Computing\|E-Ink and Intentional Computing]].
 
 ---
 
@@ -35,7 +35,7 @@ My choices prioritize open standards, data portability, and privacy by design. I
 
 - **[Obsidian](https://obsidian.md/)** — Primary knowledge management. My entire intellectual life runs through here.
 - **Digital Garden Plugin** — Publishes select vault notes to [digitallyliterate.net](https://digitallyliterate.net) via GitHub → Netlify → 11ty.
-- **[Zotero](https://www.zotero.org/)** — Academic reference management. See [[02 DEVELOP/🌿 Plants/Zotero Obsidian Research Workflow\|Zotero Obsidian Research Workflow]].
+- **[Zotero](https://www.zotero.org/)** — Academic reference management. See [[01 CONSUME/📰 Papers/Zotero Obsidian Research Workflow\|Zotero Obsidian Research Workflow]].
 - **[Hypothesis](https://web.hypothes.is/)** — Web annotation and research.
 
 ### Key Obsidian Plugins
@@ -48,7 +48,7 @@ My choices prioritize open standards, data portability, and privacy by design. I
 ### Local AI
 
 - **[Ollama](https://ollama.ai/)** — Self-hosted local LLM runner. Runs on the desktop GPU (RTX 4070) so models stay on my hardware.
-- **[AnythingLLM](https://anythingllm.com/)** — Interface for chatting with my vault locally via RAG. See [[02 DEVELOP/🌿 Plants/Local AI Setup - Ollama and AnythingLLM with Obsidian\|Local AI Setup - Ollama and AnythingLLM with Obsidian]].
+- **[AnythingLLM](https://anythingllm.com/)** — Interface for chatting with my vault locally via RAG. See [[04 META/🔧 Workbench/Obsidian/Local AI Setup - Ollama and AnythingLLM with Obsidian\|Local AI Setup - Ollama and AnythingLLM with Obsidian]].
 
 ### Research Tools
 
@@ -84,7 +84,7 @@ My choices prioritize open standards, data portability, and privacy by design. I
 
 ### Homelab
 
-- **[Proxmox](https://www.proxmox.com/)** — Virtualization platform. Runs VMs and containers for all self-hosted services. See [[02 DEVELOP/🌿 Plants/Homelab Journey Overview\|Homelab Journey Overview]].
+- **[Proxmox](https://www.proxmox.com/)** — Virtualization platform. Runs VMs and containers for all self-hosted services. See [[02 DEVELOP/Homelab Journey Overview\|02 DEVELOP/Homelab Journey Overview]].
 - **[Home Assistant](https://www.home-assistant.io/)** — Local-first smart home automation, running as a Proxmox VM. No cloud dependency.
 - **[Frigate](https://frigate.video/)** — Self-hosted NVR for home cameras, replacing Wyze cloud. Local AI object detection via VAAPI. See [[04 META/🔧 Workbench/Homelab/Services/Frigate NVR\|Frigate NVR]].
 - **[TrueNAS](https://www.truenas.com/)** — Network attached storage and local backup.
@@ -173,6 +173,6 @@ Happy to discuss any of these. Reach out if you have questions about implementin
 
 - [[04 META/👤 About Me/Now\|Now]]
 - [[04 META/👤 About Me/About Me\|About Me]]
-- [[02 DEVELOP/🌿 Plants/Digital Sovereignty Framework\|Digital Sovereignty Framework]]
-- [[02 DEVELOP/🌿 Plants/Local AI Setup - Ollama and AnythingLLM with Obsidian\|Local AI Setup - Ollama and AnythingLLM with Obsidian]]
-- [[02 DEVELOP/🌿 Plants/Homelab Journey Overview\|Homelab Journey Overview]]
+- [[02 DEVELOP/Digital Sovereignty Framework\|Digital Sovereignty Framework]]
+- [[04 META/🔧 Workbench/Obsidian/Local AI Setup - Ollama and AnythingLLM with Obsidian\|Local AI Setup - Ollama and AnythingLLM with Obsidian]]
+- [[02 DEVELOP/Homelab Journey Overview\|02 DEVELOP/Homelab Journey Overview]]

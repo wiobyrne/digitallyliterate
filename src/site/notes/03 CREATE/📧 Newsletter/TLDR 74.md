@@ -127,7 +127,7 @@ Empathy is about standing in someone else's shoes, feeling with his or her heart
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌱 Seeds/Empathy\|Empathy]]** — Daniel Pink quote standing in someone else's shoes, literature teaches us to understand the other allows for difference.
+- **[[02 DEVELOP/Empathy\|Empathy]]** — Daniel Pink quote standing in someone else's shoes, literature teaches us to understand the other allows for difference.
 - **[[Literacy Practices\|Literacy Practices]]** — Will Schwalbe the need to read engage with world, post-literate age focus on medium not message short form bursts.
 - **[[Visual Learning\|Visual Learning]]** — I've often said I'm a visual learner but research suggests otherwise, people learn best when information presented in multiple ways.
 - **[[Will Schwalbe\|Will Schwalbe]]** — Wall Street Journal the need to read, we overschedule bombard ourselves with interruptions even interrupt our interruptions.

@@ -128,9 +128,9 @@ Internet is now a fundamental fact of modern life.
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]]** — Veronica Belmont challenges putting ourselves online, honest discussions about opportunities and risks.
+- **[[02 DEVELOP/Digital Identity\|Digital Identity]]** — Veronica Belmont challenges putting ourselves online, honest discussions about opportunities and risks.
 - **[[Twitter\|Twitter]]** — Leslie Jones harassment, verification circle of trust, I immediately applied and was rejected.
-- **[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]** — George Couros conversations on positive negative neutral footprints, don't schoolify everything.
+- **[[02 DEVELOP/Digital Citizenship\|Digital Citizenship]]** — George Couros conversations on positive negative neutral footprints, don't schoolify everything.
 - **[[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]** — Jasmine McNealy on publicness and expectations, problematize definitions online and face-to-face.
 - **[[01 CONSUME/👥 People/Christopher Emdin\|Christopher Emdin]]** — Reality pedagogy opening space for and actively valuing students' expertise on their own lives.
 - **[[Screencasts\|Screencasts]]** — Education assessment research, multimodal tutorials, I think all educators should have this skillset.

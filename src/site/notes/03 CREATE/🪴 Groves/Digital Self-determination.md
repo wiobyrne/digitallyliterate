@@ -15,7 +15,7 @@ It isn't a technical skill. It's a stance. The question isn't whether you can co
 
 **Digital self-determination** is the right of individuals and communities to decide how their data, identity, and participation are governed in the digital world. It draws from political philosophy and the language of self-governance, and it applies that language to digital life. Who decides what happens to your photos, your messages, your location history, your purchasing patterns? Right now, mostly other people do.
 
-**[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]** is the name for the business model underlying most of the free digital tools we use. Your attention, behavior, and data are the product being sold. The platforms aren't broken or accidentally privacy-violating. They're working exactly as designed, optimized to extract information and convert it into advertising revenue and predictive modeling. Understanding this model makes the choices clearer.
+**[[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]]** is the name for the business model underlying most of the free digital tools we use. Your attention, behavior, and data are the product being sold. The platforms aren't broken or accidentally privacy-violating. They're working exactly as designed, optimized to extract information and convert it into advertising revenue and predictive modeling. Understanding this model makes the choices clearer.
 
 **[[03 CREATE/🌲 Evergreens/Dark Patterns\|Dark Patterns]]** are design choices that trick or pressure users into giving up more than they intended. They show up as confusing opt-out flows, pre-checked consent boxes, interfaces that make the privacy-protective choice harder to find than the data-sharing one. They're not accidents. They're features, built to serve the platform at the user's expense.
 
@@ -23,7 +23,7 @@ It isn't a technical skill. It's a stance. The question isn't whether you can co
 
 **[[03 CREATE/🌲 Evergreens/Agency\|Agency]]** in digital contexts means maintaining meaningful control over your digital life, not just in theory but in practice. It's the difference between having privacy settings available and actually understanding what they do. Between using a tool and understanding whose interests that tool serves. High agency doesn't require technical expertise. It requires the habit of asking questions.
 
-**[[02 DEVELOP/🌿 Plants/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]** describes what happens when your information, relationships, and work become locked inside a platform you don't control. Moving away becomes harder over time because the cost of leaving keeps rising. Digital self-determination requires thinking about this before it happens, building habits and using tools that keep your options open.
+**[[02 DEVELOP/Platform Capture and Knowledge Liberation\|02 DEVELOP/Platform Capture and Knowledge Liberation]]** describes what happens when your information, relationships, and work become locked inside a platform you don't control. Moving away becomes harder over time because the cost of leaving keeps rising. Digital self-determination requires thinking about this before it happens, building habits and using tools that keep your options open.
 
 **[[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]]** matters because most people dramatically underestimate how much information they generate simply by living their lives online. Every search, click, purchase, location check-in, and social interaction adds to a persistent record. Understanding what that record contains and who has access to it is the starting point for any meaningful privacy practice.
 
@@ -35,15 +35,15 @@ It isn't a technical skill. It's a stance. The question isn't whether you can co
 
 **Understanding the Problem**
 
-- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] — the business model you're participating in whether you know it or not
+- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model you're participating in whether you know it or not
 - [[03 CREATE/🌲 Evergreens/Dark Patterns\|Dark Patterns]] — how platforms are designed to work against you
 - [[03 CREATE/🌲 Evergreens/Enshittification\|Enshittification]] — why platforms that start good tend to go bad
-- [[02 DEVELOP/🌿 Plants/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — what happens when you don't plan your exit
+- [[02 DEVELOP/Platform Capture and Knowledge Liberation\|02 DEVELOP/Platform Capture and Knowledge Liberation]] — what happens when you don't plan your exit
 - [[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]] — what you leave behind and who collects it
 
 **Taking Action**
 
-- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — how to build this capacity in a community or classroom
+- [[02 DEVELOP/Teaching Digital Self-determination\|02 DEVELOP/Teaching Digital Self-determination]] — how to build this capacity in a community or classroom
 - [[03 CREATE/🌲 Evergreens/Digital Tool Choice as Values Expression\|Digital Tool Choice as Values Expression]] — why the tools you choose are a form of values communication
 - [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] — working toward better without demanding perfect
 - [[03 CREATE/🌲 Evergreens/Agency\|Agency]] — what it looks like to maintain meaningful control
@@ -65,7 +65,7 @@ It isn't a technical skill. It's a stance. The question isn't whether you can co
 
 ## Start Here
 
-New to this topic? Start with [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]. Once you understand the business model, everything else about why privacy matters and why change is hard starts to make sense.
+New to this topic? Start with [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]]. Once you understand the business model, everything else about why privacy matters and why change is hard starts to make sense.
 
 ---
 

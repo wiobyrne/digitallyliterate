@@ -19,7 +19,7 @@ This article explores why K-12 education has not effectively integrated Web 2.0 
 
 ## Connected Concepts
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[New Literacies\|New Literacies]]
 - [[03 CREATE/🪴 Groves/Critical Evaluation and Digital Literacy\|Critical Evaluation and Digital Literacy]]
-- [[02 DEVELOP/🌱 Seeds/Digital Skills vs Digital Literacy\|Digital Skills vs Digital Literacy]]
+- [[02 DEVELOP/Digital Skills vs Digital Literacy\|Digital Skills vs Digital Literacy]]

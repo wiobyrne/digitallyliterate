@@ -38,8 +38,8 @@ Satisficing is not a surrender to mediocrity; it is a strategic surrender to the
 
 ## Connections
 
-- [[02 DEVELOP/🌿 Plants/Objects of Consciousness\|Objects of Consciousness]]
-- [[02 DEVELOP/🌿 Plants/Assumptions and Miracles\|Assumptions and Miracles]]
-- [[02 DEVELOP/🌿 Plants/With a Good Scientific Attitude, You Assume You're Wrong\|With a Good Scientific Attitude, You Assume You're Wrong]]
-- [[02 DEVELOP/🌿 Plants/The Power of Learning Out Loud\|The Power of Learning Out Loud]]
+- [[02 DEVELOP/Objects of Consciousness\|Objects of Consciousness]]
+- [[02 DEVELOP/Assumptions and Miracles\|Assumptions and Miracles]]
+- [[02 DEVELOP/With a Good Scientific Attitude, You Assume You're Wrong\|With a Good Scientific Attitude, You Assume You're Wrong]]
+- [[02 DEVELOP/The Power of Learning Out Loud\|The Power of Learning Out Loud]]
 - [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]

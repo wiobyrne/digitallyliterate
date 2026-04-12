@@ -119,8 +119,8 @@ Threat modeling for communities is the digital equivalent: thinking ahead so tha
 ## Foundational Concepts
 
 - [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Understanding what tools can and can't protect
-- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — The individual version of this practice
-- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why this matters for everyone, not just "high-risk" groups
+- [[02 DEVELOP/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — The individual version of this practice
+- [[02 DEVELOP/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why this matters for everyone, not just "high-risk" groups
 
 ---
 

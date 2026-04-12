@@ -36,7 +36,7 @@ Try: *"We're switching to CryptPad because our organization believes our documen
 
 The second version invites the conversation that builds lasting understanding. The first version just changes the login screen.
 
-This is why [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|Teaching Digital Self-determination]] frames tool migration as curriculum — not a technical burden, but a teaching opportunity that most organizations walk past without realizing it.
+This is why [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|03 CREATE/🌲 Evergreens/Teaching Digital Self-determination]] frames tool migration as curriculum — not a technical burden, but a teaching opportunity that most organizations walk past without realizing it.
 
 ---
 
@@ -50,8 +50,8 @@ Tool choices made consciously, over time, build something. Communities that talk
 
 ## Connections
 
-- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — The broader pedagogical framework this supports
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|03 CREATE/🌲 Evergreens/Teaching Digital Self-determination]] — The broader pedagogical framework this supports
 - [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|Digital Sovereignty]] — The goal that intentional tool choice works toward
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools built to protect by default, not by configuration
 - [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — How shared norms around tool use build community resilience
-- [[03 CREATE/🌲 Evergreens/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — What happens when communities don't make these choices consciously
+- [[03 CREATE/🌲 Evergreens/Platform Capture and Knowledge Liberation\|03 CREATE/🌲 Evergreens/Platform Capture and Knowledge Liberation]] — What happens when communities don't make these choices consciously

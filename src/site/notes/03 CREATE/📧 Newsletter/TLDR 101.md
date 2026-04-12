@@ -120,7 +120,7 @@ Take some time to play along and learn a ton.
 - [[Encryption and Privacy\|Encryption and Privacy]] — Politicians exploit terror attacks to call for weakening or banning encryption, despite technical impossibility and security risks, highlighting the duty to understand how digital tools operate as Aaron Swartz said: "It's no longer OK not to understand how the Internet works."
 - [[Information Manipulation\|Information Manipulation]] — Trump-Russia data machine games Google search results using bots, paid advertising, and personal data to spread custom-tailored misinformation, demanding greater critical media literacy and emotional intelligence in education to negotiate these attacks.
 - [[Hate Speech in Education\|Hate Speech in Education]] — Students quote Trump to bully classmates following the presidential election, creating tension between protecting learning environments and allowing students to make mistakes without permanent consequences, requiring careful navigation of language, culture, and safety in classrooms.
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] — Google's "Be Internet Awesome" curriculum and Interland game teach kids about phishing, harassment, and passwords, developed with teachers and internet safety organizations to provide free resources for building digital literacy skills from an early age.
+- [[02 DEVELOP/Digital Citizenship\|Digital Citizenship]] — Google's "Be Internet Awesome" curriculum and Interland game teach kids about phishing, harassment, and passwords, developed with teachers and internet safety organizations to provide free resources for building digital literacy skills from an early age.
 
 ---
 

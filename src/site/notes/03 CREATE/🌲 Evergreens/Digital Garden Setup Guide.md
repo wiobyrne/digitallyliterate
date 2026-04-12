@@ -753,9 +753,9 @@ dg-publish: true
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/My PKM Stack and Workflow\|My PKM Stack and Workflow]] – How I use these tools
+- [[04 META/🔧 Workbench/Obsidian/My PKM Stack and Workflow\|My PKM Stack and Workflow]] – How I use these tools
 - [[Tools for Federated Publishing\|Tools for Federated Publishing]] – Tool comparisons
-- [[02 DEVELOP/🌿 Plants/Build Your Own Federated Garden\|Build Your Own Federated Garden]] – Broader guide
+- [[04 META/📋 Guides/Build Your Own Federated Garden\|Build Your Own Federated Garden]] – Broader guide
 - [[Publishing Workflows\|Publishing Workflows]] – Different approaches
 
 ---

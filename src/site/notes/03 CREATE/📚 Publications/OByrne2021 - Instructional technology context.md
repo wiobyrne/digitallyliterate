@@ -16,5 +16,5 @@ O’Byrne, W Ian; Keeney, Kate; Wolfe, Jack (2021) Instructional technology in c
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

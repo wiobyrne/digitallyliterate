@@ -79,9 +79,9 @@ This grove contains four notes, each exploring a different dimension of security
 ## Foundational Concepts
 
 - [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — The three layers of protection
-- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy is about agency, not hiding
-- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — The individual version of community threat modeling
-- [[02 DEVELOP/🌱 Seeds/Signal and the Law\|Signal and the Law]] — Legal protections for encrypted communication
+- [[02 DEVELOP/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why privacy is about agency, not hiding
+- [[02 DEVELOP/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — The individual version of community threat modeling
+- [[02 DEVELOP/Signal and the Law\|Signal and the Law]] — Legal protections for encrypted communication
 
 ---
 

@@ -119,9 +119,9 @@ The wound is the place where the light enters you.
 **🌱 Connected Concepts**:
 
 - **[[SpaceX\|SpaceX]]** — Elon Musk Mars colonization vision and hope, refreshing amidst negativity, engineering feat moving people off planet.
-- **[[02 DEVELOP/🌿 Plants/Mindfulness\|Mindfulness]]** — Turnaround for Children teaching kids to identify emotions, storytelling can help kids heal from trauma.
+- **[[02 DEVELOP/Mindfulness\|Mindfulness]]** — Turnaround for Children teaching kids to identify emotions, storytelling can help kids heal from trauma.
 - **[[Protest Education\|Protest Education]]** — Charlotte NC protests, how do I talk to my kids about these very adult concepts and situations.
-- **[[02 DEVELOP/🌿 Plants/Implicit Bias\|Implicit Bias]]** — Yale study preschool teachers watching black children more, these results are scary, we need the discussion.
+- **[[02 DEVELOP/Implicit Bias\|Implicit Bias]]** — Yale study preschool teachers watching black children more, these results are scary, we need the discussion.
 - **[[Brain Research\|Brain Research]]** — Moth Radio Hour semantic space meaning map in cortex, neural mapping helping understand how we think.
 - **[[John Spencer\|John Spencer]]** — Global collaboration tips flexible culture shared vision, sketchy video creative process honesty embedded.
 - **[[Global Collaboration\|Global Collaboration]]** — Seven tips flexible culture shared vision risk-taking trust clarity patience celebration built into process.

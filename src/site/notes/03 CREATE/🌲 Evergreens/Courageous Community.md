@@ -100,8 +100,8 @@ By embracing these approaches, educators can build a courageous community where 
 The courage required is not the absence of fear, but the willingness to act in service of justice despite fear, uncertainty, and institutional resistance. Through this courage, educational communities become catalysts for broader social transformation.
 
 ## Related Concepts
-- [[02 DEVELOP/🌿 Plants/Gentle Ways to Stay Emotionally Engaged\|Gentle Ways to Stay Emotionally Engaged]]
-- [[02 DEVELOP/🌿 Plants/Reflective Listening\|Reflective Listening]]
+- [[02 DEVELOP/Gentle Ways to Stay Emotionally Engaged\|Gentle Ways to Stay Emotionally Engaged]]
+- [[02 DEVELOP/Reflective Listening\|Reflective Listening]]
 - [[Critical Pedagogy\|Critical Pedagogy]]
 - [[Inclusive Teaching Practices\|Inclusive Teaching Practices]]
 - [[Educational Equity\|Educational Equity]]

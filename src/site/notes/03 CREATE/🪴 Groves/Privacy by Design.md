@@ -21,11 +21,11 @@ Think of it like a house built with locks on every door from the start, rather t
 
 **[[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]]** is a specific and stronger form of encryption where only the sender and recipient can read a message. The service carrying it cannot. When a messaging app claims end-to-end encryption, it means that even if the company's servers were breached, your messages would remain unreadable to the attacker. This is the standard worth expecting.
 
-**[[02 DEVELOP/🌱 Seeds/Data Minimization\|Data Minimization]]** is the principle of collecting only the data actually needed for a service to function, and deleting it when it's no longer needed. Most platforms violate this constantly, collecting far more than they need because the data itself is valuable. Privacy-by-design tools treat data minimization as a feature, not an inconvenience.
+**[[02 DEVELOP/Data Minimization\|02 DEVELOP/Data Minimization]]** is the principle of collecting only the data actually needed for a service to function, and deleting it when it's no longer needed. Most platforms violate this constantly, collecting far more than they need because the data itself is valuable. Privacy-by-design tools treat data minimization as a feature, not an inconvenience.
 
 **[[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]]** describes the real tension in this space. The most secure tool isn't always the most usable one, and the most usable tool often achieves usability by collecting data and reducing friction through surveillance. There's no perfect solution. Privacy by design is about finding tools that have made thoughtful tradeoffs rather than tools that made privacy the afterthought.
 
-**[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]** is what privacy by design resists. When your data is the product, no amount of settings or opt-outs actually changes the underlying business model. Privacy-first tools typically run on different economic models: subscriptions, cooperative ownership, grants, or open-source contributions. Understanding this distinction helps you evaluate whether a "privacy-respecting" claim is meaningful or just marketing.
+**[[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]]** is what privacy by design resists. When your data is the product, no amount of settings or opt-outs actually changes the underlying business model. Privacy-first tools typically run on different economic models: subscriptions, cooperative ownership, grants, or open-source contributions. Understanding this distinction helps you evaluate whether a "privacy-respecting" claim is meaningful or just marketing.
 
 ---
 
@@ -35,9 +35,9 @@ Think of it like a house built with locks on every door from the start, rather t
 
 - [[03 CREATE/🌲 Evergreens/Encryption\|Encryption]] — what it is and why it matters
 - [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]] — the specific standard worth understanding
-- [[02 DEVELOP/🌱 Seeds/Data Minimization\|Data Minimization]] — why collecting less is a feature
+- [[02 DEVELOP/Data Minimization\|02 DEVELOP/Data Minimization]] — why collecting less is a feature
 - [[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]] — the real tradeoffs, honestly assessed
-- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] — the business model that privacy by design pushes back against
+- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model that privacy by design pushes back against
 
 **When Things Go Wrong**
 
@@ -54,7 +54,7 @@ Think of it like a house built with locks on every door from the start, rather t
 **Taking Action**
 
 - [[03 CREATE/🌲 Evergreens/Digital Tool Choice as Values Expression\|Digital Tool Choice as Values Expression]] — why switching tools is a form of values communication
-- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — how to build this capacity in a community or classroom
+- [[02 DEVELOP/Teaching Digital Self-determination\|02 DEVELOP/Teaching Digital Self-determination]] — how to build this capacity in a community or classroom
 - [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] — moving toward better without demanding perfect
 
 ---

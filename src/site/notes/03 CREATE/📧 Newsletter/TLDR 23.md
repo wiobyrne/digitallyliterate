@@ -154,7 +154,7 @@ Seth Godin: a long walk and calm conversation are an incredible combination if y
 
 - **[[Screencasts\|Screencasts]]** — Mandatory tools for educators, recording remixing publishing digital content.
 - **[[YouTube\|YouTube]]** — Educators shouldn't be afraid, one venue to make content sharing happen.
-- **[[02 DEVELOP/🌱 Seeds/Transparency\|Transparency]]** — Higher ed relationships and management, too late realized job dissolution.
+- **[[02 DEVELOP/Transparency\|Transparency]]** — Higher ed relationships and management, too late realized job dissolution.
 - **[[Amanda Bozack\|Amanda Bozack]]** — Colleague writing about transparency in higher education.
 - **[[Veronica Belmont\|Veronica Belmont]]** — Identity overtaken by meme, Internet crappy but lets people hear rest of story.
 - **[[Laura Hilliger\|Laura Hilliger]]** — Why armor myself as single grain of sand, privacy line identification.

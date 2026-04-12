@@ -23,7 +23,7 @@ This presentation examines how preservice literacy educators engaged with AI (sp
 
 The presentation is built around an adapted analytic framework from Mollick & Mollick (2023):
 
-[[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+[[02 DEVELOP/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
 
 ---
 
@@ -38,9 +38,9 @@ The presentation is built around an adapted analytic framework from Mollick & Mo
 ## Supporting Materials
 
 - **Slide Deck:** [Link to Google Drive](https://docs.google.com/presentation/d/1cNSKL4WmH1PS14Pj2cue8SFlyFwInGweujgvq-xM95k/edit?usp=sharing)
-- **Research Methods:** [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Research Methods Justification\|Co-Constructing AI Boundaries Research Methods Justification]]
-- **Framework Justification:** [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
-- **Additional Analysis:** [[02 DEVELOP/🌿 Plants/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
+- **Research Methods:** [[04 META/🔧 Workbench/STEAM Research/Co-Constructing AI Boundaries Research Methods Justification\|Co-Constructing AI Boundaries Research Methods Justification]]
+- **Framework Justification:** [[02 DEVELOP/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- **Additional Analysis:** [[02 DEVELOP/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
 
 ---
 
@@ -53,4 +53,4 @@ The presentation is built around an adapted analytic framework from Mollick & Mo
 ## Related Projects
 
 
-[[02 DEVELOP/🌿 Plants/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]
+[[03 CREATE/🔨 Projects/Active/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]

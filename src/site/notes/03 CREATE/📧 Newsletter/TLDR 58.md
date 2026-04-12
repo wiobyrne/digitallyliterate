@@ -124,9 +124,9 @@ The privilege of a lifetime is being who you are.
 
 - **[[01 CONSUME/👥 People/Seth Godin\|Seth Godin]]** — Tim Ferriss podcast on thinking small to go big, inspired by AltMBA program, thoroughly recommend it.
 - **[[Academic Identity\|Academic Identity]]** — Serious academic Instagram debate, value in digital tools for research teaching service, craft how we're represented.
-- **[[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]]** — Your role as digital citizen, write ourselves into being, think it through and make decision.
+- **[[02 DEVELOP/Digital Citizenship\|Digital Citizenship]]** — Your role as digital citizen, write ourselves into being, think it through and make decision.
 - **[[Civic Education\|Civic Education]]** — Redesigning for participatory politics, four core practices investigation dialogue production mobilizing.
-- **[[02 DEVELOP/🌿 Plants/Digital Divide\|Digital Divide]]** — Too poor to afford internet, municipal broadband as fundamental human right, monopolies keeping it away.
+- **[[02 DEVELOP/Digital Divide\|Digital Divide]]** — Too poor to afford internet, municipal broadband as fundamental human right, monopolies keeping it away.
 - **[[Tim Berners-Lee\|Tim Berners-Lee]]** — Decentralizing web from Facebook Google, I want to shriek when students say already on LinkedIn.
 - **[[BadgeChain\|BadgeChain]]** — Distributed ledger for virtual resume, connect to other learners with same affinities, very exciting stuff.
 

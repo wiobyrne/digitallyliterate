@@ -16,4 +16,4 @@ Semingson, Peggy; O’Byrne, Ian; Alberto Mora, Raúl; et al. (2017) Social scho
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

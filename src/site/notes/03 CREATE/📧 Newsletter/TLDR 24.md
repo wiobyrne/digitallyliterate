@@ -131,7 +131,7 @@ Joss Whedon: Write it. Shoot it. Publish it. Crochet it, saute it, whatever. Mak
 - **[[Student Privacy\|Student Privacy]]** — EFF complaint Google deceptively tracking students.
 - **[[Google Education\|Google Education]]** — Routinely promoting free tools, but Spying on Students campaign raises concerns.
 - **[[Facebook Algorithms\|Facebook Algorithms]]** — Friends shocked I suggested feed alterations, unknown algorithms.
-- **[[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]]** — Treated as commodities by companies like Facebook.
+- **[[02 DEVELOP/Digital Identity\|Digital Identity]]** — Treated as commodities by companies like Facebook.
 - **[[Makerspaces\|Makerspaces]]** — Defined by what comes out not what's in it, projects experiences artifacts learning.
 - **[[Shopping List Mentality\|Shopping List Mentality]]** — Missing the point, tools matter but outcomes matter more.
 - **[[Raspberry Pi\|Raspberry Pi]]** — Love for powerful inexpensive device, ten beginner projects.

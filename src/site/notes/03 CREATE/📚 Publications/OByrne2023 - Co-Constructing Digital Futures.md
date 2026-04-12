@@ -16,4 +16,4 @@ O’Byrne, W Ian; Turner, Kristen Hawley; Paciga, Kathleen A; et al. (2023) Co-C
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

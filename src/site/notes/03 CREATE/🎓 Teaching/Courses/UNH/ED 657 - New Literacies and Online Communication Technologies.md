@@ -68,5 +68,5 @@ Per UNH Graduate School policy, students whose work falls below B- are required 
 - [[03 CREATE/🎓 Teaching/Courses/UNH/ED 6671 - Online Research and Media Skills\|ED 6671 - Online Research and Media Skills]]
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Online Content Creation\|Online Content Creation]]

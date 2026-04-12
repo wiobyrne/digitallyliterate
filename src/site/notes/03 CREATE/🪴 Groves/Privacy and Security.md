@@ -42,7 +42,7 @@ Digital privacy is not just a technical issue—it is about **power, consent, au
 - [[Data Sovereignty\|Data Sovereignty]] 🔸  
 - [[Digital Rights Advocacy\|Digital Rights Advocacy]] 🔸  
 - [[Algorithmic Transparency\|Algorithmic Transparency]] 🔸  
-- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] 🔸  
+- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] 🔸  
 - [[Ethics in AI\|Ethics in AI]] 🔹  
 
 ---
@@ -61,6 +61,6 @@ Digital privacy is not just a technical issue—it is about **power, consent, au
 
 - [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|03 CREATE/🌲 Evergreens/Digital Sovereignty]] 🔹 - Control over your digital destiny, Proton/Signal, and Big Tech alternatives
 - [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] 🔸 - Normalization of surveillance in K-12 and higher ed
-- [[02 DEVELOP/🌿 Plants/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] 🔸 - Digital gardens, plain text, and escaping platform lock-in  
+- [[02 DEVELOP/Platform Capture and Knowledge Liberation\|02 DEVELOP/Platform Capture and Knowledge Liberation]] 🔸 - Digital gardens, plain text, and escaping platform lock-in  
 
 ## Connections

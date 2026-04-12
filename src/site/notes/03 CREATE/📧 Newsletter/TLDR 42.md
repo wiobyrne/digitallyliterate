@@ -137,7 +137,7 @@ Saying the Internet makes librarians obsolete is like saying the plague makes do
 - **[[Podcasts\|Podcasts]]** — Deep dive series documenting podcast production from beginning to end.
 - **[[Copyright\|Copyright]]** — Prince's long documented battle with the Internet, YouTube lawsuits, streaming boycotts.
 - **[[Creative Commons\|Creative Commons]]** — Ryan Merkley warning shot at publishers charging for publicly funded research.
-- **[[02 DEVELOP/🌿 Plants/Moderation\|Moderation]]** — Secret rules of the Internet, users part of problem and solution.
+- **[[02 DEVELOP/Moderation\|Moderation]]** — Secret rules of the Internet, users part of problem and solution.
 - **[[Emoji\|Emoji]]** — Birth of new global language, 92% of people online use them.
 - **[[Multitasking\|Multitasking]]** — Brain needs default state breaks for creativity and breakthroughs.
 

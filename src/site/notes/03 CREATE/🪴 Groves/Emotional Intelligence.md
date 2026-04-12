@@ -27,7 +27,7 @@ The starting points.
 - [[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]] — The risk that opens everything up
 - [[Emotional Regulation\|Emotional Regulation]] — Managing what you feel without suppressing it
 - [[Self-Awareness\|Self-Awareness]] — Knowing what's happening inside you
-- [[02 DEVELOP/🌿 Plants/Empathy and Compassion\|Empathy and Compassion]] — Knowing what's happening in others
+- [[02 DEVELOP/Empathy and Compassion\|Empathy and Compassion]] — Knowing what's happening in others
 - [[Active Listening\|Active Listening]] — The most underrated practical skill
 - [[Boundaries\|Boundaries]] — Where care for others meets care for yourself
 - [[Self-Compassion\|Self-Compassion]] — Treating yourself like someone you're responsible for
@@ -40,7 +40,7 @@ The starting points.
 Bringing emotional intelligence into how we talk to each other.
 
 - [[Nonviolent Communication\|Nonviolent Communication]] — Structure for saying hard things without harm
-- [[02 DEVELOP/🌿 Plants/Reflective Listening\|Reflective Listening]] — Hearing what someone actually means
+- [[02 DEVELOP/Reflective Listening\|Reflective Listening]] — Hearing what someone actually means
 - [[Difficult Conversations\|Difficult Conversations]] — The ones that matter most
 - [[Conflict Resolution\|Conflict Resolution]] — Moving through disagreement, not around it
 - [[Giving and Receiving Feedback\|Giving and Receiving Feedback]] — The skill most workplaces get wrong
@@ -131,7 +131,7 @@ Connecting emotional intelligence to justice work.
 ## Implementation Pathways
 
 ### For Individuals
-Start with foundations ([[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]], [[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]]), then move to communication skills ([[02 DEVELOP/🌿 Plants/Reflective Listening\|Reflective Listening]], [[Boundaries\|Boundaries]]), and explore application in your work context ([[03 CREATE/🌲 Evergreens/Emotionally Intelligent Workflows A Framework\|Emotionally Intelligent Workflows A Framework]]).
+Start with foundations ([[03 CREATE/🌲 Evergreens/Understanding Shame\|Understanding Shame]], [[03 CREATE/🌲 Evergreens/Vulnerability\|Vulnerability]]), then move to communication skills ([[02 DEVELOP/Reflective Listening\|Reflective Listening]], [[Boundaries\|Boundaries]]), and explore application in your work context ([[03 CREATE/🌲 Evergreens/Emotionally Intelligent Workflows A Framework\|Emotionally Intelligent Workflows A Framework]]).
 
 ### For Teams
 Begin with [[03 CREATE/🌲 Evergreens/Tao of Emotionally Intelligent Work\|Tao of Emotionally Intelligent Work]] as a shared framework, implement [[Emotional Check-In Protocols\|Emotional Check-In Protocols]], and gradually adopt [[Consent-Based Governance\|Consent-Based Governance]] practices.

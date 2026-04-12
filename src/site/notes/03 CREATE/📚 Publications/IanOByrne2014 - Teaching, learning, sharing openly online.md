@@ -24,5 +24,5 @@ O'Byrne, W Ian; Roberts, Verena; LaBonte, Randy; Graham, Lee (2014). Teaching, l
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Open Education\|Open Education]]

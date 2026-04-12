@@ -16,5 +16,5 @@ SLOTA, STEPHEN T; YOUNG, MICHAEL F; O’BYRNE, WIAN; et al. 跨界经纬| Transm
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

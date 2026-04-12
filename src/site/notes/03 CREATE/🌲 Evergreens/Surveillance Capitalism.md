@@ -427,8 +427,8 @@ Unlike traditional capitalism that focused on manufacturing and selling products
 - [PrivacyTools](https://www.privacytools.io/) - Privacy-focused software recommendations
 
 ### Related Concepts
-- [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Strategic information manipulation in surveillance systems
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible participation in surveillance capitalist environments
+- [[02 DEVELOP/Information War\|Information War]] - Strategic information manipulation in surveillance systems
+- [[02 DEVELOP/Digital Citizenship\|Digital Citizenship]] - Responsible participation in surveillance capitalist environments
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]] - Individual and collective privacy rights and practices
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] - Critical evaluation of platform-mediated content
 - [[03 CREATE/🌲 Evergreens/Human in the Loop\|03 CREATE/🌲 Evergreens/Human in the Loop]] - Maintaining human agency in algorithmic systems

@@ -68,6 +68,6 @@ Per UNH Graduate School policy, students whose work falls below B- are required 
 ## Connections
 
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[New Literacies\|New Literacies]]
 - [[Online Content Creation\|Online Content Creation]]

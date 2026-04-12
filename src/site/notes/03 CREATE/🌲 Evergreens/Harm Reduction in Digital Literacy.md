@@ -49,7 +49,7 @@ This is where the [[03 CREATE/🌲 Evergreens/Tiered Technical Scaffolding Model
 
 ## Connections
 
-- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — The broader framework harm reduction supports
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|03 CREATE/🌲 Evergreens/Teaching Digital Self-determination]] — The broader framework harm reduction supports
 - [[03 CREATE/🌲 Evergreens/Digital Resilience\|Digital Resilience]] — Building the capacity to sustain good practices without burning out
 - [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — Shared norms that make good practices easier to maintain collectively
 - [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that reduce the effort required to practice harm reduction

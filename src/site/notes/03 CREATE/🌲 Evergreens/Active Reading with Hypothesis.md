@@ -132,7 +132,7 @@ When you open the app, you have several options:
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Critical Reading Strategies\|Critical Reading Strategies]]
 - [[Social Annotation in Education\|Social Annotation in Education]]
 

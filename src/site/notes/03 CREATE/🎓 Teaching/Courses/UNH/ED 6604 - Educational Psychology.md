@@ -69,5 +69,5 @@ Per UNH Graduate School policy, students whose work falls below B- are required 
 ## Connections
 
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🔨 Projects/Archive/PhD Dissertation/Philosophy of Cognition and Instruction\|Philosophy of Cognition and Instruction]]

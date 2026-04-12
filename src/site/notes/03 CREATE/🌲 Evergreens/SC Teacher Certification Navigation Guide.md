@@ -188,7 +188,7 @@ South Carolina accepts either edTPA or PPAT for the performance assessment requi
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/Learning Environment Portfolio Design\|Learning Environment Portfolio Design]]
+- [[03 CREATE/🎓 Teaching/Learning Environment Portfolio Design\|Learning Environment Portfolio Design]]
 - [[Student Teaching Preparation\|Student Teaching Preparation]]
 - [[Teacher Education Program Requirements\|Teacher Education Program Requirements]]
 

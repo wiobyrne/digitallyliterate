@@ -127,7 +127,7 @@ Nothing in life is to be feared, it is only to be understood. Now is the time to
 - **[[Podcasts\|Podcasts]]** — Four Questions For podcast iterating with experts in literacy education and technology.
 - **[[01 CONSUME/👥 People/Margaret Atwood\|Margaret Atwood]]** — Technology shapes storytelling, how digital texts and tools shape story.
 - **[[Internet Trends\|Internet Trends]]** — Mary Meeker 213 slide deck, growth slowing but giants building shares.
-- **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** — Print to pixel shifts in economy reading online and coding as writing.
+- **[[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]** — Print to pixel shifts in economy reading online and coding as writing.
 - **[[Internet Infrastructure\|Internet Infrastructure]]** — Submarine cables detailed tour from New Jersey to Britain shores, quite amazing.
 - **[[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]** — NSA's Untangling the Web guide from 2007, weirdest thing you'll read this week.
 - **[[Coding\|Coding]]** — Mimi Ito on coding camps needing more than enrollment, connected learning activities.

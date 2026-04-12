@@ -35,5 +35,5 @@ Several courses cover overlapping terrain and were taught under different number
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]

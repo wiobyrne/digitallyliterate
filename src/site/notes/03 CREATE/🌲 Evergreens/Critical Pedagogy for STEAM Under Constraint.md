@@ -154,9 +154,9 @@ The work is not about waiting for ideal conditions but about practicing agency w
 
 ## Related Concepts
 
-- [[03 CREATE/🌲 Evergreens/Septima Clark and Citizenship Schools\|Septima Clark and Citizenship Schools]]
+- [[03 CREATE/🌲 Evergreens/Septima Clark and Citizenship Schools\|03 CREATE/🌲 Evergreens/Septima Clark and Citizenship Schools]]
 - [[03 CREATE/🌲 Evergreens/Labor-Based Grading Contracts\|Labor-Based Grading Contracts]]
-- [[02 DEVELOP/🌿 Plants/Learning Environment Portfolio Design\|Learning Environment Portfolio Design]]
-- [[02 DEVELOP/🌿 Plants/Emergent Strategy for Digital Literacy Movements\|Emergent Strategy for Digital Literacy Movements]]
+- [[03 CREATE/🎓 Teaching/Learning Environment Portfolio Design\|Learning Environment Portfolio Design]]
+- [[02 DEVELOP/Emergent Strategy for Digital Literacy Movements\|Emergent Strategy for Digital Literacy Movements]]
 
 ## Connections

@@ -66,6 +66,6 @@ Per UNH Graduate School policy, students whose work falls below B- are required 
 - [[03 CREATE/🎓 Teaching/Courses/UNH/ED 657 - New Literacies and Online Communication Technologies\|ED 657 - New Literacies and Online Communication Technologies]]
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Online Reading Comprehension\|Online Reading Comprehension]]
 - [[Online Content Creation\|Online Content Creation]]

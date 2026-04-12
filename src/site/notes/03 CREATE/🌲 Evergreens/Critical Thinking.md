@@ -491,9 +491,9 @@ Critical thinking serves as a primary defense against information manipulation b
 
 ### Related Concepts
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] - Critical evaluation of media content and messages
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] - Responsible reasoning in digital environments
-- [[02 DEVELOP/🌿 Plants/Disinformation\|Disinformation]] - Application of critical thinking to false information
-- [[02 DEVELOP/🌿 Plants/Information War\|Information War]] - Strategic thinking about information manipulation
-- [[02 DEVELOP/🌿 Plants/AI and Education Research Ideas\|AI and Education Research Ideas]] - Critical thinking in AI-enhanced learning environments
+- [[02 DEVELOP/Digital Citizenship\|Digital Citizenship]] - Responsible reasoning in digital environments
+- [[02 DEVELOP/Disinformation\|Disinformation]] - Application of critical thinking to false information
+- [[02 DEVELOP/Information War\|Information War]] - Strategic thinking about information manipulation
+- [[03 CREATE/🔨 Projects/Active/AI and Education Research Ideas\|AI and Education Research Ideas]] - Critical thinking in AI-enhanced learning environments
 
 ## Connections

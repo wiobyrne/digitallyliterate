@@ -15,13 +15,13 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 
 - [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] 🔹  
 - [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]] 🔹  
-- [[02 DEVELOP/🌿 Plants/Neural Networks\|Neural Networks]] 🔹  
-- [[02 DEVELOP/🌿 Plants/Deep Learning\|Deep Learning]] 🔹  
+- [[02 DEVELOP/Neural Networks\|Neural Networks]] 🔹  
+- [[02 DEVELOP/Deep Learning\|Deep Learning]] 🔹  
 - [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] 🔹  
-- [[02 DEVELOP/🌿 Plants/Generative AI\|Generative AI]] 🔹  
+- [[02 DEVELOP/Generative AI\|Generative AI]] 🔹  
 - [[Large Language Models (LLMs)\|Large Language Models (LLMs)]] 🔹  
 - [[Supervised vs Unsupervised Learning\|Supervised vs Unsupervised Learning]] 🔹  
-- [[02 DEVELOP/🌿 Plants/Reinforcement Learning\|Reinforcement Learning]] 🔹  
+- [[02 DEVELOP/Reinforcement Learning\|Reinforcement Learning]] 🔹  
 - [[Computer Vision\|Computer Vision]] 🔹  
 
 ---
@@ -85,7 +85,7 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 - [[03 CREATE/🌲 Evergreens/What AI Cannot Know\|What AI Cannot Know]] 🔹 - Tacit knowledge, embodied learning, and AI limits
 - [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] 🔸 - Self vs. subject distinction in the age of AI
 - [[03 CREATE/🌲 Evergreens/AI Geopolitics and the Open Model Question\|AI Geopolitics and the Open Model Question]] 🔸 - Open vs. closed models and infrastructure control
-- [[02 DEVELOP/🌿 Plants/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] 🔹 - Human-in-the-loop classroom practices and prompts
+- [[02 DEVELOP/HITL Pedagogy Toolkit\|02 DEVELOP/HITL Pedagogy Toolkit]] 🔹 - Human-in-the-loop classroom practices and prompts
 - [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] 🔹 - Beyond detection tools to authentic assessment
 - [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] 🔸 - Bentoism, contingency, and evaluating AI claims  
 

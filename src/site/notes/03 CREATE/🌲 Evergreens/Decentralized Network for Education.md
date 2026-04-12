@@ -218,7 +218,7 @@ Decentralized networks function as **complex adaptive systems** where emergent p
 - [[Progressive Community Agreements Research\|Progressive Community Agreements Research]] - Values and practices for democratic communities
 - [[03 CREATE/🔨 Projects/Active/InitiatED/InitiatED Community/InitiatED Community Agreements\|InitiatED Community Agreements]] - Practical framework for community building
 - [[03 CREATE/🔨 Projects/Active/InitiatED/Transition from Director to Network Coordinator\|Transition from Director to Network Coordinator]] - Personal leadership transformation
-- [[02 DEVELOP/🌿 Plants/Building a Decentralized Network\|Building a Decentralized Network]] - Original research and development notes
+- [[03 CREATE/🔨 Projects/Active/Building a Decentralized Network\|Building a Decentralized Network]] - Original research and development notes
 
 ---
 

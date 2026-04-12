@@ -129,7 +129,7 @@ Following Clark's model, contemporary organizers might ask:
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/Emergent Strategy for Digital Literacy Movements\|Emergent Strategy for Digital Literacy Movements]]
+- [[02 DEVELOP/Emergent Strategy for Digital Literacy Movements\|Emergent Strategy for Digital Literacy Movements]]
 - [[03 CREATE/🌲 Evergreens/Collective Hope and Liberatory Traditions\|Collective Hope and Liberatory Traditions]]
 - [[Historical Parallels and Theoretical Frameworks in Social Change Work\|Historical Parallels and Theoretical Frameworks in Social Change Work]]
 - [[03 CREATE/🌲 Evergreens/Critical Pedagogy for STEAM Under Constraint\|Critical Pedagogy for STEAM Under Constraint]]

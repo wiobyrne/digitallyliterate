@@ -136,7 +136,7 @@ Flow represents far more than a temporary peak experience—it offers a comprehe
 
 The cultivation of flow represents both a deeply personal journey toward individual flourishing and a collective opportunity to create more engaging, meaningful, and effective ways of learning, working, and living together. In this sense, flow is not merely a psychological phenomenon to be studied and applied, but a fundamental aspect of human potential that, when properly understood and cultivated, can contribute to the flourishing of individuals, communities, and societies.
 
-When you get repetitions of [[Deliberate Practice\|Deliberate Practice]] and gain a certain level of competence, then getting more reps creates a positive feedback loop of deeper focus and flow-like experiences. The thing about Flow is that you can't *directly* create it; you can only create the [[02 DEVELOP/🌿 Plants/Conditions of Flow\|Conditions of Flow]].
+When you get repetitions of [[Deliberate Practice\|Deliberate Practice]] and gain a certain level of competence, then getting more reps creates a positive feedback loop of deeper focus and flow-like experiences. The thing about Flow is that you can't *directly* create it; you can only create the [[02 DEVELOP/Conditions of Flow\|Conditions of Flow]].
 
 ---
 

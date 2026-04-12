@@ -96,7 +96,7 @@ The point is to be **intentional** about what persists and what doesn't, rather 
 ## Foundational Concepts
 
 - [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Why encrypted channels make ephemeral communication safer
-- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Controlling information flow as agency
+- [[02 DEVELOP/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Controlling information flow as agency
 
 ---
 

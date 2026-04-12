@@ -132,7 +132,7 @@ It's the start of a new year, and many of us are putting together resolutions fo
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]]** — Three steps to identify and develop granular steps begin to build up online identity, I'll have a webinar on materials in the coming weeks.
+- **[[02 DEVELOP/Digital Identity\|Digital Identity]]** — Three steps to identify and develop granular steps begin to build up online identity, I'll have a webinar on materials in the coming weeks.
 - **[[Fake News\|Fake News]]** — Maha Bali not your main problem don't need to focus but instead prepare youth for the real news, question our own assumptions behind truth.
 - **[[Screens in Classroom\|Screens in Classroom]]** — Darren Rosenblum laptops at door to classroom screens kills empathy, I believe we're in between two models we need more discussion.
 - **[[Digital Rights\|Digital Rights]]** — Children England sign over regularly and unknowingly Guardian study, I also have significant questions about credibility of this reporting.

@@ -377,7 +377,7 @@ Gardens are **counter-movement to platform capitalism:**
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]
+- [[02 DEVELOP/Chronological vs Networked Publishing\|Chronological vs Networked Publishing]]
 - [[Hypertext Theory and Practice\|Hypertext Theory and Practice]]
 - [[IndieWeb Principles\|IndieWeb Principles]]
 - [[Personal Knowledge Management History\|Personal Knowledge Management History]]

@@ -53,7 +53,7 @@ The goal isn't a frictionless migration. It's a migration where the friction is 
 
 ## Connections
 
-- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — The broader framework this practice serves
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|03 CREATE/🌲 Evergreens/Teaching Digital Self-determination]] — The broader framework this practice serves
 - [[03 CREATE/🌲 Evergreens/Digital Tool Choice as Values Expression\|Digital Tool Choice as Values Expression]] — Why the choice of what to migrate *to* is itself educational
 - [[03 CREATE/🌲 Evergreens/Tiered Technical Scaffolding Model\|Tiered Technical Scaffolding Model]] — How to structure the migration so different skill levels can participate meaningfully
 - [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] — Managing the difficulty and stress of transitions without abandoning the goal

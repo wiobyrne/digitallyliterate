@@ -23,7 +23,7 @@ Most conversations about AI focus on what it can do. AI literacy asks harder que
 
 **[[03 CREATE/🌲 Evergreens/Agency\|Agency]]** in AI contexts means maintaining deliberate control over how you engage with AI tools, choosing when to use them, how to prompt them, and how critically to evaluate what they produce. High agency looks like using AI as a tool you're directing. Low agency looks like having the AI direct you.
 
-**[[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]]** is the business model underlying most free AI tools. Your data and behavior are the product. AI systems are often designed to maximize engagement, extract information, and build predictive profiles, not to serve your interests. Understanding this model is foundational to understanding why AI behaves the way it does.
+**[[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]]** is the business model underlying most free AI tools. Your data and behavior are the product. AI systems are often designed to maximize engagement, extract information, and build predictive profiles, not to serve your interests. Understanding this model is foundational to understanding why AI behaves the way it does.
 
 **[[03 CREATE/🌲 Evergreens/What AI Cannot Know\|What AI Cannot Know]]** points to the real limits of AI systems that are often invisible in the outputs they produce. AI can't verify information in real time, doesn't know what it doesn't know, and can generate confident-sounding text about things it's wrong about. Knowing the edges of the tool matters as much as knowing what it can do.
 
@@ -45,14 +45,14 @@ Most conversations about AI focus on what it can do. AI literacy asks harder que
 - [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] — structural lenses for making school-level decisions about AI
 - [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] — why detection tools don't work, and what to do instead
 - [[03 CREATE/🌲 Evergreens/Human in the Loop\|Human in the Loop]] — keeping humans accountable in AI-assisted decisions
-- [[02 DEVELOP/🌿 Plants/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] — practical classroom tools for human-in-the-loop teaching
+- [[02 DEVELOP/HITL Pedagogy Toolkit\|02 DEVELOP/HITL Pedagogy Toolkit]] — practical classroom tools for human-in-the-loop teaching
 - [[03 CREATE/🌲 Evergreens/PedagoGPT Complex\|PedagoGPT Complex]] — the risks of outsourcing pedagogical judgment to AI
 
 **AI and Power**
 
 - [[03 CREATE/🌲 Evergreens/AI Geopolitics and the Open Model Question\|AI Geopolitics and the Open Model Question]] — who controls the infrastructure, and why it matters
 - [[03 CREATE/🌲 Evergreens/AI Policy Beyond Blanket Bans\|AI Policy Beyond Blanket Bans]] — what thoughtful AI governance actually looks like
-- [[03 CREATE/🌲 Evergreens/Surveillance Capitalism\|Surveillance Capitalism]] — the business model behind most AI tools
+- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model behind most AI tools
 - [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] — what AI does to how we understand identity and authorship
 
 **AI Literacy in Practice**

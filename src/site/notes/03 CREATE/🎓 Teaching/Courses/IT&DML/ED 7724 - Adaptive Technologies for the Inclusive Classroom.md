@@ -77,5 +77,5 @@ Per UNH Graduate School policy, students whose work falls at C+ or below are req
 ## Connections
 
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[New Literacies\|New Literacies]]

@@ -164,7 +164,7 @@ Identity in the jungle of human existence. Essena O'Neill, Sociality Barbie, Ins
 - **[[Essena O'Neill\|Essena O'Neill]]** — Instagram star quits social media, identity/gender/values questions.
 - **[[Digital Rights\|Digital Rights]]** — Ranking Digital Rights 2015 Corporate Accountability Index, Google vs Facebook.
 - **[[Joanna Murphy\|Joanna Murphy]]** — Ageism in 21st century classrooms, power dynamics rarely examined.
-- **[[02 DEVELOP/🌿 Plants/Digital Divide\|Digital Divide]]** — Lower-income teens 25% laptop access vs 62% in wealthy households.
+- **[[02 DEVELOP/Digital Divide\|Digital Divide]]** — Lower-income teens 25% laptop access vs 62% in wealthy households.
 - **[[Web Literacies\|Web Literacies]]** — Fundamental human rights, those needing most aren't accessing.
 - **[[New Lit Lab\|New Lit Lab]]** — UConn research on students needing instruction not receiving it.
 - **[[Doug Belshaw\|Doug Belshaw]]** — Deliberate practice and digital literacies, granular skills to habits.

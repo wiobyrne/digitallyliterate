@@ -47,5 +47,5 @@ Notes here are drafts, published posts, and archived pieces from wiobyrne.com. E
 
 - [[04 META/👤 About Me/About Me\|About Me]]
 - [[03 CREATE/📚 Publications/📚 Publications\|📚 Publications]]
-- [[02 DEVELOP/🌿 Plants/Digital Garden Strategy - Site Consolidation\|Digital Garden Strategy - Site Consolidation]]
+- [[03 CREATE/🔨 Projects/Active/Digital Garden Strategy - Site Consolidation\|Digital Garden Strategy - Site Consolidation]]
 - [[03 CREATE/📧 Newsletter/📧 Newsletter\|📧 Newsletter]]

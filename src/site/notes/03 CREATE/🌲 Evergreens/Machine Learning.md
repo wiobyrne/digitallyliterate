@@ -37,9 +37,9 @@ Examples of machine learning include email filtering, detection of network intru
 - [Understanding Machine Learning: From Theory to Algorithms - Book](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 
 ## **Related Terms**  
-- [[02 DEVELOP/🌿 Plants/Deep Learning\|Deep Learning]]
-- [[02 DEVELOP/🌿 Plants/Supervised Learning\|Supervised Learning]]
-- [[02 DEVELOP/🌿 Plants/Unsupervised Learning\|Unsupervised Learning]]
+- [[02 DEVELOP/Deep Learning\|Deep Learning]]
+- [[02 DEVELOP/Supervised Learning\|Supervised Learning]]
+- [[02 DEVELOP/Unsupervised Learning\|Unsupervised Learning]]
 
 [[AI Index\|AI Index]]
 

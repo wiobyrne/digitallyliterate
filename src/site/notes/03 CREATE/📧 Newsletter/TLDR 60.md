@@ -134,7 +134,7 @@ Every story I create, creates me.
 
 - **[[School of Life\|School of Life]]** — A Working Day series on emotional intelligence, definitely will fold into culture identity diversity discussions.
 - **[[Teen Social Media\|Teen Social Media]]** — Mary Choi on behaviors, rules as mysterious as flight patterns of bees, moon emoji and selfie saturation.
-- **[[02 DEVELOP/🌿 Plants/Play\|Play]]** — Alison Gopnik defense in learning cognition, I often provide time to alleviate anxiety exploring new content.
+- **[[02 DEVELOP/Play\|Play]]** — Alison Gopnik defense in learning cognition, I often provide time to alleviate anxiety exploring new content.
 - **[[Noam Chomsky\|Noam Chomsky]]** — Truly educated as ability to inquire independently, find your own way, what you discover not cover.
 - **[[Domain of One's Own\|Domain of One's Own]]** — Audrey Watters and Maha Bali on ownership challenges, I've often had these struggles as digital packrat.
 - **[[Hypothes.is\|Hypothes.is]]** — I love that Maha used it to provide commentary on Audrey's post, great stuff.

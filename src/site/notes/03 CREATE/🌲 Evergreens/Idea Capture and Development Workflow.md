@@ -224,6 +224,6 @@ just accepting outputs uncritically.
 - [[03 CREATE/🌲 Evergreens/Obsidian Vault Optimization\|Obsidian Vault Optimization]]
 - [[Digital Garden\|Digital Garden]]
 - [[Zettelkasten Method\|Zettelkasten Method]]
-- [[02 DEVELOP/🌿 Plants/Progressive Summarization\|Progressive Summarization]]
+- [[02 DEVELOP/Progressive Summarization\|Progressive Summarization]]
 
 ## Connections

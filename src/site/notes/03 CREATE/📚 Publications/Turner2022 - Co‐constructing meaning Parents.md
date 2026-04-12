@@ -16,4 +16,4 @@ Turner, Kristen Hawley; Stevens, Elizabeth Years; Paciga, Kathleen; et al. (2022
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

@@ -59,7 +59,7 @@ Tiers should be revisited as the community evolves. People move between them as 
 
 ## Connections
 
-- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — The teaching framework this model supports
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|03 CREATE/🌲 Evergreens/Teaching Digital Self-determination]] — The teaching framework this model supports
 - [[03 CREATE/🌲 Evergreens/Tool Migration as Pedagogy\|Tool Migration as Pedagogy]] — How the tiered model works in practice during platform migrations
 - [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] — Managing the challenge and stress of learning across tiers
 - [[03 CREATE/🌲 Evergreens/Digital Resilience\|Digital Resilience]] — What distributed technical capacity produces over time

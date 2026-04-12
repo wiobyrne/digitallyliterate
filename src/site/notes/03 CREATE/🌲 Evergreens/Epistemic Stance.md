@@ -74,7 +74,7 @@ Passive Consumption ←―――――――――――――――――――
 
 ## Evidence of Epistemic Stance in Framework Components
 
-### In [[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
+### In [[02 DEVELOP/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]]
 - Critical evaluation of AI responses
 - Recognition of hallucinations, bias
 - Questioning AI's "knowledge"
@@ -141,9 +141,9 @@ To foster critical epistemic stance:
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
-- [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
-- [[02 DEVELOP/🌿 Plants/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
+- [[02 DEVELOP/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[02 DEVELOP/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- [[02 DEVELOP/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
 
 ---
 

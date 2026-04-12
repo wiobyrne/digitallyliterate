@@ -16,5 +16,5 @@ Burke, Quinn; O'Byrne, W Ian; Kafai, Yasmin B (2016) Computational participation
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/📝 Blog/Computational Thinking\|Computational Thinking]]

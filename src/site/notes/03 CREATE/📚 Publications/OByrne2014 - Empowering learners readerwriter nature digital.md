@@ -24,5 +24,5 @@ O'Byrne, W Ian (2014). Empowering learners in the reader/writer nature of the di
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Online Research and Media Skills\|Online Research and Media Skills]]

@@ -156,7 +156,7 @@ Alan Watts: the only way to make sense out of change is to plunge into it, move 
 - **[[Digital Badges\|Digital Badges]]** — Thinking about open badges and blockchain technology.
 - **[[Blockchain\|Blockchain]]** — Cyberforensics/cybersecurity exploration, more coming weeks.
 - **[[AdvocatED\|AdvocatED]]** — Publication launch on Medium, inviting writers and bloggers.
-- **[[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]]** — Building online classes to affordably help build presence.
+- **[[02 DEVELOP/Digital Identity\|Digital Identity]]** — Building online classes to affordably help build presence.
 - **[[Cory Doctorow\|Cory Doctorow]]** — Online surveillance versus building digital presence, stuff in back of mind.
 - **[[Surveillance\|Surveillance]]** — Tension between being visible and being monitored.
 - **[[Writing Online\|Writing Online]]** — dex digital on being afraid to write on Internet.

@@ -22,21 +22,21 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 ## Core Frameworks
 
 ### Cultural Analysis
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation for critical engagement with online spaces
-- [[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]] — When internet participation becomes primary identity
-- [[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]] — How people build identity through digital participation
-- [[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Framework for understanding levels of internet participation
-- [[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]] — Identity construction through digital sharing
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation for critical engagement with online spaces
+- [[02 DEVELOP/Extremely Online Culture\|Extremely Online Culture]] — When internet participation becomes primary identity
+- [[02 DEVELOP/Digital Identity Construction\|Digital Identity Construction]] — How people build identity through digital participation
+- [[02 DEVELOP/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Framework for understanding levels of internet participation
+- [[02 DEVELOP/Posting Publicly Online\|Posting Publicly Online]] — Identity construction through digital sharing
 
 ### Power Dynamics
 - [[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]] — Coordinated manipulation tactics that became a template
-- [[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]] — Intersectional analysis of digital conflicts
-- [[02 DEVELOP/🌿 Plants/Misinformation\|Misinformation]] — Information warfare in digital environments
+- [[02 DEVELOP/Online Harassment and Activism\|Online Harassment and Activism]] — Intersectional analysis of digital conflicts
+- [[02 DEVELOP/Misinformation\|Misinformation]] — Information warfare in digital environments
 
 ### Platform and Communication
-- [[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]] — How platform architectures shape cultural norms
-- [[02 DEVELOP/🌿 Plants/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Cultural communication through digital artifacts
-- [[02 DEVELOP/🌿 Plants/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided emotional connections online
+- [[02 DEVELOP/Platform Culture Analysis\|Platform Culture Analysis]] — How platform architectures shape cultural norms
+- [[02 DEVELOP/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Cultural communication through digital artifacts
+- [[02 DEVELOP/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided emotional connections online
 
 ---
 
@@ -77,17 +77,17 @@ Understanding internet culture is a literacy skill. Without it, educators can't 
 ## Learning Pathways
 
 ### Beginner: Understanding Online Spaces
-1. [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation concepts and critical thinking
-2. [[02 DEVELOP/🌿 Plants/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Levels of internet participation
-3. [[02 DEVELOP/🌿 Plants/Posting Publicly Online\|Posting Publicly Online]] — Basic framework for digital identity
-4. [[02 DEVELOP/🌱 Seeds/Extremely Online Culture\|Extremely Online Culture]] — Deep internet engagement patterns
+1. [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]] — Foundation concepts and critical thinking
+2. [[02 DEVELOP/Digital Engagement Spectrum\|Digital Engagement Spectrum]] — Levels of internet participation
+3. [[02 DEVELOP/Posting Publicly Online\|Posting Publicly Online]] — Basic framework for digital identity
+4. [[02 DEVELOP/Extremely Online Culture\|Extremely Online Culture]] — Deep internet engagement patterns
 
 ### Intermediate: Analyzing Cultural Dynamics
-5. [[02 DEVELOP/🌿 Plants/Platform Culture Analysis\|Platform Culture Analysis]] — How platforms shape behavior
-6. [[02 DEVELOP/🌿 Plants/Digital Identity Construction\|Digital Identity Construction]] — Psychology of online identity
-7. [[02 DEVELOP/🌿 Plants/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Digital cultural production
-8. [[02 DEVELOP/🌿 Plants/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided connections
-9. [[02 DEVELOP/🌿 Plants/Online Harassment and Activism\|Online Harassment and Activism]] — Power dynamics online
+5. [[02 DEVELOP/Platform Culture Analysis\|Platform Culture Analysis]] — How platforms shape behavior
+6. [[02 DEVELOP/Digital Identity Construction\|Digital Identity Construction]] — Psychology of online identity
+7. [[02 DEVELOP/Meme Culture and Meaning-Making\|Meme Culture and Meaning-Making]] — Digital cultural production
+8. [[02 DEVELOP/Parasocial Relationships in Digital Spaces\|Parasocial Relationships in Digital Spaces]] — One-sided connections
+9. [[02 DEVELOP/Online Harassment and Activism\|Online Harassment and Activism]] — Power dynamics online
 10. [[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]] — Coordinated manipulation case study
 
 ### Advanced: Research and Application

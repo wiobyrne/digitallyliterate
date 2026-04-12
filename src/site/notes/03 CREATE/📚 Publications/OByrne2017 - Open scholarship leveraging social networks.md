@@ -20,7 +20,7 @@ An earlier version of this chapter was shared publicly for open commenting durin
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
-- [[02 DEVELOP/🌿 Plants/Building My Personal Cyberinfrastructure\|Building My Personal Cyberinfrastructure]]
-- [[02 DEVELOP/🌱 Seeds/Digital Agility in Education\|Digital Agility in Education]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[04 META/🔧 Workbench/Homelab/Documentation/Building My Personal Cyberinfrastructure\|Building My Personal Cyberinfrastructure]]
+- [[02 DEVELOP/Digital Agility in Education\|Digital Agility in Education]]
 - [[03 CREATE/🔨 Projects/Archive/WalkMyWorld\|WalkMyWorld]]

@@ -104,7 +104,7 @@ Finding somewhere you belong requires tolerance for others finding their own bel
 - [[Amazon Corporate Power\|Amazon Corporate Power]] — HQ2 spectacle forcing cities to bid billions in tax incentives demonstrates unchecked corporate power demanding public subsidy for private profit in [[Corporate Welfare\|Corporate Welfare]].
 - [[China Social Credit\|China Social Credit]] — Digital dictatorship building surveillance state with constant tracking judging and controlling citizens through algorithmic privileges and punishments in [[Surveillance States\|Surveillance States]].
 - [[Student Edtech Resistance\|Student Edtech Resistance]] — Brooklyn teens protesting Facebook-designed program demonstrates students recognize when technology replaces rather than supports teachers contradicting automation narratives in [[Educational Technology\|Educational Technology]].
-- [[Social Media Wellbeing\|Social Media Wellbeing]] — Study showing 30-minute daily limit significantly improves wellbeing reveals causal not just correlational relationship between use and depression in [[02 DEVELOP/🌱 Seeds/Mental Health\|Mental Health]].
+- [[Social Media Wellbeing\|Social Media Wellbeing]] — Study showing 30-minute daily limit significantly improves wellbeing reveals causal not just correlational relationship between use and depression in [[01 CONSUME/📥 Inbox/Mental Health\|Mental Health]].
 
 ---
 

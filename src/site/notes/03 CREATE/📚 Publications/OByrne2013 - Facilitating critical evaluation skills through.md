@@ -21,7 +21,7 @@ Quantitative findings suggest that the ability to recognize and construct surfac
 
 ## Connected Concepts
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
 - [[New Literacies\|New Literacies]]
 - [[Critical Evaluation\|Critical Evaluation]]

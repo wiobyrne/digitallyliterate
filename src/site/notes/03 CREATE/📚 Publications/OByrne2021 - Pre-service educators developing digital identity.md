@@ -23,7 +23,7 @@ This article discusses a study on preservice education students and the implemen
 
 ## Connected Concepts
 
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
 - [[Domain of One's Own\|Domain of One's Own]]
 - [[Multiliteracies\|Multiliteracies]]

@@ -16,4 +16,4 @@ Turner, Kristen Hawley; Eisenstock, Bobbie; Hicks, Troy; et al. (2024) The impor
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

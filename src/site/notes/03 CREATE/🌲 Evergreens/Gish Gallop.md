@@ -117,7 +117,7 @@ The **Gish Gallop** is a fallacious debate tactic where someone drowns their opp
 
 ## Related Concepts
 
-- [[02 DEVELOP/🌿 Plants/Argumentum ad Nauseam\|Argumentum ad Nauseam]] - Repeating same point
+- [[02 DEVELOP/Argumentum ad Nauseam\|Argumentum ad Nauseam]] - Repeating same point
 - [[Proof by Verbosity\|Proof by Verbosity]] - Using length to appear authoritative
 - [[Cherry Picking\|Cherry Picking]] - Selective evidence presentation
 - [[Moving the Goalposts\|Moving the Goalposts]] - Changing criteria for proof

@@ -23,7 +23,7 @@ Knowing how to use Google Docs or navigate a learning management system was neve
 ### [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]]
 *The material answer to "what do we actually use?"* This Grove makes self-determination concrete by identifying tools that protect users by default — CryptPad, Signal, Matrix, Nextcloud. The key insight: when the tool does the privacy work, adoption stops being a technical burden and becomes a pedagogical opportunity. Tool choices become teaching.
 
-### [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]]
+### [[02 DEVELOP/Digital Sovereignty\|Digital Sovereignty]]
 *The infrastructure argument.* Privacy by Design picks the right tools. Sovereignty asks: who owns the server? Whose jurisdiction governs the data? This Grove pushes past individual tool swaps toward community-controlled infrastructure — the difference between using Signal and running your own Matrix server.
 
 ### [[03 CREATE/🪴 Groves/Digital Resilience\|Digital Resilience]]
@@ -61,7 +61,7 @@ This progression — understand, choose, build, sustain — is a curriculum. It 
 
 **For the Digitally Literate newsletter:** Every issue already touches these themes. The Forest gives them a frame. Instead of standalone tips ("try Signal," "here's a privacy setting"), each piece can be positioned within the larger argument: this is one step in a practice of digital self-determination.
 
-**For policy:** The AI safety spending gap ([[02 DEVELOP/🌿 Plants/AI Safety Spending Gap\|AI Safety Spending Gap]]) is not a separate problem. It's the same structural dynamic — capability outpacing safety, extraction outpacing protection — playing out at a different scale. AI literacy and digital literacy are the same fight.
+**For policy:** The AI safety spending gap ([[02 DEVELOP/AI Safety Spending Gap\|AI Safety Spending Gap]]) is not a separate problem. It's the same structural dynamic — capability outpacing safety, extraction outpacing protection — playing out at a different scale. AI literacy and digital literacy are the same fight.
 
 ---
 

@@ -30,5 +30,5 @@ O'Byrne, W Ian (2018). Empowering students as critical readers and writers in on
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[03 CREATE/📝 Blog/Critical Media Literacy\|Critical Media Literacy]]

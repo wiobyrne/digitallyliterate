@@ -32,10 +32,10 @@ This Grove gathers the theoretical frameworks, pedagogical techniques, and pract
 
 The intellectual foundations.
 
-- [[02 DEVELOP/🌿 Plants/Constructivism and Cognitive Dissonance\|Constructivism and Cognitive Dissonance]] — Active knowledge building through experience
-- [[02 DEVELOP/🌿 Plants/Critical Pedagogy Framework\|Critical Pedagogy Framework]] — Education as tool for liberation and social transformation
-- [[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]] — Discovery through questioning and dialogue
-- [[02 DEVELOP/🌱 Seeds/Post-structuralism in Education\|Post-structuralism in Education]] — Questioning single, stable truths
+- [[02 DEVELOP/Constructivism and Cognitive Dissonance\|02 DEVELOP/Constructivism and Cognitive Dissonance]] — Active knowledge building through experience
+- [[02 DEVELOP/Critical Pedagogy Framework\|Critical Pedagogy Framework]] — Education as tool for liberation and social transformation
+- [[02 DEVELOP/Socratic Method Applications\|Socratic Method Applications]] — Discovery through questioning and dialogue
+- [[02 DEVELOP/Post-structuralism in Education\|Post-structuralism in Education]] — Questioning single, stable truths
 - [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] — How progressive approaches can perpetuate harm
 
 ---
@@ -44,8 +44,8 @@ The intellectual foundations.
 
 The methods in the classroom.
 
-- [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]] — Manufactured opposition to foster critical thinking
-- [[02 DEVELOP/🌱 Seeds/Dialectical Inquiry Approaches\|Dialectical Inquiry Approaches]] — Collaborative thesis-antithesis-synthesis
+- [[02 DEVELOP/Devil's Advocate Methodology\|Devil's Advocate Methodology]] — Manufactured opposition to foster critical thinking
+- [[02 DEVELOP/Dialectical Inquiry Approaches\|Dialectical Inquiry Approaches]] — Collaborative thesis-antithesis-synthesis
 - [[Classroom Environment Building\|Classroom Environment Building]] — Creating psychological safety for intellectual risk-taking
 - [[Student Engagement Strategies\|Student Engagement Strategies]] — Moving from passive to active learning
 
@@ -55,8 +55,8 @@ The methods in the classroom.
 
 Making it work.
 
-- [[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]] — Managing psychological and ethical concerns
-- [[02 DEVELOP/🌿 Plants/Student Response Management\|Student Response Management]] — Handling discomfort and confusion as learning indicators
+- [[02 DEVELOP/Risk Mitigation Strategies\|Risk Mitigation Strategies]] — Managing psychological and ethical concerns
+- [[03 CREATE/🎓 Teaching/Student Response Management\|Student Response Management]] — Handling discomfort and confusion as learning indicators
 - [[Assessment Philosophy and Approaches\|Assessment Philosophy and Approaches]] — Evaluating learning in complex environments
 - [[Reflection and Metacognition Frameworks\|Reflection and Metacognition Frameworks]] — Building self-aware learners
 - [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]] — The overarching framework connecting theory and practice
@@ -65,10 +65,10 @@ Making it work.
 
 ## Key Connections
 
-- How [[02 DEVELOP/🌿 Plants/Constructivism and Cognitive Dissonance\|Constructivism and Cognitive Dissonance]] informs [[02 DEVELOP/🌿 Plants/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
-- Relationship between [[02 DEVELOP/🌿 Plants/Critical Pedagogy Framework\|Critical Pedagogy Framework]] and student empowerment
-- Connection of [[02 DEVELOP/🌿 Plants/Socratic Method Applications\|Socratic Method Applications]] to [[Student Engagement Strategies\|Student Engagement Strategies]]
-- Link between [[Classroom Environment Building\|Classroom Environment Building]] and [[02 DEVELOP/🌿 Plants/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
+- How [[02 DEVELOP/Constructivism and Cognitive Dissonance\|02 DEVELOP/Constructivism and Cognitive Dissonance]] informs [[02 DEVELOP/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
+- Relationship between [[02 DEVELOP/Critical Pedagogy Framework\|Critical Pedagogy Framework]] and student empowerment
+- Connection of [[02 DEVELOP/Socratic Method Applications\|Socratic Method Applications]] to [[Student Engagement Strategies\|Student Engagement Strategies]]
+- Link between [[Classroom Environment Building\|Classroom Environment Building]] and [[02 DEVELOP/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
 
 ---
 
@@ -77,7 +77,7 @@ Making it work.
 Where pedagogy meets artificial intelligence.
 
 - [[AI-Boundary-Co-Construction\|AI-Boundary-Co-Construction]] 🌲 — Framework for human-AI boundary work in learning
-- [[02 DEVELOP/🌿 Plants/HITL Pedagogy Toolkit\|HITL Pedagogy Toolkit]] 🌲 — Human-in-the-loop prompts, activities, and classroom practices
+- [[02 DEVELOP/HITL Pedagogy Toolkit\|02 DEVELOP/HITL Pedagogy Toolkit]] 🌲 — Human-in-the-loop prompts, activities, and classroom practices
 - [[03 CREATE/🌲 Evergreens/AI Detection and Authentic Assessment\|AI Detection and Authentic Assessment]] 🌲 — Beyond detection tools to meaningful assessment
 - [[03 CREATE/🌲 Evergreens/Frameworks for Thinking About AI in Education\|Frameworks for Thinking About AI in Education]] 🌲 — Bentoism, contingency, and evaluating AI claims
 - [[03 CREATE/🌲 Evergreens/AI and the Question of Self\|AI and the Question of Self]] 🌲 — Identity and subjectivity in the age of generative AI
@@ -98,22 +98,22 @@ Where pedagogy meets artificial intelligence.
 
 ## Courses and Curricula
 
-- [[02 DEVELOP/🌿 Plants/Digitally Literate Educator Course\|Digitally Literate Educator Course]] 🌿 — Free open course on project-based learning
-- [[02 DEVELOP/🌿 Plants/STEAM Ethics Toolkit Course Materials\|STEAM Ethics Toolkit Course Materials]] 🌿 — Gullah Geechee case study and wicked problems
-- [[02 DEVELOP/🌿 Plants/STEAM Summer Course Syllabus\|STEAM Summer Course Syllabus]] 🌿 — 5-week summer course structure
-- [[02 DEVELOP/🌿 Plants/AI Summer Workshop for K-8 Teachers\|AI Summer Workshop for K-8 Teachers]] 🌿 — 5-day professional development workshop
-- [[02 DEVELOP/🌿 Plants/Equity in Literacy Education Course\|Equity in Literacy Education Course]] 🌿 — Language, literacy, diversity, and identity
+- [[03 CREATE/🌲 Evergreens/Digitally Literate Educator Course\|Digitally Literate Educator Course]] 🌿 — Free open course on project-based learning
+- [[03 CREATE/🎓 Teaching/STEAM Ethics Toolkit Course Materials\|STEAM Ethics Toolkit Course Materials]] 🌿 — Gullah Geechee case study and wicked problems
+- [[03 CREATE/🎓 Teaching/STEAM Summer Course Syllabus\|STEAM Summer Course Syllabus]] 🌿 — 5-week summer course structure
+- [[03 CREATE/🎓 Teaching/AI Summer Workshop for K-8 Teachers\|AI Summer Workshop for K-8 Teachers]] 🌿 — 5-day professional development workshop
+- [[03 CREATE/🎓 Courses/Equity in Literacy Education Course\|Equity in Literacy Education Course]] 🌿 — Language, literacy, diversity, and identity
 
 ---
 
 ## Research and Community
 
-- [[02 DEVELOP/🌿 Plants/Participatory Action Research STEAM Project\|Participatory Action Research STEAM Project]] 🌿 — Mixed-methods study of STEAM teachers
-- [[02 DEVELOP/🌿 Plants/Anti-Racist Digital Literacy Practices\|Anti-Racist Digital Literacy Practices]] 🌿 — Conference session and chapter content
-- [[02 DEVELOP/🌿 Plants/InitiatED 21st Century Educational Justice\|InitiatED 21st Century Educational Justice]] 🌿 — Educational justice research initiative
-- [[02 DEVELOP/🌿 Plants/Assessment Tools and Rubrics Collection\|Assessment Tools and Rubrics Collection]] 🌿 — Video, portfolio, literacy, STEAM rubrics
-- [[02 DEVELOP/🌿 Plants/AdvocatED Educational Advocacy Network\|AdvocatED Educational Advocacy Network]] 🌿 — Educator advocacy mentoring community
-- [[02 DEVELOP/🌿 Plants/How Blockchain Technologies Inform My Pedagogy\|How Blockchain Technologies Inform My Pedagogy]] 🌿 — Technology integration considerations
+- [[02 DEVELOP/Participatory Action Research STEAM Project\|Participatory Action Research STEAM Project]] 🌿 — Mixed-methods study of STEAM teachers
+- [[02 DEVELOP/Anti-Racist Digital Literacy Practices\|Anti-Racist Digital Literacy Practices]] 🌿 — Conference session and chapter content
+- [[02 DEVELOP/InitiatED 21st Century Educational Justice\|InitiatED 21st Century Educational Justice]] 🌿 — Educational justice research initiative
+- [[03 CREATE/🎓 Teaching/Assessment Tools and Rubrics Collection\|Assessment Tools and Rubrics Collection]] 🌿 — Video, portfolio, literacy, STEAM rubrics
+- [[03 CREATE/🔨 Projects/Active/AdvocatED Educational Advocacy Network\|AdvocatED Educational Advocacy Network]] 🌿 — Educator advocacy mentoring community
+- [[02 DEVELOP/How Blockchain Technologies Inform My Pedagogy\|How Blockchain Technologies Inform My Pedagogy]] 🌿 — Technology integration considerations
 
 ---
 

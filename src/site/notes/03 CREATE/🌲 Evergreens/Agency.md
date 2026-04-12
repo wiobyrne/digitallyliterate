@@ -30,17 +30,17 @@ This conceptualization of agency draws from:
 
 ## Dimensions of Agency in AI-Literacy Practice
 
-### 1. Agency over Knowledge Base ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]])
+### 1. Agency over Knowledge Base ([[03 CREATE/🔨 Projects/Active/Co-Constructing AI Boundaries Framework Component - Inputs\|Co-Constructing AI Boundaries Framework Component - Inputs]])
 - Selecting sources that challenge or expand AI's context
 - Curating materials that reflect critical perspectives
 - Framing problems in ways that resist AI's defaults
 
-### 2. Agency over Cognitive Task ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]])
+### 2. Agency over Cognitive Task ([[03 CREATE/🔨 Projects/Active/Co-constructing AI Boundaries Framework Component - Prompts\|Co-Constructing AI Boundaries Framework Component - Prompts]])
 - Crafting complex prompts that demand thinking
 - Constraining AI to prevent over-delegation
 - Asking for critique, synthesis, or comparison (not just summary)
 
-### 3. Agency over Output Evaluation ([[02 DEVELOP/🌿 Plants/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]])
+### 3. Agency over Output Evaluation ([[02 DEVELOP/Co-Constructing AI Boundaries Framework Component - Outputs\|Co-Constructing AI Boundaries Framework Component - Outputs]])
 - Critically assessing quality and bias
 - Recognizing hallucinations or errors
 - Deciding what merits trust
@@ -118,9 +118,9 @@ Fostering agency in AI-literacy requires:
 
 ## Related Notes
 
-- [[02 DEVELOP/🌿 Plants/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
-- [[02 DEVELOP/🌿 Plants/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
-- [[02 DEVELOP/🌿 Plants/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
+- [[02 DEVELOP/Analytic Framework for AI Human Meaning-Making Practices\|Analytic Framework for AI Human Meaning-Making Practices]]
+- [[02 DEVELOP/How learners should engage Large Language Models framework\|How learners should engage Large Language Models framework]]
+- [[02 DEVELOP/Tracing the AI-Human Conversation Framework\|Tracing the AI-Human Conversation Framework]]
 
 ---
 

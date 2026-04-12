@@ -139,7 +139,7 @@ Ayn Rand's quote on privacy feels relevant in a world where the savage's existen
 - **[[NASA Apollo Archive\|NASA Apollo Archive]]** — 8400+ public domain photos remixed into Ground Control 4K film.
 - **[[Eric Pickersgill\|Eric Pickersgill]]** — Removed photo essay editing smartphones out, Rorschach test for tech feelings.
 - **[[Laura Hilliger\|Laura Hilliger]]** — Reach outside the silo, learning networks modifying connections and identity.
-- **[[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]]** — Post-Snowden chilling effects, respecting privacy fears.
+- **[[02 DEVELOP/Digital Identity\|Digital Identity]]** — Post-Snowden chilling effects, respecting privacy fears.
 - **[[Post-Snowden Era\|Post-Snowden Era]]** — Not everyone can openly share online, government surveillance concerns.
 - **[[Productivity Systems\|Productivity Systems]]** — Six lists framework, outsource and long-term goals integration.
 - **[[30-Day Challenge\|30-Day Challenge]]** — Morning journaling routine, habit formation through daily practice.

@@ -5,130 +5,69 @@
 
 # Digital Resilience
 
-*Staying strong in a digital world*
+Knowing what to do and actually being able to sustain it over time are two different problems. Most digital literacy education focuses on the first one. Digital resilience is about the second.
 
-> Resilience means the ability to **withstand shocks and adapt**. In digital life, it's about staying safe and sustainable online even as technology and threats change.
-
----
-
-## What It Looks Like
-
-### For Individuals
-- Recognizing phishing scams before clicking
-- Using strong, unique passwords (via a password manager)
-- Not getting overwhelmed by constant privacy fears
-- Knowing how to adjust privacy settings on new apps
-- Having habits and support to handle digital challenges
-
-### For Communities
-- Backing up important community data
-- Having a plan if a service goes down
-- Training members so everyone's comfortable with the tools
-- Keeping operations running safely even if platforms change or hackers target you
-
-Digital resilience focuses on sustainability and adaptation; security culture focuses on shared norms that prevent harm in the first place.
+You can understand surveillance capitalism, know which tools protect your privacy, and still find yourself exhausted, overwhelmed, and reverting to the path of least resistance. That's not a failure of knowledge. It's what happens when the systems around you are designed to wear you down. Resilience is about building the habits, the support structures, and the realistic expectations that let you keep making better choices without burning out.
 
 ---
 
-## The Privacy Fatigue Problem
+## Key Terms
 
-Many people today suffer from **"privacy fatigue"** — feeling overwhelmed and giving up on protecting themselves.
+**Digital resilience** is the capacity to navigate digital life sustainably, to recognize threats, respond to them, and maintain good practices over time without being paralyzed by perfectionism or exhausted by constant vigilance. It applies to individuals and communities. A resilient person knows what to do when something goes wrong. A resilient community has distributed that knowledge so no single person carries all of it.
 
-A digitally resilient person has the **habits and support** to handle these challenges without burning out. It's sustainable, not paranoid.
+**Privacy fatigue** is what happens when the gap between what you know you should do and what feels possible becomes too wide. The result is a kind of learned helplessness: people stop trying because trying feels pointless. It's one of the main reasons technically sound privacy advice fails in practice. Any approach to digital resilience has to account for it directly, which is why [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] is central to this Grove.
 
----
+**[[03 CREATE/🌲 Evergreens/Attention\|Attention]]** sits at the intersection of resilience and digital life in ways that aren't always obvious. The platforms you use are optimized to capture and hold your attention, and that optimization shapes your habits, your sense of urgency, and your ability to make deliberate choices. Understanding attention as something that can be managed and protected is part of what resilience actually looks like.
 
-## Practical Examples
+**[[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]** is the skill set that makes resilience possible in information environments. Being resilient online isn't just about tools and security. It's about being able to evaluate what you're seeing, recognize manipulation, understand why certain stories spread, and maintain your own judgment in an information landscape designed to short-circuit it. Without media literacy, resilience is fragile.
 
-| Challenge | Resilient Response |
-|-----------|-------------------|
-| Too many passwords | Use a password manager (like Bitwarden) |
-| New app, unknown settings | Take 5 minutes to check privacy options |
-| Platform goes down | Have backups and alternative communication channels |
-| Phishing attempt | Recognize the signs, don't click, report it |
-| Privacy fatigue | Focus on one improvement at a time |
+**[[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]]** addresses the harder question underneath media literacy: what does it mean to know something online, when sources conflict, when expertise is contested, and when the infrastructure for shared reality is under pressure? Resilience requires some working answer to this question, not certainty, but enough of a framework to keep functioning.
+
+**[[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]]** is relevant here because it documented, in real time, the tactics that are now standard features of the online information environment: coordinated harassment, weaponized outrage, platform exploitation, and information flooding. Understanding these patterns as patterns, not just as bad things that happen, is part of being resilient against them.
+
+**[[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]]** is the practical philosophy that holds this Grove together. Perfectionism is the enemy of resilience. A community that moves 30% of its sensitive work to better tools and sustains that change is in a far better position than one that attempts a complete migration, burns out, and reverts. Good enough, consistently, beats perfect occasionally.
 
 ---
 
-## Building Resilience
+## Go Deeper
 
-1. **Start small** — One habit at a time
-2. **Build support** — Privacy champions help each other
-3. **Create systems** — Automatic backups, password managers
-4. **Accept imperfection** — Good enough is better than giving up
-5. **Stay current** — Threats change, so does your knowledge
+**The Foundations**
 
----
+- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] — the core skill for navigating information environments
+- [[03 CREATE/🌲 Evergreens/Attention\|Attention]] — understanding what platforms are optimizing for and why it matters
+- [[03 CREATE/🌲 Evergreens/Truth and Objectivity in Digital Discourse\|Truth and Objectivity in Digital Discourse]] — what it means to know something online
+- [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]] — the practical philosophy of sustainable improvement
 
-## The Goal
+**Understanding the Threats**
 
-Digital resilience empowers us to **use technology on our own terms** without:
-- Fear
-- Fatigue
-- Dependency on any single corporate platform
+- [[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]] — how coordinated manipulation actually works
+- [[03 CREATE/🌲 Evergreens/Dark Patterns\|Dark Patterns]] — how platform design works against your intentions
+- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model behind the attention economy
+- [[03 CREATE/🌲 Evergreens/Enshittification\|Enshittification]] — why platforms degrade and what that means for your practices
 
-It's about **staying strong in a digital world, together**.
+**Building Capacity**
 
----
+- [[03 CREATE/🌲 Evergreens/Adopting New Digital Tools\|Adopting New Digital Tools]] — how to navigate the friction of changing practices
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Citizenship\|Teaching Digital Citizenship]] — building resilience as a civic and educational practice
+- [[03 CREATE/🌲 Evergreens/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — how to develop this capacity in a community
+- [[03 CREATE/🌲 Evergreens/Networked Publics in Digital Spaces\|Networked Publics in Digital Spaces]] — how online spaces shape behavior and identity
 
-## Foundational Concepts
+**What Stays Yours**
 
-- [[02 DEVELOP/🌿 Plants/Threat Modeling for Regular People\|Threat Modeling for Regular People]] — Asking the right questions for your situation
-- [[03 CREATE/🌲 Evergreens/Privacy Security Encryption Defined\|Privacy Security Encryption Defined]] — Understanding the three layers of protection
-- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Why this matters
-- [[02 DEVELOP/🌿 Plants/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Navigating change without being paralyzed
-
----
-
-## Broader Landscape
-
-Concepts that connect to digital resilience across the vault.
-
-### Foundations
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]] — The overarching literacy model
-- [[Digital Agency\|Digital Agency]] / [[Digital Autonomy\|Digital Autonomy]] — Making real choices in digital spaces
-- [[02 DEVELOP/🌿 Plants/Digital Citizenship\|Digital Citizenship]] — The civic dimension
-- [[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]] / [[02 DEVELOP/🌿 Plants/Digital Footprint\|Digital Footprint]] — What you leave behind online
-- [[Cyber Hygiene\|Cyber Hygiene]] — Baseline habits for staying safe
-- [[Digital Wellbeing\|Digital Wellbeing]] — The health dimension
-
-### Psychology and Attention
-- [[Attention Economy\|Attention Economy]] — The system designed to capture your focus
-- [[Information Overload\|Information Overload]] — Too much signal, not enough filter
-- [[Digital Boundaries\|Digital Boundaries]] / [[03 CREATE/📝 Blog/Digital Minimalism\|Digital Minimalism]] — Setting limits
-- [[Fear of Missing Out (FOMO)\|Fear of Missing Out (FOMO)]] — The anxiety that keeps you scrolling
-- [[Mental Health and Tech Use\|Mental Health and Tech Use]] — What the research actually shows
-- [[Platform Design and Manipulation\|Platform Design and Manipulation]] / [[Addiction by Design\|Addiction by Design]] — How apps exploit psychology
-
-### Misinformation
-- [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]] — The core skill for navigating information ecosystems
-- [[Misinformation vs Disinformation\|Misinformation vs Disinformation]] — Knowing the difference matters
-- [[Echo Chambers and Filter Bubbles\|Echo Chambers and Filter Bubbles]] — How algorithms narrow worldview
-- [[Deepfakes and Synthetic Media\|Deepfakes and Synthetic Media]] / [[AI-Generated Misinformation\|AI-Generated Misinformation]] — The new frontier
-- [[Trust in Information Ecosystems\|Trust in Information Ecosystems]] — Rebuilding trust at scale
-
-### Practical Tools
-- [[Password Managers\|Password Managers]] / [[Two-Factor Authentication (2FA)\|Two-Factor Authentication (2FA)]] — Minimum viable security
-- [[VPNs and Secure Browsing\|VPNs and Secure Browsing]] / [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]] — Protecting data in transit
-- [[Secure Communication Tools\|Secure Communication Tools]] / [[Open Source Alternatives\|Open Source Alternatives]] — Privacy-first choices
-- [[Digital Threat Modeling\|Digital Threat Modeling]] / [[Digital Self-Defense\|Digital Self-Defense]] — Knowing what to protect
-- [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]] — The specific threat to educators
+- [[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]] — knowing what's already out there
+- [[02 DEVELOP/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — keeping your options open
 
 ---
 
-## Related
+## Start Here
 
-- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — The parent framework
-- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — Owning your infrastructure
-- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — Tools that protect you by default
-- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — Shared norms that protect people together
-- [[02 DEVELOP/🌿 Plants/Teaching Digital Self-determination\|Teaching Digital Self-determination]] — How to teach these concepts
-- [[02 DEVELOP/🌿 Plants/Privacy Tools Index\|Privacy Tools Index]] — Tools to build your resilience toolkit
-- [[03 CREATE/🪴 Groves/Internet Culture\|Internet Culture]] — Understanding the terrain resilience operates in
-- [[03 CREATE/🪴 Groves/Emotional Intelligence\|Emotional Intelligence]] — The human capacity that sustains digital practices
+New to this topic? Start with [[03 CREATE/🌲 Evergreens/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]]. It reframes the whole conversation away from perfectionism and toward what's actually sustainable, which is the right starting point for anything in this space.
 
 ---
 
-*Resilience isn't about being perfect. It's about being prepared.*
+## Connected Groves
 
-## Connections
+- [[03 CREATE/🪴 Groves/Digital Self-determination\|Digital Self-determination]] — the philosophical framework resilience supports
+- [[03 CREATE/🪴 Groves/Privacy by Design\|Privacy by Design]] — tools that reduce the effort required to stay safe
+- [[03 CREATE/🪴 Groves/Digital Sovereignty\|Digital Sovereignty]] — owning the infrastructure your practices depend on
+- [[03 CREATE/🪴 Groves/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]] — how communities build resilience together rather than individually

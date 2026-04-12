@@ -16,4 +16,4 @@ Chung, An-Me; Bond Gill, I; O'Byrne, Ian (2017) Web Literacy 2.0. *Repéré à: 
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]

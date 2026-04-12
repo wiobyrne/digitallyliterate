@@ -127,7 +127,7 @@ One project that we'll soon start up involves printing out a frame for the fidge
 
 **🌱 Connected Concepts**:
 
-- [[02 DEVELOP/🌿 Plants/Digital Identity\|Digital Identity]] — Blogging serves as essential practice for developing authentic online presence, with students building digital identities and websites for first time requiring reflection on personal reasons for publishing and curating professional/creative selves online.
+- [[02 DEVELOP/Digital Identity\|Digital Identity]] — Blogging serves as essential practice for developing authentic online presence, with students building digital identities and websites for first time requiring reflection on personal reasons for publishing and curating professional/creative selves online.
 - [[Hacker Culture\|Hacker Culture]] — Chaos Computer Club demonstrates how hacker culture defends democracy through transparency and education, with CCC spokesman noting "The only way to save a democracy is to explain the way things work. Understanding things is a good immunization."
 - [[Wikipedia Pedagogy\|Wikipedia Pedagogy]] — Research shows editing Wikipedia articles produces measurable learning gains in digital literacy, online trust, critical evaluation, and information literacy skills, challenging assumptions that "anyone can write anything" by revealing robust collaborative debate processes.
 - [[Future of Work\|Future of Work]] — World Economic Forum identifies seven survival skills for evolving job market: critical thinking, collaboration across networks, agility, initiative, communication, information analysis, and curiosity—requiring education systems to prioritize these competencies over content memorization.

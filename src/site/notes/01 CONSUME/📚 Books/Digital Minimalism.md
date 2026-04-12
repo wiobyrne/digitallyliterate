@@ -55,4 +55,4 @@ Cal Newport is a computer science professor at Georgetown University who special
 ### Related Reading
 - "The Joy of Missing Out" - A guide to embracing mindfulness in an age of constant connectivity.
 - "Essentialism: The Disciplined Pursuit of Less" - A framework for prioritizing what truly matters amidst competing demands.
-- [[02 DEVELOP/🌿 Plants/Mindfulness\|Mindfulness]] - Incorporating mindfulness practices into daily life for enhanced well-being.
+- [[02 DEVELOP/Mindfulness\|Mindfulness]] - Incorporating mindfulness practices into daily life for enhanced well-being.

@@ -66,7 +66,7 @@ Per UNH Graduate School policy, students whose work falls below B- are required 
 
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Online Reading Comprehension\|Online Reading Comprehension]]
 - [[Online Content Creation\|Online Content Creation]]
 - [[03 CREATE/🪴 Groves/Critical Evaluation and Digital Literacy\|Critical Evaluation and Digital Literacy]]

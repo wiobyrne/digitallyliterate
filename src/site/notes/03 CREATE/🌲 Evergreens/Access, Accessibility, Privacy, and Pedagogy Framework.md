@@ -128,6 +128,6 @@ A fully equity-centered AAPP audit specifically defines "Privacy" and "Access" t
 - [[03 CREATE/🌲 Evergreens/Digital Sovereignty\|Digital Sovereignty]]
 - [[03 CREATE/🌲 Evergreens/Privacy\|Privacy]]
 - [[03 CREATE/🌲 Evergreens/Surveillance in Education\|Surveillance in Education]]
-- [[02 DEVELOP/🌿 Plants/InitiatED - From Classroom to Community\|InitiatED - From Classroom to Community]]
+- [[03 CREATE/🔨 Projects/Active/InitiatED - From Classroom to Community\|InitiatED - From Classroom to Community]]
 
 ## Connections

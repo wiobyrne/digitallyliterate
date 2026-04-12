@@ -96,8 +96,8 @@ Information hygiene isn't about being perfect. It's about building habits that h
 
 ## Foundational Concepts
 
-- [[02 DEVELOP/🌿 Plants/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Controlling information flow protects agency
-- [[02 DEVELOP/🌿 Plants/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Comfort with not-knowing as a skill
+- [[02 DEVELOP/Privacy is Power Not Secrecy\|Privacy is Power Not Secrecy]] — Controlling information flow protects agency
+- [[02 DEVELOP/Embracing Uncertainty as Strength\|Embracing Uncertainty as Strength]] — Comfort with not-knowing as a skill
 
 ---
 

@@ -131,11 +131,11 @@ Love all, trust a few, do wrong to none.
 
 **🌱 Connected Concepts**:
 
-- **[[02 DEVELOP/🌿 Plants/Digital Literacy Framework\|Digital Literacy Framework]]** — #niuslc16 workshop moving from consumers to curators to creators with Kahoot Hypothes.is and Thimble.
+- **[[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]** — #niuslc16 workshop moving from consumers to curators to creators with Kahoot Hypothes.is and Thimble.
 - **[[Calvin and Hobbes\|Calvin and Hobbes]]** — KaptainKristian video on Bill Watterson belief in art before commerce while tackling thorny topics.
 - **[[Atul Gawande\|Atul Gawande]]** — Caltech commencement on mistrust of science, truth-seeking as group effort not individual authority.
 - **[[Doug Belshaw\|Doug Belshaw]]** — View source for digital literacy frameworks, know who writes standards and what discussions happened.
-- **[[02 DEVELOP/🌱 Seeds/Trust\|Trust]]** — Martha Hoff research on sophisticated framing of trust in social spaces and online engagement.
+- **[[02 DEVELOP/Trust\|Trust]]** — Martha Hoff research on sophisticated framing of trust in social spaces and online engagement.
 - **[[Personal Learning Network\|Personal Learning Network]]** — Doug Peterson on 10 reasons every educator needs PLN, examining own network roles.
 - **[[Podcasts\|Podcasts]]** — Educational podcasts, let educators fuel their own creative juices finding content that piques interest.
 
