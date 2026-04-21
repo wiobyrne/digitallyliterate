@@ -25,7 +25,7 @@ Think of it like a house built with locks on every door from the start, rather t
 
 **[[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]]** describes the real tension in this space. The most secure tool isn't always the most usable one, and the most usable tool often achieves usability by collecting data and reducing friction through surveillance. There's no perfect solution. Privacy by design is about finding tools that have made thoughtful tradeoffs rather than tools that made privacy the afterthought.
 
-**[[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]]** is what privacy by design resists. When your data is the product, no amount of settings or opt-outs actually changes the underlying business model. Privacy-first tools typically run on different economic models: subscriptions, cooperative ownership, grants, or open-source contributions. Understanding this distinction helps you evaluate whether a "privacy-respecting" claim is meaningful or just marketing.
+**[[02 CURATE/Surveillance Capitalism\|Surveillance Capitalism]]** is what privacy by design resists. When your data is the product, no amount of settings or opt-outs actually changes the underlying business model. Privacy-first tools typically run on different economic models: subscriptions, cooperative ownership, grants, or open-source contributions. Understanding this distinction helps you evaluate whether a "privacy-respecting" claim is meaningful or just marketing.
 
 ---
 
@@ -37,7 +37,7 @@ Think of it like a house built with locks on every door from the start, rather t
 - [[03 CREATE/🌲 Evergreens/End-to-End Encryption\|End-to-End Encryption]] — the specific standard worth understanding
 - [[02 DEVELOP/Data Minimization\|02 DEVELOP/Data Minimization]] — why collecting less is a feature
 - [[03 CREATE/🌲 Evergreens/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]] — the real tradeoffs, honestly assessed
-- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model that privacy by design pushes back against
+- [[02 CURATE/Surveillance Capitalism\|Surveillance Capitalism]] — the business model that privacy by design pushes back against
 
 **When Things Go Wrong**
 

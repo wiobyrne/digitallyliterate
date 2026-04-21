@@ -23,6 +23,6 @@ McVerry, J. Gregory; O'Byrne, W Ian (2014). Coding and Connecting Complex Litera
 
 ## Connected Concepts
 
-- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 CURATE/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[Multiliteracies\|Multiliteracies]]
 - [[Disciplinary Literacy\|Disciplinary Literacy]]

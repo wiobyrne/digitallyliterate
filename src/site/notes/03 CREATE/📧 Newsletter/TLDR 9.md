@@ -123,7 +123,7 @@ VHS Camcorder reminds us that perfection isn't always the goal. Sometimes messy,
 **🌱 Connected Concepts**:
 
 - **[[Computational Participation\|Computational Participation]]** — Coding and programming as literacy activities with Quinn Burke and Yasmin Kafai.
-- **[[01 CONSUME/📚 Books/The Martian\|The Martian]]** — Hard sci-fi for cross-curricular English/Science classes, audiobook highly recommended.
+- **[[03 CREATE/📚 Books/The Martian\|The Martian]]** — Hard sci-fi for cross-curricular English/Science classes, audiobook highly recommended.
 - **[[NMC Horizon Reports\|NMC Horizon Reports]]** — Annual tech trend forecasts for K-12, Libraries, Higher Ed—all CC licensed.
 - **[[Student-Directed Learning\|Student-Directed Learning]]** — High schooler "Nick" creating his own learning plan and classes.
 - **[[Pew Research\|Pew Research]]** — Mobile messaging and social media demographics, auto-delete messaging apps.

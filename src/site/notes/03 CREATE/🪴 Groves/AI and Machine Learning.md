@@ -15,13 +15,13 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 
 - [[03 CREATE/🌲 Evergreens/Artificial Intelligence\|Artificial Intelligence]] 🔹  
 - [[03 CREATE/🌲 Evergreens/Machine Learning\|Machine Learning]] 🔹  
-- [[02 DEVELOP/Neural Networks\|Neural Networks]] 🔹  
-- [[02 DEVELOP/Deep Learning\|Deep Learning]] 🔹  
+- [[02 CURATE/Neural Networks\|Neural Networks]] 🔹  
+- [[02 CURATE/Deep Learning\|Deep Learning]] 🔹  
 - [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]] 🔹  
-- [[02 DEVELOP/Generative AI\|Generative AI]] 🔹  
+- [[02 CURATE/Generative AI\|Generative AI]] 🔹  
 - [[Large Language Models (LLMs)\|Large Language Models (LLMs)]] 🔹  
 - [[Supervised vs Unsupervised Learning\|Supervised vs Unsupervised Learning]] 🔹  
-- [[02 DEVELOP/Reinforcement Learning\|Reinforcement Learning]] 🔹  
+- [[02 CURATE/Reinforcement Learning\|Reinforcement Learning]] 🔹  
 - [[Computer Vision\|Computer Vision]] 🔹  
 
 ---

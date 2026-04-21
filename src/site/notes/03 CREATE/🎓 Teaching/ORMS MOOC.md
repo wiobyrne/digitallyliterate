@@ -71,10 +71,10 @@ Completing all five modules earned full ORMS Participant status. Mentors in the 
 
 ## Connections
 
-- [[02 DEVELOP/Four Cs of Digital Literacy\|Four Cs of Digital Literacy]]
-- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 CURATE/Four Cs of Digital Literacy\|Four Cs of Digital Literacy]]
+- [[02 CURATE/Digital Literacy Framework\|Digital Literacy Framework]]
 - [[New Literacies\|New Literacies]]
-- [[02 DEVELOP/Digital Identity\|Digital Identity]]
+- [[02 CURATE/Digital Identity\|Digital Identity]]
 - [[04 META/🔧 Workbench/Homelab/Documentation/Building My Personal Cyberinfrastructure\|Building My Personal Cyberinfrastructure]]
 - [[03 CREATE/🎓 Teaching/Courses/UNH/ED 6671 - Online Research and Media Skills\|ED 6671 - Online Research and Media Skills]]
 - [[03 CREATE/🎓 Teaching/IT&DML Program\|IT&DML Program]]

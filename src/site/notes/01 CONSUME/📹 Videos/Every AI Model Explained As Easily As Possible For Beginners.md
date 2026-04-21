@@ -7,11 +7,8 @@
 
 ## Summary
 Every AI Model Explained – Gemini, Claude, Grok & ChatGPT breaks down the biggest artificial intelligence systems dominating 2026. In this video, we explore how OpenAI’s GPT models evolved from GPT-3 to GPT-5.2, how Google’s Gemini connects directly to real-time web data and Android devices, and why Claude is known for long-form reasoning and safety-focused design.
-
 We also analyze DeepSeek’s strong coding performance, Meta’s LLaMA as the backbone of many open-source AI tools, Perplexity’s research-focused search engine approach, Grok’s real-time social integration, and MidJourney’s powerful AI image generation.
-
 If you’ve ever wondered which AI assistant is smartest in 2026 or which one fits your workflow best, this video gives you a clear and simple explanation of the entire AI landscape.
-
 Timestamps:
 0:00 - ChatGPT
 1:38 - Gemini
@@ -22,6 +19,7 @@ Timestamps:
 6:05 - Grok
 7:09 - MidJourney
 8:14 - Outro
+
 
 ## Gems
 -

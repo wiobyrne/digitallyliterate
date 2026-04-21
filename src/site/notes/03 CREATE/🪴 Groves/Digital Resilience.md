@@ -42,7 +42,7 @@ You can understand surveillance capitalism, know which tools protect your privac
 
 - [[03 CREATE/🌲 Evergreens/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]] — how coordinated manipulation actually works
 - [[03 CREATE/🌲 Evergreens/Dark Patterns\|Dark Patterns]] — how platform design works against your intentions
-- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model behind the attention economy
+- [[02 CURATE/Surveillance Capitalism\|Surveillance Capitalism]] — the business model behind the attention economy
 - [[03 CREATE/🌲 Evergreens/Enshittification\|Enshittification]] — why platforms degrade and what that means for your practices
 
 **Building Capacity**
@@ -55,7 +55,7 @@ You can understand surveillance capitalism, know which tools protect your privac
 **What Stays Yours**
 
 - [[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]] — knowing what's already out there
-- [[02 DEVELOP/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — keeping your options open
+- [[02 CURATE/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — keeping your options open
 
 ---
 

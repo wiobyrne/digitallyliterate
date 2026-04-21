@@ -26,18 +26,18 @@ Notes here are drafts, published posts, and archived pieces from wiobyrne.com. E
 
 ## Drafts in Progress
 
-| Title                                                                                                                                                     | Date           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [[03 CREATE/📝 Blog/How You Can Actually Tell Which Model You're Using\|How You Can Actually Tell Which Model You're Using]]                           | April 03, 2026 |
-| [[03 CREATE/📝 Blog/The Broken Liberation Narrative\|The Broken Liberation Narrative]]                                                                 | April 03, 2026 |
-| [[03 CREATE/📝 Blog/The Chilling Effect Is the Point\|The Chilling Effect Is the Point]]                                                               | April 03, 2026 |
-| [[03 CREATE/📝 Blog/Touch Grass as Political Act\|Touch Grass as Political Act]]                                                                       | April 03, 2026 |
-| [[03 CREATE/📝 Blog/We Always Knew\|We Always Knew]]                                                                                                   | April 03, 2026 |
-| [[03 CREATE/📝 Blog/Why Ambiguity Is Profitable, and Therefore Persistent\|Why Ambiguity Is Profitable, and Therefore Persistent]]                     | April 03, 2026 |
-| [[03 CREATE/📝 Blog/IAN.md Was Just the Beginning\|IAN.md Was Just the Beginning]]                                                                     | March 23, 2026 |
-| [[03 CREATE/📝 Blog/Homelab Journey, Part 4b Security Without a Fortress\|Homelab Journey, Part 4b Security Without a Fortress]]                       | March 14, 2026 |
-| [[03 CREATE/📝 Blog/Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP\|Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP]] | March 06, 2026 |
-| [[03 CREATE/📝 Blog/Local First AI in Obsidian with Ollama\|Local First AI in Obsidian with Ollama]]                                                   | March 03, 2026 |
+| Title                                                                                                                                                     | Date              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[03 CREATE/📝 Blog/How You Can Actually Tell Which Model You're Using\|How You Can Actually Tell Which Model You're Using]]                           | April 03, 2026    |
+| [[03 CREATE/📝 Blog/The Broken Liberation Narrative\|The Broken Liberation Narrative]]                                                                 | April 03, 2026    |
+| [[03 CREATE/📝 Blog/The Chilling Effect Is the Point\|The Chilling Effect Is the Point]]                                                               | April 03, 2026    |
+| [[03 CREATE/📝 Blog/Touch Grass as Political Act\|Touch Grass as Political Act]]                                                                       | April 03, 2026    |
+| [[03 CREATE/📝 Blog/We Always Knew\|We Always Knew]]                                                                                                   | April 03, 2026    |
+| [[03 CREATE/📝 Blog/Why Ambiguity Is Profitable, and Therefore Persistent\|Why Ambiguity Is Profitable, and Therefore Persistent]]                     | April 03, 2026    |
+| [[03 CREATE/📝 Blog/Homelab Journey, Part 4b Security Without a Fortress\|Homelab Journey, Part 4b Security Without a Fortress]]                       | March 14, 2026    |
+| [[03 CREATE/📝 Blog/Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP\|Blog Post - Building a Self-Hosted AI Agent with Ollama and MCP]] | March 06, 2026    |
+| [[03 CREATE/📝 Blog/Local First AI in Obsidian with Ollama\|Local First AI in Obsidian with Ollama]]                                                   | March 03, 2026    |
+| [[03 CREATE/📝 Blog/📝 Blog\|📝 Blog]]                                                                                                                 | February 19, 2026 |
 
 { .block-language-dataview}
 

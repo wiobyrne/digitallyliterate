@@ -16,4 +16,4 @@ O'Byrne, Ian Talking to Children about Technology, Social Media, & Algorithms.
 ## Connected Concepts
 
 - [[03 CREATE/🌲 Evergreens/Media Literacy\|Media Literacy]]
-- [[02 DEVELOP/Digital Literacy Framework\|Digital Literacy Framework]]
+- [[02 CURATE/Digital Literacy Framework\|Digital Literacy Framework]]

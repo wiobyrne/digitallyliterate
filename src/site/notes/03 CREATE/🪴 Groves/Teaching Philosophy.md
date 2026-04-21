@@ -33,9 +33,9 @@ This Grove gathers the theoretical frameworks, pedagogical techniques, and pract
 The intellectual foundations.
 
 - [[02 DEVELOP/Constructivism and Cognitive Dissonance\|02 DEVELOP/Constructivism and Cognitive Dissonance]] — Active knowledge building through experience
-- [[02 DEVELOP/Critical Pedagogy Framework\|Critical Pedagogy Framework]] — Education as tool for liberation and social transformation
-- [[02 DEVELOP/Socratic Method Applications\|Socratic Method Applications]] — Discovery through questioning and dialogue
-- [[02 DEVELOP/Post-structuralism in Education\|Post-structuralism in Education]] — Questioning single, stable truths
+- [[02 CURATE/Critical Pedagogy Framework\|Critical Pedagogy Framework]] — Education as tool for liberation and social transformation
+- [[02 CURATE/Socratic Method Applications\|Socratic Method Applications]] — Discovery through questioning and dialogue
+- [[02 CURATE/Post-structuralism in Education\|Post-structuralism in Education]] — Questioning single, stable truths
 - [[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]] — How progressive approaches can perpetuate harm
 
 ---
@@ -44,8 +44,8 @@ The intellectual foundations.
 
 The methods in the classroom.
 
-- [[02 DEVELOP/Devil's Advocate Methodology\|Devil's Advocate Methodology]] — Manufactured opposition to foster critical thinking
-- [[02 DEVELOP/Dialectical Inquiry Approaches\|Dialectical Inquiry Approaches]] — Collaborative thesis-antithesis-synthesis
+- [[02 CURATE/Devil's Advocate Methodology\|Devil's Advocate Methodology]] — Manufactured opposition to foster critical thinking
+- [[02 CURATE/Dialectical Inquiry Approaches\|Dialectical Inquiry Approaches]] — Collaborative thesis-antithesis-synthesis
 - [[Classroom Environment Building\|Classroom Environment Building]] — Creating psychological safety for intellectual risk-taking
 - [[Student Engagement Strategies\|Student Engagement Strategies]] — Moving from passive to active learning
 
@@ -55,7 +55,7 @@ The methods in the classroom.
 
 Making it work.
 
-- [[02 DEVELOP/Risk Mitigation Strategies\|Risk Mitigation Strategies]] — Managing psychological and ethical concerns
+- [[02 CURATE/Risk Mitigation Strategies\|Risk Mitigation Strategies]] — Managing psychological and ethical concerns
 - [[03 CREATE/🎓 Teaching/Student Response Management\|Student Response Management]] — Handling discomfort and confusion as learning indicators
 - [[Assessment Philosophy and Approaches\|Assessment Philosophy and Approaches]] — Evaluating learning in complex environments
 - [[Reflection and Metacognition Frameworks\|Reflection and Metacognition Frameworks]] — Building self-aware learners
@@ -65,10 +65,10 @@ Making it work.
 
 ## Key Connections
 
-- How [[02 DEVELOP/Constructivism and Cognitive Dissonance\|02 DEVELOP/Constructivism and Cognitive Dissonance]] informs [[02 DEVELOP/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
-- Relationship between [[02 DEVELOP/Critical Pedagogy Framework\|Critical Pedagogy Framework]] and student empowerment
-- Connection of [[02 DEVELOP/Socratic Method Applications\|Socratic Method Applications]] to [[Student Engagement Strategies\|Student Engagement Strategies]]
-- Link between [[Classroom Environment Building\|Classroom Environment Building]] and [[02 DEVELOP/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
+- How [[02 DEVELOP/Constructivism and Cognitive Dissonance\|02 DEVELOP/Constructivism and Cognitive Dissonance]] informs [[02 CURATE/Devil's Advocate Methodology\|Devil's Advocate Methodology]]
+- Relationship between [[02 CURATE/Critical Pedagogy Framework\|Critical Pedagogy Framework]] and student empowerment
+- Connection of [[02 CURATE/Socratic Method Applications\|Socratic Method Applications]] to [[Student Engagement Strategies\|Student Engagement Strategies]]
+- Link between [[Classroom Environment Building\|Classroom Environment Building]] and [[02 CURATE/Risk Mitigation Strategies\|Risk Mitigation Strategies]]
 
 ---
 
@@ -109,11 +109,11 @@ Where pedagogy meets artificial intelligence.
 ## Research and Community
 
 - [[04 META/🔧 Workbench/STEAM Research/Participatory Action Research STEAM Project\|Participatory Action Research STEAM Project]] 🌿 — Mixed-methods study of STEAM teachers
-- [[02 DEVELOP/Anti-Racist Digital Literacy Practices\|Anti-Racist Digital Literacy Practices]] 🌿 — Conference session and chapter content
-- [[02 DEVELOP/InitiatED 21st Century Educational Justice\|InitiatED 21st Century Educational Justice]] 🌿 — Educational justice research initiative
+- [[02 CURATE/Anti-Racist Digital Literacy Practices\|Anti-Racist Digital Literacy Practices]] 🌿 — Conference session and chapter content
+- [[02 CURATE/InitiatED 21st Century Educational Justice\|InitiatED 21st Century Educational Justice]] 🌿 — Educational justice research initiative
 - [[03 CREATE/🎓 Teaching/Assessment Tools and Rubrics Collection\|Assessment Tools and Rubrics Collection]] 🌿 — Video, portfolio, literacy, STEAM rubrics
 - [[03 CREATE/🔨 Projects/Active/AdvocatED Educational Advocacy Network\|AdvocatED Educational Advocacy Network]] 🌿 — Educator advocacy mentoring community
-- [[02 DEVELOP/How Blockchain Technologies Inform My Pedagogy\|How Blockchain Technologies Inform My Pedagogy]] 🌿 — Technology integration considerations
+- [[02 CURATE/How Blockchain Technologies Inform My Pedagogy\|How Blockchain Technologies Inform My Pedagogy]] 🌿 — Technology integration considerations
 
 ---
 

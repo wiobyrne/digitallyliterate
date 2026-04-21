@@ -42,7 +42,7 @@ Digital privacy is not just a technical issue—it is about **power, consent, au
 - [[Data Sovereignty\|Data Sovereignty]] 🔸  
 - [[Digital Rights Advocacy\|Digital Rights Advocacy]] 🔸  
 - [[Algorithmic Transparency\|Algorithmic Transparency]] 🔸  
-- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] 🔸  
+- [[02 CURATE/Surveillance Capitalism\|Surveillance Capitalism]] 🔸  
 - [[Ethics in AI\|Ethics in AI]] 🔹  
 
 ---

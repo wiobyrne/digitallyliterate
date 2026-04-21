@@ -15,7 +15,7 @@ It's worth being honest about what sovereignty doesn't mean. You don't have to r
 
 **Digital sovereignty** means having meaningful control over your digital information and the systems that process it. That control can live at different levels: choosing which apps you use, selecting services whose business models don't depend on extracting your data, running cooperative or community-owned infrastructure, or hosting your own systems entirely. Most people operate somewhere in the middle, and that's fine. The important thing is making those choices consciously rather than by default.
 
-**[[02 DEVELOP/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]** describes what happens when your work, relationships, and information become entangled in a platform you don't control. The cost of leaving rises over time as more of your history accumulates there. Sovereignty requires thinking about this before you're locked in, choosing tools and formats that keep your options open rather than ones that make migration increasingly painful.
+**[[02 CURATE/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]** describes what happens when your work, relationships, and information become entangled in a platform you don't control. The cost of leaving rises over time as more of your history accumulates there. Sovereignty requires thinking about this before you're locked in, choosing tools and formats that keep your options open rather than ones that make migration increasingly painful.
 
 **[[03 CREATE/🌲 Evergreens/Decentralized Network for Education\|Decentralized Network for Education]]** explores what it looks like when communities own and govern their own digital infrastructure rather than renting it from corporations. Decentralization distributes control rather than concentrating it, which means no single company, government, or failure point can take down the whole system. The educational applications of this are particularly significant because schools generate sensitive data about children and communities.
 
@@ -31,9 +31,9 @@ It's worth being honest about what sovereignty doesn't mean. You don't have to r
 
 **Understanding the Problem**
 
-- [[02 DEVELOP/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — how platforms lock you in and what to do about it
+- [[02 CURATE/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]] — how platforms lock you in and what to do about it
 - [[03 CREATE/🌲 Evergreens/Enshittification\|Enshittification]] — why platforms that start good tend to end badly
-- [[02 DEVELOP/Surveillance Capitalism\|Surveillance Capitalism]] — the business model driving most platform behavior
+- [[02 CURATE/Surveillance Capitalism\|Surveillance Capitalism]] — the business model driving most platform behavior
 - [[03 CREATE/🌲 Evergreens/Understanding Your Digital Footprint\|Understanding Your Digital Footprint]] — what's already out there and who has it
 
 **Building Sovereignty**
@@ -53,7 +53,7 @@ It's worth being honest about what sovereignty doesn't mean. You don't have to r
 
 ## Start Here
 
-New to this topic? Start with [[02 DEVELOP/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]. It makes the practical stakes concrete: this is what it costs when you don't think about sovereignty until you're already locked in.
+New to this topic? Start with [[02 CURATE/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]. It makes the practical stakes concrete: this is what it costs when you don't think about sovereignty until you're already locked in.
 
 ---
 
