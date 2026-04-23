@@ -486,7 +486,6 @@ img {
   right: 0;
   z-index: 100;
   background: var(--glass-surface);
-  border-bottom: 1px solid var(--border);
   padding: 0 1rem;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
@@ -497,20 +496,24 @@ img {
   margin: 0 auto;
   display: flex;
   align-items: center;
+  min-height: 3.5rem;
+  gap: 0.75rem;
 }
 
-/* Wordmark — JetBrains Mono, uppercase, letter-spaced */
-.navbar h1 {
-  font-family: var(--font-mono) !important;
-  font-size: 0.75rem !important;
-  font-weight: 700 !important;
-  letter-spacing: 0.12em !important;
-  text-transform: uppercase !important;
-  color: var(--text-main) !important;
-  margin: 0 !important;
-  padding: 0;
-  border: none;
-  line-height: 1.9rem;
+.site-wordmark {
+  display: inline-flex;
+  align-items: center;
+  height: 1.9rem;
+  padding: 0 0.75rem;
+  border: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-main);
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .navbar a {
@@ -519,22 +522,25 @@ img {
 }
 
 .navbar a:hover { text-decoration: none; border-bottom: none; }
-.navbar a:hover h1 { color: var(--site-accent) !important; }
+.navbar a:hover .site-wordmark {
+  color: var(--site-accent);
+  border-color: color-mix(in srgb, var(--site-accent) 45%, var(--border));
+}
 
 /* Nav links */
 .navbar-nav {
   display: flex;
   align-items: center;
-  gap: 0.2em;
-  margin-left: 1.5em;
+  gap: 0.25rem;
+  margin-left: 0.75rem;
 }
 
 .nav-link {
   font-family: var(--font-sans);
-  font-size: 0.8125rem;
+  font-size: 0.78rem;
   font-weight: 500;
   color: var(--text-muted);
-  padding: 0.3em 0.6em;
+  padding: 0.25rem 0.45rem;
   text-decoration: none;
   border-bottom: none !important;
   transition: color var(--transition);
@@ -555,17 +561,26 @@ img {
 
 /* ── Search button ──────────────────────────── */
 .search-button {
-  background: var(--bg-subtle);
+  width: 1.9rem;
+  height: 1.9rem;
+  background: transparent;
   border: 1px solid var(--border);
-  padding: 0.4em 0.8em;
+  padding: 0;
   color: var(--text-muted);
   cursor: pointer;
   font-family: var(--font-sans);
   font-size: 0.8125rem;
-  transition: border-color var(--transition);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color var(--transition), color var(--transition);
 }
 
-.search-button:hover { border-color: var(--site-accent); }
+.search-button:hover { border-color: var(--site-accent); color: var(--site-accent); }
+.search-button .search-icon { display: inline-flex; align-items: center; justify-content: center; }
+.search-button .search-icon svg { width: 16px; height: 16px; }
+.search-button .search-text,
+.search-button .search-keys { display: none; }
 
 /* ── Content area ───────────────────────────── */
 .content {
@@ -681,14 +696,16 @@ div.transclusion {
 
 /* ── Theme toggle ───────────────────────────── */
 .theme-toggle {
-  background: var(--bg-subtle);
+  width: 1.9rem;
+  height: 1.9rem;
+  background: transparent;
   border: 1px solid var(--border);
-  padding: 0.4em 0.55em;
+  padding: 0;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: 0.5em;
+  margin-left: 0;
   color: var(--text-muted);
   line-height: 1;
   transition: border-color var(--transition), color var(--transition);
@@ -753,6 +770,47 @@ div.transclusion {
 
 @media (max-width: 500px) {
   .site-footer-inner { flex-direction: column; text-align: center; }
+}
+
+/* ── Homepage tightening ───────────────────── */
+.index-page .content > header {
+  margin-bottom: 0.35rem;
+}
+
+.index-page .content > header h1 {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--site-accent);
+  margin-bottom: 1.25rem;
+}
+
+.index-page .content > p:first-of-type {
+  font-size: 1.18rem;
+  line-height: 1.7;
+  color: var(--text-main);
+  max-width: 34rem;
+}
+
+.index-page .content > p:nth-of-type(2),
+.index-page .content > p:nth-of-type(3) {
+  max-width: 34rem;
+}
+
+.index-page .content h2 {
+  color: var(--site-accent);
+}
+
+.index-page .recent-list li {
+  padding: 0.55rem 0;
+}
+
+.index-page .recent-list a {
+  font-family: var(--font-sans);
+  font-size: 0.9375rem;
+  font-weight: 500;
 }
 
 /* ── Print ──────────────────────────────────── */

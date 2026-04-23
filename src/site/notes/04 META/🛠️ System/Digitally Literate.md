@@ -5,17 +5,11 @@
 
 # Digitally Literate
 
-![headshot.png](/img/user/04%20META/%F0%9F%94%97%20Assets/headshot.png)
+This is the working notebook behind the newsletter, the public site, and the rest of my work on digital literacy, AI, and learning.
 
-# **Hi, I’m Ian.**
+It is where ideas stay networked long enough to grow.
 
-I think about how we read, write, and learn in digital spaces.
-
-I care about tools that help people feel creative, capable, and connected. Not overwhelmed or extracted from.
-
-This site is my working notebook. A place to think out loud, test ideas, and share what I’m learning as I go.
-
-If you’re looking for polished essays and formal projects, you’ll find those at **wiobyrne.com**.  If you want the messy middle, the experiments, questions, and half-formed thoughts, you’re in the right place.
+If you are looking for polished essays, talks, and formal projects, go to **[wiobyrne.com](https://wiobyrne.com)**. If you want the notes, experiments, questions, and connective tissue underneath them, stay here.
  
 ---
  
@@ -23,8 +17,7 @@ If you’re looking for polished essays and formal projects, you’ll find those
 
 Digitally Literate is a **digital garden**.
 
-Notes grow here over time.  
-Nothing is finished. Everything is evolving.
+Notes grow here over time. Nothing is finished. Everything is evolving.
 
 Ideas move through stages of maturity:
 
@@ -34,10 +27,10 @@ Ideas move through stages of maturity:
 - 🪴 **Groves** — curated clusters of related notes on a theme
 - 🌳 **Forests** — big-picture syntheses across multiple groves
 
-Not sure where to start? Explore the [Groves](/groves), or just wander. Follow links. See what connects.
+Start with the [Groves](/groves) if you want a guided path, or wander by following links and backlinks.
 
 ---
-
+ 
 ## 🧭 What I’m exploring lately
 
 Right now I’m thinking about how we can:
@@ -52,8 +45,8 @@ Most posts touch one or more of these threads.
 
 ## ✳️ Connect
 
-- 💬 **Say hello:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)  
-- 🌍 **Professional site:** [wiobyrne.com](https://wiobyrne.com)  
-- 📨 **Join the newsletter:** [digitallyliterate.net/newsletter](https://digitallyliterate.net/newsletter)
+- 🌍 **Front door:** [wiobyrne.com](https://wiobyrne.com)
+- 📨 **Newsletter:** [digitallyliterate.net/newsletter](https://digitallyliterate.net/newsletter)
+- 💬 **Email:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)
 
 Let’s build a more open, ethical, and human web. One connection at a time.

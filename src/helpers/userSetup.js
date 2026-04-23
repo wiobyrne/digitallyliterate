@@ -84,7 +84,13 @@ function userEleventySetup(eleventyConfig) {
   // Recently updated: 10 most recent by update date
   eleventyConfig.addCollection("recentlyUpdated", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      return item.data.title && item.data.tags && item.data.tags.indexOf("gardenEntry") === -1;
+      if (!item.data.title || !item.data.tags || item.data.tags.indexOf("gardenEntry") !== -1) {
+        return false;
+      }
+      if (!item.inputPath) return true;
+      return item.inputPath.indexOf("/03 CREATE/🎓 Teaching/") === -1 &&
+             item.inputPath.indexOf("/03 CREATE/🔨 Projects/Archive/") === -1 &&
+             item.inputPath.indexOf("/04 META/") === -1;
     }).sort(function (a, b) {
       var aDate = a.data.updated || a.data.last_updated || a.date || 0;
       var bDate = b.data.updated || b.data.last_updated || b.date || 0;
