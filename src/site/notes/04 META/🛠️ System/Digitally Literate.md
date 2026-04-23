@@ -9,35 +9,42 @@ Digitally Literate is the home of the newsletter and the living notebook behind 
 
 This is where ideas stay connected long enough to become newsletter issues, essays, talks, and frameworks.
 
-If you want the clearest public writing each week, start with the **[newsletter](/newsletter)**. If you want the notes, experiments, and connective tissue underneath it, stay here. If you are looking for polished essays, talks, and formal projects, go to **[wiobyrne.com](https://wiobyrne.com)**.
+<div class="dl-home-feature">
+  <p class="dl-home-kicker">Newsletter</p>
+  <h2>Start with the weekly thread.</h2>
+  <p>The newsletter is the clearest public path through this work: one strong idea at a time, drawn from the notes, questions, and patterns developing in the garden.</p>
+  <div class="dl-home-actions">
+    <a href="/newsletter/" class="dl-home-cta dl-home-cta--primary">Read the newsletter</a>
+    <a href="https://wiobyrne.com" class="dl-home-cta">Visit wiobyrne.com</a>
+  </div>
+</div>
  
 ---
  
 ## 🌿 Start here
 
-- [Newsletter](/newsletter) is the clearest entry point and the public thread running through the work.
-- [Groves](/groves) offer curated paths through clusters of related notes.
-- [Evergreens](/evergreens) hold the ideas that have become stable enough to teach and reuse.
-- [wiobyrne.com](https://wiobyrne.com) is the front door for polished essays, talks, and formal projects.
-
-If you would rather wander, follow links and backlinks. That is usually how the best paths appear.
+<div class="start-paths">
+  <a href="/groves/" class="start-path">
+    <h3>Groves</h3>
+    <p>Curated paths through clusters of related notes.</p>
+  </a>
+  <a href="/evergreens/" class="start-path">
+    <h3>Evergreens</h3>
+    <p>Ideas that have become stable enough to teach and reuse.</p>
+  </a>
+  <a href="https://wiobyrne.com" class="start-path">
+    <h3>wiobyrne.com</h3>
+    <p>The polished front door for essays, talks, and formal projects.</p>
+  </a>
+</div>
 
 ---
 
 ## 🌱 How this garden works
 
-Digitally Literate is a **digital garden** organized around a public publishing loop.
-
 Some ideas begin as rough notes here. Some grow into stronger concepts. The clearest ones become newsletter issues, essays, talks, or reusable frameworks.
 
-The basic rhythm is:
-
-- 🌱 **Seeds** — quick notes, questions, fragments
-- 🌿 **Sprouts** — developing connections and patterns
-- 🌲 **Evergreens** — durable ideas, polished enough to teach and reuse
-- 🪴 **Groves** — curated pathways through related notes
-
-The newsletter is the public throughline. The garden is where the ideas stay linked long enough to deepen.
+The rhythm is simple: **seeds** capture raw ideas, **sprouts** develop them, **evergreens** hold the durable ones, and **groves** create guided paths through related notes. The newsletter is the public throughline. The garden is where the ideas stay linked long enough to deepen.
 
 ---
  

@@ -823,8 +823,80 @@ div.transclusion {
   color: var(--site-accent);
 }
 
+.dl-home-feature {
+  margin: 2rem 0 2.5rem;
+  padding: 1.5rem;
+  background: color-mix(in srgb, var(--bg-subtle) 82%, var(--site-accent) 18%);
+  border-left: 3px solid var(--site-accent);
+}
+
+.dl-home-kicker {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--site-accent);
+  margin-bottom: 0.9rem;
+}
+
+.dl-home-feature h2 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.25rem, 3vw, 1.7rem);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--text-main);
+  margin: 0 0 0.8rem;
+  text-transform: none;
+}
+
+.dl-home-feature p {
+  max-width: 34rem;
+  margin-bottom: 0;
+}
+
+.dl-home-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1.1rem;
+}
+
+.dl-home-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.4rem;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid var(--border);
+  background: var(--bg-subtle);
+  color: var(--text-main);
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.dl-home-cta:hover {
+  text-decoration: none;
+  border-color: var(--text-muted);
+}
+
+.dl-home-cta--primary {
+  background: var(--site-accent);
+  border-color: var(--site-accent);
+  color: #fff;
+}
+
+.dl-home-cta--primary:hover {
+  background: var(--green-hover);
+  border-color: var(--green-hover);
+  color: #fff;
+}
+
 .index-page .recent-list li {
-  padding: 0.55rem 0;
+  padding: 0.65rem 0;
 }
 
 .index-page .recent-list a {
@@ -1055,10 +1127,33 @@ div.transclusion {
   padding: 1.2em;
   background: var(--bg-subtle);
   border: 1px solid var(--border);
+  text-decoration: none !important;
+  color: var(--text-main);
+  transition: border-color var(--transition), background var(--transition);
+}
+
+.start-path:hover {
+  border-color: var(--site-accent);
+  background: rgba(0, 109, 72, 0.04);
 }
 
 .start-path h3 { margin-top: 0; margin-bottom: 0.5em; font-size: 1rem; }
 .start-path p { margin-bottom: 0; font-size: 0.9375rem; }
+
+@media (max-width: 640px) {
+  .dl-home-feature {
+    padding: 1.25rem;
+    margin: 1.75rem 0 2rem;
+  }
+
+  .dl-home-actions {
+    align-items: stretch;
+  }
+
+  .dl-home-cta {
+    width: 100%;
+  }
+}
 
 kbd {
   display: inline-block;
