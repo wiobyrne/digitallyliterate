@@ -500,6 +500,11 @@ img {
   gap: 0.75rem;
 }
 
+.navbar-brand {
+  text-decoration: none;
+  border-bottom: none !important;
+}
+
 .site-wordmark {
   display: inline-flex;
   align-items: center;
@@ -532,7 +537,7 @@ img {
   display: flex;
   align-items: center;
   gap: 0.25rem;
-  margin-left: 0.75rem;
+  margin-left: 0.9rem;
 }
 
 .nav-link {
@@ -554,6 +559,12 @@ img {
 }
 
 .navbar-spacer { flex: 1; }
+
+.navbar-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
 
 @media (max-width: 800px) {
   .navbar-nav { display: none; }
@@ -792,11 +803,20 @@ div.transclusion {
   line-height: 1.7;
   color: var(--text-main);
   max-width: 34rem;
+  margin-bottom: 1.4rem;
 }
 
 .index-page .content > p:nth-of-type(2),
 .index-page .content > p:nth-of-type(3) {
   max-width: 34rem;
+}
+
+.index-page .content ul {
+  max-width: 36rem;
+}
+
+.index-page .content li strong {
+  color: var(--text-main);
 }
 
 .index-page .content h2 {

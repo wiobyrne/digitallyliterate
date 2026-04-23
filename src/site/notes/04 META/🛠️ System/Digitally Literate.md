@@ -5,19 +5,29 @@
 
 # Digitally Literate
 
-This is the working notebook behind the newsletter, the public site, and the rest of my work on digital literacy, AI, and learning.
+Digitally Literate is the living notebook behind my work on digital literacy, AI, and learning.
 
-It is where ideas stay networked long enough to grow.
+This is where ideas stay connected long enough to become newsletter issues, essays, talks, and frameworks.
 
 If you are looking for polished essays, talks, and formal projects, go to **[wiobyrne.com](https://wiobyrne.com)**. If you want the notes, experiments, questions, and connective tissue underneath them, stay here.
  
 ---
  
-## 🌿 What this is
+## 🌿 Start here
+
+- [Groves](/groves) offer curated paths through clusters of related notes.
+- [Evergreens](/evergreens) hold the ideas that have become stable enough to teach and reuse.
+- [Newsletter](/newsletter) tracks the public thread running through the work.
+
+If you would rather wander, follow links and backlinks. That is usually how the best paths appear.
+
+---
+
+## 🌱 How this garden works
 
 Digitally Literate is a **digital garden**.
 
-Notes grow here over time. Nothing is finished. Everything is evolving.
+Notes grow here over time. Some stay provisional. Some become durable.
 
 Ideas move through stages of maturity:
 
@@ -26,8 +36,6 @@ Ideas move through stages of maturity:
 - 🌲 **Evergreens** — durable insights, polished and ready to share
 - 🪴 **Groves** — curated clusters of related notes on a theme
 - 🌳 **Forests** — big-picture syntheses across multiple groves
-
-Start with the [Groves](/groves) if you want a guided path, or wander by following links and backlinks.
 
 ---
  
@@ -43,7 +51,7 @@ Most posts touch one or more of these threads.
 
 ---
 
-## ✳️ Connect
+## ✳️ Elsewhere
 
 - 🌍 **Front door:** [wiobyrne.com](https://wiobyrne.com)
 - 📨 **Newsletter:** [digitallyliterate.net/newsletter](https://digitallyliterate.net/newsletter)
