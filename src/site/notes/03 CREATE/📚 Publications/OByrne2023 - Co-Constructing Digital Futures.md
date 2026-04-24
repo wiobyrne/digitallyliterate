@@ -59,11 +59,6 @@ This chapter is not yet available here as a local PDF.
 
 - [Read the MIT Press open review version](https://wip.mitpress.mit.edu/pub/co-constructing-digital-futures/release/1?readingCollection=646d0673)
 
-## Connected Concepts
-
-- [Digital Literacy](/digital-literacy/)
-- [Teaching Philosophy](/teaching-philosophy-grove/)
-
 ## Continue Reading
 
 - [DL 297](/dl-297/) — the newsletter issue where I shared this chapter during the MIT Press open review process

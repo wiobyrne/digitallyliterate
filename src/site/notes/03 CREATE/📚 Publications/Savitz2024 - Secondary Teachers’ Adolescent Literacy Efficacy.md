@@ -79,11 +79,6 @@ What this study does well is hold the asset-based framing consistently. We came 
 
 <iframe class="publication-pdf" src="/img/user/03%20CREATE/%F0%9F%93%9A%20Publications/Attachments/Secondary_Teachers_Adolescent_Literacy_E.pdf"></iframe>
 
-## Connected Concepts
-
-- [Teaching Philosophy](/teaching-philosophy-grove/)
-- [Digital Literacy](/digital-literacy/)
-
 ## Continue Reading
 
 - [Digital Literacy](/digital-literacy/) — the larger framework that connects this article to questions of literacy, agency, and school practice
