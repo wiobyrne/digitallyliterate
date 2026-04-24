@@ -31,29 +31,45 @@ If you're looking for the professional overview, start with [wiobyrne.com/about]
 
 ## Start Here
 
-This section is gradually becoming more than a bibliography. Individual publication pages will increasingly include:
+This archive is gradually becoming more than a bibliography. Individual publication pages will increasingly include citation, abstract, keywords, PDF access, and links into related notes and newsletter issues.
 
-- citation information
-- abstract
-- keywords
-- PDF embed and download when available
-- links to related notes, newsletter issues, and adjacent work
+If you're new to my work, start with one of these paths:
 
-If you're new to my research, these are a good place to start:
-
-- [[OByrne2024 - When you know better, better|When you know better, do better]] — critical media literacy, antiracist teacher education, and digital literacy
-- [[OByrne2023 - Co-Constructing Digital Futures|Co-Constructing Digital Futures]] — children, families, and digital rights
-- [[Savitz2024 - Secondary Teachers' Adolescent Literacy Efficacy|Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations]] — disciplinary literacy and teacher learning
-- [[Nash2025 - Exploring, Incorporating, Questioning|Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education]] — AI in teacher education
+- **Critical media literacy + justice**  
+  [When you know better, do better](/obyrne2024-when-you-know-better/)
+- **Children, families, and digital rights**  
+  [Co-Constructing Digital Futures](/obyrne2023-co-constructing-digital-futures/)
+- **Disciplinary literacy + teacher learning**  
+  [Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations](/savitz2024-secondary-teachers-adolescent/)
+- **AI in English teacher education**  
+  [Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education](/nash2025-exploring-incorporating-questioning/)
 
 ## Related Paths
 
 - [About](https://wiobyrne.com/about) — professional background and current work
 - [CV](https://wiobyrne.com/cv) — academic record and selected highlights
 - [Newsletter](https://digitallyliterate.net/newsletter) — the ongoing public thread behind this research
-- [[Digital Literacy]] — one of the main conceptual groves connected to this work
+- [Digital Literacy](/digital-literacy/) — one of the main conceptual groves connected to this work
 
 ---
+
+## Recent Work
+
+### 2025
+
+- [[Moving Through the Messy Middle Longitudinal Case Studies of Teachers' Computational Thinking Infusion|Moving Through the Messy Middle: Longitudinal Case Studies of Teachers' Computational Thinking Infusion]] — *Technology, Knowledge and Learning*
+- [Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education](/nash2025-exploring-incorporating-questioning/) — *English Education*
+- [Middle and High School Teachers' Perceived Expertise and Needs in Disciplinary Literacy](/savitz2025-middle-high-school/) — *AERA Open*
+
+### 2024
+
+- [When you know better, do better: Developing antiracist, digitally literate educators through critical media literacy](/obyrne2024-when-you-know-better/) — *Teaching for Equity, Justice, and Antiracism with Digital Literacy Practices*
+- [Computational thinking infusion as transformative teaching: investigating content area teacher perspectives and practices](/jocius2024-computational-thinking-infusion/) — *Computer Science Education*
+- [Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations](/savitz2024-secondary-teachers-adolescent/) — *Reading Research Quarterly*
+- [The importance of digital media literacy](/turner2024-importance-digital-media/) — *Handbook of Children and Screens*
+
+<details>
+<summary><strong>Open full archive</strong></summary>
 
 ## Journal Articles
 
@@ -268,6 +284,8 @@ If you're new to my research, these are a good place to start:
 ---
 
 *This archive is being built into a connected scholarly record. PDFs, abstracts, and related concept links are being added over time so publications can connect outward into the wider notebook and newsletter.*
+
+</details>
 
 ## Connected Concepts
 
