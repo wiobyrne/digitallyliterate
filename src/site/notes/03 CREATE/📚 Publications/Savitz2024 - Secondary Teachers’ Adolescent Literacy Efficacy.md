@@ -1,9 +1,61 @@
 ---
-{"dg-publish":true,"dg-permalink":"savitz2024-secondary-teachers","permalink":"/savitz2024-secondary-teachers/","title":"Secondary Teachers’ Adolescent Literacy Efficacy and Professional Learning Considerations","tags":["publication","adolescent-literacy","professional-learning","teacher-education","secondary-education"]}
+title: "Secondary Teachers’ Adolescent Literacy Efficacy and Professional Learning Considerations"
+created: 2024-01-01
+last_updated: 2026-04-24
+status: 🌲_evergreen
+categories: Papers
+description: "A journal article examining secondary teachers' adolescent literacy self-efficacy and what that means for professional learning."
+shelf: published
+tags:
+  - publication
+  - adolescent-literacy
+  - professional-learning
+  - teacher-education
+  - secondary-education
+authors:
+  - "Savitz, Rachelle S"
+  - "Morrison, Jennifer D"
+  - "Brown, Christy"
+  - "Aldrich, Charlene"
+  - "Kane, Britnie D"
+  - "O’Byrne, W Ian"
+year: 2024
+venue: "Reading Research Quarterly"
+pub_type: journal-article
+doi: 10.1002/rrq.521
+volume: 59
+issue: 1
+pages: 102-123
+keywords:
+  - adolescent literacy
+  - self-efficacy
+  - professional learning
+  - communities of practice
+  - secondary teachers
+  - disciplinary literacy
+  - survey research
+connections:
+  - "[[Digital Literacy]]"
+  - "[[Teaching Philosophy]]"
+dg-publish: true
+dg-permalink: savitz2024-secondary-teachers
+permalink: /savitz2024-secondary-teachers-adolescent/
+pdf: "03 CREATE/📚 Publications/Attachments/Secondary_Teachers_Adolescent_Literacy_E.pdf"
 ---
 
+# Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations
 
-# Savitz2024 - Secondary Teachers’ Adolescent Literacy Efficacy
+This article asks a simple but important question: what do secondary teachers actually believe about their own adolescent literacy knowledge and practice, and what should professional learning look like if we start from their experience instead of imposing generic mandates?
+
+## Publication Details
+
+- **Type:** Journal article
+- **Year:** 2024
+- **Venue:** *Reading Research Quarterly*
+- **Volume / Issue:** 59(1)
+- **Pages:** 102-123
+- **DOI:** [10.1002/rrq.521](https://doi.org/10.1002/rrq.521)
+- **Keywords:** adolescent literacy; self-efficacy; professional learning; communities of practice; secondary teachers; disciplinary literacy
 
 ## Citation
 
@@ -23,10 +75,17 @@ What this study does well is hold the asset-based framing consistently. We came 
 
 ## 📄 Full Text
 
-<iframe src="/img/user/03%20CREATE/%F0%9F%93%9A%20Publications/Attachments/Secondary_Teachers_Adolescent_Literacy_E.pdf" width="100%" height="900px" title="Secondary_Teachers_Adolescent_Literacy_E.pdf" style="border:1px solid #ccc;"></iframe>
+<a href="/img/user/03%20CREATE/%F0%9F%93%9A%20Publications/Attachments/Secondary_Teachers_Adolescent_Literacy_E.pdf" target="_blank">Download the article as a PDF</a>
+
+<iframe class="publication-pdf" src="/img/user/03%20CREATE/%F0%9F%93%9A%20Publications/Attachments/Secondary_Teachers_Adolescent_Literacy_E.pdf"></iframe>
 
 ## Connected Concepts
 
-- [[Disciplinary Literacy\|Disciplinary Literacy]]
-- [[03 CREATE/🪴 Groves/Teaching Philosophy\|Teaching Philosophy]]
-- [[03 CREATE/🌳 Forests/Digital Literacy\|Digital Literacy]]
+- [Teaching Philosophy](/teaching-philosophy-grove/)
+- [Digital Literacy](/digital-literacy/)
+
+## Continue Reading
+
+- [Digital Literacy](/digital-literacy/) — the larger framework that connects this article to questions of literacy, agency, and school practice
+- [Teaching Philosophy](/teaching-philosophy-grove/) — the pedagogical commitments underneath the asset-based approach in this study
+- [Explore the publications archive](/publications/) — the wider record this article now sits inside

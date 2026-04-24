@@ -1080,6 +1080,14 @@ div.transclusion {
 
 .landing-item a { font-weight: 500; }
 
+.publication-pdf {
+  width: 100%;
+  min-height: 720px;
+  margin-top: 1rem;
+  border: 1px solid var(--border);
+  background: var(--bg-subtle);
+}
+
 /* ── Grove Cards ────────────────────────────── */
 .grove-cards {
   display: grid;
