@@ -29,44 +29,90 @@ If you're looking for the professional overview, start with [wiobyrne.com/about]
 
 ---
 
+<div class="dl-home-feature publications-feature">
+  <div class="dl-home-kicker">Featured Publication</div>
+  <h2>Start with one page, not the whole archive.</h2>
+  <p><strong>When you know better, do better</strong> is a strong entry point into the way research, teaching, justice, and digital literacy connect across this body of work.</p>
+  <div class="dl-home-actions">
+    <a class="dl-home-cta dl-home-cta--primary" href="/obyrne2024-when-you-know-better/">Read the publication page</a>
+    <a class="dl-home-cta" href="/digital-literacy/">Explore the Digital Literacy grove</a>
+  </div>
+</div>
+
 ## Start Here
 
 This archive is gradually becoming more than a bibliography. Individual publication pages will increasingly include citation, abstract, keywords, PDF access, and links into related notes and newsletter issues.
 
-If you're new to my work, start with one of these paths:
-
-- **Critical media literacy + justice**  
-  [When you know better, do better](/obyrne2024-when-you-know-better/)
-- **Children, families, and digital rights**  
-  [Co-Constructing Digital Futures](/obyrne2023-co-constructing-digital-futures/)
-- **Disciplinary literacy + teacher learning**  
-  [Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations](/savitz2024-secondary-teachers-adolescent/)
-- **AI in English teacher education**  
-  [Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education](/nash2025-exploring-incorporating-questioning/)
+<div class="start-paths">
+  <a href="/obyrne2024-when-you-know-better/" class="start-path">
+    <h3>Critical media literacy + justice</h3>
+    <p>Start with a publication that connects digital literacy, teacher education, and antiracist pedagogy.</p>
+  </a>
+  <a href="/obyrne2023-co-constructing-digital-futures/" class="start-path">
+    <h3>Children, families, and digital rights</h3>
+    <p>A path into questions of digital futures, care, and what protection should look like for young people.</p>
+  </a>
+  <a href="/savitz2024-secondary-teachers-adolescent/" class="start-path">
+    <h3>Disciplinary literacy + teacher learning</h3>
+    <p>Research on what teachers know, need, and wrestle with as literacy instruction deepens across content areas.</p>
+  </a>
+  <a href="/nash2025-exploring-incorporating-questioning/" class="start-path">
+    <h3>AI in teacher education</h3>
+    <p>A recent entry point into generative AI, English education, and how educators can respond thoughtfully.</p>
+  </a>
+</div>
 
 ## Related Paths
 
-- [About](https://wiobyrne.com/about) — professional background and current work
-- [CV](https://wiobyrne.com/cv) — academic record and selected highlights
-- [Newsletter](https://digitallyliterate.net/newsletter) — the ongoing public thread behind this research
-- [Digital Literacy](/digital-literacy/) — one of the main conceptual groves connected to this work
+<div class="start-paths">
+  <a href="https://wiobyrne.com/about" class="start-path">
+    <h3>About</h3>
+    <p>Professional background, current work, and the cleaner front-door version of this story.</p>
+  </a>
+  <a href="https://wiobyrne.com/cv" class="start-path">
+    <h3>CV</h3>
+    <p>Academic record, selected highlights, and the formal overview of roles, service, and teaching.</p>
+  </a>
+  <a href="https://digitallyliterate.net/newsletter" class="start-path">
+    <h3>Newsletter</h3>
+    <p>The ongoing public thread behind this research, where newer ideas often show up first.</p>
+  </a>
+  <a href="/digital-literacy/" class="start-path">
+    <h3>Digital Literacy</h3>
+    <p>One of the main conceptual groves connected to this work and a good path into the deeper notebook.</p>
+  </a>
+</div>
 
 ---
 
 ## Recent Work
 
-### 2025
-
-- [[Moving Through the Messy Middle Longitudinal Case Studies of Teachers' Computational Thinking Infusion|Moving Through the Messy Middle: Longitudinal Case Studies of Teachers' Computational Thinking Infusion]] — *Technology, Knowledge and Learning*
-- [Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education](/nash2025-exploring-incorporating-questioning/) — *English Education*
-- [Middle and High School Teachers' Perceived Expertise and Needs in Disciplinary Literacy](/savitz2025-middle-high-school/) — *AERA Open*
-
-### 2024
-
-- [When you know better, do better: Developing antiracist, digitally literate educators through critical media literacy](/obyrne2024-when-you-know-better/) — *Teaching for Equity, Justice, and Antiracism with Digital Literacy Practices*
-- [Computational thinking infusion as transformative teaching: investigating content area teacher perspectives and practices](/jocius2024-computational-thinking-infusion/) — *Computer Science Education*
-- [Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations](/savitz2024-secondary-teachers-adolescent/) — *Reading Research Quarterly*
-- [The importance of digital media literacy](/turner2024-importance-digital-media/) — *Handbook of Children and Screens*
+<div class="grove-cards">
+  <a href="/jocius2025-moving-through-messy/" class="grove-card">
+    <span class="grove-card-icon">2025</span>
+    <span class="grove-card-title">Moving Through the Messy Middle<br><small><em>Technology, Knowledge and Learning</em></small></span>
+  </a>
+  <a href="/nash2025-exploring-incorporating-questioning/" class="grove-card">
+    <span class="grove-card-icon">2025</span>
+    <span class="grove-card-title">Exploring, Incorporating, and Questioning Generative Artificial Intelligence in English Teacher Education<br><small><em>English Education</em></small></span>
+  </a>
+  <a href="/savitz2025-middle-high-school/" class="grove-card">
+    <span class="grove-card-icon">2025</span>
+    <span class="grove-card-title">Middle and High School Teachers' Perceived Expertise and Needs in Disciplinary Literacy<br><small><em>AERA Open</em></small></span>
+  </a>
+  <a href="/obyrne2024-when-you-know-better/" class="grove-card">
+    <span class="grove-card-icon">2024</span>
+    <span class="grove-card-title">When you know better, do better<br><small><em>Teaching for Equity, Justice, and Antiracism with Digital Literacy Practices</em></small></span>
+  </a>
+  <a href="/jocius2024-computational-thinking-infusion/" class="grove-card">
+    <span class="grove-card-icon">2024</span>
+    <span class="grove-card-title">Computational thinking infusion as transformative teaching<br><small><em>Computer Science Education</em></small></span>
+  </a>
+  <a href="/savitz2024-secondary-teachers-adolescent/" class="grove-card">
+    <span class="grove-card-icon">2024</span>
+    <span class="grove-card-title">Secondary Teachers' Adolescent Literacy Efficacy and Professional Learning Considerations<br><small><em>Reading Research Quarterly</em></small></span>
+  </a>
+</div>
 
 <details>
 <summary><strong>Open full archive</strong></summary>
