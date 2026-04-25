@@ -8,6 +8,7 @@
 Digitally Literate is the home of the newsletter and the living notebook behind my work on digital literacy, AI, and learning.
 
 This is where ideas stay connected long enough to become newsletter issues, essays, talks, and frameworks.
+The polished front door, bio, CV, work-with-me page, and contact details live at [wiobyrne.com](https://wiobyrne.com).
 
 <div class="dl-home-feature">
   <p class="dl-home-kicker">Newsletter</p>
@@ -64,6 +65,6 @@ Most posts touch one or more of these threads.
 
 - 🌍 **Front door:** [wiobyrne.com](https://wiobyrne.com)
 - 📨 **Newsletter archive:** [digitallyliterate.net/newsletter](https://digitallyliterate.net/newsletter)
-- 💬 **Email:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)
+- 💬 **Professional contact:** [wiobyrne.com/contact](https://wiobyrne.com/contact)
 
 Let’s build a more open, ethical, and human web. One connection at a time.

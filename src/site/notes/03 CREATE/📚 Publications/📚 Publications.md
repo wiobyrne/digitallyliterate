@@ -25,7 +25,7 @@ A public archive of my scholarly work — journal articles, book chapters, confe
 
 **Top venues**: *Journal of Adolescent & Adult Literacy* (8), *TechTrends* (3), *English Education* (2), *Literacy Research: Theory, Method, and Practice* (2)
 
-If you're looking for the professional overview, start with [wiobyrne.com/about](https://wiobyrne.com/about) or [wiobyrne.com/cv](https://wiobyrne.com/cv). If you're here for the deeper record, this is where the full archive lives.
+If you're looking for the professional overview, use [wiobyrne.com](https://wiobyrne.com) for the front door, bio, CV, work-with-me page, and contact details. This page stays focused on the scholarly archive.
 
 ---
 
@@ -65,13 +65,13 @@ This archive is gradually becoming more than a bibliography. Individual publicat
 ## Related Paths
 
 <div class="start-paths">
-  <a href="https://wiobyrne.com/about" class="start-path">
-    <h3>About</h3>
-    <p>Professional background, current work, and the cleaner front-door version of this story.</p>
+  <a href="https://wiobyrne.com" class="start-path">
+    <h3>Front door</h3>
+    <p>The polished version of this work: About, Bio, CV, work with me, and contact.</p>
   </a>
-  <a href="https://wiobyrne.com/cv" class="start-path">
-    <h3>CV</h3>
-    <p>Academic record, selected highlights, and the formal overview of roles, service, and teaching.</p>
+  <a href="https://wiobyrne.com/collaborate/" class="start-path">
+    <h3>Work With Me</h3>
+    <p>Speaking, workshops, consulting, and research partnerships.</p>
   </a>
   <a href="https://digitallyliterate.net/newsletter" class="start-path">
     <h3>Newsletter</h3>
