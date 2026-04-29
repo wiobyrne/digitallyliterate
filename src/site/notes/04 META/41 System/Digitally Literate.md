@@ -17,7 +17,7 @@ dg-home: true
 
 # Digitally Literate
 
-![[headshot.png]]
+![headshot](/img/user/04%20META/48%20Assets/headshot.png)
 
 # **Hi, I'm Ian.**
 
