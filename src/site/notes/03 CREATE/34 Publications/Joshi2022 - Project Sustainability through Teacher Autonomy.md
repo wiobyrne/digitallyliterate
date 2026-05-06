@@ -25,5 +25,5 @@ The findings are preliminary but point in a consistent direction: teachers felt 
 
 ## Connected Concepts
 
-- [[03 CREATE/32 Blog/Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/32 Blog/2020/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/31 Notes/Teaching Philosophy\|Teaching Philosophy]]
