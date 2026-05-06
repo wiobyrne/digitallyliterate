@@ -1,101 +1,167 @@
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="{{ meta.mainLanguage or 'en' }}">
   <head>
-    <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
-    {%include "components/pageheader.njk"%}
-    {% for imp in dynamics.common.head %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.index.head %}
-      {% include imp %}
-    {% endfor %}
-  </head>
-  <body class="index-page theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.bodyClasses}}">
-    {%include "components/notegrowthhistory.njk"%}
-    {% if settings.dgShowFileTree !== true %}
-      {%include "components/navbar.njk"%}
-    {%else%}
-      {%include "components/filetree.njk"%}
-    {% endif %}
-    {% if settings.dgEnableSearch === true %}
-      {%include "components/searchContainer.njk"%}
-    {% endif %}
-    <main class="content cm-s-obsidian {{contentClasses}}">
-      <header>
-      {% if settings.dgShowInlineTitle === true %}
-        <h1>{{ noteTitle  }}</h1>
-      {% endif %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title or meta.siteName }}</title>
 
-      <div class="header-meta">
-        {% if settings.dgShowTags === true and tags %}
-          <div class="header-tags">
-            {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
+    {# Apparatus cascade — order is the contract; do not reorder #}
+    <link rel="stylesheet" href="/styles/apparatus-colors.css">
+    <link rel="stylesheet" href="/styles/apparatus-core.css">
+    <link rel="stylesheet" href="/styles/apparatus-themes.css">
+    <link rel="stylesheet" href="/styles/dl-extras.css">
+
+    {% if meta.themeColor %}
+    <meta name="theme-color" content="{{ meta.themeColor }}">
+    {% endif %}
+    {% favicons './src/site/favicon.svg', appleIconBgColor='#006d48' %}
+  </head>
+  <body data-theme="dl">
+    {% set currentIssue = collections.newsletter[0] %}
+    <article class="dl-home">
+      <nav class="dl-home-nav" aria-label="Digitally Literate">
+        <a class="dl-home-wordmark" href="/">
+          {% include "components/regmark.njk" %}
+          <span>Digitally <em>Literate</em></span>
+        </a>
+        <div class="dl-home-nav-links">
+          <a href="/newsletter/">Newsletter</a>
+          <a href="/groves/">Groves</a>
+          <a href="/evergreens/">Evergreens</a>
+          <a href="/start/">Start</a>
+        </div>
+      </nav>
+
+      <section class="dl-now" aria-labelledby="dl-now-h">
+        <div class="dl-now-issue">
+          <p class="dl-now-eyebrow" id="dl-now-h">
+            {% include "components/regmark.njk" %}
+            <span>Now</span>
+          </p>
+
+          {% if currentIssue %}
+            <h1 class="dl-now-h1">
+              <a href="{{ currentIssue.url }}">{{ currentIssue.data.title or currentIssue.fileSlug }}</a>
+            </h1>
+            <p class="dl-now-lede">
+              The weekly thread is the public edge of the garden. It is where new ideas
+              arrive first, before they settle into notes, evergreens, and groves.
+            </p>
+            <div class="dl-now-meta">
+              <span class="live">Live issue</span>
+              <span>{{ currentIssue.fileSlug }}</span>
+            </div>
+            <p class="dl-now-cta">
+              <a href="{{ currentIssue.url }}">Read the current issue →</a>
+            </p>
+          {% else %}
+            <h1 class="dl-now-h1">The current issue will appear here once the archive is loaded.</h1>
+            <p class="dl-now-lede">
+              This home page is built to lead with the live thread, then point toward the
+              rest of the garden.
+            </p>
+          {% endif %}
+        </div>
+
+        <div class="dl-drafts">
+          <h2 class="dl-drafts-h">
+            <span>Live <span class="live">being edited</span></span>
+            <span>Recent work</span>
+          </h2>
+          <ul class="dl-drafts-list">
+            {% set draftCount = 0 %}
+            {% for note in collections.recentlyUpdated %}
+              {% if draftCount < 4 and note.url and note.url.indexOf('/dl-') != 0 and note.url.indexOf('/tldr-') != 0 %}
+                <li>
+                  <span class="stamp">Draft</span>
+                  <div>
+                    <p class="title"><a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a></p>
+                    <p class="annot">
+                      {% if note.inputPath and note.inputPath.indexOf('/31 Notes/') != -1 %}
+                        Working note
+                      {% else %}
+                        Recently updated
+                      {% endif %}
+                    </p>
+                  </div>
+                </li>
+                {% set draftCount = draftCount + 1 %}
               {% endif %}
             {% endfor %}
-          </div>
-        {% endif %}
+          </ul>
+        </div>
+      </section>
+
+      <section class="dl-recent-band" aria-labelledby="dl-recent-h">
+        <h2 class="dl-recent-h" id="dl-recent-h">
+          <span>Recent garden</span>
+          <a class="all-link" href="/start/">Read the map</a>
+        </h2>
+        <div class="dl-recent-grid">
+          {% for note in collections.recentlyUpdated %}
+            {% if loop.index <= 6 %}
+              {% set recentState = 'note' %}
+              {% if note.url and note.url.indexOf('/dl-') == 0 or note.url and note.url.indexOf('/tldr-') == 0 %}
+                {% set recentState = 'issue' %}
+              {% elif note.inputPath and note.inputPath.indexOf('/31 Notes/') != -1 %}
+                {% set recentState = 'sprout' %}
+              {% endif %}
+              <article class="dl-recent-card">
+                <div class="stamp">
+                  <span class="state{% if recentState == 'issue' %} is-issue{% elif recentState == 'sprout' %} is-sprout{% endif %}">
+                    {{ recentState }}
+                  </span>
+                  <span>{{ note.fileSlug }}</span>
+                </div>
+                <h3 class="title{% if recentState == 'sprout' %} is-sprout{% endif %}">
+                  <a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a>
+                </h3>
+                <p class="dek">
+                  {% if recentState == 'issue' %}
+                    Newsletter issue from the working thread.
+                  {% elif recentState == 'sprout' %}
+                    Still being shaped in public.
+                  {% else %}
+                    A recently touched note in the garden.
+                  {% endif %}
+                </p>
+              </article>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+
+      <section class="dl-groves-band" aria-labelledby="dl-groves-h">
+        <h2 class="dl-groves-h" id="dl-groves-h">Groves</h2>
+        <p class="dl-groves-sub">
+          Hand-built indexes that collect related notes into a path you can follow.
+          These are the deeper entries in the garden.
+        </p>
+        <div class="dl-groves-list">
+          {% set groveCount = 0 %}
+          {% for note in collections.all %}
+            {% if groveCount < 6 and note.data.tags and note.data.tags.indexOf('grove') != -1 and note.url != '/' %}
+              <article class="dl-grove-card">
+                <p class="name"><a href="{{ note.url }}">{{ note.data.title or note.fileSlug }}</a></p>
+                <div class="meta">
+                  <span class="n">{{ '0' ~ (groveCount + 1) }}</span>
+                  <span>hand-built index</span>
+                </div>
+                <p class="desc">
+                  A curated doorway into a cluster of connected notes.
+                </p>
+              </article>
+              {% set groveCount = groveCount + 1 %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </section>
+
+      <div class="dl-colophon-cta">
+        <span class="lead">Subscribe</span>
+        <span class="body">A weekly thread on digital literacy, AI, and education.</span>
+        <span class="arrow"><a href="https://digitallyliterate.substack.com">digitallyliterate.substack.com →</a></span>
       </div>
-      {% for imp in dynamics.common.header %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.header %}
-        {% include imp %}
-      {% endfor %}
-      </header>
-      {% for imp in dynamics.common.beforeContent %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.beforeContent %}
-        {% include imp %}
-      {% endfor %}
-      {{ content | hideDataview | taggify | link | safe}}
-      {% for imp in dynamics.common.afterContent %}
-        {% include imp %}
-      {% endfor %}
-      {% for imp in dynamics.index.afterContent %}
-        {% include imp %}
-      {% endfor %}
-    </main>
-
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk" %}
-    {%endif%}
-
-    {% if settings.dgLinkPreview === true %}
-      {%include "components/linkPreview.njk"%}
-    {% endif %}
-    {% for imp in dynamics.common.footer %}
-      {% include imp %}
-    {% endfor %}
-    {% for imp in dynamics.index.footer %}
-      {% include imp %}
-    {% endfor %}
-    <script>
-    function toggleTheme() {
-      var body = document.body;
-      var isCurrentlyDark = body.classList.contains('theme-dark');
-      var newTheme = isCurrentlyDark ? 'theme-light' : 'theme-dark';
-
-      body.classList.remove('theme-dark', 'theme-light');
-      body.classList.add(newTheme);
-      document.documentElement.className = newTheme;
-      localStorage.setItem('dg-theme', newTheme);
-
-      if (window.lucide) { window.lucide.createIcons(); }
-    }
-
-    (function() {
-      var saved = localStorage.getItem('dg-theme');
-      if (saved) {
-        document.body.classList.remove('theme-dark', 'theme-light');
-        document.body.classList.add(saved);
-      }
-    })();
-    </script>
-    {%include "components/lucideIcons.njk"%}
-    </body>
-  </html>
+    </article>
+  </body>
+</html>
