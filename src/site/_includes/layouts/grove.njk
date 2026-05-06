@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="{{ meta.mainLanguage or 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }} — {{ meta.siteName }}</title>
+
+    {# Apparatus cascade — order is the contract; do not reorder #}
+    <link rel="stylesheet" href="/styles/apparatus-colors.css">
+    <link rel="stylesheet" href="/styles/apparatus-core.css">
+    <link rel="stylesheet" href="/styles/apparatus-themes.css">
+    <link rel="stylesheet" href="/styles/dl-extras.css">
+
+    {% if meta.themeColor %}
+    <meta name="theme-color" content="{{ meta.themeColor }}">
+    {% endif %}
+    {% favicons './src/site/favicon.svg', appleIconBgColor='#006d48' %}
+  </head>
+  <body data-theme="dl">
+
+    <article class="dl-grove">
+
+      {# Eyebrow #}
+      <p class="dl-grove-eyebrow">
+        {% include "components/regmark.njk" %}
+        <span>Grove · hand-built index</span>
+      </p>
+
+      {# Title #}
+      <h1 class="dl-grove-h1">{{ title }}</h1>
+
+      {# Lede #}
+      {% if lede %}
+        <p class="dl-grove-lede">{{ lede }}</p>
+      {% endif %}
+
+      {# Record block #}
+      {% if record %}
+        <dl class="record dl-grove-record">
+          {% if record.started %}
+            <dt>Started</dt>
+            <dd>{{ record.started }}</dd>
+          {% endif %}
+          {% if record.lastTouched %}
+            <dt>Last touched</dt>
+            <dd class="tense-living">{{ record.lastTouched }}</dd>
+          {% endif %}
+          {% if record.notes %}
+            <dt>Notes</dt>
+            <dd>{{ record.notes }}</dd>
+          {% endif %}
+          {% if record.citedCount %}
+            <dt>Cited from wio</dt>
+            <dd class="tense-living">{{ record.citedCount }}</dd>
+          {% endif %}
+          {% if record.maintainer %}
+            <dt>Maintainer</dt>
+            <dd>{{ record.maintainer }}</dd>
+          {% endif %}
+        </dl>
+      {% endif %}
+
+      {# Linked-from row — visible cross-site contract #}
+      {% if citedFrom and citedFrom.length > 0 %}
+        <div class="dl-cited-from">
+          <span class="label">Linked from</span>
+          <span class="ref">
+            {%- for c in citedFrom -%}
+              {%- if not loop.first %} · {% endif -%}
+              <a href="{{ c.href }}">{{ c.title }}</a>
+            {%- endfor -%}
+          </span>
+        </div>
+      {% endif %}
+
+      {# Sections #}
+      {% for section in sections %}
+        <section class="dl-grove-section">
+          <h2 class="dl-grove-section-h">
+            <span>{{ section.title }}</span>
+            <span class="count">{{ section.count }} notes</span>
+          </h2>
+          {% if section.intro %}
+            <p class="dl-grove-section-intro">{{ section.intro }}</p>
+          {% endif %}
+          <ul class="dl-grove-list">
+            {% for item in section.items %}
+              <li>
+                <span class="stamp{% if item.isCurrent %} is-current{% endif %}">{{ item.date }}</span>
+                <div>
+                  <p class="title"><a href="{{ item.href }}">{{ item.title }}</a></p>
+                  {% if item.dek %}
+                    <p class="dek">{{ item.dek }}</p>
+                  {% endif %}
+                </div>
+              </li>
+            {% endfor %}
+          </ul>
+        </section>
+      {% endfor %}
+
+      {# Colophon CTA — the only conversion surface #}
+      <div class="dl-colophon-cta">
+        <span class="lead">Subscribe</span>
+        <span class="body">{{ colophonLine or "When this grove changes, the newsletter says so." }}</span>
+        <span class="arrow"><a href="https://digitallyliterate.substack.com">digitallyliterate.substack.com →</a></span>
+      </div>
+
+    </article>
+
+  </body>
+</html>

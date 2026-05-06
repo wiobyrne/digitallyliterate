@@ -1,0 +1,830 @@
+/* ============================================================
+   DL EXTRAS — patterns specific to digitallyliterate.net
+   Layered on top of apparatus.css + apparatus-themes.css.
+   Everything here is scoped under [data-theme="dl"] OR a .dl-* class.
+   ============================================================ */
+
+/* Override asphalt URL for DL repo's /img/ serving path */
+:root {
+  --asphalt-url: url("/img/asphalt.png");
+}
+
+/* ============================================================
+   REVISION-STATE TEXTURE — the one new system rule for DL.
+   Most published notes are clean (Apparatus default).
+   "Still-thinking" notes carry visible texture as a signal.
+   ============================================================ */
+
+/* Wrapper for sprout-tier published notes */
+.dl-sprout-note {
+  position: relative;
+}
+
+/* Halftone overlay on images inside sprout notes */
+.dl-sprout-note .dl-fig img {
+  filter: grayscale(0.4) contrast(1.05);
+}
+.dl-sprout-note .dl-fig {
+  position: relative;
+  margin: 28px 0;
+}
+.dl-sprout-note .dl-fig::after {
+  content: "";
+  position: absolute; inset: 0;
+  background-image: radial-gradient(
+    circle at center,
+    rgba(20, 20, 20, 0.18) 0.5px,
+    transparent 1.5px
+  );
+  background-size: 4px 4px;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
+
+/* Asphalt rule between sections — printer's furniture, used as semantic break */
+.dl-asphalt-rule {
+  height: 8px;
+  background-image: var(--asphalt-url);
+  background-size: 240px;
+  background-position: 0 0;
+  opacity: 0.55;
+  margin: 36px 0;
+  border: 0;
+}
+
+/* Slight registration shift on draft titles — barely perceptible */
+.dl-sprout-note .dl-title {
+  position: relative;
+  display: inline-block;
+}
+.dl-sprout-note .dl-title::before {
+  content: attr(data-text);
+  position: absolute;
+  left: 0.5px; top: 0.5px;
+  color: var(--green-accent);
+  opacity: 0.32;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Last-touched mono row — replaces the polished "PUBLISHED" line */
+.dl-touched {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 6px 0 0;
+}
+.dl-touched .stamp { color: var(--green-accent); }
+
+/* "Still thinking about this" — used in lieu of a polished lede on sprout notes */
+.dl-still-thinking {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--green-accent);
+  border-left: 2px solid var(--green-accent);
+  padding: 6px 0 6px 12px;
+  margin: 18px 0 28px;
+  font-style: normal;
+}
+
+/* ============================================================
+   BACKLINKS — visible at the bottom of every note.
+   wiobyrne.com hides these. DL puts them in the room.
+   ============================================================ */
+
+.dl-backlinks {
+  margin-top: 56px;
+  padding-top: 18px;
+  border-top: 1px solid var(--charcoal);
+}
+.dl-backlinks-h {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 14px;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.dl-backlinks-h .count {
+  color: var(--charcoal);
+  font-weight: 600;
+}
+.dl-backlinks-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 10px 14px;
+}
+.dl-backlinks-list .src {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding-top: 2px;
+}
+.dl-backlinks-list .src.is-cross {
+  color: var(--green-accent);
+}
+.dl-backlinks-list .target {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  color: var(--charcoal);
+  line-height: 1.4;
+  margin: 0;
+}
+.dl-backlinks-list .target a {
+  color: var(--charcoal);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-ghost);
+}
+.dl-backlinks-list .target a:hover {
+  border-bottom-color: var(--charcoal);
+}
+.dl-backlinks-list .target .quote {
+  display: block;
+  font-style: italic;
+  color: var(--text-secondary);
+  font-size: 0.88rem;
+  margin-top: 4px;
+}
+
+/* ============================================================
+   GROVE / MOC — hub page for a topic.
+   The destination of cross-site footnote links from wiobyrne.com.
+   Reads as a hand-built index, not a tag archive.
+   ============================================================ */
+
+.dl-grove {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 56px 32px 64px;
+  font-family: var(--font-serif);
+}
+.dl-grove-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 14px;
+}
+.dl-grove-eyebrow .reg-mark {
+  width: 14px;
+  height: 14px;
+  color: var(--charcoal);
+}
+.dl-grove-h1 {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 1.2;
+  color: var(--charcoal);
+  text-transform: none;
+  margin: 0 0 14px;
+  letter-spacing: -0.005em;
+}
+.dl-grove-lede {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  max-width: 560px;
+  line-height: 1.6;
+  margin: 0 0 24px;
+}
+.dl-grove-record {
+  margin-bottom: 36px;
+}
+
+/* Section inside a grove — a subtopic with its notes */
+.dl-grove-section {
+  margin: 36px 0;
+}
+.dl-grove-section-h {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--charcoal);
+  border-top: 1px solid var(--charcoal);
+  padding: 12px 0 10px;
+  margin: 0 0 14px;
+  display: flex;
+  justify-content: space-between;
+}
+.dl-grove-section-h .count { color: var(--text-muted); font-weight: 400; }
+
+.dl-grove-section-intro {
+  font-family: var(--font-serif);
+  font-size: 0.98rem;
+  color: var(--text-secondary);
+  line-height: 1.55;
+  margin: 0 0 18px;
+  font-style: italic;
+}
+
+.dl-grove-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.dl-grove-list li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-ghost);
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 14px;
+  align-items: baseline;
+}
+.dl-grove-list .stamp {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.dl-grove-list .stamp.is-current { color: var(--green-accent); }
+.dl-grove-list .title {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  color: var(--charcoal);
+  line-height: 1.35;
+  margin: 0;
+}
+.dl-grove-list .title a {
+  color: var(--charcoal);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-ghost);
+}
+.dl-grove-list .title a:hover {
+  border-bottom-color: var(--charcoal);
+}
+.dl-grove-list .dek {
+  font-family: var(--font-serif);
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  margin: 4px 0 0;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+/* "Cited from wiobyrne.com" — small marker on grove pages showing they
+   are link-destinations from the sister site */
+.dl-cited-from {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--green-accent);
+  margin-top: 28px;
+  padding: 10px 0;
+  border-top: 1px solid var(--green-accent);
+  border-bottom: 1px solid var(--border-ghost);
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 8px 14px;
+}
+.dl-cited-from .label { color: var(--text-muted); }
+.dl-cited-from .ref a {
+  color: var(--charcoal);
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 12px;
+  text-transform: none;
+  letter-spacing: 0;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-ghost);
+}
+
+/* ============================================================
+   DL HOME — sprout-forward.
+   Current issue at the top, then recent notes (mixed states),
+   then a few grove cards (the deep entries).
+   ============================================================ */
+
+.dl-home {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 36px 40px 80px;
+  font-family: var(--font-serif);
+  color: var(--charcoal);
+}
+
+.dl-home-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--charcoal);
+  margin-bottom: 36px;
+}
+.dl-home-wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  color: var(--charcoal);
+  text-decoration: none;
+  font-weight: 500;
+}
+.dl-home-wordmark .reg-mark { width: 16px; height: 16px; color: var(--charcoal); }
+.dl-home-wordmark em {
+  font-style: italic;
+  color: var(--green-accent);
+  font-weight: 400;
+}
+.dl-home-nav-links {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  display: flex;
+  gap: 22px;
+}
+.dl-home-nav-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+}
+.dl-home-nav-links a:hover { color: var(--charcoal); }
+
+/* The "what's alive right now" hero — current issue + this week's drafts */
+.dl-now {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 56px;
+  margin-bottom: 64px;
+  padding-bottom: 36px;
+  border-bottom: 1px solid var(--charcoal);
+}
+
+.dl-now-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--green-accent);
+  margin: 0 0 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.dl-now-eyebrow::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--green-accent);
+  opacity: 0.4;
+}
+
+.dl-now-h1 {
+  font-family: var(--font-serif);
+  font-size: 2.4rem;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.15;
+  color: var(--charcoal);
+  margin: 0 0 16px;
+  text-transform: none;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+.dl-now-h1 a { color: inherit; text-decoration: none; }
+.dl-now-lede {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  margin: 0 0 18px;
+  text-wrap: pretty;
+}
+.dl-now-meta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: flex;
+  gap: 18px;
+  margin-bottom: 14px;
+}
+.dl-now-meta .live { color: var(--green-accent); }
+.dl-now-cta a {
+  font-family: var(--font-serif);
+  color: var(--charcoal);
+  font-size: 0.98rem;
+  text-decoration: none;
+  border-bottom: 1px solid var(--charcoal);
+}
+
+/* Right column — drafts in flight */
+.dl-drafts-h {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 14px;
+  border-bottom: 1px dashed var(--green-accent);
+  padding-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.dl-drafts-h .live { color: var(--green-accent); }
+.dl-drafts-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.dl-drafts-list li {
+  padding: 12px 0;
+  border-bottom: 1px dashed var(--border-ghost);
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 12px;
+}
+.dl-drafts-list .stamp {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--green-accent);
+  padding-top: 3px;
+}
+.dl-drafts-list .title {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 0.98rem;
+  line-height: 1.4;
+  color: var(--charcoal);
+  margin: 0;
+}
+.dl-drafts-list .title a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-ghost);
+}
+.dl-drafts-list .annot {
+  font-family: var(--font-serif);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--text-muted);
+  margin: 4px 0 0;
+}
+
+/* "Recent in the garden" — the middle band */
+.dl-recent-band {
+  margin-bottom: 56px;
+}
+.dl-recent-h {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--charcoal);
+  margin: 0 0 22px;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid var(--charcoal);
+  padding-top: 12px;
+}
+.dl-recent-h .all-link {
+  color: var(--text-muted);
+  font-weight: 400;
+  text-decoration: none;
+}
+.dl-recent-h .all-link:hover { color: var(--charcoal); }
+
+.dl-recent-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 36px;
+}
+.dl-recent-card {
+  border-top: 1px solid var(--charcoal);
+  padding-top: 14px;
+}
+.dl-recent-card .stamp {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.dl-recent-card .stamp .state.is-sprout { color: var(--green-accent); }
+.dl-recent-card .title {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  line-height: 1.35;
+  color: var(--charcoal);
+  margin: 0 0 8px;
+}
+.dl-recent-card .title a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-ghost);
+}
+.dl-recent-card .dek {
+  font-family: var(--font-serif);
+  font-size: 0.93rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0;
+  text-wrap: pretty;
+}
+
+/* Groves at the bottom — the deep entries */
+.dl-groves-band {
+  margin-top: 64px;
+  border-top: 2px solid var(--charcoal);
+  padding-top: 28px;
+}
+.dl-groves-h {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--charcoal);
+  margin: 0 0 8px;
+}
+.dl-groves-sub {
+  font-family: var(--font-serif);
+  font-size: 0.98rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin: 0 0 24px;
+  max-width: 540px;
+  line-height: 1.55;
+}
+.dl-groves-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 28px;
+}
+.dl-grove-card {
+  padding: 16px 18px 18px;
+  border: 1px solid var(--charcoal);
+  background: var(--bg-canvas);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.dl-grove-card .name {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  font-style: italic;
+  color: var(--charcoal);
+  margin: 0;
+}
+.dl-grove-card .name a {
+  color: inherit;
+  text-decoration: none;
+}
+.dl-grove-card .name a:hover { color: var(--green-accent); }
+.dl-grove-card .meta {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: flex;
+  gap: 12px;
+}
+.dl-grove-card .meta .n { color: var(--green-accent); }
+.dl-grove-card .desc {
+  font-family: var(--font-serif);
+  font-size: 0.92rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 6px 0 0;
+}
+
+/* ============================================================
+   GARDEN INDEX — chronological note archive.
+   Year-grouped, mono dates, italic titles, subtle state stamps.
+   ============================================================ */
+
+.dl-garden {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 56px 32px 64px;
+  font-family: var(--font-serif);
+}
+.dl-garden-h1 {
+  font-family: var(--font-serif);
+  font-size: 2rem;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--charcoal);
+  margin: 0 0 12px;
+  text-transform: none;
+}
+.dl-garden-lede {
+  font-family: var(--font-serif);
+  font-size: 1.0625rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  max-width: 580px;
+  margin: 0 0 32px;
+}
+.dl-garden-year {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--charcoal);
+  border-top: 1px solid var(--charcoal);
+  padding: 12px 0 8px;
+  margin: 28px 0 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.dl-garden-year .n { color: var(--text-muted); font-weight: 400; }
+
+.dl-garden-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.dl-garden-list li {
+  display: grid;
+  grid-template-columns: 92px 60px 1fr;
+  gap: 14px;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border-ghost);
+  align-items: baseline;
+}
+.dl-garden-list .stamp {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.dl-garden-list .state {
+  font-family: var(--font-mono);
+  font-size: 9.5px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.dl-garden-list .state.is-issue { color: var(--charcoal); font-weight: 600; }
+.dl-garden-list .state.is-sprout { color: var(--green-accent); }
+.dl-garden-list .title {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  color: var(--charcoal);
+  margin: 0;
+  line-height: 1.35;
+}
+.dl-garden-list .title a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-ghost);
+}
+.dl-garden-list .title a:hover { border-bottom-color: var(--charcoal); }
+.dl-garden-list .title.is-sprout {
+  font-style: italic;
+}
+
+/* ============================================================
+   ISSUE PAGE — newsletter back-issue.
+   Same essay shell, but with an issue stamp and a "this week's
+   thread" record.
+   ============================================================ */
+
+.dl-issue-page {
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 36px 32px 64px;
+  font-family: var(--font-serif);
+}
+
+/* ============================================================
+   START-HERE — three trails through the work.
+   Used as a teaser block on home or as its own /start-here/ page.
+   ============================================================ */
+
+.dl-trails {
+  margin: 56px 0;
+}
+.dl-trails-h {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--charcoal);
+  margin: 0 0 18px;
+  border-top: 1px solid var(--charcoal);
+  padding-top: 12px;
+}
+.dl-trails-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.dl-trail {
+  padding-top: 8px;
+}
+.dl-trail-num {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--green-accent);
+  margin-bottom: 8px;
+}
+.dl-trail-name {
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  font-style: italic;
+  color: var(--charcoal);
+  margin: 0 0 8px;
+  line-height: 1.3;
+}
+.dl-trail-desc {
+  font-family: var(--font-serif);
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0 0 12px;
+}
+.dl-trail-cta {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--green-accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--green-accent);
+}
+
+/* ============================================================
+   COLOPHON CTA — the conversion signal as metadata, not pitch.
+   Lives at the bottom of every DL page.
+   ============================================================ */
+.dl-colophon-cta {
+  margin-top: 56px;
+  padding: 14px 0;
+  border-top: 1px solid var(--charcoal);
+  border-bottom: 1px solid var(--border-ghost);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: grid;
+  grid-template-columns: 120px 1fr auto;
+  gap: 14px;
+  align-items: baseline;
+}
+.dl-colophon-cta .lead { color: var(--green-accent); }
+.dl-colophon-cta .body {
+  color: var(--charcoal);
+  font-family: var(--font-serif);
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 0.95rem;
+}
+.dl-colophon-cta .arrow a {
+  color: var(--green-accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--green-accent);
+}
+
+/* ============================================================
+   ARTBOARDS — DL canvas-specific
+   Reuses .ab-page from artboards.css. DL pages run wider.
+   ============================================================ */
+.ab-page-dl-home {
+  width: 1180px;
+  background: var(--bg-canvas);
+  padding: 0;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+}
+.ab-page-dl-narrow {
+  width: 820px;
+  background: var(--bg-canvas);
+  padding: 0;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+}
