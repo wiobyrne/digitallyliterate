@@ -41,8 +41,10 @@
   mix-blend-mode: multiply;
 }
 
-/* Asphalt rule between sections — printer's furniture, used as semantic break */
+/* Asphalt rule between sections — printer's furniture, used as semantic break.
+   display:block overrides hr { display:none } from apparatus-colors.css. */
 .dl-asphalt-rule {
+  display: block;
   height: 8px;
   background-image: var(--asphalt-url);
   background-size: 240px;
@@ -827,4 +829,11 @@
   background: var(--bg-canvas);
   padding: 0;
   border: 1px solid rgba(0, 0, 0, 0.04);
+}
+
+/* Eyebrow dot — separator between eyebrow label and topic */
+.essay-eyebrow-dot {
+  color: var(--border-ghost);
+  font-size: 0.8em;
+  margin: 0 -4px;
 }
