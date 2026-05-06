@@ -68,7 +68,7 @@ These recurring themes weave through the above MOCs:
 ### 📚 Literacy & Education  
 - [[02 CURATE/Digital Citizenship\|Digital Citizenship]]  
 - [[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]  
-- [[03 CREATE/32 Blog/Computational Thinking\|Computational Thinking]]  
+- [[03 CREATE/32 Blog/2020/Computational Thinking\|Computational Thinking]]  
 - [[Critical Digital Pedagogy\|Critical Digital Pedagogy]]
 
 ### ✊🏽 Resistance & Futures  

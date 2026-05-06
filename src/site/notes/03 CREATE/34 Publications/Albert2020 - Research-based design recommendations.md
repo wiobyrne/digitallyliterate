@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"dg-permalink":"albert2020-research-based-design-recommendations","permalink":"/albert2020-research-based-design-recommendations/","title":"Research-based design recommendations for transitioning a computational thinking integration summer professional development to a virtual format","tags":["publication","computational-thinking"]}
+---
+
+
+# Research-based design recommendations for transitioning a computational thinking integration summer professional development to a virtual format
+
+## Citation
+
+Albert, Jennifer; Jocius, Robin; Barnes, Tiffany; et al. (2020) Research-based design recommendations for transitioning a computational thinking integration summer professional development to a virtual format. *Teaching, technology, and teacher education during the COVID-19 pandemic: Stories from the field*, 59-64.
+
+## Abstract
+
+*To be added when PDF is located.*
+
+## Connected Concepts
+
+- [[03 CREATE/32 Blog/2020/Computational Thinking\|Computational Thinking]]

@@ -1,33 +1,21 @@
 ---
-title: Digitally Literate
-categories: meta
-tags: 
-  - digital-garden
-  - pkm
-  - education
-  - digital-literacy
-  - creativity
-  - gardenEntry
-created: 2024-11-16
-last_updated: 2026-02-16
-description: Exploring how we read, write, and learn in a digital world.
-dg-publish: true
-dg-home: true
+{"dg-publish":true,"permalink":"/04-meta/41-system/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"]}
 ---
+
 
 # Digitally Literate
 
-![headshot](/img/user/04%20META/48%20Assets/headshot.png)
+![headshot.png](/img/user/04%20META/48%20Assets/headshot.png)
 
-# **Hi, I'm Ian.**
+# **Hi, I’m Ian.**
 
 I think about how we read, write, and learn in digital spaces.
 
 I care about tools that help people feel creative, capable, and connected. Not overwhelmed or extracted from.
 
-This site is my working notebook. A place to think out loud, test ideas, and share what I'm learning as I go.
+This site is my working notebook. A place to think out loud, test ideas, and share what I’m learning as I go.
 
-If you're looking for polished essays and formal projects, you'll find those at **wiobyrne.com**.  If you want the messy middle, the experiments, questions, and half-formed thoughts, you're in the right place.
+If you’re looking for polished essays and formal projects, you’ll find those at **wiobyrne.com**.  If you want the messy middle, the experiments, questions, and half-formed thoughts, you’re in the right place.
  
 ---
  
@@ -50,9 +38,9 @@ Not sure where to start? Explore the [Groves](/groves), or just wander. Follow l
 
 ---
 
-## 🧭 What I'm exploring lately
+## 🧭 What I’m exploring lately
 
-Right now I'm thinking about how we can:
+Right now I’m thinking about how we can:
 - reconnect personal knowledge tools to the open web
 - design digital communities around trust and stewardship
 - use AI as a cognitive amplifier (not a replacement for thinking)
@@ -68,4 +56,4 @@ Most posts touch one or more of these threads.
 - 🌍 **Professional site:** [wiobyrne.com](https://wiobyrne.com)  
 - 📨 **Join the newsletter:** [digitallyliterate.net/newsletter](https://digitallyliterate.net/newsletter)
 
-Let's build a more open, ethical, and human web. One connection at a time.
+Let’s build a more open, ethical, and human web. One connection at a time.

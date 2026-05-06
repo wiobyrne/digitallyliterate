@@ -15,5 +15,5 @@ Jocius, Robin; Albert, Jennifer; O’Byrne, W Ian; et al. (2024) Computational t
 
 ## Connected Concepts
 
-- [[03 CREATE/32 Blog/Computational Thinking\|Computational Thinking]]
+- [[03 CREATE/32 Blog/2020/Computational Thinking\|Computational Thinking]]
 - [[03 CREATE/31 Notes/Teaching Philosophy\|Teaching Philosophy]]

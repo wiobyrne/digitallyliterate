@@ -9,6 +9,8 @@ AI literacy isn't about keeping up with the technology. It's about refusing to b
 
 Most conversations about AI focus on what it can do. AI literacy asks harder questions. Who built this? What does it optimize for? What does it cost you to use it, in data, in attention, in agency? These aren't technical questions. They're civic ones. And they matter for anyone who uses digital tools, not just people who work in tech.
 
+The broader technical map lives in [[03 CREATE/31 Notes/AI and Machine Learning\|AI and Machine Learning]].
+
 ---
 
 ## Key Terms
@@ -37,6 +39,7 @@ Most conversations about AI focus on what it can do. AI literacy asks harder que
 
 - [[03 CREATE/31 Notes/Artificial Intelligence\|Artificial Intelligence]] — what AI actually is, stripped of hype
 - [[03 CREATE/31 Notes/Machine Learning\|Machine Learning]] — how AI systems learn from data
+- [[03 CREATE/31 Notes/AI and Machine Learning\|AI and Machine Learning]] — the broader map for models, systems, and use cases
 - [[03 CREATE/31 Notes/General Attitudes Toward Generative AI\|General Attitudes Toward Generative AI]] — how people are actually responding to these tools
 - [[03 CREATE/31 Notes/Orchestrated Collaboration vs Algorithmic Passivity\|Orchestrated Collaboration vs Algorithmic Passivity]] — two very different ways of working with AI
 
@@ -74,4 +77,5 @@ New to this topic? Start with [[03 CREATE/31 Notes/AI Illiteracy\|AI Illiteracy]
 
 - [[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]] — the parent framework, who controls your digital life
 - [[03 CREATE/31 Notes/Privacy by Design\|Privacy by Design]] — tools that protect by default, including from AI extraction
+- [[03 CREATE/31 Notes/AI and Machine Learning\|AI and Machine Learning]] — the broader technical and cultural map this grove sits inside
 - [[03 CREATE/31 Notes/Internet Culture\|Internet Culture]] — the platform dynamics that AI systems operate within and amplify

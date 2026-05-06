@@ -11,6 +11,24 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 
 ---
 
+## Systems, Agents, and Knowledge Infrastructure
+
+Recent notes in this map lean beyond the model itself and into the stack around it:
+
+- [[02 CURATE/AI System Layers\|AI System Layers]] - model, harness, and product as a single stack
+- [[02 CURATE/AI Model\|AI Model]] - the trained capability
+- [[02 CURATE/AI Harness\|AI Harness]] - prompts, tools, memory, and orchestration
+- [[02 CURATE/AI Product\|AI Product]] - the wider application and business system
+- [[02 CURATE/AI System Infrastructure\|AI System Infrastructure]] - servers, routing, auth, telemetry, and backend pieces
+- [[02 CURATE/Agentic AI\|Agentic AI]] - systems that act across steps
+- [[02 CURATE/Large Language Model (LLM)\|Large Language Model (LLM)]] - the core language-model form this wiki keeps returning to
+- [[02 CURATE/Retrieval-Augmented Generation (RAG)\|Retrieval-Augmented Generation (RAG)]] - external retrieval as part of the workflow
+- [[02 CURATE/Model Context Protocol (MCP)\|Model Context Protocol (MCP)]] - a connective layer for tools and context
+- [[02 CURATE/Personal AI Stack Design Framework\|Personal AI Stack Design Framework]] - routing local, cloud, memory, and workflow choices
+- [[02 CURATE/AI and ML Glossary Framework\|AI and ML Glossary Framework]] - the vocabulary layer that supports the map
+
+---
+
 ## 🧠 Core Concepts
 
 - [[03 CREATE/31 Notes/Artificial Intelligence\|Artificial Intelligence]] 🔹  
@@ -72,10 +90,17 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 - [[Teaching AI Literacy\|Teaching AI Literacy]] 🔹
 - [[AI in K–12 Education\|AI in K–12 Education]] 🔸
 - [[Ethical AI Curriculum\|Ethical AI Curriculum]] 🔸
-- [[03 CREATE/32 Blog/Computational Thinking\|Computational Thinking]] 🔹
+- [[03 CREATE/32 Blog/2020/Computational Thinking\|Computational Thinking]] 🔹
 - [[AI as Cognitive Amplifier\|AI as Cognitive Amplifier]] 🔸
 - [[AI for Inquiry-Based Learning\|AI for Inquiry-Based Learning]] 🔸
 - [[Media Literacy and AI\|Media Literacy and AI]] 🔹
+
+---
+
+## Connected Groves
+
+- [[03 CREATE/31 Notes/AI Literacy\|AI Literacy]] - the civic and critical lens on using AI well
+- [[03 CREATE/31 Notes/Technology & Society Index\|Technology & Society Index]] - the broader systems-and-impact frame
 
 ---
 
@@ -105,6 +130,12 @@ AI is not just a technical domain—it is a **social, cultural, political, and e
 ## 🔗 Related MOCs and Indexes
 
 - [[03 CREATE/31 Notes/AI and Digital Resilience Index\|AI and Digital Resilience Index]]  
+- [[03 CREATE/31 Notes/AI Literacy\|AI Literacy]]  
+- [[02 CURATE/AI System Layers\|AI System Layers]]
+- [[02 CURATE/AI Model\|AI Model]]
+- [[02 CURATE/AI Harness\|AI Harness]]
+- [[02 CURATE/AI Product\|AI Product]]
+- [[02 CURATE/AI and ML Glossary Framework\|AI and ML Glossary Framework]]
 - [[03 CREATE/31 Notes/Technology & Society Index\|Technology & Society Index]]  
 - [[Platform Studies MOC\|Platform Studies MOC]]  
 - [[Privacy and Security MOC\|Privacy and Security MOC]]  
