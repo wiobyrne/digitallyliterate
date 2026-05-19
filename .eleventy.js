@@ -306,12 +306,6 @@ module.exports = function(eleventyConfig) {
         return /^[a-z][a-z0-9+.-]*:/i.test(trimmed);
       }
 
-      // Sister-site links (wiobyrne.com ↔ digitallyliterate.net) open in the
-      // same tab — they're the same body of work. No target="_blank".
-      function isSisterSiteHref(href) {
-        return /^https?:\/\/(www\.)?wiobyrne\.com/i.test(href);
-      }
-
       md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
         const hrefIndex = tokens[idx].attrIndex("href");
         const href =
@@ -321,16 +315,13 @@ module.exports = function(eleventyConfig) {
         const isExternal = isExternalHref(href);
 
         if (isExternal) {
-          const isSister = isSisterSiteHref(href);
           const aIndex = tokens[idx].attrIndex("target");
           const classIndex = tokens[idx].attrIndex("class");
 
-          if (!isSister) {
-            if (aIndex < 0) {
-              tokens[idx].attrPush(["target", "_blank"]);
-            } else {
-              tokens[idx].attrs[aIndex][1] = "_blank";
-            }
+          if (aIndex < 0) {
+            tokens[idx].attrPush(["target", "_blank"]);
+          } else {
+            tokens[idx].attrs[aIndex][1] = "_blank";
           }
 
           if (classIndex < 0) {
