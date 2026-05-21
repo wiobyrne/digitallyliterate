@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-literacy","permalink":"/ai-literacy/","title":"AI Literacy","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"]}
+{"dg-publish":true,"dg-permalink":"ai-literacy","permalink":"/ai-literacy/","title":"AI Literacy","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"],"dg-note-properties":{"title":"AI Literacy","created":"2026-02-07","last_updated":"2026-05-01","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","ai-literacy","ai-ethics","education","agency","critical-thinking"],"connections":["[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]","[[Digital Resilience]]","[[03 CREATE/31 Notes/Privacy by Design\|Privacy by Design]]"],"related":["[[03 CREATE/31 Notes/AI Illiteracy\|AI Illiteracy]]","[[03 CREATE/31 Notes/Bias in AI\|Bias in AI]]","[[03 CREATE/31 Notes/Human in the Loop\|Human in the Loop]]","[[03 CREATE/31 Notes/Agency\|Agency]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-literacy","permalink":"/digital-literacy/","title":"Digital Literacy","tags":["grove","digital-literacy","digital-self-determination","privacy","education","agency"]}
+{"dg-publish":true,"dg-permalink":"digital-literacy","permalink":"/digital-literacy/","title":"Digital Literacy","tags":["grove","digital-literacy","digital-self-determination","privacy","education","agency"],"dg-note-properties":{"title":"Digital Literacy","created":"2026-02-07","last_updated":"2026-04-22","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","digital-literacy","digital-self-determination","privacy","education","agency"],"connections":["[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]","[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]","[[03 CREATE/31 Notes/Digital Sovereignty\|Digital Sovereignty]]","[[03 CREATE/31 Notes/Privacy by Design\|Privacy by Design]]","[[03 CREATE/31 Notes/AI Literacy\|AI Literacy]]"],"related":["[[02 DEVELOP/Teaching Digital Self-determination]]","[[02 CURATE/AI Safety Spending Gap\|AI Safety Spending Gap]]","[[03 CREATE/31 Notes/Teaching Philosophy\|Teaching Philosophy]]","[[03 CREATE/31 Notes/Emotional Intelligence\|Emotional Intelligence]]","[[03 CREATE/31 Notes/Internet Culture\|Internet Culture]]"],"shelf":"published"}}
 ---
 
 

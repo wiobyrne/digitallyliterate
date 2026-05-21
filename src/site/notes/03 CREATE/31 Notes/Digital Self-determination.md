@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-self-determination","permalink":"/digital-self-determination/","title":"Digital Self-determination","tags":["grove","digital-self-determination","digital-literacy","privacy","agency","data-sovereignty"]}
+{"dg-publish":true,"dg-permalink":"digital-self-determination","permalink":"/digital-self-determination/","title":"Digital Self-determination","tags":["grove","digital-self-determination","digital-literacy","privacy","agency","data-sovereignty"],"dg-note-properties":{"title":"Digital Self-determination","created":"2026-01-31","last_updated":"2026-04-10","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","digital-self-determination","digital-literacy","privacy","agency","data-sovereignty"],"connections":["[[03 CREATE/31 Notes/Privacy by Design\|Privacy by Design]]","[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]","[[03 CREATE/31 Notes/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]"],"related":["[[03 CREATE/31 Notes/Digital Sovereignty\|Digital Sovereignty]]","[[03 CREATE/31 Notes/Agency\|Agency]]","[[03 CREATE/31 Notes/Surveillance Capitalism\|Surveillance Capitalism]]"]}}
 ---
 
 

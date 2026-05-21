@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"lra-2025","permalink":"/lra-2025/","title":"LRA 2025 Presentation","tags":["presentation","LRA2025","ai-literacy","framework","conference","qualitative-research","NotebookLM"]}
+{"dg-publish":true,"dg-permalink":"lra-2025","permalink":"/lra-2025/","title":"LRA 2025 Presentation","tags":["presentation","LRA2025","ai-literacy","framework","conference","qualitative-research","NotebookLM"],"dg-note-properties":{"title":"LRA 2025 Presentation","created":"2025-12-02","last_updated":"2026-03-03","status":"🌿_sprout","type":"talk","tags":["presentation","LRA2025","ai-literacy","framework","conference","qualitative-research","NotebookLM"],"categories":"Presentations","event":"Literacy Research Association Annual Conference 2025","venue":"","date":"2025-12-02","pdf":"","slides_url":"https://docs.google.com/presentation/d/1cNSKL4WmH1PS14Pj2cue8SFlyFwInGweujgvq-xM95k/edit?usp=sharing"}}
 ---
 
 # LRA 2025 Presentation
@@ -53,4 +53,4 @@ The presentation is built around an adapted analytic framework from Mollick & Mo
 ## Related Projects
 
 
-[[03 CREATE/37 Projects/Active/Co-constructing AI Boundaries\|Co-constructing AI Boundaries]]
+[[03 CREATE/37 Projects/Active/Co-constructing AI Boundaries\|03 CREATE/37 Projects/Active/Co-constructing AI Boundaries]]

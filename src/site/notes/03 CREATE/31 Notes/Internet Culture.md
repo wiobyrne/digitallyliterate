@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"internet-culture","permalink":"/internet-culture/","title":"Internet Culture","tags":["grove","internet-culture","digital-anthropology","online-communities","platform-studies","media-literacy"]}
+{"dg-publish":true,"dg-permalink":"internet-culture","permalink":"/internet-culture/","title":"Internet Culture","tags":["grove","internet-culture","digital-anthropology","online-communities","platform-studies","media-literacy"],"dg-note-properties":{"title":"Internet Culture","created":"2025-09-14","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","internet-culture","digital-anthropology","online-communities","platform-studies","media-literacy"],"connections":["[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]","[[03 CREATE/31 Notes/AI Literacy\|AI Literacy]]","[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]"],"related":["[[02 CURATE/Digital Literacy Framework\|Digital Literacy Framework]]","[[03 CREATE/31 Notes/Gamergate as Digital Misinformation Blueprint\|Gamergate as Digital Misinformation Blueprint]]","[[02 CURATE/Extremely Online Culture\|02 CURATE/Extremely Online Culture]]","[[02 CURATE/Online Harassment and Activism\|Online Harassment and Activism]]"]}}
 ---
 
 

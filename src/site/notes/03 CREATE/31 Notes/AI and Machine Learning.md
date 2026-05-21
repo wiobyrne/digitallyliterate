@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai","permalink":"/ai/","title":"AI and Machine Learning","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"]}
+{"dg-publish":true,"dg-permalink":"ai","permalink":"/ai/","title":"AI and Machine Learning","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"],"dg-note-properties":{"title":"AI and Machine Learning","aliases":["AI and Machine Learning MOC","AI & Machine Learning","AI/ML MOC"],"created":"2025-07-17","last_updated":"2026-05-01","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["moc","ai","machine-learning","digital-literacy","emerging-tech"],"description":"A curated map of AI and machine learning concepts, systems, tools, ethics, and pedagogical implications."}}
 ---
 
 

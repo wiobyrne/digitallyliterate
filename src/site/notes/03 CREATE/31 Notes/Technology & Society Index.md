@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"topics","permalink":"/topics/","title":"Technology & Society Index","tags":["index","tech-society","digital-literacy","ethics","critical-digital-literacies","digital-futures"]}
+{"dg-publish":true,"dg-permalink":"topics","permalink":"/topics/","title":"Technology & Society Index","tags":["index","tech-society","digital-literacy","ethics","critical-digital-literacies","digital-futures"],"dg-note-properties":{"title":"Technology & Society Index","created":"2025-07-16","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["index","tech-society","digital-literacy","ethics","critical-digital-literacies","digital-futures"],"description":"A high-level hub mapping how technology shapes culture, ethics, equity, and education."}}
 ---
 
 

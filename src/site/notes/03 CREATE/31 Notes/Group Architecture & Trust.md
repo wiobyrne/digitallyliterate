@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"group-architecture-trust","permalink":"/group-architecture-trust/","title":"Group Architecture & Trust","tags":["grove","security-culture","group-norms","trust","communication","community-care"]}
+{"dg-publish":true,"dg-permalink":"group-architecture-trust","permalink":"/group-architecture-trust/","title":"Group Architecture & Trust","tags":["grove","security-culture","group-norms","trust","communication","community-care"],"dg-note-properties":{"title":"Group Architecture & Trust","created":"2026-02-10","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","security-culture","group-norms","trust","communication","community-care"],"connections":["[[03 CREATE/31 Notes/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]","[[Digital Self-determination]]"],"related":["[[03 CREATE/31 Notes/Ephemeral Communication & Information Half-Life\|Ephemeral Communication & Information Half-Life]]","[[03 CREATE/31 Notes/Alert Fatigue & Information Hygiene\|Alert Fatigue & Information Hygiene]]","[[03 CREATE/31 Notes/Threat Modeling for Communities\|Threat Modeling for Communities]]","[[Privacy by Design]]","[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy and Security","tags":["moc","privacy","cybersecurity","digital-resilience","ethics"]}
+{"dg-publish":true,"dg-permalink":"privacy","permalink":"/privacy/","title":"Privacy and Security","tags":["moc","privacy","cybersecurity","digital-resilience","ethics"],"dg-note-properties":{"title":"Privacy and Security","created":"2025-07-17","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["moc","privacy","cybersecurity","digital-resilience","ethics"],"description":"Key concepts, tools, and frameworks around digital privacy, data protection, and cybersecurity."}}
 ---
 
 

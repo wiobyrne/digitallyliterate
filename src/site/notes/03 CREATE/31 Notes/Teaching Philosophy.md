@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"teaching-philosophy-grove","permalink":"/teaching-philosophy-grove/","title":"Teaching Philosophy","tags":["grove","teaching","philosophy","education","pedagogy","critical-pedagogy"]}
+{"dg-publish":true,"dg-permalink":"teaching-philosophy-grove","permalink":"/teaching-philosophy-grove/","title":"Teaching Philosophy","tags":["grove","teaching","philosophy","education","pedagogy","critical-pedagogy"],"dg-note-properties":{"title":"Teaching Philosophy","created":"2025-01-29","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","teaching","philosophy","education","pedagogy","critical-pedagogy"],"connections":["[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]","[[03 CREATE/31 Notes/AI Literacy\|AI Literacy]]","[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]"],"related":["[[03 CREATE/31 Notes/Teaching Philosophy\|Teaching Philosophy]]","[[Digital Literacy Framework]]","[[Critical Pedagogy Blinds When Progressive Education Perpetuates Harm\|Critical Pedagogy Blinds When Progressive Education Perpetuates Harm]]"]}}
 ---
 
 

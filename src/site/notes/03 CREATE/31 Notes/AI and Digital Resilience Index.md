@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ai-resilience","permalink":"/ai-resilience/","title":"AI and Digital Resilience Index","tags":["index","ai","privacy","digital-resilience","ethics"]}
+{"dg-publish":true,"dg-permalink":"ai-resilience","permalink":"/ai-resilience/","title":"AI and Digital Resilience Index","tags":["index","ai","privacy","digital-resilience","ethics"],"dg-note-properties":{"title":"AI and Digital Resilience Index","created":"2025-07-16","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["index","ai","privacy","digital-resilience","ethics"],"description":"Key concepts at the intersection of AI, privacy, surveillance, and digital autonomy."}}
 ---
 
 

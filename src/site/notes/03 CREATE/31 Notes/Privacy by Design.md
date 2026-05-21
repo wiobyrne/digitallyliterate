@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"privacy-by-design","permalink":"/privacy-by-design/","title":"Privacy by Design","tags":["grove","privacy-by-design","privacy","encryption","tools","zero-knowledge"]}
+{"dg-publish":true,"dg-permalink":"privacy-by-design","permalink":"/privacy-by-design/","title":"Privacy by Design","tags":["grove","privacy-by-design","privacy","encryption","tools","zero-knowledge"],"dg-note-properties":{"title":"Privacy by Design","created":"2026-01-31","last_updated":"2026-04-10","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","privacy-by-design","privacy","encryption","tools","zero-knowledge"],"connections":["[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]","[[03 CREATE/31 Notes/Digital Sovereignty\|Digital Sovereignty]]","[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]"],"related":["[[03 CREATE/31 Notes/Encryption\|Encryption]]","[[03 CREATE/31 Notes/End-to-End Encryption\|End-to-End Encryption]]","[[03 CREATE/31 Notes/Surveillance Capitalism\|Surveillance Capitalism]]","[[03 CREATE/31 Notes/Balancing Privacy Security and Usability\|Balancing Privacy Security and Usability]]"]}}
 ---
 
 
