@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"emotional-intelligence","permalink":"/emotional-intelligence/","title":"Emotional Intelligence","tags":["grove","emotional-intelligence","collaboration","human-centered-design","communication","vulnerability","resilience"]}
+{"dg-publish":true,"dg-permalink":"emotional-intelligence","permalink":"/emotional-intelligence/","title":"Emotional Intelligence","tags":["grove","emotional-intelligence","collaboration","human-centered-design","communication","vulnerability","resilience"],"dg-note-properties":{"title":"Emotional Intelligence","created":"2025-07-18","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","emotional-intelligence","collaboration","human-centered-design","communication","vulnerability","resilience"],"connections":["[[03 CREATE/31 Notes/Teaching Philosophy\|Teaching Philosophy]]","[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]","[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]"],"related":["[[03 CREATE/31 Notes/Educate Empower Advocate\|Educate Empower Advocate]]","[[03 CREATE/31 Notes/Tao of Emotionally Intelligent Work\|Tao of Emotionally Intelligent Work]]","[[03 CREATE/31 Notes/Understanding Shame\|Understanding Shame]]"]}}
 ---
 
 

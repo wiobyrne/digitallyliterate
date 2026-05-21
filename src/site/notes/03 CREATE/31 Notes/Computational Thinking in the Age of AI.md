@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"computational-thinking-age-of-ai","permalink":"/computational-thinking-age-of-ai/","title":"Computational Thinking in the Age of AI","tags":["presentation","computational-thinking","ai","education","k12"]}
+{"dg-publish":true,"dg-permalink":"computational-thinking-age-of-ai","permalink":"/computational-thinking-age-of-ai/","title":"Computational Thinking in the Age of AI","tags":["presentation","computational-thinking","ai","education","k12"],"dg-note-properties":{"title":"Computational Thinking in the Age of AI","created":"2026-03-03","last_updated":"2026-03-03","status":"🌿_sprout","type":"talk","tags":["presentation","computational-thinking","ai","education","k12"],"categories":"Presentations","event":"","venue":"","date":"","pdf":"","slides_url":""}}
 ---
 
 # Computational Thinking in the Age of AI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critical-evaluation-digital-literacy","permalink":"/critical-evaluation-digital-literacy/","title":"Critical Evaluation and Digital Literacy","tags":["phd","digital-literacy","critical-evaluation","online-reading","research","intellectual-history"]}
+{"dg-publish":true,"dg-permalink":"critical-evaluation-digital-literacy","permalink":"/critical-evaluation-digital-literacy/","title":"Critical Evaluation and Digital Literacy","tags":["phd","digital-literacy","critical-evaluation","online-reading","research","intellectual-history"],"dg-note-properties":{"title":"Critical Evaluation and Digital Literacy","created":"2026-03-03","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["phd","digital-literacy","critical-evaluation","online-reading","research","intellectual-history"]}}
 ---
 
 

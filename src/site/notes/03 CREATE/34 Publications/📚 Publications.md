@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"publications","permalink":"/publications/","title":"📚 Publications","tags":["index","publications","research","scholarship"]}
+{"dg-publish":true,"dg-permalink":"publications","permalink":"/publications/","title":"📚 Publications","tags":["index","publications","research","scholarship"],"dg-note-properties":{"title":"📚 Publications","created":"2026-02-19","last_updated":"2026-04-25","status":"🌲_evergreen","tags":["index","publications","research","scholarship"],"categories":"Index","description":"A public archive of journal articles, book chapters, proceedings, and related scholarly work.","connections":["[[03 CREATE/31 Notes/Digital Literacy\|Digital Literacy]]","[[03 CREATE/31 Notes/Teaching Philosophy\|Teaching Philosophy]]","[[03 CREATE/34 Publications/OByrne2024 - When you know better, better\|OByrne2024 - When you know better, better]]"],"permalink":"/publications/"}}
 ---
 
 

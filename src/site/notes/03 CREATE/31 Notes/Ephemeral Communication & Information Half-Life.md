@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ephemeral-communication","permalink":"/ephemeral-communication/","title":"Ephemeral Communication & Information Half-Life","tags":["grove","security-culture","ephemeral-communication","information-hygiene","consent","digital-literacy"]}
+{"dg-publish":true,"dg-permalink":"ephemeral-communication","permalink":"/ephemeral-communication/","title":"Ephemeral Communication & Information Half-Life","tags":["grove","security-culture","ephemeral-communication","information-hygiene","consent","digital-literacy"],"dg-note-properties":{"title":"Ephemeral Communication & Information Half-Life","created":"2026-02-10","last_updated":"2026-03-12","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","security-culture","ephemeral-communication","information-hygiene","consent","digital-literacy"],"connections":["[[03 CREATE/31 Notes/Security Culture as Digital Literacy\|Security Culture as Digital Literacy]]","[[Digital Self-determination]]"],"related":["[[03 CREATE/31 Notes/Group Architecture & Trust\|Group Architecture & Trust]]","[[03 CREATE/31 Notes/Alert Fatigue & Information Hygiene\|Alert Fatigue & Information Hygiene]]","[[03 CREATE/31 Notes/Threat Modeling for Communities\|Threat Modeling for Communities]]","[[Privacy by Design]]","[[Digital Resilience]]"]}}
 ---
 
 

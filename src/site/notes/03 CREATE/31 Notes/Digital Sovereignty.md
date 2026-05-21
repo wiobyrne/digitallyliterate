@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"]}
+{"dg-publish":true,"dg-permalink":"digital-sovereignty","permalink":"/digital-sovereignty/","title":"Digital Sovereignty","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"],"dg-note-properties":{"title":"Digital Sovereignty","created":"2026-01-31","last_updated":"2026-04-10","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","digital-sovereignty","data-ownership","privacy","self-determination"],"connections":["[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]","[[03 CREATE/31 Notes/Privacy by Design\|Privacy by Design]]"],"related":["[[03 CREATE/31 Notes/Digital Resilience\|Digital Resilience]]","[[03 CREATE/31 Notes/Decentralized Network for Education\|Decentralized Network for Education]]","[[03 CREATE/31 Notes/Platform Capture and Knowledge Liberation\|Platform Capture and Knowledge Liberation]]"]}}
 ---
 
 

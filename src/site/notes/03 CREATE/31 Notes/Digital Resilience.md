@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"digital-resilience","permalink":"/digital-resilience/","title":"Digital Resilience","tags":["grove","digital-resilience","security","habits","sustainability"]}
+{"dg-publish":true,"dg-permalink":"digital-resilience","permalink":"/digital-resilience/","title":"Digital Resilience","tags":["grove","digital-resilience","security","habits","sustainability"],"dg-note-properties":{"title":"Digital Resilience","created":"2026-01-31","last_updated":"2026-04-10","status":"🌲_evergreen","type":"grove","categories":"Grove","tags":["grove","digital-resilience","security","habits","sustainability"],"connections":["[[03 CREATE/31 Notes/Digital Self-determination\|Digital Self-determination]]","[[03 CREATE/31 Notes/Privacy by Design\|Privacy by Design]]","[[Digital Literacy]]"],"related":["[[03 CREATE/31 Notes/Digital Sovereignty\|Digital Sovereignty]]","[[03 CREATE/31 Notes/Harm Reduction in Digital Literacy\|Harm Reduction in Digital Literacy]]","[[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]"]}}
 ---
 
 
