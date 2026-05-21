@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-3","permalink":"/tldr-3/","title":"Too Long; Didn't Read Issue 3","tags":["screen-reading-neuroscience","pedagogy-first-social-change","xmooc-video-critique","google-deepdream-ai","reddit-community-revolt"]}
+{"dg-publish":true,"dg-permalink":"tldr-3","permalink":"/tldr-3/","title":"Too Long; Didn't Read Issue 3","tags":["screen-reading-neuroscience","pedagogy-first-social-change","xmooc-video-critique","google-deepdream-ai","reddit-community-revolt"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 3","created":"2015-07-10","last_updated":"2025-12-13","status":"🌲_evergreen","categories":"Newsletter","tags":["screen-reading-neuroscience","pedagogy-first-social-change","xmooc-video-critique","google-deepdream-ai","reddit-community-revolt"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 2\|TLDR 2]]","[[03 CREATE/33 Newsletter/TLDR 4\|TLDR 4]]","[[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]","[[Pedagogy\|Pedagogy]]","[[Digital Wellbeing\|Digital Wellbeing]]"],"shelf":"archived","description":"Neuroscience of screen reading challenges assumptions about digital texts while Cathy Davidson argues pedagogy-first approaches enable social change, and Google's DeepDream AI reveals what machines see."}}
 ---
 
 # TLDR 3
