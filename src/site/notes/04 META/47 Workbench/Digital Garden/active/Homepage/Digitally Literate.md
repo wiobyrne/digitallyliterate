@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/47-workbench/digital-garden/active/homepage/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"dg-note-properties":{"title":"Digitally Literate","categories":"meta","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"created":"2024-11-16","last_updated":"2026-02-16","description":"Exploring how we read, write, and learn in a digital world."}}
+{"dg-publish":true,"permalink":"/04-meta/47-workbench/digital-garden/active/homepage/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"dg-note-properties":{"title":"Digitally Literate","categories":"meta","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"created":"2024-11-16","last_updated":"2026-05-23","description":"Public garden homepage for Digitally Literate."}}
 ---
 
 
@@ -11,20 +11,21 @@
 
 I think about how we read, write, and learn in digital spaces.
 
-I care about tools that help people feel creative, capable, and connected. Not overwhelmed or extracted from.
+Digitally Literate is my public garden: a working notebook for ideas that are
+still growing, still connecting, and still changing.
 
-This site is my working notebook. A place to think out loud, test ideas, and share what I’m learning as I go.
+If you want polished essays and formal projects, go to **wiobyrne.com**.
+If you want the weekly newsletter, go to **Substack**.
+If you want the messy middle, the experiments, and the half-formed thoughts,
+you’re in the right place.
 
-If you’re looking for polished essays and formal projects, you’ll find those at **wiobyrne.com**.  If you want the messy middle, the experiments, questions, and half-formed thoughts, you’re in the right place.
- 
 ---
- 
+
 ## 🌿 What this is
 
-Digitally Literate is a **digital garden**.
+This site is a digital garden.
 
-Notes grow here over time.  
-Nothing is finished. Everything is evolving.
+Notes grow here over time. Nothing is finished. Everything is evolving.
 
 Ideas move through stages of maturity:
 
@@ -34,17 +35,19 @@ Ideas move through stages of maturity:
 - 🪴 **Groves** — curated clusters of related notes on a theme
 - 🌳 **Forests** — big-picture syntheses across multiple groves
 
-Not sure where to start? Explore the [Groves](/groves), or just wander. Follow links. See what connects.
+Start with the [Groves](/groves), or wander from note to note and see what
+connects.
 
 ---
 
-## 🧭 What I’m exploring lately
+## 🧭 What I’m exploring
 
-Right now I’m thinking about how we can:
-- reconnect personal knowledge tools to the open web
-- design digital communities around trust and stewardship
-- use AI as a cognitive amplifier (not a replacement for thinking)
-- treat digital literacy as collective sensemaking
+Right now I’m thinking about:
+
+- how personal knowledge tools connect to the open web
+- how digital communities stay rooted in trust and stewardship
+- how AI can amplify thinking without replacing it
+- how digital literacy becomes collective sensemaking
 
 Most posts touch one or more of these threads.
 
@@ -52,8 +55,8 @@ Most posts touch one or more of these threads.
 
 ## ✳️ Connect
 
-- 💬 **Say hello:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)  
-- 🌍 **Professional site:** [wiobyrne.com](https://wiobyrne.com)  
+- 💬 **Say hello:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)
+- 🌍 **Professional site:** [wiobyrne.com](https://wiobyrne.com)
 - 📨 **Join the newsletter:** [digitallyliterate.net/newsletter](https://digitallyliterate.net/newsletter)
 
 Let’s build a more open, ethical, and human web. One connection at a time.
