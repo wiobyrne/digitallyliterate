@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-2","permalink":"/tldr-2/","title":"Too Long; Didn't Read Issue 2","tags":["digital-identity-online-presence","facebook-rainbow-experiment","human-machine-work-future","google-cardboard-vr-classroom","cyberbullying-legislation"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 2","created":"2015-07-04","last_updated":"2025-12-13","status":"🌲_evergreen","categories":"Newsletter","tags":["digital-identity-online-presence","facebook-rainbow-experiment","human-machine-work-future","google-cardboard-vr-classroom","cyberbullying-legislation"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 1\|TLDR 1]]","[[03 CREATE/33 Newsletter/TLDR 3\|TLDR 3]]","[[Privacy Rights\|Privacy Rights]]","[[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]","[[Pedagogy\|Pedagogy]]"],"shelf":"archived","description":"Building your own space on the internet while Facebook's rainbow profile experiment raises data questions, and educators explore Google Cardboard VR for classrooms."}}
+{"dg-publish":true,"dg-permalink":"tldr-2","permalink":"/tldr-2/","title":"Too Long; Didn't Read Issue 2","tags":["digital-identity-online-presence","facebook-rainbow-experiment","human-machine-work-future","google-cardboard-vr-classroom","cyberbullying-legislation"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 2","created":"2015-07-04","last_updated":"2025-12-13","status":"🌲_evergreen","categories":"Newsletter","tags":["digital-identity-online-presence","facebook-rainbow-experiment","human-machine-work-future","google-cardboard-vr-classroom","cyberbullying-legislation"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 1\|TLDR 1]]","[[03 CREATE/33 Newsletter/TLDR 3\|TLDR 3]]","[[Privacy Rights\|Privacy Rights]]","[[01 CONSUME/10 Inbox/Media Literacy\|Media Literacy]]","[[Pedagogy\|Pedagogy]]"],"shelf":"archived","description":"Building your own space on the internet while Facebook's rainbow profile experiment raises data questions, and educators explore Google Cardboard VR for classrooms."}}
 ---
 
 # TLDR  2
@@ -101,7 +101,7 @@ These two observations from this issue frame the central tension of our digital 
 **🌱 Connected Concepts**:
 
 - **[[Privacy Rights\|Privacy Rights]]** — Facebook experiments, data as currency, surveillance capitalism
-- **[[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]** — Understanding platform business models, critical consumption
+- **[[01 CONSUME/10 Inbox/Media Literacy\|Media Literacy]]** — Understanding platform business models, critical consumption
 - **[[Pedagogy\|Pedagogy]]** — Revision process, teacher as maker, VR in classrooms
 - **[[Digital Wellbeing\|Digital Wellbeing]]** — Building your own online space, digital identity
 - **[[Philosophy\|Philosophy]]** — Human-machine futures, defining the world we want

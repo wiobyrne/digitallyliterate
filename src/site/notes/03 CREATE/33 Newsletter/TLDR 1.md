@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-1","permalink":"/tldr-1/","title":"Too Long; Didn't Read Issue 1","tags":["internet-access-digital-divide","google-audio-surveillance","sesame-street-mooc-debate","raspberry-pi-maker-projects","confederate-flag-digital-activism"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 1","created":"2015-06-27","last_updated":"2025-12-13","status":"🌲_evergreen","categories":"Newsletter","tags":["internet-access-digital-divide","google-audio-surveillance","sesame-street-mooc-debate","raspberry-pi-maker-projects","confederate-flag-digital-activism"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 2\|TLDR 2]]","[[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]","[[Privacy Rights\|Privacy Rights]]","[[Digital Wellbeing\|Digital Wellbeing]]"],"shelf":"archived","description":"The inaugural newsletter covers shrinking digital divides in internet access, Google's audio surveillance code discovery, the Sesame Street MOOC debate, and DIY Raspberry Pi weather stations."}}
+{"dg-publish":true,"dg-permalink":"tldr-1","permalink":"/tldr-1/","title":"Too Long; Didn't Read Issue 1","tags":["internet-access-digital-divide","google-audio-surveillance","sesame-street-mooc-debate","raspberry-pi-maker-projects","confederate-flag-digital-activism"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 1","created":"2015-06-27","last_updated":"2025-12-13","status":"🌲_evergreen","categories":"Newsletter","tags":["internet-access-digital-divide","google-audio-surveillance","sesame-street-mooc-debate","raspberry-pi-maker-projects","confederate-flag-digital-activism"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 2\|TLDR 2]]","[[01 CONSUME/10 Inbox/Media Literacy\|Media Literacy]]","[[Privacy Rights\|Privacy Rights]]","[[Digital Wellbeing\|Digital Wellbeing]]"],"shelf":"archived","description":"The inaugural newsletter covers shrinking digital divides in internet access, Google's audio surveillance code discovery, the Sesame Street MOOC debate, and DIY Raspberry Pi weather stations."}}
 ---
 
 # TLDR  1
@@ -89,7 +89,7 @@ This line from the Google audio surveillance story captures the newsletter's fou
 
 **🌱 Connected Concepts**:
 
-- **[[03 CREATE/31 Notes/Media Literacy\|Media Literacy]]** — Understanding device surveillance, MOOC debates, digital activism
+- **[[01 CONSUME/10 Inbox/Media Literacy\|Media Literacy]]** — Understanding device surveillance, MOOC debates, digital activism
 - **[[Privacy Rights\|Privacy Rights]]** — Google audio capture, devices listening without consent
 - **[[Pedagogy\|Pedagogy]]** — Sesame Street education research, coding as essential skill
 - **[[Civic Engagement\|Civic Engagement]]** — Confederate flag digital protest, marriage equality

@@ -119,7 +119,7 @@ Phillips's call for tolerance teaching resonates after incident revealing intole
 - [[Covington Catholic Incident\|Covington Catholic Incident]] — Viral confrontation between MAGA-hat teens and Nathan Phillips at Lincoln Memorial becoming critical media literacy case study revealing media failures in [[Viral Misinformation\|Viral Misinformation]].
 - [[03 CREATE/32 Blog/2019/Critical Media Literacy\|Critical Media Literacy]] — Incident demonstrates urgent need teaching students to identify bias examine competing narratives question viral content and develop empathy while processing complexity in [[Media Education\|Media Education]].
 - [[Video Truth Complexity\|Video Truth Complexity]] — Short clips feeling incontrovertible but longer context complicating narratives suggests trusting video less not more requiring time for research and reflection in [[Visual Literacy\|Visual Literacy]].
-- [[Both Sides Fallacy\|Both Sides Fallacy]] — "Both sides" framing failing for complex incidents requiring examination of multiple perspectives power dynamics and systemic context beyond binary opposition in [[03 CREATE/31 Notes/Critical Thinking\|Critical Thinking]].
+- [[Both Sides Fallacy\|Both Sides Fallacy]] — "Both sides" framing failing for complex incidents requiring examination of multiple perspectives power dynamics and systemic context beyond binary opposition in [[01 CONSUME/10 Inbox/Critical Thinking\|Critical Thinking]].
 - [[Poisoned Discourse\|Poisoned Discourse]] — Digital spaces creating nihilistic environment assuming inauthenticity universally making genuine dialogue nearly impossible through presumed bad faith in [[Public Sphere\|Public Sphere]].
 
 ---
