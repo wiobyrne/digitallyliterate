@@ -26,5 +26,13 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
+    - name: Check .eleventyignore hasn't been reset by a template sync
+      run: |
+        for f in "src/site/search-index.njk" "src/site/sitemap.njk"; do
+          if ! grep -qF "$f" .eleventyignore; then
+            echo "::error::.eleventyignore is missing '$f'. The Digital Garden plugin's template-update PRs periodically reset this file, which un-ignores the stock Nunjucks template and collides with our custom search-index.11ty.js / sitemap.11ty.js on the same output path. Re-add the missing line(s) to .eleventyignore before merging."
+            exit 1
+          fi
+        done
     - run: npm install
     - run: npm run build --if-present

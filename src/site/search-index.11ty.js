@@ -12,6 +12,7 @@ module.exports = class SearchIndex {
     var results = [];
     for (var i = 0; i < notes.length; i++) {
       var post = notes[i];
+      if (post.data.hide) continue;
       var title = post.data.title || post.fileSlug || "";
       var date = post.date ? post.date.toString() : "";
       var url = post.url || "";

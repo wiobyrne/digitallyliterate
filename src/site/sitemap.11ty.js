@@ -13,6 +13,7 @@ module.exports = class Sitemap {
     lines.push('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">');
     for (var i = 0; i < data.collections.all.length; i++) {
       var page = data.collections.all[i];
+      if (page.data.hide) continue;
       var date = page.date ? page.date.toISOString() : "";
       lines.push("  <url>");
       lines.push("    <loc>" + baseUrl + page.url + "</loc>");
