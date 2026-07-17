@@ -53,11 +53,3 @@
 {%- endfor -%}
 
 {% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#123' %}
-
-{% if meta.styleSettingsCss %}
-    <style>
-        {{ meta.styleSettingsCss | safe }}
-    </style>
-{% endif %}
-<style>
-</style>

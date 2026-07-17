@@ -91,6 +91,16 @@ module.exports = async (data) => {
     theme: process.env.THEME,
     themeStyle,
     bodyClasses: bodyClasses.join(" "),
+    noteIconBodyClasses: bodyClasses
+      .filter((className) =>
+        [
+          "title-note-icon",
+          "filetree-note-icon",
+          "links-note-icon",
+          "backlinks-note-icon",
+        ].includes(className),
+      )
+      .join(" "),
     noteIconsSettings,
     timestampSettings,
     baseTheme: process.env.BASE_THEME || "dark",
