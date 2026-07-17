@@ -1,0 +1,9 @@
+{
+  "date": "2026-07-17",
+  "framework": "Eleventy 3 with Nunjucks and Sass",
+  "font_stack": ["Source Serif 4", "Inter", "JetBrains Mono"],
+  "palette_source": "src/site/styles/custom-style.scss",
+  "motion": "motion-cut; no animation library",
+  "spacing": "existing ad hoc rem scale; migrating representative slice to Hallmark 4pt tokens",
+  "scope": ["homepage layout", "note layout"]
+}

@@ -1172,6 +1172,411 @@ kbd {
   border: 1px solid var(--border);
 }
 
+/* Hallmark · genre: editorial · macrostructure: Ecosystem Index + Long Document
+ * theme: Garden · enrichment: halftone divider marks · nav: N9 · footer: Ft6
+ * audience: readers exploring digital literacy and a working public notebook
+ * use: read, browse by maturity, and follow connections · tone: editorial / handcrafted
+ */
+
+/* Garden token bridge. Existing plugin-facing names remain intact. */
+:root,
+.theme-light {
+  --font-serif: var(--font-body);
+  --font-sans: var(--font-ui);
+  --bg-page: var(--color-paper);
+  --bg-subtle: var(--color-paper-2);
+  --text-main: var(--color-ink);
+  --text-muted: var(--color-ink-2);
+  --text-soft: var(--color-muted);
+  --border: var(--color-rule);
+  --link: var(--color-accent);
+  --site-accent: var(--color-accent);
+  --green-hover: var(--color-accent-hover);
+  --glass-surface: var(--color-paper);
+  --width-prose: var(--width-reading);
+  --width-home: var(--width-index);
+  --transition: var(--dur-short) var(--ease-out);
+  --background-primary: var(--color-paper);
+  --background-secondary: var(--color-paper-2);
+  --text-normal: var(--color-ink);
+  --text-accent: var(--color-accent);
+}
+
+.theme-dark {
+  --bg-page: var(--color-paper);
+  --bg-subtle: var(--color-paper-2);
+  --text-main: var(--color-ink);
+  --text-muted: var(--color-ink-2);
+  --text-soft: var(--color-muted);
+  --border: var(--color-rule);
+  --link: var(--color-accent);
+  --site-accent: var(--color-accent);
+  --green-hover: var(--color-accent-hover);
+  --glass-surface: var(--color-paper);
+  --background-primary: var(--color-paper);
+  --background-secondary: var(--color-paper-2);
+  --text-normal: var(--color-ink);
+  --text-accent: var(--color-accent);
+}
+
+html,
+body {
+  overflow-x: clip;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: 1.68;
+}
+
+body.hallmark-home,
+body.hallmark-note {
+  width: 100% !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 3px;
+}
+
+button:disabled,
+input:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+::selection {
+  background: var(--color-selection);
+  color: var(--color-ink);
+}
+
+/* N9: the wordmark and search action hold the edges; the space between is deliberate. */
+.hallmark-home .navbar,
+.hallmark-note .navbar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  position: absolute;
+  background: var(--color-paper);
+  padding-inline: var(--page-gutter);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border-bottom: var(--rule-hairline) solid var(--color-rule);
+}
+
+.hallmark-home .navbar-inner,
+.hallmark-note .navbar-inner {
+  width: auto;
+  max-width: none;
+  margin: 0;
+  min-height: 4.5rem;
+  justify-content: flex-start;
+}
+
+.hallmark-home .site-wordmark,
+.hallmark-note .site-wordmark,
+.hallmark-home .navbar h1,
+.hallmark-note .navbar h1 {
+  height: auto;
+  margin: 0 !important;
+  padding: 0;
+  border: 0;
+  color: var(--color-ink);
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  text-transform: none;
+  white-space: nowrap;
+}
+
+.hallmark-home .search-button,
+.hallmark-note .search-button,
+.hallmark-home .theme-toggle,
+.hallmark-note .theme-toggle {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-color: var(--color-rule);
+  border-radius: var(--radius-input);
+  color: var(--color-ink-2);
+  transition: transform var(--dur-micro) var(--ease-out), color var(--dur-short) var(--ease-out);
+}
+
+.hallmark-home .search-button:active,
+.hallmark-note .search-button:active,
+.hallmark-home .theme-toggle:active,
+.hallmark-note .theme-toggle:active {
+  transform: translateY(1px);
+}
+
+/* Representative reading slice: Long Document. */
+.hallmark-note .content {
+  box-sizing: border-box;
+  width: min(100%, var(--width-reading)) !important;
+  min-width: 0 !important;
+  max-width: var(--width-reading);
+  margin-inline: auto !important;
+  padding: var(--space-4xl) var(--page-gutter) var(--space-3xl);
+  overflow-wrap: anywhere;
+}
+
+.hallmark-note .content > header {
+  margin-bottom: var(--space-2xl);
+}
+
+.hallmark-note .content h1 {
+  min-width: 0;
+  margin-bottom: var(--space-lg);
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  font-size: clamp(2.25rem, 7vw, 3.8rem);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.035em;
+  overflow-wrap: anywhere;
+}
+
+.hallmark-note .content h2 {
+  margin-top: var(--space-3xl);
+  margin-bottom: var(--space-md);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  text-transform: none;
+}
+
+.hallmark-note .content h3 {
+  margin-top: var(--space-2xl);
+  font-family: var(--font-ui);
+  font-size: var(--text-base);
+  font-weight: 700;
+}
+
+.hallmark-note .content > p:first-of-type {
+  color: var(--color-ink-2);
+  font-size: var(--text-md);
+  line-height: 1.62;
+}
+
+.hallmark-note .timestamps,
+.hallmark-note .header-tags {
+  margin-bottom: var(--space-lg);
+}
+
+.hallmark-note .timestamps,
+.hallmark-note .tag,
+.hallmark-note .growth-badge {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+.hallmark-note blockquote {
+  margin-block: var(--space-2xl);
+  padding: var(--space-xs) 0 var(--space-xs) var(--space-lg);
+  border-inline-start: var(--rule-strong) solid var(--color-clay);
+  color: var(--color-ink-2);
+}
+
+/* Representative homepage slice: Ecosystem Index without card-grid sameness. */
+.hallmark-home .content {
+  box-sizing: border-box;
+  width: min(100%, var(--width-index)) !important;
+  min-width: 0 !important;
+  max-width: var(--width-index);
+  margin-inline: auto !important;
+  padding: var(--space-4xl) var(--page-gutter) var(--space-3xl);
+  overflow-wrap: anywhere;
+}
+
+.hallmark-home .content > *,
+.hallmark-note .content > * {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.hallmark-home .content > header h1,
+.hallmark-home .content > h1:first-of-type {
+  min-width: 0;
+  max-width: 12ch;
+  margin: 0 0 var(--space-xl);
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  font-size: var(--text-display);
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -0.045em;
+  text-transform: none;
+  overflow-wrap: anywhere;
+}
+
+.hallmark-home .content > p,
+.hallmark-home .content > ul {
+  max-width: 38rem;
+}
+
+.hallmark-home .content > p:first-of-type {
+  color: var(--color-ink);
+  font-size: clamp(1.3rem, 3vw, 1.75rem);
+  line-height: 1.4;
+}
+
+.hallmark-home .content h2 {
+  margin: var(--space-3xl) 0 var(--space-lg);
+  color: var(--color-ink);
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hallmark-home .content h2::after,
+.hallmark-note .content > header::after {
+  content: "";
+  display: block;
+  width: 4.5rem;
+  height: var(--space-xs);
+  margin-top: var(--space-sm);
+  background-image: radial-gradient(circle, var(--color-clay) 1px, transparent 1.4px);
+  background-size: var(--space-xs) var(--space-xs);
+}
+
+.hallmark-home .content > ul {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0;
+  padding: 0;
+  list-style: none;
+  border-top: var(--rule-hairline) solid var(--color-rule);
+}
+
+.hallmark-home .content > ul > li {
+  margin: 0;
+  padding: var(--space-lg) 0;
+  border-bottom: var(--rule-hairline) solid var(--color-rule);
+}
+
+.hallmark-home .content img {
+  width: clamp(5.5rem, 18vw, 9rem);
+  aspect-ratio: 1;
+  object-fit: cover;
+  filter: saturate(0.72) contrast(1.08);
+  border: var(--rule-hairline) solid var(--color-rule);
+  border-radius: var(--radius-card);
+}
+
+.hallmark-home .recent-list {
+  max-width: 100%;
+  border-top: var(--rule-hairline) solid var(--color-rule);
+}
+
+.hallmark-home .recent-list li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: var(--space-md);
+  padding: var(--space-md) 0;
+}
+
+.hallmark-home a,
+.hallmark-note a {
+  color: var(--color-accent);
+  text-decoration-color: var(--color-rule);
+}
+
+.hallmark-home a:hover,
+.hallmark-note a:hover {
+  color: var(--color-accent-hover);
+  text-decoration-color: currentColor;
+}
+
+.hallmark-home .tag,
+.hallmark-note .tag,
+.hallmark-home .growth-badge,
+.hallmark-note .growth-badge {
+  border-radius: var(--radius-pill);
+  background: var(--color-paper-2);
+  border-color: var(--color-rule);
+}
+
+/* Ft6 adaptation: existing truthful footer copy, set as a quiet letter close. */
+.hallmark-home .site-footer,
+.hallmark-note .site-footer {
+  max-width: var(--width-reading);
+  margin-top: var(--space-2xl);
+  padding: var(--space-2xl) var(--page-gutter) var(--space-3xl);
+  border-top: var(--rule-hairline) solid var(--color-rule);
+}
+
+.hallmark-home .site-footer-inner,
+.hallmark-note .site-footer-inner {
+  display: block;
+  max-width: 60ch;
+}
+
+.hallmark-home .footer-left,
+.hallmark-note .footer-left {
+  margin-bottom: var(--space-sm);
+}
+
+.hallmark-home .footer-site-name,
+.hallmark-note .footer-site-name {
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-style: italic;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+@media (min-width: 40rem) {
+  .hallmark-home .content > ul {
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  }
+
+  .hallmark-home .content > ul > li:nth-child(odd) {
+    padding-inline-end: var(--space-xl);
+  }
+
+  .hallmark-home .content > ul > li:nth-child(even) {
+    padding-inline-start: var(--space-xl);
+    border-inline-start: var(--rule-hairline) solid var(--color-rule);
+  }
+}
+
+@media (pointer: coarse) {
+  .hallmark-home a,
+  .hallmark-note a,
+  .hallmark-home button,
+  .hallmark-note button {
+    min-height: 2.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hallmark-home *,
+  .hallmark-home *::before,
+  .hallmark-home *::after,
+  .hallmark-note *,
+  .hallmark-note *::before,
+  .hallmark-note *::after {
+    animation-duration: 150ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 150ms !important;
+  }
+}
+
 /* ── Breadcrumbs ────────────────────────────── */
 .note-breadcrumb {
   font-family: var(--font-sans);

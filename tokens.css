@@ -1,0 +1,82 @@
+/* Hallmark · pre-emit critique: P5 H4 E4 S5 R5 V4
+ * genre: editorial · macrostructures: Ecosystem Index + Long Document
+ * theme: Garden · tone: editorial · anchor hue: leaf-green
+ * enrichment: CSS halftone divider marks only · nav: N9 · footer: Ft6
+ * contrast: pass (46–50) · slop: pass (51–55)
+ * honest: pass (56) · chrome: pass (57) · tokens: pass (58)
+ * responsive: pass (59) · icons: pass (60) · mobile: pass (36, 59, 61–69)
+ */
+:root {
+  --color-paper: oklch(95.5% 0.022 92);
+  --color-paper-2: oklch(92% 0.028 92);
+  --color-paper-3: oklch(88% 0.032 92);
+  --color-ink: oklch(24% 0.052 152);
+  --color-ink-2: oklch(36% 0.038 152);
+  --color-muted: oklch(46% 0.026 152);
+  --color-rule: oklch(76% 0.028 112);
+  --color-accent: oklch(47% 0.13 140);
+  --color-accent-hover: oklch(39% 0.12 140);
+  --color-accent-ink: oklch(98% 0.012 92);
+  --color-clay: oklch(54% 0.14 46);
+  --color-focus: oklch(60% 0.15 140);
+  --color-selection: oklch(84% 0.06 140);
+
+  --font-display: "Source Serif 4", Georgia, serif;
+  --font-body: "Source Serif 4", Georgia, serif;
+  --font-ui: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 9rem;
+
+  --text-xs: 0.72rem;
+  --text-sm: 0.875rem;
+  --text-base: 1.125rem;
+  --text-md: 1.25rem;
+  --text-lg: 1.5625rem;
+  --text-xl: 1.953rem;
+  --text-2xl: 2.441rem;
+  --text-3xl: 3.052rem;
+  --text-display: clamp(2.6rem, 7vw, 4.8rem);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 140ms;
+  --dur-short: 260ms;
+  --dur-long: 480ms;
+
+  --rule-hairline: 1px;
+  --rule-strong: 2px;
+  --radius-card: 0;
+  --radius-pill: 0;
+  --radius-input: 0;
+
+  --width-reading: 41.25rem;
+  --width-index: 58rem;
+  --page-gutter: clamp(1rem, 4vw, 2.5rem);
+}
+
+.theme-dark {
+  --color-paper: oklch(16% 0.028 152);
+  --color-paper-2: oklch(20% 0.032 152);
+  --color-paper-3: oklch(24% 0.034 152);
+  --color-ink: oklch(93% 0.024 92);
+  --color-ink-2: oklch(82% 0.022 92);
+  --color-muted: oklch(72% 0.02 112);
+  --color-rule: oklch(36% 0.036 152);
+  --color-accent: oklch(65% 0.11 140);
+  --color-accent-hover: oklch(74% 0.1 140);
+  --color-accent-ink: oklch(14% 0.03 152);
+  --color-clay: oklch(68% 0.11 46);
+  --color-focus: oklch(72% 0.12 140);
+  --color-selection: oklch(40% 0.07 140);
+}
