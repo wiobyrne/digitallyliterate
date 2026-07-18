@@ -1,24 +1,25 @@
 ---
 layout: layouts/page.njk
-title: Plant Notes
-permalink: /plants/
+title: Sprout Notes
+permalink: /sprouts/
 eleventyExcludeFromCollections: true
 ---
 <header>
-  <h1>Plant Notes</h1>
-  <p class="landing-subtitle">Ideas taking root — developing connections and patterns.</p>
+  <h1>Sprout Notes</h1>
+  <p class="landing-subtitle">Developing ideas shared deliberately while they take shape.</p>
 </header>
 
-<p><strong>Plants</strong> have grown past the initial seed stage. These are concepts I'm actively researching and developing, building structure and evidence as they move toward becoming evergreen. They're not finished, but they're taking shape.</p>
+<p><strong>Sprouts</strong> are developing notes. They stay private by default;
+only notes deliberately selected for public reading appear here.</p>
 
-<p class="book-count">{{ collections.plants | length }} plant notes</p>
+<p class="book-count">{{ collections.sprouts | length }} sprout notes</p>
 
 <div class="book-filters">
   <input type="text" id="landing-filter" placeholder="Filter by title..." class="book-filter-input" autocomplete="off">
 </div>
 
 <div class="landing-list" id="landing-list">
-  {%- for note in collections.plants -%}
+  {%- for note in collections.sprouts -%}
     <div class="landing-item" data-title="{{ note.data.title | lower }}">
       <a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a>
     </div>
