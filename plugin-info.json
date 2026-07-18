@@ -23,7 +23,6 @@
         "src/site/img/tree-3.svg",
         "src/helpers/userUtils.js",
         "src/helpers/userSetup.js",
-        "vercel.json",
         "netlify.toml"
     ],
     "filesToModify": [
