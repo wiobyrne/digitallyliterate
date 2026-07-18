@@ -2,6 +2,38 @@ function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
   // Feel free to add any plugin you want here instead of /.eleventy.js
 }
+
+const GARDEN_STATUSES = new Set(["seed", "sprout", "evergreen"]);
+
+function noteProperties(item) {
+  return item.data["dg-note-properties"] || {};
+}
+
+function noteStatus(item) {
+  var value = item.data.status || noteProperties(item).status || "";
+  var normalized = String(value).trim().toLowerCase();
+  return GARDEN_STATUSES.has(normalized) ? normalized : "";
+}
+
+function noteCategories(item) {
+  var value = item.data.categories || noteProperties(item).categories || [];
+  if (!Array.isArray(value)) value = [value];
+  return value
+    .map(function (category) { return String(category).trim(); })
+    .filter(Boolean);
+}
+
+function hasCategory(item, category) {
+  var expected = category.toLowerCase();
+  return noteCategories(item).some(function (value) {
+    return value.toLowerCase() === expected;
+  });
+}
+
+function byTitle(a, b) {
+  return (a.data.title || "").localeCompare(b.data.title || "");
+}
+
 function userEleventySetup(eleventyConfig) {
   // Reading time filter — strips HTML, counts words, returns "X min read"
   eleventyConfig.addFilter("readingTime", function (content) {
@@ -32,40 +64,35 @@ function userEleventySetup(eleventyConfig) {
     }).slice(0, 100);
   });
 
-  // Evergreens: all notes in the Evergreens folder, alphabetical
+  // Canonical garden collections are driven only by frontmatter. Folders have
+  // no classification meaning. Page-type categories take precedence over
+  // maturity so newsletters and Groves remain in their own reader pathways.
   eleventyConfig.addCollection("evergreens", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      if (!item.inputPath) return false;
-      return item.inputPath.indexOf("Evergreens/") !== -1 &&
-             item.inputPath.indexOf("Evergreens.md") === -1;
-    }).sort(function (a, b) {
-      return (a.data.title || "").localeCompare(b.data.title || "");
-    });
+      return noteStatus(item) === "evergreen" &&
+             !hasCategory(item, "Grove") &&
+             !hasCategory(item, "Newsletter");
+    }).sort(byTitle);
   });
 
-  // Plants: all notes in the Plants folder, alphabetical
-  eleventyConfig.addCollection("plants", function (collectionApi) {
+  // Sprouts are available as an explicit route but are never published by
+  // default. Only deliberately published notes can reach this collection.
+  eleventyConfig.addCollection("sprouts", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      if (!item.inputPath) return false;
-      return item.inputPath.indexOf("Plants/") !== -1 &&
-             item.inputPath.indexOf("Plants.md") === -1;
-    }).sort(function (a, b) {
-      return (a.data.title || "").localeCompare(b.data.title || "");
-    });
+      return noteStatus(item) === "sprout" &&
+             !hasCategory(item, "Grove") &&
+             !hasCategory(item, "Newsletter");
+    }).sort(byTitle);
   });
 
-  // Groves: all notes in the Groves folder, alphabetical
+  // Grove is a page type, not a maturity stage.
   eleventyConfig.addCollection("groves", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      if (!item.inputPath) return false;
-      return item.inputPath.indexOf("Groves/") !== -1 &&
-             item.inputPath.indexOf("Groves.md") === -1;
-    }).sort(function (a, b) {
-      return (a.data.title || "").localeCompare(b.data.title || "");
-    });
+      return hasCategory(item, "Grove");
+    }).sort(byTitle);
   });
 
-  // Newsletter: all issues in the Newsletter folder, newest first by issue number
+  // Newsletter is a page type, sorted newest first by issue number.
   eleventyConfig.addCollection("newsletter", function (collectionApi) {
     function issueNumber(item) {
       var slug = item.fileSlug || "";
@@ -73,9 +100,7 @@ function userEleventySetup(eleventyConfig) {
       return m ? parseInt(m[1], 10) : 0;
     }
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      if (!item.inputPath) return false;
-      return item.inputPath.indexOf("Newsletter/") !== -1 &&
-             item.inputPath.indexOf("Newsletter.md") === -1;
+      return hasCategory(item, "Newsletter");
     }).sort(function (a, b) {
       return issueNumber(b) - issueNumber(a);
     });
@@ -106,17 +131,9 @@ function userEleventySetup(eleventyConfig) {
     return str.replace(/\[\[([^\]]+)\]\]/g, "$1");
   });
 
-  // Growth stage filter — derives stage from permalink path
-  eleventyConfig.addFilter("growthStage", function (permalink) {
-    if (!permalink) return "";
-    var p = permalink.toLowerCase();
-    if (p.indexOf("/seeds/") !== -1) return "seed";
-    if (p.indexOf("/plants/") !== -1) return "plant";
-    if (p.indexOf("/evergreens/") !== -1) return "evergreen";
-    if (p.indexOf("/groves/") !== -1) return "grove";
-    if (p.indexOf("/forests/") !== -1) return "forest";
-    return "";
-  });
 }
 exports.userMarkdownSetup = userMarkdownSetup;
 exports.userEleventySetup = userEleventySetup;
+exports.noteStatus = noteStatus;
+exports.noteCategories = noteCategories;
+exports.hasCategory = hasCategory;
