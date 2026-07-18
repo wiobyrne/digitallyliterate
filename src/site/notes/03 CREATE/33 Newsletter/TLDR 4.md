@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-4","permalink":"/tldr-4/","title":"Too Long; Didn't Read Issue 4","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 4","created":"2015-07-17","last_updated":"2025-12-13","status":"🌲_evergreen","categories":"Newsletter","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 3\|TLDR 3]]","[[03 CREATE/33 Newsletter/TLDR 5\|TLDR 5]]","[[01 CONSUME/10 Inbox/Media Literacy\|Media Literacy]]","[[Privacy Rights\|Privacy Rights]]","[[Pedagogy\|Pedagogy]]"],"shelf":"archived","description":"Web literacy experts discuss Mozilla's framework while sharenting raises children's privacy concerns, and the next five billion internet users will transform the web into something vastly different."}}
+{"dg-publish":true,"dg-permalink":"tldr-4","permalink":"/tldr-4/","title":"Too Long; Didn't Read Issue 4","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 4","created":"2015-07-17","last_updated":"2025-12-13","status":"evergreen","categories":"Newsletter","tags":["web-literacy-map-interviews","sharenting-children-privacy","agile-methodology-education","next-billion-users-internet","digital-wisdom-prensky"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[03 CREATE/33 Newsletter/TLDR 3\|TLDR 3]]","[[03 CREATE/33 Newsletter/TLDR 5\|TLDR 5]]","[[02 CURATE/Media Literacy\|Media Literacy]]","[[Privacy Rights\|Privacy Rights]]","[[Pedagogy\|Pedagogy]]"],"shelf":"archived","description":"Web literacy experts discuss Mozilla's framework while sharenting raises children's privacy concerns, and the next five billion internet users will transform the web into something vastly different."}}
 ---
 
 # TLDR  4
@@ -101,7 +101,7 @@ Prensky's framing moves us beyond the tired "digital native" debate toward somet
 
 **🌱 Connected Concepts**:
 
-- **[[01 CONSUME/10 Inbox/Media Literacy\|Media Literacy]]** — Web literacy map, digital wisdom, TED Ed curation
+- **[[02 CURATE/Media Literacy\|Media Literacy]]** — Web literacy map, digital wisdom, TED Ed curation
 - **[[Privacy Rights\|Privacy Rights]]** — Sharenting, children's digital footprints, consent
 - **[[Pedagogy\|Pedagogy]]** — Agile methodology in education, digital badges, multimodal tutorials
 - **[[Digital Wellbeing\|Digital Wellbeing]]** — Text-to-speech accessibility, readability tools
