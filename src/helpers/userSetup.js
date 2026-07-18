@@ -83,6 +83,18 @@ function userEleventySetup(eleventyConfig) {
 
   // Recently updated: 10 most recent by update date
   eleventyConfig.addCollection("recentlyUpdated", function (collectionApi) {
+    function updateDate(item) {
+      var noteProperties = item.data["dg-note-properties"] || {};
+      var value = item.data.updated ||
+                  item.data.last_updated ||
+                  noteProperties.last_updated ||
+                  noteProperties.created ||
+                  item.date ||
+                  0;
+      var parsed = value instanceof Date ? value : new Date(value);
+      return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+    }
+
     return collectionApi.getFilteredByTag("note").filter(function (item) {
       if (!item.data.title || !item.data.tags || item.data.tags.indexOf("gardenEntry") !== -1) {
         return false;
@@ -92,11 +104,7 @@ function userEleventySetup(eleventyConfig) {
              item.inputPath.indexOf("/03 CREATE/🔨 Projects/Archive/") === -1 &&
              item.inputPath.indexOf("/04 META/") === -1;
     }).sort(function (a, b) {
-      var aDate = a.data.updated || a.data.last_updated || a.date || 0;
-      var bDate = b.data.updated || b.data.last_updated || b.date || 0;
-      if (typeof aDate === "string") aDate = new Date(aDate);
-      if (typeof bDate === "string") bDate = new Date(bDate);
-      return bDate - aDate;
+      return updateDate(b) - updateDate(a);
     }).slice(0, 10);
   });
 
