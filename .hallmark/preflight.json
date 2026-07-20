@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "project": "digitallyliterate",
+  "scope": ["homepage", "current newsletter note"],
+  "genre": "editorial",
+  "macrostructures": ["Index-First", "Long Document"],
+  "theme": "Garden",
+  "nav": "N6",
+  "footer": "Ft1",
+  "radiusDecision": "zero",
+  "textureDecision": "edge and interaction states only",
+  "darkModeDecision": "light default with persistent deliberate dark mode",
+  "designMd": "deferred until visual review"
+}

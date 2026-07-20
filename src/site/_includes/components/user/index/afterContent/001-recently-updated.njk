@@ -1,9 +1,12 @@
-<hr>
-<h2>Recently in the garden</h2>
-<ul class="recent-list">
+<section class="garden-index" aria-labelledby="recently-in-the-garden">
+<p class="garden-index__eyebrow">Browse the notebook</p>
+<h2 id="recently-in-the-garden">Recently in the garden</h2>
+<ol class="recent-list">
 {%- for note in collections.recentlyUpdated -%}
   <li>
+    <span class="recent-list__number">{% if loop.index < 10 %}0{% endif %}{{ loop.index }}</span>
     <a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a>
   </li>
 {%- endfor -%}
-</ul>
+</ol>
+</section>

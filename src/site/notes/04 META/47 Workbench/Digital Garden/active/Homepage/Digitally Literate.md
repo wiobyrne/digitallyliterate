@@ -1,46 +1,44 @@
 ---
-{"dg-publish":true,"permalink":"/04-meta/47-workbench/digital-garden/active/homepage/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"dg-note-properties":{"title":"Digitally Literate","categories":"meta","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"created":"2024-11-16","last_updated":"2026-05-23","description":"Public garden homepage for Digitally Literate."}}
+{"dg-publish":true,"permalink":"/04-meta/47-workbench/digital-garden/active/homepage/digitally-literate/","title":"Digitally Literate","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"dg-note-properties":{"title":"Digitally Literate","categories":"meta","tags":["digital-garden","pkm","education","digital-literacy","creativity","gardenEntry"],"created":"2024-11-16","last_updated":"2026-07-18","description":"Public garden homepage for Digitally Literate."}}
 ---
 
 
-# Digitally Literate
-
 ![headshot.png](/img/user/04%20META/48%20Assets/headshot.png)
 
-# **Hi, I’m Ian.**
+# *Hi, I’m Ian.*
 
 I think about how we read, write, and learn in digital spaces.
 
 Digitally Literate is my public garden: a working notebook for ideas that are
 still growing, still connecting, and still changing.
 
-If you want polished essays and formal projects, go to **wiobyrne.com**.
-If you want the weekly newsletter, go to **Substack**.
-If you want the messy middle, the experiments, and the half-formed thoughts,
-you’re in the right place.
+This is the messy middle: experiments, connections, and ideas taking shape in
+public. For polished essays and formal projects, visit
+[wiobyrne.com](https://wiobyrne.com). For the weekly letter, browse the
+[newsletter](/newsletter/).
 
 ---
 
-## 🌿 What this is
+## What grows here
 
 This site is a digital garden.
 
 Notes grow here over time. Nothing is finished. Everything is evolving.
 
-Ideas move through stages of maturity:
+Notes use three maturity stages. Page types such as newsletters and groves are
+separate from maturity:
 
 - 🌱 **Seeds** — quick notes, questions, fragments
-- 🌿 **Plants** — developing connections and patterns
+- 🌿 **Sprouts** — developing connections and patterns
 - 🌲 **Evergreens** — durable insights, polished and ready to share
 - 🪴 **Groves** — curated clusters of related notes on a theme
-- 🌳 **Forests** — big-picture syntheses across multiple groves
 
-Start with the [Groves](/groves), or wander from note to note and see what
-connects.
+The public garden is intentionally selective. Start with the
+[newsletter](/newsletter/), or wander through the recently updated notes below.
 
 ---
 
-## 🧭 What I’m exploring
+## What I’m exploring
 
 Right now I’m thinking about:
 
@@ -53,7 +51,7 @@ Most posts touch one or more of these threads.
 
 ---
 
-## ✳️ Connect
+## Connect
 
 - 💬 **Say hello:** [hello@digitallyliterate.net](mailto:hello@digitallyliterate.net)
 - 🌍 **Professional site:** [wiobyrne.com](https://wiobyrne.com)

@@ -1,0 +1,39 @@
+/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: edge-texture · nav: N6 · footer: Ft1 */
+:root {
+  color-scheme: light dark;
+
+  --garden-paper: oklch(95.5% 0.022 92);
+  --garden-paper-raised: oklch(98% 0.012 92);
+  --garden-paper-muted: oklch(91.5% 0.025 92);
+  --garden-ink: oklch(24% 0.052 152);
+  --garden-ink-muted: oklch(43% 0.035 152);
+  --garden-leaf: oklch(47% 0.13 140);
+  --garden-leaf-hover: oklch(39% 0.12 140);
+  --garden-clay: oklch(54% 0.14 46);
+  --garden-rule: oklch(24% 0.052 152 / 18%);
+  --garden-focus: oklch(47% 0.13 140 / 30%);
+
+  --garden-font-read: "Source Serif 4", Georgia, serif;
+  --garden-font-ui: "Inter", system-ui, sans-serif;
+  --garden-font-meta: "JetBrains Mono", monospace;
+
+  --garden-prose: 660px;
+  --garden-shell: 720px;
+  --garden-gutter: clamp(1rem, 4vw, 1.5rem);
+  --garden-rule-width: 1px;
+  --garden-radius: 0px;
+  --garden-ease: 160ms ease;
+}
+
+html.theme-dark {
+  --garden-paper: oklch(18% 0.028 152);
+  --garden-paper-raised: oklch(21.5% 0.034 152);
+  --garden-paper-muted: oklch(24% 0.035 152);
+  --garden-ink: oklch(91% 0.025 105);
+  --garden-ink-muted: oklch(72% 0.026 118);
+  --garden-leaf: oklch(70% 0.13 140);
+  --garden-leaf-hover: oklch(78% 0.12 140);
+  --garden-clay: oklch(68% 0.13 46);
+  --garden-rule: oklch(91% 0.025 105 / 18%);
+  --garden-focus: oklch(70% 0.13 140 / 34%);
+}
