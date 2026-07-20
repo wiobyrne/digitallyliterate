@@ -1,12 +1,40 @@
 <footer class="site-footer">
     <div class="site-footer-inner">
-        <a href="/" class="footer-site-name">{{meta.siteName}}</a>
-        <p class="footer-tagline">Reading, writing, and learning in digital spaces.</p>
-        <p class="footer-links">
-          <a href="/newsletter/">Newsletter</a>
-          <a href="mailto:hello@digitallyliterate.net">Email</a>
-          <a href="https://wiobyrne.com" target="_blank" rel="noopener">wiobyrne.com</a>
-        </p>
-        <p class="footer-copyright">&copy; <script>document.write(new Date().getFullYear())</script> Ian O'Byrne</p>
+        <div class="footer-masthead">
+          <a href="/" class="footer-site-name"><span aria-hidden="true">/</span> {{ meta.siteName }}</a>
+          <p class="footer-edition">Public garden <span aria-hidden="true">·</span> Open notebook</p>
+        </div>
+
+        <div class="footer-columns">
+          <section class="footer-column footer-growing" aria-labelledby="footer-growing-title">
+            <p class="footer-label" id="footer-growing-title">Currently growing</p>
+            <div class="footer-growth-marks" aria-label="Note maturity moves from seed to sprout to evergreen">
+              <span><span class="flora-mark flora-mark--seed" aria-hidden="true"></span>Seed</span>
+              <span><span class="flora-mark flora-mark--sprout" aria-hidden="true"></span>Sprout</span>
+              <span><span class="flora-mark flora-mark--evergreen" aria-hidden="true"></span>Evergreen</span>
+            </div>
+            <p class="footer-note">Notes remain visible while they take root, connect, and mature.</p>
+          </section>
+
+          <nav class="footer-column" aria-labelledby="footer-read-title">
+            <p class="footer-label" id="footer-read-title">Read or wander</p>
+            <ul class="footer-link-list">
+              <li><a href="/newsletter/">Newsletter <span aria-hidden="true">→</span></a></li>
+              <li><a href="/~random/">Random note <span aria-hidden="true">↗</span></a></li>
+              <li><a href="/feed.xml">Atom feed <span aria-hidden="true">↗</span></a></li>
+            </ul>
+          </nav>
+
+          <nav class="footer-column" aria-labelledby="footer-elsewhere-title">
+            <p class="footer-label" id="footer-elsewhere-title">Elsewhere</p>
+            <ul class="footer-link-list">
+              <li><a href="https://wiobyrne.com" target="_blank" rel="noopener">wiobyrne.com <span aria-hidden="true">↗</span></a></li>
+              <li><a href="mailto:hello@digitallyliterate.net">Email Ian <span aria-hidden="true">→</span></a></li>
+              <li><a href="#">Back to top <span aria-hidden="true">↑</span></a></li>
+            </ul>
+          </nav>
+        </div>
+
+        <p class="footer-maker">Made by <span class="flora-mark flora-mark--seed" aria-hidden="true"></span> Ian O'Byrne <span aria-hidden="true">·</span> Grown in public with Obsidian.</p>
     </div>
 </footer>

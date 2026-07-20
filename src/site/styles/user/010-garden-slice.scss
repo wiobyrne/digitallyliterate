@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: edge-texture · nav: N9-derived Apparatus utility bar · footer: Ft1(wordmark=2xl,tagline=italic,links=inline) */
+/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: Flora micro-marks · nav: N9-derived Apparatus utility bar · footer: Ft7 colophon plate */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 · contrast: pass (46–50) · slop: pass (51–60) · mobile: pass (36, 59, 61–69) */
 
 html {
@@ -107,19 +107,42 @@ body.dl-note :focus-visible {
 }
 
 .garden-brand-mark {
-  position: relative;
-  width: 0.55rem;
-  height: 0.55rem;
+  width: 1rem;
+  height: 1rem;
   flex: 0 0 auto;
-  border: var(--garden-rule-width) solid currentColor;
-  transform: rotate(45deg);
 }
 
-.garden-brand-mark::after {
-  content: "";
-  position: absolute;
-  inset: 2px;
-  background: var(--garden-leaf);
+.flora-mark {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  flex: 0 0 auto;
+  background: currentColor;
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-size: contain;
+}
+
+.flora-mark--seed {
+  -webkit-mask-image: url("/img/flora/seed.svg");
+  mask-image: url("/img/flora/seed.svg");
+}
+
+.flora-mark--sprout {
+  -webkit-mask-image: url("/img/flora/sprout.svg");
+  mask-image: url("/img/flora/sprout.svg");
+}
+
+.flora-mark--evergreen {
+  -webkit-mask-image: url("/img/flora/evergreen.svg");
+  mask-image: url("/img/flora/evergreen.svg");
+}
+
+.garden-brand-mark {
+  color: var(--garden-leaf);
 }
 
 .garden-wordmark-short { display: none; }
@@ -394,63 +417,127 @@ body.dl-note table { border-radius: 0 !important; }
   width: 100%;
   max-width: calc(var(--garden-shell) + 3rem);
   margin: 0 auto;
-  padding: 0 var(--garden-gutter) 2rem;
+  padding: clamp(3rem, 8vw, 6.5rem) var(--garden-gutter) 2rem;
   border: 0;
   background: transparent;
   color: var(--garden-ink);
 }
 
 .site-footer-inner {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 0.45rem 2rem;
-  align-items: end;
-  padding: 1.25rem 0 0;
-  border-top: 4px double var(--garden-ink);
+  padding: 0;
   text-align: left;
+}
+
+.footer-masthead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 2rem;
+  padding-bottom: clamp(1.75rem, 4vw, 2.75rem);
+  border-bottom: var(--garden-rule-width) solid var(--garden-rule);
 }
 
 .footer-site-name {
   color: var(--garden-ink) !important;
   font-family: var(--garden-font-read);
-  font-size: clamp(1.75rem, 5vw, 2.7rem);
-  font-weight: 600;
-  letter-spacing: -0.04em;
-  line-height: 1;
+  font-size: clamp(2.25rem, 7vw, 4.8rem);
+  font-weight: 500;
+  letter-spacing: -0.055em;
+  line-height: 0.95;
   text-decoration: none !important;
 }
 
-.footer-tagline {
-  grid-row: 2;
+.footer-edition,
+.footer-label,
+.footer-maker {
   margin: 0;
-  font-family: var(--garden-font-read);
-  font-size: 0.96rem;
-  font-style: italic;
+  font-family: var(--garden-font-meta);
+  font-size: 0.65rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
 
-.footer-links {
-  grid-column: 2;
-  grid-row: 1;
+.footer-edition { color: var(--garden-ink-muted); white-space: nowrap; }
+
+.footer-columns {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) repeat(2, minmax(0, 0.8fr));
+  gap: clamp(2rem, 6vw, 5.5rem);
+  padding: clamp(2.75rem, 7vw, 5.75rem) 0;
+}
+
+.footer-column { min-width: 0; }
+
+.footer-label {
+  margin-bottom: 1.15rem;
+  color: var(--garden-ink-muted);
+}
+
+.footer-growth-marks {
   display: flex;
-  gap: 1rem;
-  margin: 0;
+  flex-wrap: wrap;
+  gap: 0.65rem 1.25rem;
+  color: var(--garden-leaf);
   font-family: var(--garden-font-ui);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
 }
 
-.footer-links a,
+.footer-growth-marks > span {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  white-space: nowrap;
+}
+
+.footer-note {
+  max-width: 30rem;
+  margin: 1.2rem 0 0;
+  color: var(--garden-ink-muted);
+  font-family: var(--garden-font-read);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.footer-link-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-link-list li { border-bottom: var(--garden-rule-width) solid var(--garden-rule); }
+
+.footer-link-list a {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.48rem 0;
+  color: var(--garden-leaf) !important;
+  font-family: var(--garden-font-ui);
+  font-size: 0.84rem;
+  text-decoration: none !important;
+  white-space: nowrap;
+}
+
+.footer-link-list a:hover { color: var(--garden-leaf-hover) !important; }
+
+.footer-link-list a span { color: var(--garden-clay); }
+
+.footer-link-list a,
 .garden-masthead__nav a,
 .garden-masthead__nav button { white-space: nowrap; }
 
-.footer-copyright {
-  grid-column: 2;
-  grid-row: 2;
+.footer-maker {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
   margin: 0;
   color: var(--garden-ink-muted);
-  font-family: var(--garden-font-meta);
-  font-size: 0.62rem;
-  text-align: right;
-  text-transform: uppercase;
+}
+
+.footer-maker .flora-mark {
+  width: 0.65rem;
+  height: 0.65rem;
+  color: var(--garden-leaf);
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -473,20 +560,22 @@ body.dl-note table { border-radius: 0 !important; }
   body.dl-note .content h1 { font-size: clamp(2.35rem, 13vw, 3.4rem); }
 
   .site-footer-inner {
-    grid-template-columns: 1fr;
-    gap: 0.75rem;
+    display: block;
   }
 
-  .footer-site-name,
-  .footer-tagline,
-  .footer-links,
-  .footer-copyright {
-    grid-column: 1;
-    grid-row: auto;
-    text-align: left;
+  .footer-masthead {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.9rem;
   }
 
-  .footer-links { flex-wrap: wrap; }
+  .footer-columns {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2.5rem;
+    padding: 2.75rem 0;
+  }
+
+  .footer-maker { flex-wrap: wrap; line-height: 1.6; }
 }
 
 @media (max-width: 22rem) {

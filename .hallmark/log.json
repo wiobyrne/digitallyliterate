@@ -2,7 +2,7 @@
   "version": 1,
   "build": "garden-redesign-rebuild",
   "baseCommit": "5cc71b7fd8311b79fd2ff433acafc3ee758595b0",
-  "timestamp": "2026-07-18",
+  "timestamp": "2026-07-20",
   "status": "validated-exploratory",
   "validation": {
     "build": "pass",
@@ -15,6 +15,8 @@
   "notes": [
     "Rebuilt from current production taxonomy.",
     "Refined the masthead into a minimal Apparatus-family utility bar and added one homepage dispatch eyebrow.",
+    "Rebuilt the global footer as an Ft7 garden colophon and replaced the invented masthead diamond with canonical Flora Cognoscendi micro-marks.",
+    "Limited maturity marks to the live Seed, Sprout, and Evergreen taxonomy; Grove and Forest remain excluded.",
     "No publication state or taxonomy changes.",
     "No design.md emitted before visual review."
   ]
