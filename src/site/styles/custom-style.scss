@@ -114,7 +114,7 @@ body {
 h1, h2, h3, h4, h5, h6,
 nav, button, label, small,
 .navbar, .nav-link, .search-button,
-.theme-toggle, .tag, .growth-badge,
+.theme-toggle, .tag,
 .toc, .toc-title, .backlink-title,
 .timestamps, .reading-time, .note-breadcrumb,
 .header-meta, .site-footer, .landing-subtitle,
@@ -395,7 +395,7 @@ img {
 .callout.is-collapsed .callout-fold .svg-icon { transform: rotate(-90deg); }
 .callout.is-collapsible .callout-title { cursor: default; }
 
-/* ── Growth Badges ──────────────────────────── */
+/* ── Header metadata ────────────────────────── */
 .header-meta-row {
   display: flex;
   align-items: center;
@@ -403,23 +403,6 @@ img {
   margin-bottom: 0.6em;
   flex-wrap: wrap;
 }
-
-.growth-badge {
-  display: inline-flex;
-  align-items: center;
-  font-family: var(--font-sans);
-  font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  padding: 0.2em 0.6em;
-  border: 1px solid;
-  line-height: 1.4;
-}
-
-.growth-badge--seed     { color: #5a9e3e; background: rgba(90, 158, 62, 0.08); border-color: rgba(90, 158, 62, 0.25); }
-.growth-badge--sprout   { color: #3db88c; background: rgba(61, 184, 140, 0.08); border-color: rgba(61, 184, 140, 0.25); }
-.growth-badge--evergreen { color: #006d48; background: rgba(0, 109, 72, 0.08); border-color: rgba(0, 109, 72, 0.25); }
-.growth-badge--grove    { color: #d4a853; background: rgba(212, 168, 83, 0.08); border-color: rgba(212, 168, 83, 0.25); }
 
 .reading-time {
   display: inline-flex;

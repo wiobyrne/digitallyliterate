@@ -9,13 +9,14 @@ eleventyExcludeFromCollections: true
   <p class="landing-subtitle">Curated clusters of related ideas — pathways through a theme.</p>
 </header>
 
-<p>A <strong>grove</strong> is a curated cluster page that gathers related notes into a coherent pathway. It is a page type, not a maturity stage. Each grove explores a theme from multiple angles, helping you see how ideas connect.</p>
+<p>A <strong>Grove</strong> is a hand-built reading path through a subject. It provides editorial framing and a deliberate sequence through selected Evergreens and newsletter issues.</p>
 
+{% if collections.groves | length %}
 <div class="grove-cards">
   {%- for note in collections.groves -%}
     <a href="{{ note.url }}" class="grove-card">
-      <span class="grove-card-icon">🪴</span>
       <span class="grove-card-title">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</span>
     </a>
   {%- endfor -%}
 </div>
+{% else %}<p>No public Groves are ready yet. They will appear here only when a complete curated path is available.</p>{% endif %}

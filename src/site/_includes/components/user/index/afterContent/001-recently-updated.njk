@@ -1,8 +1,8 @@
-<section class="garden-index" aria-labelledby="recently-in-the-garden">
-<p class="garden-index__eyebrow">Browse the notebook</p>
-<h2 id="recently-in-the-garden">Recently in the garden</h2>
+<section class="garden-index" aria-labelledby="latest-issues">
+<p class="garden-index__eyebrow">From the archive</p>
+<h2 id="latest-issues">Latest issues</h2>
 <ol class="recent-list">
-{%- for note in collections.recentlyUpdated -%}
+{%- for note in collections.latestNewsletter -%}
   <li>
     <span class="recent-list__number">{% if loop.index < 10 %}0{% endif %}{{ loop.index }}</span>
     <a href="{{ note.url }}">{% if note.data.title %}{{ note.data.title }}{% else %}{{ note.fileSlug }}{% endif %}</a>

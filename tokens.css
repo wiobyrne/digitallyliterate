@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: edge-texture · nav: N6 · footer: Ft1 */
+/* Hallmark · genre: editorial · macrostructure: Newsletter Index + Connected Notebook · theme: Garden · enrichment: Apparatus regmarks · nav: N9 utility bar · footer: Ft7 colophon plate */
 :root {
   color-scheme: light dark;
 
@@ -10,6 +10,7 @@
   --garden-leaf: oklch(47% 0.13 140);
   --garden-leaf-hover: oklch(39% 0.12 140);
   --garden-clay: oklch(54% 0.14 46);
+  --garden-coral: oklch(64% 0.19 28);
   --garden-rule: oklch(24% 0.052 152 / 18%);
   --garden-focus: oklch(47% 0.13 140 / 30%);
 
@@ -34,6 +35,7 @@ html.theme-dark {
   --garden-leaf: oklch(70% 0.13 140);
   --garden-leaf-hover: oklch(78% 0.12 140);
   --garden-clay: oklch(68% 0.13 46);
+  --garden-coral: oklch(62% 0.11 32);
   --garden-rule: oklch(91% 0.025 105 / 18%);
   --garden-focus: oklch(70% 0.13 140 / 34%);
 }
