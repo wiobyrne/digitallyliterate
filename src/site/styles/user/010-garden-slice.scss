@@ -1,5 +1,5 @@
-/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: edge-texture · nav: N6(issue=above,wordmark=2xl,rule=double) · footer: Ft1(wordmark=2xl,tagline=italic,links=inline) */
-/* Hallmark · pre-emit critique: P5 H5 E4 S5 R4 V5 · contrast: pass (46–50) · slop: pass (51–60) · mobile: pass (36, 59, 61–69) */
+/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: edge-texture · nav: N9-derived Apparatus utility bar · footer: Ft1(wordmark=2xl,tagline=italic,links=inline) */
+/* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 · contrast: pass (46–50) · slop: pass (51–60) · mobile: pass (36, 59, 61–69) */
 
 html {
   overflow-x: clip;
@@ -69,50 +69,71 @@ body.dl-note :focus-visible {
   inset: auto;
   z-index: 20;
   width: 100%;
-  max-width: calc(var(--garden-shell) + (2 * var(--garden-gutter)));
+  max-width: none;
   height: auto;
   margin: 0 auto;
-  padding: clamp(1.25rem, 3vw, 2rem) var(--garden-gutter) 0;
-  display: grid;
-  justify-items: center;
-  gap: 0.25rem;
+  padding: 0;
   background: transparent;
   border: 0;
-  text-align: center;
+  border-bottom: var(--garden-rule-width) solid var(--garden-rule);
+  text-align: left;
 }
 
-.garden-masthead__line {
-  margin: 0;
-  color: var(--garden-ink-muted);
-  font-family: var(--garden-font-meta);
-  font-size: 0.67rem;
-  font-variant: normal;
-  letter-spacing: 0.1em;
-  line-height: 1.4;
-  text-transform: uppercase;
+.garden-masthead__inner {
+  width: 100%;
+  max-width: calc(var(--garden-shell) + 3rem);
+  min-height: 4.25rem;
+  margin: 0 auto;
+  padding: 0 var(--garden-gutter);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
 }
 
 .garden-masthead__wordmark {
-  max-width: 100%;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
   color: var(--garden-ink) !important;
   font-family: var(--garden-font-read);
-  font-size: clamp(2.35rem, 8vw, 4.5rem);
-  font-weight: 600;
-  letter-spacing: -0.045em;
-  line-height: 0.95;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.005em;
+  line-height: 1;
   text-decoration: none !important;
+  white-space: nowrap;
 }
+
+.garden-brand-mark {
+  position: relative;
+  width: 0.55rem;
+  height: 0.55rem;
+  flex: 0 0 auto;
+  border: var(--garden-rule-width) solid currentColor;
+  transform: rotate(45deg);
+}
+
+.garden-brand-mark::after {
+  content: "";
+  position: absolute;
+  inset: 2px;
+  background: var(--garden-leaf);
+}
+
+.garden-wordmark-short { display: none; }
 
 .garden-masthead__nav {
   min-height: 44px;
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: clamp(0.45rem, 2vw, 1rem);
+  justify-content: flex-end;
+  gap: 0.5rem;
   font-family: var(--garden-font-ui);
-  font-size: 0.77rem;
+  font-size: 0.69rem;
   font-weight: 600;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
@@ -121,7 +142,7 @@ body.dl-note :focus-visible {
 .garden-masthead__nav .search-button {
   min-width: 44px;
   min-height: 44px;
-  padding: 0.65rem 0.35rem;
+  padding: 0.65rem 0.5rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -162,13 +183,6 @@ body.dl-note :focus-visible {
 .garden-theme-toggle { cursor: pointer; }
 .garden-theme-toggle__label { pointer-events: none; }
 
-.garden-masthead__rule {
-  width: 100%;
-  height: 5px;
-  border-top: var(--garden-rule-width) solid var(--garden-ink);
-  border-bottom: var(--garden-rule-width) solid var(--garden-ink);
-}
-
 body.dl-home .content,
 body.dl-note .content {
   width: 100%;
@@ -179,6 +193,26 @@ body.dl-note .content {
 
 body.dl-home .content {
   max-width: calc(var(--garden-shell) + 3rem);
+}
+
+.garden-home-eyebrow {
+  margin: 0 0 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  color: var(--garden-ink-muted);
+  font-family: var(--garden-font-meta);
+  font-size: 0.68rem;
+  letter-spacing: 0.16em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.garden-home-eyebrow__mark {
+  width: 0.38rem;
+  height: 0.38rem;
+  flex: 0 0 auto;
+  background: var(--garden-leaf);
 }
 
 body.dl-home .content > header > h1 {
@@ -193,11 +227,11 @@ body.dl-home .content > header > h1 {
   border: 0;
 }
 
-body.dl-home .content > p:first-of-type {
+body.dl-home .content > p:has(> img[alt="headshot.png"]) {
   margin: 0 0 clamp(1.5rem, 4vw, 2.5rem);
 }
 
-body.dl-home .content > p:first-of-type img {
+body.dl-home .content img[alt="headshot.png"] {
   width: clamp(5.5rem, 16vw, 7.5rem);
   height: clamp(5.5rem, 16vw, 7.5rem);
   object-fit: cover;
@@ -207,7 +241,7 @@ body.dl-home .content > p:first-of-type img {
   box-shadow: 7px 7px 0 color-mix(in oklch, var(--garden-clay) 24%, transparent);
 }
 
-body.dl-home .content > p:first-of-type img:hover {
+body.dl-home .content img[alt="headshot.png"]:hover {
   filter: saturate(0.85) contrast(1.1) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.8' numOctaves='1' stitchTiles='stitch'/%3E%3CfeBlend mode='multiply' in2='SourceGraphic'/%3E%3C/filter%3E%3C/svg%3E%23n");
 }
 
@@ -427,15 +461,13 @@ body.dl-note table { border-radius: 0 !important; }
 }
 
 @media (max-width: 40rem) {
-  .garden-masthead { padding-top: 1rem; }
-  .garden-masthead__wordmark {
-    font-size: clamp(2rem, 10.5vw, 2.55rem);
-    letter-spacing: -0.055em;
-  }
-  .garden-masthead__nav { width: 100%; gap: 0.25rem; }
+  .garden-masthead__inner { min-height: 3.75rem; gap: 0.5rem; }
+  .garden-masthead__wordmark { font-size: 0.96rem; gap: 0.5rem; }
+  .garden-masthead__nav { gap: 0; }
+  .garden-masthead__nav > a { display: none; }
 
   body.dl-home .content,
-  body.dl-note .content { padding-top: 2.5rem; }
+  body.dl-note .content { padding-top: 3.75rem; }
 
   body.dl-home .content > h1:first-of-type,
   body.dl-note .content h1 { font-size: clamp(2.35rem, 13vw, 3.4rem); }
@@ -455,4 +487,9 @@ body.dl-note table { border-radius: 0 !important; }
   }
 
   .footer-links { flex-wrap: wrap; }
+}
+
+@media (max-width: 22rem) {
+  .garden-wordmark-full { display: none; }
+  .garden-wordmark-short { display: inline; }
 }
