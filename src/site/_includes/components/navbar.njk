@@ -2,7 +2,7 @@
 <header class="navbar garden-masthead">
   <div class="garden-masthead__inner">
     <a class="garden-masthead__wordmark" href="/" aria-label="{{ meta.siteName }} home">
-      <span class="flora-mark flora-mark--sprout garden-brand-mark" aria-hidden="true"></span>
+      <span class="regmark regmark--crosshair garden-brand-mark" aria-hidden="true"></span>
       <span class="garden-wordmark-full">{{ meta.siteName }}</span>
       <span class="garden-wordmark-short" aria-hidden="true">DL</span>
     </a>
@@ -12,6 +12,7 @@
         {% include "components/searchButton.njk" %}
       {% endif %}
       <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
+        <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
         <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
       </button>
     </nav>

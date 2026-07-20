@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: Flora micro-marks · nav: N9-derived Apparatus utility bar · footer: Ft7 colophon plate */
+/* Hallmark · genre: editorial · macrostructure: Index-First + Long Document · theme: Garden · enrichment: Apparatus regmarks · nav: N9-derived Apparatus utility bar · footer: Ft7 colophon plate */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 · contrast: pass (46–50) · slop: pass (51–60) · mobile: pass (36, 59, 61–69) */
 
 html {
@@ -112,7 +112,7 @@ body.dl-note :focus-visible {
   flex: 0 0 auto;
 }
 
-.flora-mark {
+.regmark {
   display: inline-block;
   width: 1rem;
   height: 1rem;
@@ -126,19 +126,19 @@ body.dl-note :focus-visible {
   mask-size: contain;
 }
 
-.flora-mark--seed {
-  -webkit-mask-image: url("/img/flora/seed.svg");
-  mask-image: url("/img/flora/seed.svg");
+.regmark--crosshair {
+  -webkit-mask-image: url("/img/regmarks/crosshair.svg");
+  mask-image: url("/img/regmarks/crosshair.svg");
 }
 
-.flora-mark--sprout {
-  -webkit-mask-image: url("/img/flora/sprout.svg");
-  mask-image: url("/img/flora/sprout.svg");
+.regmark--quartered {
+  -webkit-mask-image: url("/img/regmarks/quartered.svg");
+  mask-image: url("/img/regmarks/quartered.svg");
 }
 
-.flora-mark--evergreen {
-  -webkit-mask-image: url("/img/flora/evergreen.svg");
-  mask-image: url("/img/flora/evergreen.svg");
+.regmark--brackets {
+  -webkit-mask-image: url("/img/regmarks/brackets.svg");
+  mask-image: url("/img/regmarks/brackets.svg");
 }
 
 .garden-brand-mark {
@@ -203,7 +203,8 @@ body.dl-note :focus-visible {
   cursor: not-allowed;
 }
 
-.garden-theme-toggle { cursor: pointer; }
+.garden-theme-toggle { gap: 0.4rem; cursor: pointer; }
+.garden-theme-toggle__mark { width: 0.85rem; height: 0.85rem; }
 .garden-theme-toggle__label { pointer-events: none; }
 
 body.dl-home .content,
@@ -473,6 +474,18 @@ body.dl-note table { border-radius: 0 !important; }
   color: var(--garden-ink-muted);
 }
 
+.footer-label--marked {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.footer-label--marked .regmark {
+  width: 0.85rem;
+  height: 0.85rem;
+  color: var(--garden-leaf);
+}
+
 .footer-growth-marks {
   display: flex;
   flex-wrap: wrap;
@@ -485,8 +498,14 @@ body.dl-note table { border-radius: 0 !important; }
 .footer-growth-marks > span {
   display: inline-flex;
   align-items: center;
-  gap: 0.45rem;
   white-space: nowrap;
+}
+
+.footer-growth-marks > span + span::before {
+  content: "/";
+  margin-right: 1.25rem;
+  color: var(--garden-clay);
+  font-family: var(--garden-font-meta);
 }
 
 .footer-note {
@@ -534,7 +553,7 @@ body.dl-note table { border-radius: 0 !important; }
   color: var(--garden-ink-muted);
 }
 
-.footer-maker .flora-mark {
+.footer-maker .regmark {
   width: 0.65rem;
   height: 0.65rem;
   color: var(--garden-leaf);

@@ -15,8 +15,9 @@
   "notes": [
     "Rebuilt from current production taxonomy.",
     "Refined the masthead into a minimal Apparatus-family utility bar and added one homepage dispatch eyebrow.",
-    "Rebuilt the global footer as an Ft7 garden colophon and replaced the invented masthead diamond with canonical Flora Cognoscendi micro-marks.",
-    "Limited maturity marks to the live Seed, Sprout, and Evergreen taxonomy; Grove and Forest remain excluded.",
+    "Rebuilt the global footer as an Ft7 garden colophon and replaced the invented masthead diamond with the Apparatus regmark family.",
+    "Applied the Regmark System Note contract: crosshair for identity and colophon, quartered ring for theme utility, brackets for the garden-state section frame.",
+    "Kept Seed, Sprout, and Evergreen as plain maturity labels rather than assigning ambiguous icons to them.",
     "No publication state or taxonomy changes.",
     "No design.md emitted before visual review."
   ]
