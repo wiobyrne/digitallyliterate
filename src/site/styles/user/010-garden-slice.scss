@@ -317,11 +317,18 @@ body.dl-home .content > h1:first-of-type + p + p a {
   white-space: nowrap;
 }
 
-body.dl-home .content > h1:first-of-type + p + p + hr + h2 {
-  margin-top: var(--garden-space-xl);
+body.dl-home .content > p:nth-of-type(3) a {
+  white-space: nowrap;
+}
+
+body.dl-home .content > h2 {
   font-size: clamp(1.15rem, 2.5vw, 1.35rem);
   letter-spacing: -0.01em;
   text-transform: none;
+}
+
+body.dl-home .content > hr:first-of-type + h2 {
+  margin-top: var(--garden-space-xl);
 }
 
 body.dl-home .content > h2,

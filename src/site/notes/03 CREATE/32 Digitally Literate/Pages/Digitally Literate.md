@@ -4,76 +4,28 @@
 
 # Digitally Literate
 
-A newsletter and connected notebook about how we read, write, learn, and live
-in digital spaces. Written by Ian O'Byrne.
+**A weekly newsletter about AI, technology, and education—for educators making sense of a changing digital world.**
 
-[Read the newsletter](/newsletter/) · [Subscribe](/subscribe/) · [Start here](/start-here/)
+Each week, I separate signal from noise, connect research with practice, and share ideas for classrooms, schools, and organizations.
+
+[Read the newsletter](/newsletter/) · [Subscribe](/subscribe/)
 
 ---
 
-## A weekly letter, with room to follow the ideas
+## Start here
 
-Each issue looks closely at the forces shaping learning and life in the digital
-age: artificial intelligence, literacy, education, privacy, platforms, and the
-choices we make around them.
-
-The newsletter is the center of this site. It is where I gather what I have
-been reading, test an argument, and try to make sense of what is changing. The
-complete archive remains open on the web.
-
-[Browse every issue](/newsletter/)
+- **[Browse the archive](/newsletter/)** — explore every newsletter issue.
+- **[Explore the garden](/start-here/)** — follow ideas through Evergreens, Groves, and Forests.
+- **[Visit wiobyrne.com](https://wiobyrne.com)** — find finished essays, book notes, publications, and professional information.
 
 ---
 
 ## Beyond the newsletter
 
-Digitally Literate is becoming more than an archive. Some ideas need a place to
-develop across issues rather than starting over each week. The connected
-notebook will make those paths visible through three kinds of public notes:
+Some ideas need room to develop across issues rather than starting over each week. The connected notebook organizes those paths through three kinds of public notes:
 
-- **Evergreens** explain one durable idea and can be revised as my thinking
-  changes.
-- **Groves** are hand-built guides that connect several notes and newsletter
-  issues around a question or theme.
-- **Forests** are broad indexes of everything published here about a topic.
-
-This layer is still being cultivated. The first substantial collection will
-focus on artificial intelligence and machine learning. Until then, the
-newsletter archive is the best way into the work.
+- **Evergreens** explain durable ideas and change as my thinking develops.
+- **Groves** connect notes and newsletter issues around a question or theme.
+- **Forests** index everything published here about a broader topic.
 
 [Learn how the site works](/start-here/)
-
----
-
-## What I am exploring
-
-Right now, I keep returning to a few connected questions:
-
-- What should people understand about AI and machine learning before these
-  systems become ordinary infrastructure?
-- How do we preserve human judgment, agency, and care as more decisions become
-  automated?
-- What does digital literacy require when information environments are
-  personalized, synthetic, and difficult to inspect?
-- How can personal knowledge systems connect private thinking to a useful
-  public web?
-
-These questions move between newsletter issues and the public notes that will
-grow around them.
-
----
-
-## Two sites, two roles
-
-**Digitally Literate** holds the newsletter, its archive, and the connected
-knowledge that grows from it.
-
-**[wiobyrne.com](https://wiobyrne.com)** is my main site for finished essays,
-book notes, publications, and professional information.
-
-The two sites are connected, but they do different work: one follows ideas as
-they develop; the other presents work that has reached a more finished form.
-
----
-
-[About Digitally Literate](/about-digitally-literate/) · [Subscribe](/subscribe/) · [Colophon](/colophon/) · [Email Ian](mailto:hello@digitallyliterate.net)
