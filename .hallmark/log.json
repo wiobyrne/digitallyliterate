@@ -1,24 +1,29 @@
-{
-  "version": 1,
-  "build": "garden-redesign-rebuild",
-  "baseCommit": "5cc71b7fd8311b79fd2ff433acafc3ee758595b0",
-  "timestamp": "2026-07-20",
-  "status": "validated-exploratory",
-  "validation": {
-    "build": "pass",
-    "viewports": [320, 375, 414, 768, 1440],
-    "horizontalOverflow": "pass",
-    "lightMode": "pass",
-    "darkMode": "pass",
-    "slopTest": "pass"
-  },
-  "notes": [
-    "Rebuilt from current production taxonomy.",
-    "Refined the masthead into a minimal Apparatus-family utility bar and added one homepage dispatch eyebrow.",
-    "Rebuilt the global footer as an Ft7 garden colophon and replaced the invented masthead diamond with the Apparatus regmark family.",
-    "Applied the Regmark System Note contract: crosshair for identity and colophon, quartered ring for theme utility, brackets for the garden-state section frame.",
-    "Kept Seed, Sprout, and Evergreen as plain maturity labels rather than assigning ambiguous icons to them.",
-    "No publication state or taxonomy changes.",
-    "No design.md emitted before visual review."
-  ]
-}
+[
+  {
+    "date": "2026-07-21",
+    "macrostructure": "Newsletter Index + Connected Notebook",
+    "theme": "Garden",
+    "enrichment": "Apparatus regmarks",
+    "nav": "N9 utility bar",
+    "footer": "Ft7 colophon plate",
+    "brief": "Digitally Literate newsletter and curated public notebook",
+    "status": "validated-exploratory",
+    "validation": {
+      "build": "pass",
+      "viewports": [320, 375, 414, 768, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass",
+      "slopTest": "pass"
+    },
+    "decisions": [
+      "Public note types are Evergreen, Grove, and Forest.",
+      "Seed, Sprout, and Plant remain private development states.",
+      "Light mode is the default reading surface; explicit reader choice persists.",
+      "Geometry remains zero-radius.",
+      "Texture is limited to semantic Apparatus regmarks, never resting-state backgrounds or body text.",
+      "Homepage rhythm uses a compact named spacing scale and avoids inherited plugin block margins.",
+      "No design.md emitted before review."
+    ]
+  }
+]

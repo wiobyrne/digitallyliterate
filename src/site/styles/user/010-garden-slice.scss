@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · macrostructure: Newsletter Index + Connected Notebook · theme: Garden · enrichment: Apparatus regmarks · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Newsletter Index + Connected Notebook · theme: Garden · enrichment: Apparatus regmarks · nav: N9 utility bar · footer: Ft7 colophon plate */
 /* Hallmark · pre-emit critique: P5 H5 E4 S5 R5 V5 · contrast: pass (46–50) · slop: pass (51–60) · mobile: pass (36, 59, 61–69) */
 
 html {
@@ -206,8 +206,8 @@ body.dl-home .content,
 body.dl-note .content {
   width: 100%;
   max-width: calc(var(--garden-prose) + 3rem);
-  margin-inline: auto;
-  padding: var(--dg-content-padding-top) var(--garden-gutter) clamp(4rem, 10vw, 7rem);
+  margin: 0 auto;
+  padding: var(--garden-space-xl) var(--garden-gutter) var(--garden-space-2xl);
 }
 
 body.dl-home .content {
@@ -273,7 +273,7 @@ body.dl-home .content > h1:first-of-type + p {
 
 body.dl-home .content > h2,
 body.dl-note .content h2 {
-  margin: clamp(3.5rem, 9vw, 6rem) 0 1rem;
+  margin: clamp(var(--garden-space-xl), 6vw, var(--garden-space-2xl)) 0 var(--garden-space-md);
   padding-top: 0.8rem;
   border-top: var(--garden-rule-width) solid var(--garden-rule);
   color: var(--garden-ink);
@@ -288,13 +288,6 @@ body.dl-note .content h3,
 body.dl-note .content h4 {
   color: var(--garden-ink);
   font-family: var(--garden-font-ui);
-}
-
-body.dl-home .content hr,
-body.dl-note .content hr {
-  margin: clamp(3rem, 8vw, 5rem) 0;
-  border: 0;
-  border-top: var(--garden-rule-width) solid var(--garden-rule);
 }
 
 body.dl-home .content li::marker,
@@ -419,7 +412,7 @@ body.dl-note code,
 body.dl-note table { border-radius: 0 !important; }
 
 .garden-index {
-  margin-top: clamp(4rem, 10vw, 7rem);
+  margin-top: var(--garden-space-2xl);
   border-top: var(--garden-rule-width) solid var(--garden-ink);
 }
 
@@ -486,7 +479,7 @@ body.dl-note table { border-radius: 0 !important; }
   width: 100%;
   max-width: calc(var(--garden-shell) + 3rem);
   margin: 0 auto;
-  padding: clamp(3rem, 8vw, 6.5rem) var(--garden-gutter) 2rem;
+  padding: var(--garden-space-xl) var(--garden-gutter) 2rem;
   border: 0;
   background: transparent;
   color: var(--garden-ink);
@@ -531,8 +524,8 @@ body.dl-note table { border-radius: 0 !important; }
 .footer-columns {
   display: grid;
   grid-template-columns: minmax(0, 1.3fr) repeat(2, minmax(0, 0.8fr));
-  gap: clamp(2rem, 6vw, 5.5rem);
-  padding: clamp(2.75rem, 7vw, 5.75rem) 0;
+  gap: clamp(var(--garden-space-xl), 6vw, var(--garden-space-3xl));
+  padding: clamp(var(--garden-space-xl), 5vw, var(--garden-space-2xl)) 0;
 }
 
 .footer-column { min-width: 0; }
@@ -629,7 +622,10 @@ body.dl-note table { border-radius: 0 !important; }
   .garden-nav-subscribe { display: none !important; }
 
   body.dl-home .content,
-  body.dl-note .content { padding-top: 3.75rem; }
+  body.dl-note .content {
+    padding-top: var(--garden-space-xl);
+    padding-bottom: var(--garden-space-xl);
+  }
 
   body.dl-home .content > h1:first-of-type,
   body.dl-note .content h1 { font-size: clamp(2.35rem, 13vw, 3.4rem); }
@@ -647,7 +643,7 @@ body.dl-note table { border-radius: 0 !important; }
   .footer-columns {
     grid-template-columns: minmax(0, 1fr);
     gap: 2.5rem;
-    padding: 2.75rem 0;
+    padding: var(--garden-space-xl) 0;
   }
 
   .footer-maker { flex-wrap: wrap; line-height: 1.6; }
