@@ -145,8 +145,6 @@ body.dl-note :focus-visible {
   color: var(--garden-leaf);
 }
 
-.garden-wordmark-short { display: none; }
-
 .garden-masthead__nav {
   min-height: 44px;
   display: flex;
@@ -231,8 +229,6 @@ body.dl-home .content {
   width: 100%;
   height: auto;
   overflow: visible;
-  transform-origin: 50% 92%;
-  animation: garden-grove-sway 7s var(--garden-ease-in-out) infinite alternate;
 }
 
 .garden-hero-grove path {
@@ -244,13 +240,31 @@ body.dl-home .content {
   vector-effect: non-scaling-stroke;
 }
 
-.garden-hero-grove__tree--back { opacity: 0.52; }
-.garden-hero-grove__tree--last { opacity: 0.34; }
-.garden-hero-grove__ground { opacity: 0.28; }
+.garden-hero-grove__tree {
+  transform-box: fill-box;
+  transform-origin: center bottom;
+  animation: garden-tree-sway var(--garden-duration-grove) var(--garden-ease-in-out) infinite alternate;
+}
 
-@keyframes garden-grove-sway {
-  from { transform: rotate(-0.45deg); }
-  to { transform: rotate(0.65deg); }
+.garden-hero-grove__tree--left {
+  --garden-tree-sway: 0.28deg;
+  opacity: 0.48;
+  animation-direction: alternate-reverse;
+}
+
+.garden-hero-grove__tree--front {
+  --garden-tree-sway: 0.62deg;
+}
+
+.garden-hero-grove__tree--right {
+  --garden-tree-sway: 0.2deg;
+  opacity: 0.32;
+  animation-duration: var(--garden-duration-grove-secondary);
+}
+
+@keyframes garden-tree-sway {
+  from { transform: rotate(calc(-1 * var(--garden-tree-sway))); }
+  to { transform: rotate(var(--garden-tree-sway)); }
 }
 
 body.dl-home .content > header > h1 {
@@ -298,6 +312,13 @@ body.dl-home .content > h1:first-of-type + p + p {
 
 body.dl-home .content > h1:first-of-type + p + p a {
   white-space: nowrap;
+}
+
+body.dl-home .content > h1:first-of-type + p + p + hr + h2 {
+  margin-top: var(--garden-space-xl);
+  font-size: clamp(1.15rem, 2.5vw, 1.35rem);
+  letter-spacing: -0.01em;
+  text-transform: none;
 }
 
 body.dl-home .content > h2,
@@ -643,7 +664,7 @@ body.dl-note table { border-radius: 0 !important; }
     transition-duration: 0.01ms !important;
   }
 
-  .garden-hero-grove svg { animation: none; }
+  .garden-hero-grove__tree { animation: none; }
 }
 
 @media (max-width: 42rem) {
@@ -682,9 +703,4 @@ body.dl-note table { border-radius: 0 !important; }
   }
 
   .footer-maker { flex-wrap: wrap; line-height: 1.6; }
-}
-
-@media (max-width: 22rem) {
-  .garden-wordmark-full { display: none; }
-  .garden-wordmark-short { display: inline; }
 }
