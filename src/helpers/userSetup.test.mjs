@@ -28,10 +28,14 @@ describe("garden frontmatter contract", () => {
   test("reads page type from string or list categories", () => {
     var grove = publishedNote({ categories: ["Note", "Grove"] });
     var newsletter = publishedNote({ categories: "Newsletter" });
+    var evergreen = publishedNote({ categories: "Evergreen" });
+    var forest = publishedNote({ categories: "Forest" });
 
     expect(noteCategories(grove)).toEqual(["Note", "Grove"]);
     expect(hasCategory(grove, "Grove")).toBe(true);
     expect(hasCategory(newsletter, "Newsletter")).toBe(true);
+    expect(hasCategory(evergreen, "Evergreen")).toBe(true);
+    expect(hasCategory(forest, "Forest")).toBe(true);
   });
 
   test("prefers explicit top-level fields when present", () => {

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "project": "digitallyliterate",
+  "scope": ["homepage", "newsletter archive", "current newsletter note", "structural pages", "global chrome"],
+  "genre": "editorial",
+  "macrostructures": ["Newsletter Index", "Connected Notebook", "Long Document"],
+  "theme": "Garden",
+  "nav": "N9",
+  "footer": "Ft7",
+  "radiusDecision": "zero",
+  "textureDecision": "no resting-state texture; Apparatus regmarks only",
+  "darkModeDecision": "light default with persistent deliberate dark mode",
+  "publicTaxonomy": ["Evergreen", "Grove", "Forest"],
+  "privateMaturity": ["Seed", "Sprout", "Plant"],
+  "designMd": "deferred until visual review"
+}

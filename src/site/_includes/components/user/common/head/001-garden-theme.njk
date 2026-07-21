@@ -1,0 +1,35 @@
+<script>
+  (function () {
+    var key = "digitally-literate-theme";
+    var saved = localStorage.getItem(key);
+    var theme = saved === "dark" ? "dark" : "light";
+    document.documentElement.classList.add("theme-" + theme);
+
+    document.addEventListener("DOMContentLoaded", function () {
+      var body = document.body;
+      var button = document.querySelector(".garden-theme-toggle");
+
+      function apply(nextTheme) {
+        document.documentElement.classList.toggle("theme-dark", nextTheme === "dark");
+        document.documentElement.classList.toggle("theme-light", nextTheme === "light");
+        body.classList.toggle("theme-dark", nextTheme === "dark");
+        body.classList.toggle("theme-light", nextTheme === "light");
+        if (button) {
+          var dark = nextTheme === "dark";
+          button.setAttribute("aria-pressed", String(dark));
+          button.setAttribute("aria-label", dark ? "Use light mode" : "Use dark mode");
+          button.querySelector(".garden-theme-toggle__label").textContent = dark ? "Light" : "Dark";
+        }
+      }
+
+      apply(theme);
+      if (button) {
+        button.addEventListener("click", function () {
+          theme = document.documentElement.classList.contains("theme-dark") ? "light" : "dark";
+          localStorage.setItem(key, theme);
+          apply(theme);
+        });
+      }
+    });
+  })();
+</script>

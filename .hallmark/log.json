@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2026-07-21",
+    "macrostructure": "Illustrated Editorial Split + Notebook Index",
+    "theme": "Garden",
+    "enrichment": "Tier-B evergreen grove + Apparatus regmarks",
+    "nav": "N9 utility bar",
+    "footer": "Ft7 colophon plate",
+    "brief": "Digitally Literate newsletter and curated public notebook",
+    "status": "validated-exploratory",
+    "validation": {
+      "build": "pass",
+      "viewports": [320, 375, 414, 768, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass",
+      "slopTest": "pass"
+    },
+    "decisions": [
+      "Public note types are Evergreen, Grove, and Forest.",
+      "Seed, Sprout, and Plant remain private development states.",
+      "Light mode is the default reading surface; explicit reader choice persists.",
+      "Geometry remains zero-radius.",
+      "Texture is limited to semantic Apparatus regmarks, never resting-state backgrounds or body text.",
+      "Homepage rhythm uses a compact named spacing scale and avoids inherited plugin block margins.",
+      "Homepage illustration is a decorative grove, not a maturity-stage taxonomy mark.",
+      "The masthead retains the full Digitally Literate name.",
+      "The homepage title remains on one line while the earlier geometric grove form supplies the counterweight.",
+      "Evergreen motion is isolated to the tree forms; the grove baseline remains fixed.",
+      "No design.md emitted before review."
+    ]
+  }
+]

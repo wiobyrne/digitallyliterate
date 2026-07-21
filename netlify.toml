@@ -4,7 +4,25 @@
 
 [[redirects]]
   from = "/plants/*"
-  to = "/sprouts/:splat"
+  to = "/start-here/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sprouts/*"
+  to = "/start-here/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/start/*"
+  to = "/start-here/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/about/*"
+  to = "/about-digitally-literate/"
   status = 301
   force = true
 

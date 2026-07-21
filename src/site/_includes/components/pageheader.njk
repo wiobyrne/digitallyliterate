@@ -46,12 +46,10 @@
 {%endif%}
 <link href="/styles/digital-garden-base.css" rel="stylesheet">
 
+<link href="/tokens.css" rel="stylesheet">
 <link href="/styles/custom-style.css" rel="stylesheet">
 {%- for style in dynamics.styles -%}
 <link href="{{style}}?v={{meta.buildDate|isoDate}}" rel="stylesheet">
 {%- endfor -%}
 
 {% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#123' %}
-
-<style>
-</style>

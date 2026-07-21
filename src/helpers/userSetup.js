@@ -64,24 +64,11 @@ function userEleventySetup(eleventyConfig) {
     }).slice(0, 100);
   });
 
-  // Canonical garden collections are driven only by frontmatter. Folders have
-  // no classification meaning. Page-type categories take precedence over
-  // maturity so newsletters and Groves remain in their own reader pathways.
+  // Public DL collections are driven only by the categories page type.
+  // Private Seed/Sprout/Plant maturity never creates public navigation.
   eleventyConfig.addCollection("evergreens", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      return noteStatus(item) === "evergreen" &&
-             !hasCategory(item, "Grove") &&
-             !hasCategory(item, "Newsletter");
-    }).sort(byTitle);
-  });
-
-  // Sprouts are available as an explicit route but are never published by
-  // default. Only deliberately published notes can reach this collection.
-  eleventyConfig.addCollection("sprouts", function (collectionApi) {
-    return collectionApi.getFilteredByTag("note").filter(function (item) {
-      return noteStatus(item) === "sprout" &&
-             !hasCategory(item, "Grove") &&
-             !hasCategory(item, "Newsletter");
+      return hasCategory(item, "Evergreen");
     }).sort(byTitle);
   });
 
@@ -89,6 +76,12 @@ function userEleventySetup(eleventyConfig) {
   eleventyConfig.addCollection("groves", function (collectionApi) {
     return collectionApi.getFilteredByTag("note").filter(function (item) {
       return hasCategory(item, "Grove");
+    }).sort(byTitle);
+  });
+
+  eleventyConfig.addCollection("forests", function (collectionApi) {
+    return collectionApi.getFilteredByTag("note").filter(function (item) {
+      return hasCategory(item, "Forest");
     }).sort(byTitle);
   });
 
@@ -104,6 +97,18 @@ function userEleventySetup(eleventyConfig) {
     }).sort(function (a, b) {
       return issueNumber(b) - issueNumber(a);
     });
+  });
+
+  eleventyConfig.addCollection("latestNewsletter", function (collectionApi) {
+    function issueNumber(item) {
+      var match = (item.fileSlug || "").match(/(\d+)\s*$/);
+      return match ? parseInt(match[1], 10) : 0;
+    }
+    return collectionApi.getFilteredByTag("note").filter(function (item) {
+      return hasCategory(item, "Newsletter");
+    }).sort(function (a, b) {
+      return issueNumber(b) - issueNumber(a);
+    }).slice(0, 8);
   });
 
   // Recently updated: 10 most recent by update date

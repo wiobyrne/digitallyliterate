@@ -9,12 +9,13 @@ eleventyExcludeFromCollections: true
   <p class="landing-subtitle">Durable ideas — polished, reusable, and ready to share.</p>
 </header>
 
-<p><strong>Evergreens</strong> are the mature notes in this garden. They've been developed from seeds and sprouts into ideas I trust enough to build on and share. Each one is structurally complete, grounded in evidence, and connected to the broader network of this garden.</p>
+<p><strong>Evergreens</strong> are durable, standalone explanations of ideas that recur across the Digitally Literate newsletter.</p>
 
 <p class="book-count">{{ collections.evergreens | length }} evergreen notes</p>
 
-<div class="book-filters">
-  <input type="text" id="landing-filter" placeholder="Filter by title..." class="book-filter-input" autocomplete="off">
+{% if collections.evergreens | length %}<div class="book-filters">
+  <label for="landing-filter">Filter Evergreen notes by title</label>
+  <input type="search" id="landing-filter" placeholder="Search note titles" class="book-filter-input" autocomplete="off">
 </div>
 
 <div class="landing-list" id="landing-list">
@@ -36,3 +37,4 @@ eleventyExcludeFromCollections: true
   });
 })();
 </script>
+{% else %}<p>This public collection is still being cultivated. The newsletter archive remains the best way into the work.</p>{% endif %}
