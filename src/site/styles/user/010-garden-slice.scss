@@ -212,26 +212,7 @@ body.dl-note .content {
 
 body.dl-home .content {
   max-width: calc(var(--garden-shell) + 3rem);
-}
-
-.garden-home-eyebrow {
-  margin: 0 0 1.5rem;
-  display: flex;
-  align-items: center;
-  gap: 0.7rem;
-  color: var(--garden-ink-muted);
-  font-family: var(--garden-font-meta);
-  font-size: 0.68rem;
-  letter-spacing: 0.16em;
-  line-height: 1;
-  text-transform: uppercase;
-}
-
-.garden-home-eyebrow__mark {
-  width: 0.38rem;
-  height: 0.38rem;
-  flex: 0 0 auto;
-  background: var(--garden-leaf);
+  padding-top: var(--garden-space-lg);
 }
 
 body.dl-home .content > header > h1 {
@@ -268,7 +249,8 @@ body.dl-home .content > h1:first-of-type + p {
   max-width: 38rem;
   margin-top: 0;
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
-  line-height: 1.5;
+  line-height: 1.42;
+  text-wrap: balance;
 }
 
 body.dl-home .content > h2,
