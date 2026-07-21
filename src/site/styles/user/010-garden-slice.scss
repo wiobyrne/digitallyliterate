@@ -1,5 +1,5 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Newsletter Index + Connected Notebook · theme: Garden · enrichment: Apparatus regmarks · nav: N9 utility bar · footer: Ft7 colophon plate */
-/* Hallmark · pre-emit critique: P5 H5 E4 S5 R5 V5 · contrast: pass (46–50) · slop: pass (51–60) · mobile: pass (36, 59, 61–69) */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
 
 html {
   overflow-x: clip;
@@ -211,8 +211,46 @@ body.dl-note .content {
 }
 
 body.dl-home .content {
+  position: relative;
   max-width: calc(var(--garden-shell) + 3rem);
   padding-top: var(--garden-space-lg);
+}
+
+.garden-hero-grove {
+  position: absolute;
+  inset-block-start: var(--garden-space-lg);
+  inset-inline-end: var(--garden-gutter);
+  width: clamp(10rem, 22vw, 14rem);
+  margin: 0;
+  color: var(--garden-leaf);
+  pointer-events: none;
+}
+
+.garden-hero-grove svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+  transform-origin: 50% 92%;
+  animation: garden-grove-sway 7s var(--garden-ease-in-out) infinite alternate;
+}
+
+.garden-hero-grove path {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.2;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+  vector-effect: non-scaling-stroke;
+}
+
+.garden-hero-grove__tree--back { opacity: 0.52; }
+.garden-hero-grove__tree--last { opacity: 0.34; }
+.garden-hero-grove__ground { opacity: 0.28; }
+
+@keyframes garden-grove-sway {
+  from { transform: rotate(-0.45deg); }
+  to { transform: rotate(0.65deg); }
 }
 
 body.dl-home .content > header > h1 {
@@ -242,15 +280,24 @@ body.dl-note .content h1 {
 body.dl-home .content > h1:first-of-type {
   max-width: 12ch;
   margin: 0 0 1rem;
+  font-size: clamp(2.75rem, 6.5vw, 4rem);
   font-style: italic;
 }
 
 body.dl-home .content > h1:first-of-type + p {
-  max-width: 38rem;
+  max-width: 29rem;
   margin-top: 0;
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
   line-height: 1.42;
   text-wrap: balance;
+}
+
+body.dl-home .content > h1:first-of-type + p + p {
+  max-width: 29rem;
+}
+
+body.dl-home .content > h1:first-of-type + p + p a {
+  white-space: nowrap;
 }
 
 body.dl-home .content > h2,
@@ -595,6 +642,12 @@ body.dl-note table { border-radius: 0 !important; }
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
   }
+
+  .garden-hero-grove svg { animation: none; }
+}
+
+@media (max-width: 42rem) {
+  .garden-hero-grove { display: none; }
 }
 
 @media (max-width: 40rem) {

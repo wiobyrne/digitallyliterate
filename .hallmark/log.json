@@ -1,9 +1,9 @@
 [
   {
     "date": "2026-07-21",
-    "macrostructure": "Newsletter Index + Connected Notebook",
+    "macrostructure": "Illustrated Editorial Split + Notebook Index",
     "theme": "Garden",
-    "enrichment": "Apparatus regmarks",
+    "enrichment": "Tier-B evergreen grove + Apparatus regmarks",
     "nav": "N9 utility bar",
     "footer": "Ft7 colophon plate",
     "brief": "Digitally Literate newsletter and curated public notebook",
@@ -23,6 +23,7 @@
       "Geometry remains zero-radius.",
       "Texture is limited to semantic Apparatus regmarks, never resting-state backgrounds or body text.",
       "Homepage rhythm uses a compact named spacing scale and avoids inherited plugin block margins.",
+      "Homepage illustration is a decorative grove, not a maturity-stage taxonomy mark.",
       "No design.md emitted before review."
     ]
   }

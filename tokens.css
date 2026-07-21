@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Newsletter Index + Connected Notebook · theme: Garden · enrichment: Apparatus regmarks · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
 :root {
   color-scheme: light dark;
 
@@ -30,6 +30,7 @@
   --garden-rule-width: 1px;
   --garden-radius: 0px;
   --garden-ease: 160ms ease;
+  --garden-ease-in-out: cubic-bezier(0.45, 0, 0.55, 1);
 }
 
 html.theme-dark {
