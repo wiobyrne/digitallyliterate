@@ -219,7 +219,7 @@ Surveillance creates digital environments that shape young people through manipu
 - [[Ed-Tech Criticism\|Ed-Tech Criticism]] — [[Audrey Watters\|Audrey Watters]] examines how billionaire philanthropy applies corporate values like customer obsession to education creating fundamental misalignments with learning needs in [[Education Reform\|Education Reform]].
 - [[Child Data Privacy\|Child Data Privacy]] — Investigation revealing how children's apps systematically violate privacy protections through surveillance and behavioral tracking raising questions about [[COPPA\|COPPA]] enforcement in [[Digital Privacy\|Digital Privacy]].
 - [[Student Anxiety\|Student Anxiety]] — Debate over mandatory classroom presentations highlighting tension between building public speaking skills and accommodating legitimate mental health needs in [[Mental Health in Education\|Mental Health in Education]].
-- [[Critical Digital Pedagogy\|Critical Digital Pedagogy]] — [[Sean Michael Morris\|Sean Michael Morris]] and [[Jesse Stommel\|Jesse Stommel]] argue networked spaces require examining power relationships and resisting technological determinism in service of educational justice in [[02 CURATE/Open Education\|Open Education]].
+- [[Critical Digital Pedagogy\|Critical Digital Pedagogy]] — [[Sean Michael Morris\|Sean Michael Morris]] and [[Jesse Stommel\|Jesse Stommel]] argue networked spaces require examining power relationships and resisting technological determinism in service of educational justice in [[03 CREATE/32 Digitally Literate/Groves/Open Education\|Open Education]].
 
 ---
 

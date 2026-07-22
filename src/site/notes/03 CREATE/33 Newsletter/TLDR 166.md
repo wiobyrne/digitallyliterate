@@ -238,7 +238,7 @@ We often assume that feeling must precede expression—that we smile because we'
 **🌱 Connected Concepts**:
 
 - [[YouTube Radicalization\|YouTube Radicalization]] — [[Rebecca Lewis\|Rebecca Lewis]] maps alternative influence network showing how algorithmic recommendations create pathways from mainstream content to white nationalism through gradual exposure in [[Platform Accountability\|Platform Accountability]].
-- [[Swedish Education Decline\|Swedish Education Decline]] — Combining postmodern rejection of objective knowledge with market-based school choice produced teacher exodus grade inflation and achievement collapse in [[Education Policy\|Education Policy]].
+- [[Swedish Education Decline\|Swedish Education Decline]] — Combining postmodern rejection of objective knowledge with market-based school choice produced teacher exodus grade inflation and achievement collapse in [[02 CURATE/Education Policy\|Education Policy]].
 - [[Online Harassment\|Online Harassment]] — [[Pernille Ripp\|Pernille Ripp]] receiving death threats demonstrates systematic infrastructure targeting educators advocating for equity requiring both security practices and collective resistance in [[Digital Safety\|Digital Safety]].
 - [[Digital Privacy\|Digital Privacy]] — [[ACLU\|ACLU]] guide for MeToo activists reveals that security isn't special precaution for high-profile individuals but necessary practice for anyone speaking about justice issues in [[Information Security\|Information Security]].
 - [[Goal Setting\|Goal Setting]] — [[01 CONSUME/16 People/Warren Buffett\|Warren Buffett]] 5/25 rule argues that moderately important goals become enemies of top priorities by consuming attention without enabling meaningful achievement in [[Productivity\|Productivity]].

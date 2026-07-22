@@ -8,16 +8,13 @@ Digitally Literate is Ian O'Byrne's newsletter and connected public notebook
 about technology, literacy, education, and the ways digital systems shape
 everyday life.
 
-The newsletter began in 2015 as *Too Long; Didn't Read*. It has changed in name
-and form over the years, but the central practice has stayed the same: read
-widely, notice the connections, and share a useful account of what matters.
+The newsletter began in 2015 as *Too Long; Didn't Read*. It has changed in name and form over the years, but the central practice has stayed the same: read widely, notice the connections, and share a useful account of what matters.
 
 ## What I write about
 
 The work often returns to artificial intelligence, digital literacy, learning,
 privacy, identity, platforms, and the open web. I am especially interested in
-what these systems ask of people: how we exercise judgment, how we care for one
-another, and how we retain agency inside environments designed by others.
+what these systems ask of people: how we exercise judgment, how we care for one another, and how we retain agency inside environments designed by others.
 
 I do not treat digital literacy as a checklist of technical skills. It is an
 ongoing practice of reading systems, questioning their assumptions, making
@@ -25,10 +22,7 @@ informed choices, and building better alternatives together.
 
 ## Why the notebook is here
 
-A weekly issue captures a moment. Some questions stretch across many issues
-and need a more durable home. The public notebook gathers those threads into
-Evergreens, Groves, and Forests so that an idea can become clearer without
-losing the history of how it developed.
+A weekly issue captures a moment. Some questions stretch across many issues and need a more durable home. The public notebook gathers those threads into Evergreens, Groves, and Forests so that an idea can become clearer without losing the history of how it developed.
 
 The notebook is curated from a larger private research vault. Only material
 prepared for a public reader appears here.

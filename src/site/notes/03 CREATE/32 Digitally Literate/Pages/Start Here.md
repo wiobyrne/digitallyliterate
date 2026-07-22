@@ -10,32 +10,21 @@ issues, or use the public notes as guides into a subject.
 
 ## If you are here for the newsletter
 
-Start with the [newsletter archive](/newsletter/). It contains every issue,
-from the early *TL;DR* years to the current *Digitally Literate* series.
+Start with the [newsletter archive](/newsletter/). It contains every issue, from the early *TL;DR* years to the current *Digitally Literate* series.
 
 If you would rather receive new issues by email, [subscribe here](/subscribe/).
 
 ## If you want to follow an idea
 
 The public notebook uses three kinds of pages:
-
-- **Evergreens** are focused explainers about one durable concept. They may be
-  revised as the subject or my understanding changes.
+- **Evergreens** are focused explainers about one durable concept. They may be revised as the subject or my understanding changes.
 - **Groves** are curated paths through a subject. I build them by hand to
   connect explainers, newsletter issues, questions, and useful sources.
-- **Forests** are comprehensive indexes. They show everything published on the
-  site that belongs to a broad topic, without claiming that every item forms a
-  single argument.
-
-A Grove offers a route. A Forest shows the territory.
-
-This part of the site is just beginning. Some links may lead back into the
-newsletter archive until the corresponding public note has been written.
+- **Forests** are comprehensive indexes. They show everything published on the site that belongs to a broad topic, without claiming that every item forms a single argument.
 
 ## What is not public
 
-Digitally Literate is published from a much larger private Obsidian vault. The
-site is not a mirror of that vault. Reading notes, drafts, project materials,
+Digitally Literate is published from a much larger private Obsidian vault. The site is not a mirror of that vault. Reading notes, drafts, project materials,
 and most working files stay private unless I deliberately prepare them for
 publication here.
 

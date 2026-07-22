@@ -151,7 +151,7 @@ Read more [here at Brain Pickings](https://www.brainpickings.org/2018/05/29/john
 
 **🌱 Connected Concepts**:
 
-- [[Domain Interviewing\|Domain Interviewing]] — [[Alan Levine\|Alan Levine]]'s interview questions prompt reflection on developing personal domains with [[Chris Aldrich\|Chris Aldrich]] demonstrating [[Hypothesis\|Hypothesis]] annotation feedback loops in [[02 CURATE/IndieWeb\|IndieWeb]] practices.
+- [[Domain Interviewing\|Domain Interviewing]] — [[Alan Levine\|Alan Levine]]'s interview questions prompt reflection on developing personal domains with [[Chris Aldrich\|Chris Aldrich]] demonstrating [[Hypothesis\|Hypothesis]] annotation feedback loops in [[03 CREATE/32 Digitally Literate/Groves/IndieWeb\|IndieWeb]] practices.
 - [[Fact Opinion Literacy\|Fact Opinion Literacy]] — [[Pew Research Center\|Pew Research Center]] study reveals Americans struggle distinguishing factual statements from opinion raising concerns about [[News Literacy\|News Literacy]] and ability to evaluate claims in democratic discourse.
 - [[Biology Disinformation\|Biology Disinformation]] — [[Douglas Rushkoff\|Douglas Rushkoff]] examines how [[Media Viruses\|Media Viruses]] and [[Computational Propaganda\|Computational Propaganda]] weaponize information suggesting fortified [[Social Relationships\|Social Relationships]] matter more than technological solutions to ideological warfare.
 - [[Social Media Orbiting\|Social Media Orbiting]] — Strategic digital presence maintenance after leaving offline relationships creates psychological complexity through continued observation without interaction preventing closure and keeping options open.
