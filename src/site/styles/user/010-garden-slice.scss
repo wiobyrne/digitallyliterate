@@ -571,10 +571,10 @@ body.dl-note table { border-radius: 0 !important; }
 
 .footer-site-name {
   color: var(--garden-ink) !important;
-  font-family: var(--garden-font-read);
+  font-family: var(--garden-font-identity);
   font-size: clamp(2.25rem, 7vw, 4.8rem);
   font-weight: 500;
-  letter-spacing: -0.055em;
+  letter-spacing: 0;
   line-height: 0.95;
   text-decoration: none !important;
 }

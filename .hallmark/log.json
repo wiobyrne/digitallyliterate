@@ -6,7 +6,8 @@
     "rule": "Grenze Gotisch is scoped to first-glance brand-identity moments only — text that is recognized once per session, not scanned or read under time pressure. It does not belong on functional/navigational text that identifies content or is scanned repeatedly.",
     "grenzeRoles": [
       "Masthead wordmark (persistent, small, every page)",
-      "Homepage hero H1 (once per homepage visit, the biggest identity statement on the site)"
+      "Homepage hero H1 (once per homepage visit, the biggest identity statement on the site)",
+      "Footer wordmark ('/ Digitally Literate', once per page, closing identity mark — Ian's call, extending the rule)"
     ],
     "explicitlyNotGrenze": [
       "Homepage 'Latest issues' index heading — reverted from Grenze back to upright Source Serif (also fixed a pre-existing italic-heading purity violation in the same rule)",
@@ -14,7 +15,7 @@
       "Newsletter archive H1 ('Digitally Literate' on /newsletter/) — a utility/working page, not a first-glance identity moment; deliberately left Source Serif",
       "Ordinary note/Evergreen/Grove titles, H2/H3 section heads, mono metadata, blockquote emphasis — untouched, all correct as-is"
     ],
-    "openQuestion": "Whether the footer wordmark ('/ Digitally Literate') should move to Grenze under this same rule — it's brand-identity text, not functional, but was explicitly out of scope in the original handoff. Not changed pending Ian's call."
+    "resolved": "Footer wordmark moved to Grenze, weight 500 upright, letter-spacing loosened from -0.055em to 0 (Source Serif's tight tracking read cramped on blackletter's denser forms at the same 4.8rem display size). Verified at 375/1024/1440px light+dark, no overflow, wraps cleanly to two lines at desktop widths."
   },
   {
     "date": "2026-07-25",
