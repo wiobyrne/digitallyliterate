@@ -1,4 +1,15 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · identity test: --garden-font-identity (Grenze Gotisch, self-hosted OFL) scoped to masthead wordmark + homepage hero H1 only · branch: design/grenze-gotisch-identity */
+
+@font-face {
+  font-family: "Grenze Gotisch";
+  src: url("/fonts/GrenzeGotisch-VariableFont_wght.ttf") format("truetype-variations"),
+       url("/fonts/GrenzeGotisch-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   color-scheme: light dark;
 
@@ -17,6 +28,7 @@
   --garden-font-read: "Source Serif 4", Georgia, serif;
   --garden-font-ui: "Inter", system-ui, sans-serif;
   --garden-font-meta: "JetBrains Mono", monospace;
+  --garden-font-identity: "Grenze Gotisch", var(--garden-font-read);
 
   --garden-prose: 660px;
   --garden-shell: 720px;

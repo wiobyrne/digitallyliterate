@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-25",
+    "macrostructure": "Illustrated Editorial Split + Notebook Index",
+    "theme": "Garden",
+    "identityTest": "Grenze Gotisch (self-hosted OFL) via new --garden-font-identity token",
+    "scope": "masthead wordmark + homepage hero H1 only; reading/UI/mono roles unchanged",
+    "brief": "Grenze Gotisch identity-layer test on digitallyliterate.net, branch design/grenze-gotisch-identity",
+    "status": "branch-exploratory, not merged",
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass",
+      "surfacesChecked": ["homepage", "newsletter issue (dl-438)", "newsletter archive"]
+    },
+    "decisions": [
+      "Grenze Gotisch has no italic instance upstream; the homepage hero H1 goes upright (font-style: normal) instead of a synthesized faux-italic slant on a blackletter face.",
+      "Weight held at 500 for both masthead and hero, per the decision record that weight 600 reads as overtly gothic.",
+      "Ordinary post titles (e.g. DL issue H1s), the newsletter archive H1, and the footer wordmark stay in Source Serif 4 — Grenze is an identity-layer accent, not the reading voice.",
+      "No design.md emitted; vault design contract remains authoritative pending Ian's review of the draft PR."
+    ]
+  },
+  {
     "date": "2026-07-21",
     "macrostructure": "Illustrated Editorial Split + Notebook Index",
     "theme": "Garden",
