@@ -147,6 +147,39 @@ body.dl-note :focus-visible {
   mask-image: url("/img/regmarks/brackets.svg");
 }
 
+/* Apparatus “structural + special” rule:
+ * ordinary chrome uses the clean mask-based regmarks above;
+ * this ink-displaced mark is reserved for expressive placements at 48px+.
+ */
+.regmark-expressive {
+  display: inline-grid;
+  width: var(--regmark-expressive-size, 64px);
+  height: var(--regmark-expressive-size, 64px);
+  flex: 0 0 auto;
+  color: currentColor;
+  place-items: center;
+}
+
+.regmark-expressive svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.regmark-expressive circle,
+.regmark-expressive line {
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: square;
+  stroke-width: 0.98;
+}
+
+.regmark-expressive .regmark-expressive__dot {
+  fill: currentColor;
+  stroke: none;
+}
+
 .garden-brand-mark {
   color: var(--garden-leaf);
 }
