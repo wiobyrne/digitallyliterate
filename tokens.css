@@ -1,11 +1,48 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
 /* Hallmark · identity test: --garden-font-identity (Grenze Gotisch, self-hosted OFL) scoped to masthead wordmark + homepage hero H1 only · branch: design/grenze-gotisch-identity */
+/* Hallmark · cleanup: Source Serif 4 / Inter / JetBrains Mono self-hosted here too, replacing the Google Fonts @import in custom-style.scss — one font-loading strategy for all four typefaces, no external network dependency */
 
 @font-face {
   font-family: "Grenze Gotisch";
   src: url("/fonts/GrenzeGotisch-VariableFont_wght.ttf") format("truetype-variations"),
        url("/fonts/GrenzeGotisch-VariableFont_wght.ttf") format("truetype");
   font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("/fonts/SourceSerif4-VariableFont_opsz_wght.ttf") format("truetype-variations"),
+       url("/fonts/SourceSerif4-VariableFont_opsz_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("/fonts/SourceSerif4-Italic-VariableFont_opsz_wght.ttf") format("truetype-variations"),
+       url("/fonts/SourceSerif4-Italic-VariableFont_opsz_wght.ttf") format("truetype");
+  font-weight: 200 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-VariableFont_opsz_wght.ttf") format("truetype-variations"),
+       url("/fonts/Inter-VariableFont_opsz_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype-variations"),
+       url("/fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 800;
   font-style: normal;
   font-display: swap;
 }

@@ -1,6 +1,23 @@
 [
   {
     "date": "2026-07-25",
+    "type": "audit + cleanup",
+    "brief": "Hallmark audit pass on design/grenze-gotisch-identity: checked Grenze consistency across DL, fixed font-hosting drift",
+    "auditFindings": {
+      "critical": 0,
+      "major": 2,
+      "minor": 3
+    },
+    "fixed": [
+      "Font-hosting drift: Source Serif 4 / Inter / JetBrains Mono were still loading from a Google Fonts @import in custom-style.scss even though self-hosted files already existed unused in src/site/fonts/. Added @font-face for all three (normal + Source Serif italic) in tokens.css and removed the Google Fonts @import — one self-hosting strategy for all four typefaces (incl. Grenze), zero external font network dependency."
+    ],
+    "openQuestions": [
+      "Whether .garden-index h2 ('Latest issues' homepage section heading, 010-garden-slice.scss:494) — currently italic Source Serif at up to 3.75rem — should also move to --garden-font-identity as the 'one additional high-level display role' the original handoff allowed, or stay as-is. Not changed pending Ian's call.",
+      "Two committed font files (Inter-Italic, JetBrainsMono-Italic) have no matching CSS usage anywhere and now ship dead weight via the fonts passthrough-copy. Flagged, not deleted."
+    ]
+  },
+  {
+    "date": "2026-07-25",
     "macrostructure": "Illustrated Editorial Split + Notebook Index",
     "theme": "Garden",
     "identityTest": "Grenze Gotisch (self-hosted OFL) via new --garden-font-identity token",
