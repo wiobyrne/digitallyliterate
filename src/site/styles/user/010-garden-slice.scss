@@ -105,6 +105,11 @@ body.dl-note :focus-visible {
   line-height: 1;
   text-decoration: none !important;
   white-space: nowrap;
+  transition: color var(--garden-ease);
+}
+
+.garden-masthead__wordmark:hover {
+  color: var(--garden-leaf) !important;
 }
 
 .garden-brand-mark {
