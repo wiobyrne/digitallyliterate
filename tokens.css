@@ -1,5 +1,5 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
-/* Hallmark · identity test: --garden-font-identity (Grenze Gotisch, self-hosted OFL) scoped to masthead wordmark + homepage hero H1 only · branch: design/grenze-gotisch-identity */
+/* Hallmark · identity test: --garden-font-identity (Grenze Gotisch, self-hosted OFL) applied to masthead wordmark, homepage hero H1, and the homepage "Latest issues" index heading (.garden-index h2) · branch: design/grenze-gotisch-identity */
 /* Hallmark · cleanup: Source Serif 4 / Inter / JetBrains Mono self-hosted here too, replacing the Google Fonts @import in custom-style.scss — one font-loading strategy for all four typefaces, no external network dependency */
 
 @font-face {
