@@ -1,6 +1,20 @@
 [
   {
     "date": "2026-07-25",
+    "type": "audit",
+    "brief": "Focused Hallmark audit on the footer content below the wordmark (newsletter column, link columns, colophon line) — copy voice, hierarchy, spacing, archetype fit.",
+    "auditFindings": { "critical": 0, "major": 1, "minor": 2 },
+    "fixed": [
+      "Stamp lies: the footer's own stamp declared 'Ft7 colophon plate.' Ft7 in the current cookbook is 'Newsletter first' (form-primary) — this footer has never had a signup form, the subscribe action is a plain link in the 'Read or subscribe' column. Corrected the stamp in tokens.css and 010-garden-slice.scss to accurately describe it as Ft3-family index columns (newsletter prose + two link columns) with an Ft4-style colophon line. The 2026-07-21 PR #14 log entry below is left as historical record, not rewritten."
+    ],
+    "flaggedNotFixed": [
+      "'The complete archive remains open while a curated public knowledge layer grows around it.' reads a little abstract/jargon-heavy versus the rest of the site's plain voice — copy is Ian's call, not touched.",
+      "The newsletter column has no CTA of its own, relies on the adjacent 'Read or subscribe' column — reasonable as-is, noted for awareness."
+    ],
+    "structureVerified": "Footer content unchanged otherwise: 3-column grid (newsletter prose / Read-or-subscribe / Elsewhere), colophon line, link-text conventions, hover/focus states, mobile single-column stacking below 40rem — all confirmed correct, no changes needed."
+  },
+  {
+    "date": "2026-07-25",
     "type": "type-hierarchy policy",
     "brief": "Ian reviewed the preview and questioned whether the Grenze 'Latest issues' heading helps wayfinding or just asks the reader to decipher blackletter. Reverted, and derived an explicit rule for where Grenze belongs across DL.",
     "rule": "Grenze Gotisch is scoped to first-glance brand-identity moments only — text that is recognized once per session, not scanned or read under time pressure. It does not belong on functional/navigational text that identifies content or is scanned repeatedly.",
