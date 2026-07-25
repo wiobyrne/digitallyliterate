@@ -7,7 +7,7 @@
     "grenzeRoles": [
       "Masthead wordmark (persistent, small, every page)",
       "Homepage hero H1 (once per homepage visit, the biggest identity statement on the site)",
-      "Footer wordmark ('/ Digitally Literate', once per page, closing identity mark — Ian's call, extending the rule)"
+      "Footer wordmark ('Digitally Literate', once per page, closing identity mark — Ian's call, extending the rule)"
     ],
     "explicitlyNotGrenze": [
       "Homepage 'Latest issues' index heading — reverted from Grenze back to upright Source Serif (also fixed a pre-existing italic-heading purity violation in the same rule)",
@@ -15,7 +15,7 @@
       "Newsletter archive H1 ('Digitally Literate' on /newsletter/) — a utility/working page, not a first-glance identity moment; deliberately left Source Serif",
       "Ordinary note/Evergreen/Grove titles, H2/H3 section heads, mono metadata, blockquote emphasis — untouched, all correct as-is"
     ],
-    "resolved": "Footer wordmark moved to Grenze, weight 500 upright, letter-spacing loosened from -0.055em to 0 (Source Serif's tight tracking read cramped on blackletter's denser forms at the same 4.8rem display size). Verified at 375/1024/1440px light+dark, no overflow, wraps cleanly to two lines at desktop widths."
+    "resolved": "Footer wordmark moved to Grenze, weight 500 upright, letter-spacing loosened from -0.055em to 0. Ian's follow-up: dropped the decorative '/' prefix and sized down from clamp(2.25rem,7vw,4.8rem) to clamp(1.5rem,5vw,2.85rem) with white-space: nowrap, so it reads as a single line at every width rather than wrapping. Verified 320-1440px light+dark: one-line height confirmed at every breakpoint, no horizontal overflow."
   },
   {
     "date": "2026-07-25",
