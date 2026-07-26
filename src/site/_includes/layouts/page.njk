@@ -8,6 +8,7 @@
     {% endfor %}
   </head>
   <body class="theme-{{meta.baseTheme}} dl-note markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.noteIconBodyClasses}}">
+    {%include "components/skipLink.njk"%}
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
@@ -18,7 +19,7 @@
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <main class="content cm-s-obsidian {{ contentClasses }}" data-pagefind-body>
+    <main id="main-content" class="content cm-s-obsidian {{ contentClasses }}" data-pagefind-body>
       {{ content | safe }}
     </main>
 

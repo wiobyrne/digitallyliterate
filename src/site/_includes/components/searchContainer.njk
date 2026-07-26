@@ -1,12 +1,12 @@
 <div class="search-container" id="globalsearch" onclick="toggleSearch()">
     <div class="search-box" onclick="event.stopPropagation()">
         <div class="search-header">
-            <input type="search" id="term" placeholder="{{ meta.uiStrings.searchPlaceholder }}">
+            <input type="search" id="term" placeholder="{{ meta.uiStrings.searchPlaceholder }}" aria-label="Search {{ meta.siteName }}">
         </div>
 
         <div class="search-layout no-preview" id="search-layout">
             <!-- Left panel: Results list -->
-            <div class="search-results-panel" id="search-results">
+            <div class="search-results-panel" id="search-results" role="status" aria-live="polite" aria-atomic="false">
                 <!-- Default text -->
                 <span><i>{{ meta.uiStrings.searchNotStarted }}</i></span>
             </div>

@@ -1,6 +1,33 @@
 [
   {
     "date": "2026-07-26",
+    "type": "accessibility pass",
+    "brief": "Ian asked for a review of Digital Garden plugin settings + the vault for accessibility wins. Research turned up one plugin setting worth enabling, three confirmed bugs, and one feature worth building — Ian confirmed all four.",
+    "fixed": [
+      "Keyboard-inaccessible search trigger: searchButton.njk was a bare <div onclick> with no tabindex/role/aria-label — confirmed via live keyboard testing that Tab skipped it entirely inside the new menu panel. Changed to a real <button type=\"button\"> with aria-label=\"Search\"; native keyboard operability, zero JS needed. This is a shared component used site-wide, not menu-specific, so the fix applies everywhere it's used, including production's current inline nav.",
+      "Missing skip-to-content link: zero matches anywhere on the site (confirmed by grep). Added a components/skipLink.njk partial, included as the first focusable element in index.njk/note.njk/page.njk, targeting a new id=\"main-content\" on each layout's <main>. Visually hidden via transform (not clipped off-screen), appears on :focus. Matters more now that a MENU button/panel sits before main content on every page.",
+      "Search input/results had no screen-reader semantics: added aria-label to #term and role=\"status\" aria-live=\"polite\" to #search-results so screen readers get search-state announcements."
+    ],
+    "built": [
+      "Text-size control (A-/A/A+) in the menu's Preferences column, matching the feature wiobyrne.com's own menu already has (Header.astro) but the Digital Garden plugin itself does not expose to visitors. Uses %-based root font-size (90/100/115%) rather than fixed px, so it scales relative to whatever browser-level size preference the visitor already has rather than overriding it. Persisted via localStorage. Verified: no horizontal overflow even at the largest scale, since the site's spacing/type system is rem-based throughout."
+    ],
+    "vaultChange": "Enabled dgShowToc in .obsidian/plugins/digitalgarden/data.json defaultNoteSettings (was false) — a genuine plugin-native heading-based table of contents, useful for keyboard/screen-reader navigation of long newsletter issues. This only affects future publishes; existing published notes need a republish from Obsidian to pick up the new default. Not something this session can trigger — flagged for Ian.",
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "horizontalOverflow": "pass, including at 115% text scale",
+      "lightMode": "pass",
+      "darkMode": "pass (real toggle interaction)",
+      "keyboard": [
+        "Skip-link is the first tab stop on every page, activates and jumps to #main-content",
+        "Search button is now reachable via Tab (4th stop inside the open menu: Newsletter -> Subscribe -> Explore -> Search) and activates via Enter, opening the real search overlay",
+        "Text-size buttons sync aria-pressed correctly and persist across reload"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-26",
     "type": "polish pass",
     "brief": "Ian's read on the first commit: panel felt cluttered/messy, like a first draft. Reworked panel content, not the toggle mechanism.",
     "findings": [

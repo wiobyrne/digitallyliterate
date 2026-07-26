@@ -34,6 +34,14 @@
           <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
           <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
         </button>
+        <div class="garden-menu-textsize-row">
+          <span id="garden-menu-textsize-label">Text size</span>
+          <div class="garden-menu-textsize" role="group" aria-labelledby="garden-menu-textsize-label">
+            <button type="button" class="garden-menu-textsize__btn" data-text-scale="sm" aria-pressed="false">A−</button>
+            <button type="button" class="garden-menu-textsize__btn" data-text-scale="md" aria-pressed="true">A</button>
+            <button type="button" class="garden-menu-textsize__btn" data-text-scale="lg" aria-pressed="false">A+</button>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -86,6 +94,42 @@
         setMenuOpen(false, false);
       });
     }
+
+    var textScales = { sm: "90%", md: "100%", lg: "115%" };
+    var textScaleKey = "digitally-literate-text-scale";
+
+    function syncTextScaleButtons(scale) {
+      panel.querySelectorAll("[data-text-scale]").forEach(function (btn) {
+        btn.setAttribute("aria-pressed", String(btn.dataset.textScale === scale));
+      });
+    }
+
+    function setTextScale(scale) {
+      document.documentElement.style.fontSize = textScales[scale] || textScales.md;
+      try {
+        window.localStorage.setItem(textScaleKey, scale);
+      } catch (e) {
+        // ignore storage failures, in-memory change still applies
+      }
+      syncTextScaleButtons(scale);
+    }
+
+    function getStoredTextScale() {
+      try {
+        var stored = window.localStorage.getItem(textScaleKey);
+        return stored && textScales[stored] ? stored : "md";
+      } catch (e) {
+        return "md";
+      }
+    }
+
+    setTextScale(getStoredTextScale());
+
+    panel.querySelectorAll("[data-text-scale]").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        setTextScale(btn.dataset.textScale);
+      });
+    });
   })();
 </script>
 {% else %}
