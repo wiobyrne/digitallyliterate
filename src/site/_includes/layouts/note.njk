@@ -53,6 +53,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             {%- endif -%}
           </div>
           {%- endif -%}
+          {% include "components/tableOfContents.njk" %}
         </div>
       {% for imp in dynamics.common.header %}
         {% include imp %}
@@ -61,7 +62,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       </header>
-      {% include "components/tableOfContents.njk" %}
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}

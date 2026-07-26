@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-07-26",
+    "type": "polish pass",
+    "brief": "Ian's read on the first ToC commit: unclear where the homepage's 'Contents' links came from (they're the homepage's own two section headings — not very useful there), and asked to fold it into the existing eyebrow metadata row on note pages rather than a separate block.",
+    "fixed": [
+      "Removed the ToC from index.njk entirely — the homepage's 2 short section headings didn't justify a jump-to-section aid, and it visually competed with the hero right above it. Kept on note.njk (newsletter issues / notes), where long-form content actually benefits.",
+      "Moved the <details class=\"dl-toc\"> element to live inside .header-meta (the same row as tags/timestamps, both currently off by default) instead of as a separate bordered block below the whole header. .dl-toc-summary now inherits header-meta's mono/uppercase/tracked eyebrow voice by CSS inheritance rather than redeclaring it.",
+      "header-meta is now display:flex; flex-wrap:wrap so multiple eyebrow items (tags, timestamps, Contents) sit on one compact line when they fit. .dl-toc[open] gets flex-basis:100%, so the expanded link list claims the full row width and wraps onto its own line rather than being squeezed into a narrow flex slot — pure CSS, no JS."
+    ],
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass",
+      "homepageConfirmed": "0 dl-toc matches in rendered output",
+      "archiveConfirmed": "0 dl-toc matches — page.njk was never wired for ToC, unaffected"
+    }
+  },
+  {
+    "date": "2026-07-26",
     "type": "redesign",
     "brief": "Ian enabled dgShowToc and republished; the ToC went live on production but rendered at the very end of the article (sidebar.njk's <aside>, right before the footer) — defeating its purpose as a jump-to-section accessibility aid. Asked Hallmark to determine the best placement given DL's canonical contract explicitly forbids sidebars.",
     "findingsBeforeFix": [
