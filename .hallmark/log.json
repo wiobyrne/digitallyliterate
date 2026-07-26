@@ -1,5 +1,31 @@
 [
   {
+    "date": "2026-07-26",
+    "type": "redesign",
+    "brief": "Ian enabled dgShowToc and republished; the ToC went live on production but rendered at the very end of the article (sidebar.njk's <aside>, right before the footer) — defeating its purpose as a jump-to-section accessibility aid. Asked Hallmark to determine the best placement given DL's canonical contract explicitly forbids sidebars.",
+    "findingsBeforeFix": [
+      "sidebar.njk bundled ToC together with backlinks/local-graph in one end-of-article <aside>, all currently unused except ToC.",
+      "The plugin's base .toc CSS (digital-garden-base.scss) has @media (max-width: 1400px) { .toc { display: none; } } — a leftover from the original floating-sidebar design that only had room on very wide screens. This silently broke visibility at every normal viewport width once the ToC was moved in-flow, and took real CDP-level CSS debugging to find (it wasn't visible via querying document.styleSheets — the media-rule nesting made it easy to miss)."
+    ],
+    "fixed": [
+      "Extracted the ToC-specific block out of sidebar.njk into its own components/tableOfContents.njk, included right after the article <header> (before body content) in note.njk and index.njk. sidebar.njk keeps its backlinks/local-graph/dynamics-hooks responsibility, unchanged, still positioned at the end of the article where that content type belongs.",
+      "Wrapped it in a native <details>/<summary> disclosure — collapsed by default so it doesn't push every article down, expands via native browser keyboard/ARIA semantics (Enter/Space on the focused summary), zero custom JS needed for the toggle itself. The open/closed +/− glyph swap is pure CSS ([open] attribute selector).",
+      "Kept the plugin's existing .toc/.toc-container classes and all their nesting/indent/hover/active-state CSS as-is inside the new wrapper — that logic was already solid, only the outer wrapper and position needed to change.",
+      "Overrode the legacy 1400px display:none rule scoped to .dl-toc specifically, so it doesn't affect the old rule's original intent anywhere else it might still apply.",
+      "Overrode --dg-toc-max-height (70vh, sidebar-scroll-box sizing) to none — the in-flow list should never need internal scrolling."
+    ],
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass",
+      "keyboard": "pass — details/summary native toggle confirmed via actual Enter-key activation, not a click simulation; collapsed by default confirmed on load",
+      "scrollSpyPreserved": "pass — the active-heading-highlight-on-scroll script was relocated along with the ToC markup, not lost"
+    }
+  },
+  {
     "date": "2026-07-21",
     "macrostructure": "Illustrated Editorial Split + Notebook Index",
     "theme": "Garden",

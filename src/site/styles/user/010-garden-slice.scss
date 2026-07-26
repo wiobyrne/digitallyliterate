@@ -1,4 +1,5 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · redesign 2026-07-26: table-of-contents moved from an end-of-article <aside> (sidebar.njk, originally a floating-sidebar-only component hidden below 1400px) to an in-flow native <details>/<summary> disclosure right after the article header, collapsed by default. Respects the canonical DL contract's "single column, no sidebar, ever" — see components/tableOfContents.njk */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
 
 html {
@@ -366,6 +367,63 @@ body.dl-note .tag {
   font-size: 0.68rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
+}
+
+/* Table of contents — in-flow, before the body, never a sidebar (the
+   canonical DL contract is single-column with no sidebar, ever). A native
+   <details>/<summary> disclosure gives keyboard/screen-reader users a real
+   jump-to-section aid without permanently pushing content down. */
+.dl-toc {
+  margin: 0 0 clamp(1.75rem, 4vw, 2.75rem);
+}
+
+.dl-toc-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 2.4rem;
+  padding: 0.5rem 0;
+  cursor: pointer;
+  list-style: none;
+  color: var(--garden-ink-muted);
+  font-family: var(--garden-font-meta);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.dl-toc-summary::-webkit-details-marker { display: none; }
+.dl-toc-summary::marker { content: ""; }
+
+.dl-toc-summary:hover { color: var(--garden-leaf); }
+
+.dl-toc-summary__glyph {
+  display: inline-grid;
+  place-items: center;
+  width: 0.9rem;
+  height: 0.9rem;
+  font-family: var(--garden-font-ui);
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.dl-toc-summary__glyph::before { content: "+"; }
+.dl-toc[open] .dl-toc-summary__glyph::before { content: "\2212"; }
+
+.dl-toc .toc-container {
+  max-height: none;
+  overflow-y: visible;
+  padding-top: 0.5rem;
+  font-family: var(--garden-font-ui);
+  font-size: 0.92rem;
+}
+
+/* digital-garden-base.scss hides .toc below 1400px — a leftover from the
+   old floating-sidebar design, which only ever had room on very wide
+   screens. Now that the ToC is in-flow content, not a sidebar, it must
+   render at every width. */
+.dl-toc .toc-container .toc {
+  display: block !important;
 }
 
 body.dl-note blockquote {

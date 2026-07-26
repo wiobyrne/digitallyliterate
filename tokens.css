@@ -1,4 +1,5 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · redesign 2026-07-26: table-of-contents moved from an end-of-article <aside> (sidebar.njk, originally a floating-sidebar-only component hidden below 1400px) to an in-flow native <details>/<summary> disclosure right after the article header, collapsed by default. Respects the canonical DL contract's "single column, no sidebar, ever" — see components/tableOfContents.njk */
 :root {
   color-scheme: light dark;
 
