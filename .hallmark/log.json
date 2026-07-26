@@ -1,5 +1,76 @@
 [
   {
+    "date": "2026-07-25",
+    "type": "audit",
+    "brief": "Focused Hallmark audit on the footer content below the wordmark (newsletter column, link columns, colophon line) — copy voice, hierarchy, spacing, archetype fit.",
+    "auditFindings": { "critical": 0, "major": 1, "minor": 2 },
+    "fixed": [
+      "Stamp lies: the footer's own stamp declared 'Ft7 colophon plate.' Ft7 in the current cookbook is 'Newsletter first' (form-primary) — this footer has never had a signup form, the subscribe action is a plain link in the 'Read or subscribe' column. Corrected the stamp in tokens.css and 010-garden-slice.scss to accurately describe it as Ft3-family index columns (newsletter prose + two link columns) with an Ft4-style colophon line. The 2026-07-21 PR #14 log entry below is left as historical record, not rewritten."
+    ],
+    "flaggedNotFixed": [
+      "'The complete archive remains open while a curated public knowledge layer grows around it.' reads a little abstract/jargon-heavy versus the rest of the site's plain voice — copy is Ian's call, not touched.",
+      "The newsletter column has no CTA of its own, relies on the adjacent 'Read or subscribe' column — reasonable as-is, noted for awareness."
+    ],
+    "structureVerified": "Footer content unchanged otherwise: 3-column grid (newsletter prose / Read-or-subscribe / Elsewhere), colophon line, link-text conventions, hover/focus states, mobile single-column stacking below 40rem — all confirmed correct, no changes needed."
+  },
+  {
+    "date": "2026-07-25",
+    "type": "type-hierarchy policy",
+    "brief": "Ian reviewed the preview and questioned whether the Grenze 'Latest issues' heading helps wayfinding or just asks the reader to decipher blackletter. Reverted, and derived an explicit rule for where Grenze belongs across DL.",
+    "rule": "Grenze Gotisch is scoped to first-glance brand-identity moments only — text that is recognized once per session, not scanned or read under time pressure. It does not belong on functional/navigational text that identifies content or is scanned repeatedly.",
+    "grenzeRoles": [
+      "Masthead wordmark (persistent, small, every page)",
+      "Homepage hero H1 (once per homepage visit, the biggest identity statement on the site)",
+      "Footer wordmark ('Digitally Literate', once per page, closing identity mark — Ian's call, extending the rule)"
+    ],
+    "explicitlyNotGrenze": [
+      "Homepage 'Latest issues' index heading — reverted from Grenze back to upright Source Serif (also fixed a pre-existing italic-heading purity violation in the same rule)",
+      "Newsletter issue H1s (e.g. 'DL 438') — functional, per-issue, scanned every read; correctly untouched",
+      "Newsletter archive H1 ('Digitally Literate' on /newsletter/) — a utility/working page, not a first-glance identity moment; deliberately left Source Serif",
+      "Ordinary note/Evergreen/Grove titles, H2/H3 section heads, mono metadata, blockquote emphasis — untouched, all correct as-is"
+    ],
+    "resolved": "Footer wordmark moved to Grenze, weight 500 upright, letter-spacing loosened from -0.055em to 0. Ian's follow-up: dropped the decorative '/' prefix and sized down from clamp(2.25rem,7vw,4.8rem) to clamp(1.5rem,5vw,2.85rem) with white-space: nowrap, so it reads as a single line at every width rather than wrapping. Verified 320-1440px light+dark: one-line height confirmed at every breakpoint, no horizontal overflow."
+  },
+  {
+    "date": "2026-07-25",
+    "type": "audit + cleanup",
+    "brief": "Hallmark audit pass on design/grenze-gotisch-identity: checked Grenze consistency across DL, fixed font-hosting drift",
+    "auditFindings": {
+      "critical": 0,
+      "major": 2,
+      "minor": 3
+    },
+    "fixed": [
+      "Font-hosting drift: Source Serif 4 / Inter / JetBrains Mono were still loading from a Google Fonts @import in custom-style.scss even though self-hosted files already existed unused in src/site/fonts/. Added @font-face for all three (normal + Source Serif italic) in tokens.css and removed the Google Fonts @import — one self-hosting strategy for all four typefaces (incl. Grenze), zero external font network dependency.",
+      "Ian's call: .garden-index h2 ('Latest issues' homepage section heading) moved to --garden-font-identity, upright at weight 500, matching the hero — the one additional display role the original handoff allowed.",
+      "Ian's call: deleted the two unused committed font files (Inter-Italic, JetBrainsMono-Italic) — nothing in the design referenced them."
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "macrostructure": "Illustrated Editorial Split + Notebook Index",
+    "theme": "Garden",
+    "identityTest": "Grenze Gotisch (self-hosted OFL) via new --garden-font-identity token",
+    "scope": "masthead wordmark + homepage hero H1 only; reading/UI/mono roles unchanged",
+    "brief": "Grenze Gotisch identity-layer test on digitallyliterate.net, branch design/grenze-gotisch-identity",
+    "status": "branch-exploratory, not merged",
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass",
+      "surfacesChecked": ["homepage", "newsletter issue (dl-438)", "newsletter archive"]
+    },
+    "decisions": [
+      "Grenze Gotisch has no italic instance upstream; the homepage hero H1 goes upright (font-style: normal) instead of a synthesized faux-italic slant on a blackletter face.",
+      "Weight held at 500 for both masthead and hero, per the decision record that weight 600 reads as overtly gothic.",
+      "Ordinary post titles (e.g. DL issue H1s), the newsletter archive H1, and the footer wordmark stay in Source Serif 4 — Grenze is an identity-layer accent, not the reading voice.",
+      "No design.md emitted; vault design contract remains authoritative pending Ian's review of the draft PR."
+    ]
+  },
+  {
     "date": "2026-07-21",
     "macrostructure": "Illustrated Editorial Split + Notebook Index",
     "theme": "Garden",
