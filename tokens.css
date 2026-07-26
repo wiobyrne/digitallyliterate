@@ -1,6 +1,6 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft3 index-style columns (newsletter prose + Read-or-subscribe + Elsewhere) with an Ft4-style colophon line — corrected 2026-07-25, previously mislabeled Ft7 (newsletter-first/form-primary), which this footer has never been: there is no signup form, the subscribe action is a plain link */
-/* Hallmark · identity test: --garden-font-identity (Grenze Gotisch, self-hosted OFL) scoped to first-glance brand-identity moments only — masthead wordmark, homepage hero H1, footer wordmark. The homepage "Latest issues" index heading was tried in Grenze and reverted to upright Source Serif: it's a functional, repeatedly-scanned wayfinding label, not a brand moment, and blackletter density worked against fast reading there. · branch: design/grenze-gotisch-identity */
-/* Hallmark · cleanup: Source Serif 4 / Inter / JetBrains Mono self-hosted here too, replacing the Google Fonts @import in custom-style.scss — one font-loading strategy for all four typefaces, no external network dependency */
+/* Hallmark · identity test: --garden-font-identity (Grenze Gotisch, self-hosted OFL) is now the site's display face — every page-level H1 (homepage hero, subscribe, newsletter archive, every issue), plus the masthead and footer wordmarks. The homepage "Latest issues" index heading is the one exception, deliberately reverted to Source Serif: it's a functional, repeatedly-scanned wayfinding label, not a brand/title moment, and blackletter density fights fast reading there. · branch: design/grenze-gotisch-identity */
+/* Hallmark · type-system consolidation 2026-07-26: dropped to 3 font families per Hallmark's own "four families = slop" ceiling, now that Grenze appears on nearly every page and functions as a real display face, not a rare outlier. Grenze (display) + Source Serif 4 (body/reading) + JetBrains Mono (meta, nav, all UI chrome). Inter removed — --garden-font-ui now resolves to JetBrains Mono; its @font-face and font file are gone. This diverges from wiobyrne.com's shared Inter usage; a deliberate DL-specific call, same as the green-links/Grenze identity flips already are. · branch: design/type-system-consolidation */
 
 @font-face {
   font-family: "Grenze Gotisch";
@@ -30,15 +30,6 @@
 }
 
 @font-face {
-  font-family: "Inter";
-  src: url("/fonts/Inter-VariableFont_opsz_wght.ttf") format("truetype-variations"),
-       url("/fonts/Inter-VariableFont_opsz_wght.ttf") format("truetype");
-  font-weight: 100 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
   font-family: "JetBrains Mono";
   src: url("/fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype-variations"),
        url("/fonts/JetBrainsMono-VariableFont_wght.ttf") format("truetype");
@@ -63,7 +54,7 @@
   --garden-focus: oklch(47% 0.13 140 / 30%);
 
   --garden-font-read: "Source Serif 4", Georgia, serif;
-  --garden-font-ui: "Inter", system-ui, sans-serif;
+  --garden-font-ui: "JetBrains Mono", "Courier New", monospace;
   --garden-font-meta: "JetBrains Mono", monospace;
   --garden-font-identity: "Grenze Gotisch", var(--garden-font-read);
 
