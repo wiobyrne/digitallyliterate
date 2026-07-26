@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9-family closed state (wordmark + single MENU trigger) expanding into a 3-column overlay panel (Read / Explore / Preferences) — adapted from wiobyrne-astro's Header.astro, rebuilt in vanilla JS for Eleventy/Nunjucks, updated 2026-07-26 · footer: Ft7 colophon plate */
 :root {
   color-scheme: light dark;
 

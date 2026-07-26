@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-26",
+    "type": "nav archetype change",
+    "brief": "Add a MENU toggle + overlay panel, adapting the shared Apparatus pattern from wiobyrne-astro's Header.astro. Branch design/dl-menu-panel, off current production main (independent of the still-open Grenze identity PR #15).",
+    "nav": "N9-family closed state (wordmark + single MENU trigger, no inline links) expanding into a 3-column overlay panel: Read (Newsletter, Subscribe), Explore (Explore the garden — placeholder for Groves/Forests until those collections are populated), Preferences (search, light/dark toggle)",
+    "diversification": "Replaces the previous N9 utility bar (wordmark + 4 inline items). Same closed-state minimalism, new expand-on-demand mechanism.",
+    "decisions": [
+      "Panel is position:absolute overlay, not in-flow — avoids animating a layout property (max-height) to satisfy the motion discipline; only opacity + transform animate, panel visibility otherwise toggled via aria-hidden + inert.",
+      "Reused existing components as-is: searchButton.njk (plugin-managed onclick handler) and the .garden-theme-toggle button (its bootstrap script in 001-garden-theme.njk uses querySelector, unaffected by relocation into the panel).",
+      "'Explore the garden' link points to the existing /start-here/ route and reuses the homepage's own copy for the same concept — no fabricated /groves/ or /forests/ route invented.",
+      "Fixed a visual artifact during build/test: the homepage's absolutely-positioned hero-grove illustration poked out below the panel's bottom edge when open. Hidden via opacity while the menu is open (aria-hidden decorative element, zero information loss)."
+    ],
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "pagesChecked": ["homepage", "newsletter issue (dl-438)", "newsletter archive"],
+      "horizontalOverflow": "pass, open and closed states",
+      "lightMode": "pass",
+      "darkMode": "pass (verified via the real toggle interaction, not a class hack)",
+      "keyboard": "pass — Escape closes + returns focus to toggle; outside-click closes; Tab reaches panel content only when open (inert blocks it when closed); focus-visible ring confirmed in both themes",
+      "searchIntegration": "pass — clicking the relocated search button still opens the plugin's search overlay (.search-container gains .active) and auto-closes the menu panel"
+    }
+  },
+  {
     "date": "2026-07-21",
     "macrostructure": "Illustrated Editorial Split + Notebook Index",
     "theme": "Garden",

@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft7 colophon plate */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9-family closed state (wordmark + single MENU trigger) expanding into a 3-column overlay panel (Read / Explore / Preferences) — adapted from wiobyrne-astro's Header.astro, rebuilt in vanilla JS for Eleventy/Nunjucks, updated 2026-07-26 · footer: Ft7 colophon plate */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
 
 html {
@@ -145,55 +145,138 @@ body.dl-note :focus-visible {
   color: var(--garden-leaf);
 }
 
-.garden-masthead__nav {
+.garden-menu-toggle {
+  min-width: 44px;
   min-height: 44px;
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  justify-content: flex-end;
-  gap: 0.5rem;
-  font-family: var(--garden-font-ui);
-  font-size: 0.69rem;
+  gap: 0.55rem;
+  padding: 0.5rem 0.85rem;
+  background: var(--garden-paper-muted);
+  border: var(--garden-rule-width) solid var(--garden-rule);
+  border-radius: 0;
+  color: var(--garden-ink);
+  font-family: var(--garden-font-meta);
+  font-size: 0.68rem;
   font-weight: 600;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: color var(--garden-ease), border-color var(--garden-ease), background var(--garden-ease);
+}
+
+.garden-menu-toggle:hover {
+  color: var(--garden-leaf);
+  border-color: var(--garden-leaf);
+}
+
+.garden-menu-toggle__glyph {
+  display: inline-grid;
+  place-items: center;
+  width: 0.85rem;
+  height: 0.85rem;
+  font-size: 0.95rem;
+  line-height: 1;
+  font-weight: 400;
+  pointer-events: none;
+}
+
+.garden-masthead[data-menu-open="true"] .garden-menu-toggle {
+  color: var(--garden-leaf);
+  border-color: var(--garden-leaf);
+}
+
+.garden-menu-panel {
+  position: absolute;
+  z-index: 30;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--garden-paper);
+  border-bottom: var(--garden-rule-width) solid var(--garden-rule);
+  opacity: 0;
+  transform: translateY(-0.35rem);
+  pointer-events: none;
+  transition: opacity var(--garden-ease), transform var(--garden-ease);
+}
+
+.garden-masthead[data-menu-open="true"] .garden-menu-panel {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.garden-menu-panel__inner {
+  width: 100%;
+  max-width: calc(var(--garden-shell) + 3rem);
+  margin: 0 auto;
+  padding: var(--garden-space-lg) var(--garden-gutter) var(--garden-space-xl);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+  gap: var(--garden-space-xl);
+}
+
+.garden-menu-column {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.garden-menu-column__label {
+  margin: 0 0 0.5rem;
+  color: var(--garden-ink-muted);
+  font-family: var(--garden-font-meta);
+  font-size: 0.66rem;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
 }
 
-.garden-masthead__nav > a,
-.garden-masthead__nav > button,
-.garden-masthead__nav .search-button {
-  min-width: 44px;
+.garden-menu-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  min-height: 2.2rem;
+  padding: 0.2rem 0;
+  color: var(--garden-leaf) !important;
+  font-family: var(--garden-font-ui);
+  font-size: 0.92rem;
+  text-decoration: none !important;
+}
+
+.garden-menu-link:hover { color: var(--garden-leaf-hover) !important; }
+
+.garden-menu-link span { color: var(--garden-clay); }
+
+.garden-menu-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.garden-menu-controls .search-button,
+.garden-menu-controls .garden-theme-toggle {
   min-height: 44px;
-  padding: 0.65rem 0.5rem;
+  padding: 0.3rem 0;
   display: inline-flex;
   align-items: center;
-  justify-content: center;
-  color: var(--garden-ink) !important;
+  gap: 0.5rem;
   background: transparent !important;
   border: 0 !important;
   border-radius: 0 !important;
   box-shadow: none !important;
-  font: inherit;
-  letter-spacing: inherit;
-  text-decoration: none !important;
-  text-transform: inherit;
+  color: var(--garden-ink) !important;
+  font-family: var(--garden-font-ui);
+  font-size: 0.92rem;
+  text-transform: none;
+  letter-spacing: normal;
 }
 
-.garden-masthead__nav > a:hover,
-.garden-masthead__nav > button:hover,
-.garden-masthead__nav .search-button:hover {
+.garden-menu-controls .search-button:hover,
+.garden-menu-controls .garden-theme-toggle:hover {
   color: var(--garden-leaf) !important;
-}
-
-.garden-masthead__nav > a:active,
-.garden-masthead__nav > button:active,
-.garden-masthead__nav .search-button:active {
-  color: var(--garden-leaf-hover) !important;
-}
-
-.garden-masthead__nav > button:disabled,
-.garden-masthead__nav .search-button:disabled {
-  opacity: 0.55;
-  cursor: not-allowed;
 }
 
 .garden-theme-toggle { gap: 0.4rem; cursor: pointer; }
@@ -222,6 +305,14 @@ body.dl-home .content {
   margin: 0;
   color: var(--garden-leaf);
   pointer-events: none;
+  transition: opacity var(--garden-ease);
+}
+
+/* the hero illustration sits taller than the menu panel's usual close
+   point on the homepage, so hide it while the panel is open rather than
+   let its lower branches poke out from under an otherwise opaque overlay */
+.garden-masthead[data-menu-open="true"] ~ main .garden-hero-grove {
+  opacity: 0;
 }
 
 .garden-hero-grove svg {
@@ -651,8 +742,8 @@ body.dl-note table { border-radius: 0 !important; }
 .footer-link-list a span { color: var(--garden-clay); }
 
 .footer-link-list a,
-.garden-masthead__nav a,
-.garden-masthead__nav button { white-space: nowrap; }
+.garden-menu-link,
+.garden-menu-toggle { white-space: nowrap; }
 
 .footer-maker {
   display: flex;
@@ -684,8 +775,12 @@ body.dl-note table { border-radius: 0 !important; }
 @media (max-width: 40rem) {
   .garden-masthead__inner { min-height: 3.75rem; gap: 0.5rem; }
   .garden-masthead__wordmark { font-size: 0.96rem; gap: 0.5rem; }
-  .garden-masthead__nav { gap: 0; }
-  .garden-nav-subscribe { display: none !important; }
+
+  .garden-menu-panel__inner {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--garden-space-lg);
+    padding: var(--garden-space-md) var(--garden-gutter) var(--garden-space-lg);
+  }
 
   body.dl-home .content,
   body.dl-note .content {

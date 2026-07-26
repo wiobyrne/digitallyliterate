@@ -1,23 +1,99 @@
 {% if settings.dgHomeLink === true %}
-<header class="navbar garden-masthead">
+<header class="navbar garden-masthead" data-menu-open="false">
   <div class="garden-masthead__inner">
     <a class="garden-masthead__wordmark" href="/" aria-label="{{ meta.siteName }} home">
       <span class="regmark regmark--crosshair garden-brand-mark" aria-hidden="true"></span>
       <span>{{ meta.siteName }}</span>
     </a>
-    <nav class="garden-masthead__nav" aria-label="Primary navigation">
-      <a href="/newsletter/">Newsletter</a>
-      <a class="garden-nav-subscribe" href="/subscribe/">Subscribe</a>
-      {% if settings.dgEnableSearch === true %}
-        {% include "components/searchButton.njk" %}
-      {% endif %}
-      <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
-        <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
-        <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
-      </button>
-    </nav>
+    <button
+      type="button"
+      class="garden-menu-toggle"
+      aria-expanded="false"
+      aria-controls="garden-menu-panel"
+    >
+      <span class="garden-menu-toggle__label">Menu</span>
+      <span class="garden-menu-toggle__glyph" aria-hidden="true">+</span>
+    </button>
+  </div>
+
+  <div id="garden-menu-panel" class="garden-menu-panel" aria-hidden="true">
+    <div class="garden-menu-panel__inner">
+      <nav class="garden-menu-column" aria-labelledby="garden-menu-read-label">
+        <p class="garden-menu-column__label" id="garden-menu-read-label">Read</p>
+        <a class="garden-menu-link" href="/newsletter/">Newsletter <span aria-hidden="true">→</span></a>
+        <a class="garden-menu-link" href="/subscribe/">Subscribe <span aria-hidden="true">→</span></a>
+      </nav>
+
+      <nav class="garden-menu-column" aria-labelledby="garden-menu-explore-label">
+        <p class="garden-menu-column__label" id="garden-menu-explore-label">Explore</p>
+        <a class="garden-menu-link" href="/start-here/">Explore the garden <span aria-hidden="true">→</span></a>
+      </nav>
+
+      <div class="garden-menu-column" aria-labelledby="garden-menu-prefs-label">
+        <p class="garden-menu-column__label" id="garden-menu-prefs-label">Preferences</p>
+        <div class="garden-menu-controls">
+          {% if settings.dgEnableSearch === true %}
+            {% include "components/searchButton.njk" %}
+          {% endif %}
+          <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
+            <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
+            <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
+
+<script>
+  (function () {
+    var header = document.querySelector(".garden-masthead");
+    var toggle = header ? header.querySelector(".garden-menu-toggle") : null;
+    var panel = document.getElementById("garden-menu-panel");
+    var glyph = toggle ? toggle.querySelector(".garden-menu-toggle__glyph") : null;
+    if (!header || !toggle || !panel) return;
+
+    function setMenuOpen(open, returnFocus) {
+      header.setAttribute("data-menu-open", String(open));
+      toggle.setAttribute("aria-expanded", String(open));
+      panel.setAttribute("aria-hidden", String(!open));
+      panel.toggleAttribute("inert", !open);
+      if (glyph) glyph.textContent = open ? "×" : "+";
+      if (!open && returnFocus) toggle.focus();
+    }
+
+    setMenuOpen(false, false);
+
+    toggle.addEventListener("click", function () {
+      setMenuOpen(header.getAttribute("data-menu-open") !== "true", false);
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && header.getAttribute("data-menu-open") === "true") {
+        setMenuOpen(false, true);
+      }
+    });
+
+    document.addEventListener("pointerdown", function (event) {
+      if (header.getAttribute("data-menu-open") === "true" && !header.contains(event.target)) {
+        setMenuOpen(false, false);
+      }
+    });
+
+    panel.querySelectorAll("a[href]").forEach(function (link) {
+      link.addEventListener("click", function () {
+        setMenuOpen(false, false);
+      });
+    });
+
+    var searchButton = panel.querySelector(".search-button");
+    if (searchButton) {
+      searchButton.addEventListener("click", function () {
+        setMenuOpen(false, false);
+      });
+    }
+  })();
+</script>
 {% else %}
 <div class="empty-navbar">
   {% if settings.dgEnableSearch === true %}
