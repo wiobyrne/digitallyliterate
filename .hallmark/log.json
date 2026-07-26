@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-07-26",
+    "type": "polish pass",
+    "brief": "Ian's read on the first commit: panel felt cluttered/messy, like a first draft. Reworked panel content, not the toggle mechanism.",
+    "findings": [
+      "3 columns with 2/1/2 item weights left 'Explore' looking sparse and 'Preferences' unbalanced against 'Read'.",
+      "The relocated search control showed only a bare icon (its .search-text is display:none by default site-wide) — no label, unlike every other row, and floated with a large gap above the theme toggle.",
+      "Inconsistent row rhythm: Read/Subscribe links used one height+gap system, the Preferences controls used a different flex-column gap — nothing lined up."
+    ],
+    "fixed": [
+      "Merged Read + Explore into one 'Navigate' column (Newsletter, Subscribe, Explore the garden) — 3 balanced items against Preferences' 2, no more single-item column.",
+      "Every row (links and controls) now shares one rule: min-height 2.4rem, hairline top rule, last-child gets a matching bottom rule — reads as one consistent list down each column instead of two different systems glued together.",
+      "Search control now shows its icon + 'Search' label (the same leading-icon + label pattern the Dark toggle already used), with the Ctrl+K keys badge hidden for parity — previously an inconsistent bare icon."
+    ],
+    "validation": {
+      "build": "pass",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "horizontalOverflow": "pass",
+      "lightMode": "pass",
+      "darkMode": "pass (real toggle interaction)",
+      "keyboard": "pass — Escape/outside-click/focus-return/tab-order all re-verified after the markup change"
+    }
+  },
+  {
+    "date": "2026-07-26",
     "type": "nav archetype change",
     "brief": "Add a MENU toggle + overlay panel, adapting the shared Apparatus pattern from wiobyrne-astro's Header.astro. Branch design/dl-menu-panel, off current production main (independent of the still-open Grenze identity PR #15).",
     "nav": "N9-family closed state (wordmark + single MENU trigger, no inline links) expanding into a 3-column overlay panel: Read (Newsletter, Subscribe), Explore (Explore the garden — placeholder for Groves/Forests until those collections are populated), Preferences (search, light/dark toggle)",

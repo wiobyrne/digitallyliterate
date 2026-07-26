@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9-family closed state (wordmark + single MENU trigger) expanding into a 3-column overlay panel (Read / Explore / Preferences) — adapted from wiobyrne-astro's Header.astro, rebuilt in vanilla JS for Eleventy/Nunjucks, updated 2026-07-26 · footer: Ft7 colophon plate */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9-family closed state (wordmark + single MENU trigger) expanding into a 2-column overlay panel (Navigate / Preferences) — adapted from wiobyrne-astro's Header.astro, rebuilt in vanilla JS for Eleventy/Nunjucks, revised to 2 columns after a polish pass, updated 2026-07-26 · footer: Ft7 colophon plate */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
 
 html {
@@ -212,7 +212,7 @@ body.dl-note :focus-visible {
   margin: 0 auto;
   padding: var(--garden-space-lg) var(--garden-gutter) var(--garden-space-xl);
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
   gap: var(--garden-space-xl);
 }
 
@@ -220,11 +220,10 @@ body.dl-note :focus-visible {
   min-width: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
 }
 
 .garden-menu-column__label {
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.35rem;
   color: var(--garden-ink-muted);
   font-family: var(--garden-font-meta);
   font-size: 0.66rem;
@@ -232,16 +231,25 @@ body.dl-note :focus-visible {
   text-transform: uppercase;
 }
 
-.garden-menu-link {
+.garden-menu-link,
+.garden-menu-panel .search-button,
+.garden-menu-panel .garden-theme-toggle {
+  min-height: 2.4rem;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-  min-height: 2.2rem;
-  padding: 0.2rem 0;
-  color: var(--garden-leaf) !important;
+  gap: 0.55rem;
+  border-top: var(--garden-rule-width) solid var(--garden-rule);
   font-family: var(--garden-font-ui);
   font-size: 0.92rem;
+}
+
+.garden-menu-column > :last-child {
+  border-bottom: var(--garden-rule-width) solid var(--garden-rule);
+}
+
+.garden-menu-link {
+  justify-content: space-between;
+  color: var(--garden-leaf) !important;
   text-decoration: none !important;
 }
 
@@ -249,38 +257,36 @@ body.dl-note :focus-visible {
 
 .garden-menu-link span { color: var(--garden-clay); }
 
-.garden-menu-controls {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 0.5rem;
-}
-
-.garden-menu-controls .search-button,
-.garden-menu-controls .garden-theme-toggle {
-  min-height: 44px;
-  padding: 0.3rem 0;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5rem;
+.garden-menu-panel .search-button,
+.garden-menu-panel .garden-theme-toggle {
+  justify-content: flex-start;
+  padding: 0;
   background: transparent !important;
-  border: 0 !important;
+  border-left: 0 !important;
+  border-right: 0 !important;
   border-radius: 0 !important;
   box-shadow: none !important;
   color: var(--garden-ink) !important;
-  font-family: var(--garden-font-ui);
-  font-size: 0.92rem;
   text-transform: none;
   letter-spacing: normal;
+  cursor: pointer;
 }
 
-.garden-menu-controls .search-button:hover,
-.garden-menu-controls .garden-theme-toggle:hover {
+.garden-menu-panel .search-button:hover,
+.garden-menu-panel .garden-theme-toggle:hover {
   color: var(--garden-leaf) !important;
 }
 
-.garden-theme-toggle { gap: 0.4rem; cursor: pointer; }
-.garden-theme-toggle__mark { width: 0.85rem; height: 0.85rem; }
+.garden-menu-panel .search-button .search-icon svg,
+.garden-menu-panel .garden-theme-toggle__mark {
+  width: 0.95rem;
+  height: 0.95rem;
+  flex: 0 0 auto;
+}
+
+.garden-menu-panel .search-button .search-text { display: inline !important; }
+.garden-menu-panel .search-button .search-keys { display: none !important; }
+
 .garden-theme-toggle__label { pointer-events: none; }
 
 body.dl-home .content,

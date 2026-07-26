@@ -18,28 +18,22 @@
 
   <div id="garden-menu-panel" class="garden-menu-panel" aria-hidden="true">
     <div class="garden-menu-panel__inner">
-      <nav class="garden-menu-column" aria-labelledby="garden-menu-read-label">
-        <p class="garden-menu-column__label" id="garden-menu-read-label">Read</p>
+      <nav class="garden-menu-column" aria-labelledby="garden-menu-navigate-label">
+        <p class="garden-menu-column__label" id="garden-menu-navigate-label">Navigate</p>
         <a class="garden-menu-link" href="/newsletter/">Newsletter <span aria-hidden="true">→</span></a>
         <a class="garden-menu-link" href="/subscribe/">Subscribe <span aria-hidden="true">→</span></a>
-      </nav>
-
-      <nav class="garden-menu-column" aria-labelledby="garden-menu-explore-label">
-        <p class="garden-menu-column__label" id="garden-menu-explore-label">Explore</p>
         <a class="garden-menu-link" href="/start-here/">Explore the garden <span aria-hidden="true">→</span></a>
       </nav>
 
       <div class="garden-menu-column" aria-labelledby="garden-menu-prefs-label">
         <p class="garden-menu-column__label" id="garden-menu-prefs-label">Preferences</p>
-        <div class="garden-menu-controls">
-          {% if settings.dgEnableSearch === true %}
-            {% include "components/searchButton.njk" %}
-          {% endif %}
-          <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
-            <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
-            <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
-          </button>
-        </div>
+        {% if settings.dgEnableSearch === true %}
+          {% include "components/searchButton.njk" %}
+        {% endif %}
+        <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
+          <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
+          <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
+        </button>
       </div>
     </div>
   </div>
