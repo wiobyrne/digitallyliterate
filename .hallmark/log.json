@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-26",
+    "type": "type-system consolidation",
+    "brief": "Ian asked for Grenze on every page-level H1 (hero, /subscribe/, /newsletter/ archive, every issue) and asked Hallmark to confirm the resulting pairing. Applying Hallmark's own '2+1 rule' (three faces is the ceiling, four families = slop) meant something had to go once Grenze stopped being a rare identity accent and became the site's real display face on nearly every page.",
+    "branch": "design/type-system-consolidation",
+    "decision": "Dropped Inter. DL is now a 3-family system: Grenze Gotisch (display, on every page-level H1 at weight 500 upright, plus masthead/footer wordmarks) + Source Serif 4 (body/reading) + JetBrains Mono (meta, nav, all UI chrome — absorbed Inter's old role). Ian confirmed this via explicit choice between keeping 4 families or dropping to 3; chose 3.",
+    "supersedes": "The 2026-07-25 'type-hierarchy policy' entry below, which scoped Grenze to first-glance identity moments only and explicitly kept newsletter issue H1s and the archive H1 on Source Serif. Ian's 2026-07-26 request reverses that scope on purpose — left as historical record, not rewritten.",
+    "changed": [
+      "010-garden-slice.scss: body.dl-home .content > h1, body.dl-note .content h1 — font-family to var(--garden-font-identity), weight 600 to 500, font-style made explicit normal",
+      "tokens.css: --garden-font-ui and custom-style.scss --font-sans repointed from Inter to \"JetBrains Mono\", \"Courier New\", monospace",
+      "Removed Inter's @font-face block from tokens.css and deleted src/site/fonts/Inter-VariableFont_opsz_wght.ttf (fully unused after the swap)"
+    ],
+    "validation": {
+      "build": "pass (npm run build, 455 files)",
+      "test": "pass (vitest, 4/4)",
+      "viewports": [320, 375, 414, 768, 1024, 1440],
+      "pagesChecked": ["/", "/subscribe/", "/newsletter/", "/dl-440/"],
+      "findings": "No horizontal overflow at any width on any page. H1 computed font-family confirmed Grenze Gotisch at weight 500/normal on all four page types. Nav links confirmed JetBrains Mono, single-line at 320/375/414px (no wrap regression from the wider mono metrics). Dark mode toggle (real click, not class injection) confirmed correct ink color. Full grep of src/ and dist/ confirmed zero remaining Inter font-family or @font-face references."
+    },
+    "status": "branch-exploratory, not merged"
+  },
+  {
     "date": "2026-07-25",
     "type": "audit",
     "brief": "Focused Hallmark audit on the footer content below the wordmark (newsletter column, link columns, colophon line) — copy voice, hierarchy, spacing, archetype fit.",

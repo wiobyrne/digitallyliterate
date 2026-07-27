@@ -1,5 +1,6 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft3 index-style columns (newsletter prose + Read-or-subscribe + Elsewhere) with an Ft4-style colophon line — corrected 2026-07-25, previously mislabeled Ft7 (newsletter-first/form-primary), which this footer has never been: there is no signup form, the subscribe action is a plain link */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
+/* Hallmark · type-system consolidation 2026-07-26: 3 font families now — Grenze Gotisch (display, every page H1 + masthead + footer), Source Serif 4 (body/reading), JetBrains Mono (meta, nav, all UI chrome — absorbed Inter's old role via --garden-font-ui). See tokens.css for the full stamp. */
 
 html {
   overflow-x: clip;
@@ -325,22 +326,22 @@ body.dl-note .content h1 {
   min-width: 0;
   overflow-wrap: anywhere;
   color: var(--garden-ink);
-  font-family: var(--garden-font-read);
+  font-family: var(--garden-font-identity);
   font-size: clamp(2.5rem, 8vw, 4.75rem);
-  font-weight: 600;
+  font-weight: 500;
+  /* Grenze Gotisch ships no italic instance — see the homepage hero override
+     below for the same note. Every page-level H1 now shares this identity
+     treatment: subscribe, the newsletter archive, and every issue. */
+  font-style: normal;
   letter-spacing: -0.045em;
   line-height: 0.98;
 }
 
 body.dl-home .content > h1:first-of-type {
+  /* font-family/weight/style now inherited from the shared h1 rule above */
   max-width: none;
   margin: 0 0 1rem;
-  font-family: var(--garden-font-identity);
   font-size: clamp(2rem, 6.3vw, 4rem);
-  font-weight: 500;
-  /* Grenze Gotisch ships no italic instance — a synthesized slant on a
-     blackletter face reads as broken, so the identity hero goes upright. */
-  font-style: normal;
   white-space: nowrap;
 }
 

@@ -3,8 +3,10 @@
  * Token source: wiobyrne-astro/src/styles/tokens.css (locked 2026-04-23)
  * Typography rule: "serif = read, sans = navigate"
  * Accent: #006d48 — DL only, never wiobyrne.com
- * Fonts: self-hosted via tokens.css @font-face (Source Serif 4, Inter,
+ * Fonts: self-hosted via tokens.css @font-face (Source Serif 4,
  * JetBrains Mono, Grenze Gotisch) — no Google Fonts network dependency.
+ * Inter removed 2026-07-26: DL is a 3-family system now (Grenze display,
+ * Source Serif body, JetBrains Mono for meta/nav/all UI chrome).
  */
 
 /* ── Reset ─────────────────────────────────── */
@@ -21,7 +23,7 @@ body {
 /* ── Design Tokens — light (default) ─────── */
 :root {
   --font-serif: "Source Serif 4", Georgia, serif;
-  --font-sans:  "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-sans:  "JetBrains Mono", "Courier New", monospace;
   --font-mono:  "JetBrains Mono", "Courier New", monospace;
 
   --bg-page:       #f9f9f7;
