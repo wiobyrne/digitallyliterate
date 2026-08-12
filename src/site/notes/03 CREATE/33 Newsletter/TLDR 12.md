@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-12","permalink":"/tldr-12/","title":"Too Long; Didn't Read Issue 12","tags":["digital-literacy","education-technology","vialogues","video-annotation","teacher-education","little-free-libraries","tech-independence","visual-thinking","jane-mcgonigal","gamification","star-wars"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 12","created":"2015-09-11","last_updated":"2025-12-15","status":"evergreen","categories":"Newsletter","tags":["digital-literacy","education-technology","vialogues","video-annotation","teacher-education","little-free-libraries","tech-independence","visual-thinking","jane-mcgonigal","gamification","star-wars"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[Vialogues\|Vialogues]]","[[Teacher Education Technology\|Teacher Education Technology]]","[[Tech Independence\|Tech Independence]]","[[01 CONSUME/16 People/Jane McGonigal\|Jane McGonigal]]","[[Visual Thinking\|Visual Thinking]]"],"shelf":"archived","description":"Vialogues for video discussion scaffolding, Key & Peele's Teaching Center satire, Little Free Library permit battles, teacher education tech struggles, Dan Gilmour leaving big tech, Jane McGonigal's SuperBetter, cat's-eye Google Street View, and Star Wars creative tools."}}
+{"dg-publish":true,"dg-permalink":"tldr-12","permalink":"/tldr-12/","title":"Too Long; Didn't Read Issue 12","tags":["digital-literacy","education-technology","vialogues","video-annotation","teacher-education","little-free-libraries","tech-independence","visual-thinking","jane-mcgonigal","gamification","star-wars"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 12","created":"2015-09-11","last_updated":"2025-12-15","status":"evergreen","categories":"Newsletter","tags":["digital-literacy","education-technology","vialogues","video-annotation","teacher-education","little-free-libraries","tech-independence","visual-thinking","jane-mcgonigal","gamification","star-wars"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter]]","[[Vialogues\|Vialogues]]","[[Teacher Education Technology\|Teacher Education Technology]]","[[Tech Independence\|Tech Independence]]","[[Jane McGonigal\|Jane McGonigal]]","[[Visual Thinking\|Visual Thinking]]"],"shelf":"archived","description":"Vialogues for video discussion scaffolding, Key & Peele's Teaching Center satire, Little Free Library permit battles, teacher education tech struggles, Dan Gilmour leaving big tech, Jane McGonigal's SuperBetter, cat's-eye Google Street View, and Star Wars creative tools."}}
 ---
 
 # TLDR 12
@@ -129,11 +129,11 @@ The cat's-eye Street View from Hiroshima is delightful absurdity—tourism offic
 - **[[Tech Independence\|Tech Independence]]** — Dan Gilmour leaving big tech, need for alternative models.
 - **[[Little Free Libraries\|Little Free Libraries]]** — Municipal permit battles against "give one, take one" book exchanges.
 - **[[Visual Thinking\|Visual Thinking]]** — Anna Vital on visual analogies, sketchnoting experiments.
-- **[[01 CONSUME/16 People/Jane McGonigal\|Jane McGonigal]]** — SuperBetter gamification for resilience and life challenges.
+- **[[Jane McGonigal\|Jane McGonigal]]** — SuperBetter gamification for resilience and life challenges.
 - **[[Google Street View\|Google Street View]]** — Cat's-eye Hiroshima map, documenting your world.
 - **[[Star Wars Creative Tools\|Star Wars Creative Tools]]** — Crawl creator, Shakespeare sonnets, YodaSpeak generator.
 - **[[03 CREATE/35 Courses/IT&DML Program\|IT&DML Program]]** — UNH program helping practicing teachers with authentic tech use.
-- **[[01 CONSUME/17 Quotes/Steve Jobs quotes\|Steve Jobs quotes]]** — Connecting dots backwards, trusting future patterns.
+- **[[Steve Jobs quotes\|Steve Jobs quotes]]** — Connecting dots backwards, trusting future patterns.
 
 ---
 

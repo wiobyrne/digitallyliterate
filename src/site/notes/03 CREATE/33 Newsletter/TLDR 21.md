@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-21","permalink":"/tldr-21/","title":"Too Long; Didn't Read Issue 21","tags":["digital-literacy","education-technology","medium","syndication","web-literacy","philosophy","alain-de-botton","salman-rushdie","the-message","running","meditation","jane-mcgonigal","gameful-mindset","clay-shirky","coding-literacy","paulo-freire","star-wars"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 21","created":"2015-11-13","last_updated":"2025-12-16","status":"evergreen","categories":"Newsletter","tags":["digital-literacy","education-technology","medium","syndication","web-literacy","philosophy","alain-de-botton","salman-rushdie","the-message","running","meditation","jane-mcgonigal","gameful-mindset","clay-shirky","coding-literacy","paulo-freire","star-wars"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[Medium\|Medium]]","[[Web Literacy Map\|Web Literacy Map]]","[[30-Day Challenge\|30-Day Challenge]]","[[01 CONSUME/16 People/Jane McGonigal\|Jane McGonigal]]","[[Paulo Freire\|Paulo Freire]]"],"shelf":"archived","description":"Publishing and syndicating content on Medium, Web Literacy 2.0 MozFest launch feedback request, Alain de Botton philosophy interview regretting lack in education, Salman Rushdie on writing creativity magic evil pleasure, The Message sci-fi podcast, why writers run creating quiet mind, 30-day meditation habit, Jane McGonigal's gameful mindset with Tetris recommendation, Clay Shirky on higher ed digital revolution complicity, coding as literacy Paulo Freire make and remake themselves, and Star Wars Code.org program."}}
+{"dg-publish":true,"dg-permalink":"tldr-21","permalink":"/tldr-21/","title":"Too Long; Didn't Read Issue 21","tags":["digital-literacy","education-technology","medium","syndication","web-literacy","philosophy","alain-de-botton","salman-rushdie","the-message","running","meditation","jane-mcgonigal","gameful-mindset","clay-shirky","coding-literacy","paulo-freire","star-wars"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 21","created":"2015-11-13","last_updated":"2025-12-16","status":"evergreen","categories":"Newsletter","tags":["digital-literacy","education-technology","medium","syndication","web-literacy","philosophy","alain-de-botton","salman-rushdie","the-message","running","meditation","jane-mcgonigal","gameful-mindset","clay-shirky","coding-literacy","paulo-freire","star-wars"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter]]","[[Medium\|Medium]]","[[Web Literacy Map\|Web Literacy Map]]","[[30-Day Challenge\|30-Day Challenge]]","[[Jane McGonigal\|Jane McGonigal]]","[[Paulo Freire\|Paulo Freire]]"],"shelf":"archived","description":"Publishing and syndicating content on Medium, Web Literacy 2.0 MozFest launch feedback request, Alain de Botton philosophy interview regretting lack in education, Salman Rushdie on writing creativity magic evil pleasure, The Message sci-fi podcast, why writers run creating quiet mind, 30-day meditation habit, Jane McGonigal's gameful mindset with Tetris recommendation, Clay Shirky on higher ed digital revolution complicity, coding as literacy Paulo Freire make and remake themselves, and Star Wars Code.org program."}}
 ---
 
 # TLDR 21
@@ -150,7 +150,7 @@ Lincoln's quote: the philosophy of the school room in one generation will be the
 
 - **[[Medium\|Medium]]** — Publishing and syndicating content, answering "why move over to Medium."
 - **[[Web Literacy Map\|Web Literacy Map]]** — Version 2.0 launched at MozFest, working since inception.
-- **[[01 CONSUME/16 People/Alain de Botton\|Alain de Botton]]** — Philosophy interview on Tim Ferriss, School of Life subscription.
+- **[[Alain de Botton\|Alain de Botton]]** — Philosophy interview on Tim Ferriss, School of Life subscription.
 - **[[School of Life\|School of Life]]** — YouTube channel after listening to Alain on podcast.
 - **[[Salman Rushdie\|Salman Rushdie]]** — Terrible title, but interview about writing, creativity, magic, evil, pleasure.
 - **[[The Message\|The Message]]** — Sci-fi podcast for Serial fans, Mac Rogers on serialized drama rules.
@@ -158,7 +158,7 @@ Lincoln's quote: the philosophy of the school room in one generation will be the
 - **[[Nick Ripatrazone\|Nick Ripatrazone]]** — Why writers run, creativity and creating quiet in mind.
 - **[[30-Day Challenge\|30-Day Challenge]]** — Meditation habit formation, clearing heads out.
 - **[[Laura Hilliger\|Laura Hilliger]]** — Post on structure and routine, clearing out your head.
-- **[[01 CONSUME/16 People/Jane McGonigal\|Jane McGonigal]]** — Gameful mindset for daily challenges, SuperBetter book and app.
+- **[[Jane McGonigal\|Jane McGonigal]]** — Gameful mindset for daily challenges, SuperBetter book and app.
 - **[[Tetris\|Tetris]]** — Play five minutes before bed, Tetroid app without ads and fluff.
 - **[[Challenging Games\|Challenging Games]]** — New research on engagement and learning through games.
 - **[[Clay Shirky\|Clay Shirky]]** — Digital revolution in higher ed already happened, complicity in lousy systems.
@@ -166,7 +166,7 @@ Lincoln's quote: the philosophy of the school room in one generation will be the
 - **[[Coding as Literacy\|Coding as Literacy]]** — Not just preparing workers, helping young people think differently.
 - **[[Scratch\|Scratch]]** — Expressing themselves, beginning to think of themselves differently.
 - **[[Code.org\|Code.org]]** — Star Wars themed coding program, Hour of Code 2015.
-- **[[01 CONSUME/16 People/Abraham Lincoln\|Abraham Lincoln]]** — School room philosophy becomes government philosophy next generation.
+- **[[Abraham Lincoln\|Abraham Lincoln]]** — School room philosophy becomes government philosophy next generation.
 
 ---
 
