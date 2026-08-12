@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tldr-44","permalink":"/tldr-44/","title":"Too Long; Didn't Read Issue 44","tags":["digital-literacy","education-technology","unlearning","future-studies","vr","tilt-brush","amy-burvall","mistakes","stereotypes","academia","women","snowden","whistleblowing","css"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 44","created":"2016-05-06","last_updated":"2025-12-17","status":"evergreen","categories":"Newsletter","tags":["digital-literacy","education-technology","unlearning","future-studies","vr","tilt-brush","amy-burvall","mistakes","stereotypes","academia","women","snowden","whistleblowing","css"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter\|📧 Newsletter]]","[[Virtual Reality\|Virtual Reality]]","[[Amy Burvall\|Amy Burvall]]","[[Future Studies]]","[[01 CONSUME/16 People/Edward Snowden\|Edward Snowden]]","[[Doug Belshaw]]"],"shelf":"archived","description":"Issue 44 - unlearning the future. VR art with Tilt Brush, Amy Burvall on creativity and self-expression, four types of mistakes for learning, stereotypes warping visual perception, women in academia, and Snowden on whistleblowing as political resistance."}}
+{"dg-publish":true,"dg-permalink":"tldr-44","permalink":"/tldr-44/","title":"Too Long; Didn't Read Issue 44","tags":["digital-literacy","education-technology","unlearning","future-studies","vr","tilt-brush","amy-burvall","mistakes","stereotypes","academia","women","snowden","whistleblowing","css"],"dg-note-properties":{"title":"Too Long; Didn't Read Issue 44","created":"2016-05-06","last_updated":"2025-12-17","status":"evergreen","categories":"Newsletter","tags":["digital-literacy","education-technology","unlearning","future-studies","vr","tilt-brush","amy-burvall","mistakes","stereotypes","academia","women","snowden","whistleblowing","css"],"connections":["[[03 CREATE/33 Newsletter/📧 Newsletter]]","[[Virtual Reality\|Virtual Reality]]","[[Amy Burvall\|Amy Burvall]]","[[Future Studies]]","[[Edward Snowden\|Edward Snowden]]","[[Doug Belshaw]]"],"shelf":"archived","description":"Issue 44 - unlearning the future. VR art with Tilt Brush, Amy Burvall on creativity and self-expression, four types of mistakes for learning, stereotypes warping visual perception, women in academia, and Snowden on whistleblowing as political resistance."}}
 ---
 
 # TLDR 44
@@ -121,7 +121,7 @@ It's not where you take things from - it's where you take them to.
 - **[[Mistakes\|Mistakes]]** — Four types stretch aha-moment sloppy high-stakes provide insight on learning.
 - **[[Stereotypes\|Stereotypes]]** — Brain warps faces we see to fit stereotypes mapped to visual system.
 - **[[Women in Academia\|Women in Academia]]** — Systematically kept from succeeding through pay adjuncts tenure process.
-- **[[01 CONSUME/16 People/Edward Snowden\|Edward Snowden]]** — Whistleblowing as political resistance, individual citizen ultimate check on power.
+- **[[Edward Snowden\|Edward Snowden]]** — Whistleblowing as political resistance, individual citizen ultimate check on power.
 
 ---
 
