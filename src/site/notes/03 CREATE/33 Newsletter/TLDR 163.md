@@ -170,7 +170,7 @@ John McCain's reflection on courage resonates profoundly with this issue's theme
 
 **🌱 Connected Concepts**:
 
-- [[B-Tags Surveillance\|B-Tags Surveillance]] — Facial recognition technology at 10K race demonstrates normalization of [[Surveillance\|Surveillance]] through convenience in public spaces raising questions about [[02 CURATE/Privacy\|Privacy]] and racial bias in automated identification systems in [[Biometric Technology\|Biometric Technology]].
+- [[B-Tags Surveillance\|B-Tags Surveillance]] — Facial recognition technology at 10K race demonstrates normalization of [[02 CURATE/Surveillance\|Surveillance]] through convenience in public spaces raising questions about [[02 CURATE/Privacy\|Privacy]] and racial bias in automated identification systems in [[Biometric Technology\|Biometric Technology]].
 - [[Hypothesis PDF Annotation\|Hypothesis PDF Annotation]] — Tutorial addressing PDF annotation challenges in [[Google Classroom\|Google Classroom]] demonstrating social annotation tools for collaborative reading and research practices in [[Digital Pedagogy\|Digital Pedagogy]].
 - [[Social Justice in Schools\|Social Justice in Schools]] — [[Sydney Chaffee\|Sydney Chaffee]] argues teaching always political act and social justice education helps students build skills and find voices sparking debates about indoctrination boundaries in [[Critical Pedagogy\|Critical Pedagogy]].
 - [[Digital Divides Cuba\|Digital Divides Cuba]] — [[Alexander van Deursen\|Alexander van Deursen]] research examines first-level and second-level divides revealing access insufficient without skills motivation and supportive context in [[Internet Access\|Internet Access]] and [[Digital Inequality\|Digital Inequality]].

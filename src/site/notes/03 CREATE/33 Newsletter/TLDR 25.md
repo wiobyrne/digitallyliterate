@@ -158,7 +158,7 @@ Alan Watts: the only way to make sense out of change is to plunge into it, move 
 - **[[AdvocatED\|AdvocatED]]** — Publication launch on Medium, inviting writers and bloggers.
 - **[[02 CURATE/Digital Identity\|Digital Identity]]** — Building online classes to affordably help build presence.
 - **[[Cory Doctorow\|Cory Doctorow]]** — Online surveillance versus building digital presence, stuff in back of mind.
-- **[[Surveillance\|Surveillance]]** — Tension between being visible and being monitored.
+- **[[02 CURATE/Surveillance\|Surveillance]]** — Tension between being visible and being monitored.
 - **[[Writing Online\|Writing Online]]** — dex digital on being afraid to write on Internet.
 - **[[Medium Platform\|Medium Platform]]** — Potential for reading, annotating, long form response.
 - **[[Internet Loop\|Internet Loop]]** — Farhad Manjoo on action reaction kneejerk meme-ifying outrage.

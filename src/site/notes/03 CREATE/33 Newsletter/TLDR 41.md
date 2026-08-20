@@ -131,7 +131,7 @@ Be yourself - not your idea of what you think somebody else's idea of yourself s
 
 - **[[Bots\|Bots]]** — Post on bots and future of education came together during early morning run after Facebook F8.
 - **[[Web Literacy\|Web Literacy]]** — Mozilla version 2.0 released with interactive map for reading writing and participating.
-- **[[Surveillance\|Surveillance]]** — Cassetteboy mashup critiques UK snoopers charter sweeping new powers.
+- **[[02 CURATE/Surveillance\|Surveillance]]** — Cassetteboy mashup critiques UK snoopers charter sweeping new powers.
 - **[[03 CREATE/31 Blog/2019/Digital Storytelling\|Digital Storytelling]]** — Guardian and Polygraph examples mixing data charts images GIFs video text.
 - **[[Maker Movement\|Maker Movement]]** — Very hot right now but relatively little research, guide to emerging work.
 - **[[GIFs\|GIFs]]** — Giphy Capture for instructional GIFs middle ground between screencaptures and screencasts.

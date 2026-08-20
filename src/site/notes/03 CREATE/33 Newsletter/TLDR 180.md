@@ -118,7 +118,7 @@ Bernstein's paradox about time pressure meets its limit in burnout generation. P
 - [[Social Media Solitude Paradox\|Social Media Solitude Paradox]] — Research showing social media use correlates with preference for solitary activities not social ones suggesting platforms marketed as social actually promote isolation in [[Social Psychology\|Social Psychology]].
 - [[Screentime Debate Better Questions\|Screentime Debate Better Questions]] — Experts arguing we need honest definitions about what screen time means collapsing radically different activities into meaningless category prevents useful understanding in [[Media Effects\|Media Effects]].
 - [[Digital Photo Memory\|Digital Photo Memory]] — [[Doug Belshaw\|Doug Belshaw]] reflecting on Google Assistant photo displays raising questions about memory curation surveillance and trading privacy for nostalgia in [[Digital Privacy\|Digital Privacy]].
-- [[Doing Nothing Resistance\|Doing Nothing Resistance]] — [[Jenny Odell\|Jenny Odell]] keynote on doing nothing as resistance to attention economy finding beauty in refusal to constantly produce and perform in [[Attention Economy\|Attention Economy]].
+- [[Doing Nothing Resistance\|Doing Nothing Resistance]] — [[Jenny Odell\|Jenny Odell]] keynote on doing nothing as resistance to attention economy finding beauty in refusal to constantly produce and perform in [[02 CURATE/Attention Economy\|Attention Economy]].
 
 ---
 
