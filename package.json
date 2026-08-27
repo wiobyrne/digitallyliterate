@@ -12,7 +12,8 @@
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme build:*",
-        "test": "vitest run"
+        "test": "vitest run",
+        "validate": "node scripts/validate-notes.mjs"
     },
     "keywords": [],
     "author": "",

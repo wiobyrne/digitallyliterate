@@ -53,6 +53,10 @@ jobs:
           exit 1
         fi
     - run: npm ci
+    - name: Unit tests
+      run: npm test
+    - name: Validate note frontmatter and publishing metadata
+      run: npm run validate
     - run: npm run build --if-present
     - name: Check the build emitted the user-owned design system
       run: |
