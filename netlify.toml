@@ -27,11 +27,17 @@
   force = true
 
 [[redirects]]
+  from = "/404"
+  to = "/not-found/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
   status = 200
 
 [[redirects]]
   from = "/*"
-  to = "/404"
+  to = "/not-found/"
   status = 404

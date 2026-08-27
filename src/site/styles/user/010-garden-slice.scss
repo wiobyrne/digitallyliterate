@@ -9,6 +9,12 @@ html {
 
 body { overflow-x: clip; }
 
+/* This bridge has to sit on <body> with a theme class, not on :root.
+ * The third-party Obsidian theme in _theme.<hash>.css declares
+ * `.theme-dark { --background-primary: ... }` against <body>, and a
+ * declaration on the element itself beats one inherited from <html>. The
+ * :root aliases in 000-tokens.scss cover everything else; this block exists
+ * purely to out-specify that theme. */
 html.theme-light body,
 html.theme-dark body {
   --bg-page: var(--garden-paper);
@@ -403,6 +409,16 @@ body.dl-note .content > header {
   border-bottom: var(--garden-rule-width) solid var(--garden-rule);
 }
 
+/* With dgShowInlineTitle and dgShowTags both off, a note's <header> renders
+ * empty and its rule reads as a stray line above the title. Collapse it
+ * unless it actually carries something. Authored headers on the landing
+ * pages have an h1 and keep the rule. */
+body.dl-note .content > header:not(:has(h1, .header-tags, .timestamps)) {
+  margin: 0;
+  padding: 0;
+  border-bottom: 0;
+}
+
 body.dl-note .content > header .header-meta,
 body.dl-note .timestamps,
 body.dl-note .tag {
@@ -429,7 +445,10 @@ body.dl-note blockquote {
   line-height: 1.55;
 }
 
-.content.dl-newsletter > header {
+/* Canopy: green marks the newsletter as free and open. Needs the body
+ * qualifier to out-specify `body.dl-note .content > header`, which sets the
+ * border with a shorthand. */
+body.dl-note .content.dl-newsletter > header:has(h1, .header-tags, .timestamps) {
   border-bottom-color: var(--garden-leaf);
 }
 
@@ -553,7 +572,7 @@ body.dl-note table { border-radius: 0 !important; }
   gap: 0.75rem;
   align-items: baseline;
   margin: 0;
-  padding: 0.9rem 0 !important;
+  padding: 0.9rem 0;
   border-top: var(--garden-rule-width) solid var(--garden-rule);
 }
 
@@ -571,12 +590,23 @@ body.dl-note table { border-radius: 0 !important; }
   font-size: 0.66rem;
 }
 
+/* color and text-decoration stay !important: they out-specify
+ * `body.dl-home a`. The rest no longer competes with anything. */
 .recent-list a {
   color: var(--garden-ink) !important;
-  font-family: var(--garden-font-read) !important;
-  font-size: clamp(1.05rem, 2.5vw, 1.25rem) !important;
-  font-weight: 500 !important;
+  font-family: var(--garden-font-read);
+  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  font-weight: 500;
   text-decoration: none !important;
+}
+
+/* The plugin renders its sidebar inline, after the content. On a note that
+ * is a useful table of contents. On the homepage it was a boxed panel
+ * listing the homepage's own three headings — a card, and a sidebar, on the
+ * one page the contract says should lead with the writing. */
+body.dl-home aside,
+body.dl-home .sidebar {
+  display: none;
 }
 
 .site-footer {

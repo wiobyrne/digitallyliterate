@@ -1,7 +1,7 @@
 import { describe, expect, test } from "vitest";
 import userSetup from "./userSetup.js";
 
-const { noteStatus, noteCategories, hasCategory } = userSetup;
+const { noteStatus, noteCategories, hasCategory, archetypeClass } = userSetup;
 
 function publishedNote(properties, topLevel = {}) {
   return {
@@ -46,5 +46,30 @@ describe("garden frontmatter contract", () => {
 
     expect(noteStatus(note)).toBe("evergreen");
     expect(hasCategory(note, "Grove")).toBe(true);
+  });
+});
+
+describe("public page archetypes", () => {
+  test("maps each page type to its archetype class", () => {
+    expect(archetypeClass(publishedNote({ categories: "Newsletter" }))).toBe("dl-newsletter");
+    expect(archetypeClass(publishedNote({ categories: "Evergreen" }))).toBe("dl-evergreen");
+    expect(archetypeClass(publishedNote({ categories: "Grove" }))).toBe("dl-grove");
+    expect(archetypeClass(publishedNote({ categories: "Forest" }))).toBe("dl-forest");
+    expect(archetypeClass(publishedNote({ categories: "Page" }))).toBe("dl-page");
+  });
+
+  test("matches page type case-insensitively and inside a list", () => {
+    expect(archetypeClass(publishedNote({ categories: ["Note", "grove"] }))).toBe("dl-grove");
+  });
+
+  test("returns no archetype for an unknown or missing page type", () => {
+    expect(archetypeClass(publishedNote({ categories: "Bookshelf" }))).toBe("");
+    expect(archetypeClass(publishedNote({}))).toBe("");
+  });
+
+  test("maturity never selects an archetype", () => {
+    expect(archetypeClass(publishedNote({ status: "evergreen" }))).toBe("");
+    expect(archetypeClass(publishedNote({ status: "seed", categories: "Newsletter" })))
+      .toBe("dl-newsletter");
   });
 });
