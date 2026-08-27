@@ -9,6 +9,12 @@ html {
 
 body { overflow-x: clip; }
 
+/* This bridge has to sit on <body> with a theme class, not on :root.
+ * The third-party Obsidian theme in _theme.<hash>.css declares
+ * `.theme-dark { --background-primary: ... }` against <body>, and a
+ * declaration on the element itself beats one inherited from <html>. The
+ * :root aliases in 000-tokens.scss cover everything else; this block exists
+ * purely to out-specify that theme. */
 html.theme-light body,
 html.theme-dark body {
   --bg-page: var(--garden-paper);
@@ -553,7 +559,7 @@ body.dl-note table { border-radius: 0 !important; }
   gap: 0.75rem;
   align-items: baseline;
   margin: 0;
-  padding: 0.9rem 0 !important;
+  padding: 0.9rem 0;
   border-top: var(--garden-rule-width) solid var(--garden-rule);
 }
 
@@ -571,11 +577,13 @@ body.dl-note table { border-radius: 0 !important; }
   font-size: 0.66rem;
 }
 
+/* color and text-decoration stay !important: they out-specify
+ * `body.dl-home a`. The rest no longer competes with anything. */
 .recent-list a {
   color: var(--garden-ink) !important;
-  font-family: var(--garden-font-read) !important;
-  font-size: clamp(1.05rem, 2.5vw, 1.25rem) !important;
-  font-weight: 500 !important;
+  font-family: var(--garden-font-read);
+  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+  font-weight: 500;
   text-decoration: none !important;
 }
 

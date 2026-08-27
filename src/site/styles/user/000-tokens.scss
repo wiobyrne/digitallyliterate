@@ -75,6 +75,52 @@
   --garden-duration-grove-secondary: 8.4s;
 }
 
+/* Compatibility aliases.
+ *
+ * custom-style.scss and the Digital Garden plugin's own stylesheets read these
+ * older names. Defining them here, as aliases, keeps `--garden-*` the single
+ * source of truth: they resolve per theme automatically because the dark block
+ * below only has to redefine the garden tokens they point at.
+ *
+ * Do not give any of these a literal value. If a rule needs a colour, it needs
+ * a garden token. */
+:root {
+  --font-serif: var(--garden-font-read);
+  --font-sans: var(--garden-font-ui);
+  --font-mono: var(--garden-font-meta);
+
+  --bg-page: var(--garden-paper);
+  --bg-subtle: var(--garden-paper-muted);
+  --text-main: var(--garden-ink);
+  --text-muted: var(--garden-ink-muted);
+  --text-soft: var(--garden-ink-muted);
+  --border: var(--garden-rule);
+  --link: var(--garden-leaf);
+  --site-accent: var(--garden-leaf);
+  --green-hover: var(--garden-leaf-hover);
+
+  --width-prose: var(--garden-prose);
+  --width-home: var(--garden-shell);
+  --transition: var(--garden-ease);
+
+  /* Plugin-generated markup reads these. */
+  --background-primary: var(--garden-paper);
+  --background-secondary: var(--garden-paper-muted);
+  --text-normal: var(--garden-ink);
+  --text-accent: var(--garden-leaf);
+  --file-margins: 24px;
+
+  --callout-radius: var(--garden-radius);
+  --callout-border-width: 0px;
+  --callout-blend-mode: normal;
+
+  /* Plugin layout variables. */
+  --dg-content-max-width: var(--garden-prose);
+  --dg-content-padding-top: clamp(2.75rem, 7vw, 5.5rem);
+  --dg-content-padding-top-mobile: 2.5rem;
+  --dg-graph-border-radius: var(--garden-radius);
+}
+
 html.theme-dark {
   --garden-paper: oklch(18% 0.028 152);
   --garden-paper-raised: oklch(21.5% 0.034 152);

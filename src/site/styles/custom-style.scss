@@ -1,99 +1,18 @@
 /*
- * Digitally Literate — Custom Theme
- * Token source: wiobyrne-astro/src/styles/tokens.css (locked 2026-04-23)
- * Typography rule: "serif = read, sans = navigate"
- * Accent: #006d48 — DL only, never wiobyrne.com
- * Fonts: self-hosted via tokens.css @font-face (Source Serif 4,
- * JetBrains Mono, Grenze Gotisch) — no Google Fonts network dependency.
- * Inter removed 2026-07-26: DL is a 3-family system now (Grenze display,
- * Source Serif body, JetBrains Mono for meta/nav/all UI chrome).
+ * Digitally Literate — generic element defaults.
+ *
+ * This file is user-owned: the Digital Garden updater adds it once and never
+ * overwrites it. It is the LEGACY layer and it is being reduced, not grown.
+ *
+ * It holds no tokens and no palette. Every colour, font and spacing value it
+ * uses is a compatibility alias defined in styles/user/000-tokens.scss, which
+ * points at the --garden-* tokens. Add nothing here.
+ *
+ * New design work belongs in styles/user/, which loads last. See design.md.
  */
 
 /* ── Reset ─────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; }
-
-/* ── DG plugin layout variable overrides ─── */
-body {
-  --dg-content-max-width: 660px;
-  --dg-content-padding-top: 90px;
-  --dg-content-padding-top-mobile: 75px;
-  --dg-graph-border-radius: 0px;
-}
-
-/* ── Design Tokens — light (default) ─────── */
-:root {
-  --font-serif: "Source Serif 4", Georgia, serif;
-  --font-sans:  "JetBrains Mono", "Courier New", monospace;
-  --font-mono:  "JetBrains Mono", "Courier New", monospace;
-
-  --bg-page:       #f9f9f7;
-  --bg-subtle:     #f2f4f2;
-  --text-main:     #2d3432;
-  --text-muted:    #5a605e;
-  --text-soft:     #6b716f;
-  --border:        rgba(45, 52, 50, 0.15);
-  --link:          #2d3432;
-
-  /* DL green accent — used here only */
-  --site-accent:   #006d48;
-  --green-hover:   #00522f;
-  --glass-surface: rgba(249, 249, 247, 0.72);
-
-  --width-prose: 660px;
-  --width-home:  720px;
-
-  --transition: 0.2s ease-in-out;
-
-  /* Remap plugin variables so plugin-generated markup uses locked palette */
-  --background-primary:   #f9f9f7;
-  --background-secondary: #f2f4f2;
-  --text-normal:          #2d3432;
-  --text-accent:          #006d48;
-  --file-margins:         24px;
-
-  /* Zero-radius — locked rule, no exceptions */
-  --callout-radius: 0px;
-  --callout-border-width: 0px;
-  --callout-blend-mode: normal;
-}
-
-/* ── Light theme ────────────────────────────── */
-.theme-light {
-  --bg-page:       #f9f9f7;
-  --bg-subtle:     #f2f4f2;
-  --text-main:     #2d3432;
-  --text-muted:    #5a605e;
-  --text-soft:     #6b716f;
-  --border:        rgba(45, 52, 50, 0.15);
-  --link:          #2d3432;
-  --glass-surface: rgba(249, 249, 247, 0.72);
-
-  --background-primary:   #f9f9f7;
-  --background-secondary: #f2f4f2;
-  --text-normal:          #2d3432;
-
-  background: var(--bg-page);
-  color: var(--text-main);
-}
-
-/* ── Dark theme ─────────────────────────────── */
-.theme-dark {
-  --bg-page:       #1a1e1c;
-  --bg-subtle:     #222826;
-  --text-main:     #e6e4e1;
-  --text-muted:    #8a908e;
-  --text-soft:     #6b716f;
-  --border:        rgba(230, 228, 225, 0.12);
-  --link:          #e6e4e1;
-  --glass-surface: rgba(26, 30, 28, 0.80);
-
-  --background-primary:   #1a1e1c;
-  --background-secondary: #222826;
-  --text-normal:          #e6e4e1;
-
-  background: var(--bg-page);
-  color: var(--text-main);
-}
 
 /* ══════════════════════════════════════════════
    PASS 2 — TYPOGRAPHY
@@ -112,22 +31,23 @@ body {
   overflow-wrap: break-word;
 }
 
-/* All navigational/UI elements → sans */
+/* Navigation, metadata and UI chrome → mono (--font-sans resolves to
+ * JetBrains Mono; the name is historical, from before Inter was retired). */
 h1, h2, h3, h4, h5, h6,
 nav, button, label, small,
-.navbar, .nav-link, .search-button,
-.theme-toggle, .tag,
+.navbar, .search-button, .tag,
 .toc, .toc-title, .backlink-title,
-.timestamps, .reading-time, .note-breadcrumb,
+.timestamps, .reading-time,
 .header-meta, .site-footer, .landing-subtitle,
 .grove-card-title, .book-table thead th,
-.recent-date, .book-count {
+.book-count {
   font-family: var(--font-sans);
 }
 
-/* ── Prose headings — locked spec ────────── */
-
-/* Note title h1 — serif, editorial */
+/* ── Prose headings ────────────────────────────
+ * Generic fallbacks only. The page archetypes in
+ * styles/user/010-garden-slice.scss govern headings on every real page:
+ * page-level H1s are Grenze at 500, upright. See design.md. */
 .content h1 {
   font-family: var(--font-serif);
   font-size: 2rem;
@@ -208,7 +128,9 @@ li > ul, li > ol {
    PASS 3 — STRUCTURAL SWEEP
    ══════════════════════════════════════════════ */
 
-/* ── Links — charcoal, everywhere ──────────── */
+/* ── Links ──────────────────────────────────── */
+/* --link resolves to the leaf green. Green is the DL link colour and the
+ * primary identity signal; charcoal links are a wiobyrne.com rule. */
 a {
   color: var(--link);
   text-decoration: underline;
@@ -461,25 +383,9 @@ img {
    LAYOUT
    ══════════════════════════════════════════════ */
 
-/* ── Navbar — glass, sticky ─────────────────── */
-.navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 100;
-  background: var(--glass-surface);
-  padding: 0 1rem;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-}
-
-.navbar a {
-  text-decoration: none;
-  border-bottom: none;
-}
-
-.navbar a:hover { text-decoration: none; border-bottom: none; }
+/* The masthead is styled entirely in styles/user/010-garden-slice.scss
+ * (.garden-masthead). The old fixed glass navbar lived here and was fully
+ * overridden; it is gone rather than left to be fought. */
 
 /* ── Search button ──────────────────────────── */
 .search-button {
@@ -674,7 +580,7 @@ div.transclusion {
   .navbar, .sidebar, .search-button, .search-container, .theme-toggle { display: none !important; }
   .content { max-width: 100%; padding-top: 0; }
   a { color: inherit; text-decoration: underline; }
-  a::after { content: " (" attr(href) ")"; font-size: 0.8em; color: #666; }
+  a::after { content: " (" attr(href) ")"; font-size: 0.8em; color: var(--text-muted); }
   a.internal-link::after { content: none; }
   .site-footer { display: none; }
 }
@@ -687,7 +593,7 @@ div.transclusion {
 }
 
 /* ── Selection ──────────────────────────────── */
-::selection { background: rgba(0, 109, 72, 0.12); color: var(--text-main); }
+::selection { background: color-mix(in oklch, var(--site-accent) 12%, transparent); color: var(--text-main); }
 
 /* ══════════════════════════════════════════════
    INDEX / LISTING PAGES
@@ -709,7 +615,7 @@ div.transclusion {
 .book-filter-input:focus {
   outline: none;
   border-color: var(--site-accent);
-  box-shadow: 0 0 0 2px rgba(0, 109, 72, 0.1);
+  box-shadow: 0 0 0 2px color-mix(in oklch, var(--site-accent) 10%, transparent);
 }
 
 .book-filter-input::placeholder { color: var(--text-muted); }
@@ -744,7 +650,7 @@ div.transclusion {
   vertical-align: top;
 }
 
-.book-table tbody tr:hover { background: rgba(0, 109, 72, 0.04); }
+.book-table tbody tr:hover { background: color-mix(in oklch, var(--site-accent) 4%, transparent); }
 .book-table a { font-weight: 500; }
 
 .book-tags { display: flex; flex-wrap: wrap; gap: 0.25em; }
@@ -793,7 +699,7 @@ div.transclusion {
 
 .grove-card:hover {
   border-color: var(--site-accent) !important;
-  background: rgba(0, 109, 72, 0.04);
+  background: color-mix(in oklch, var(--site-accent) 4%, transparent);
   border-bottom: 1px solid var(--site-accent) !important;
 }
 
@@ -815,12 +721,4 @@ kbd {
   border: 1px solid var(--border);
 }
 
-/* ── Recently Updated ───────────────────────── */
-.recent-list { list-style: none; padding: 0; }
-
-.recent-list li {
-  padding: 0.4em 0;
-  border-bottom: 1px solid var(--border);
-}
-
-.recent-list a { font-weight: 500; }
+/* .recent-list is styled in styles/user/010-garden-slice.scss. */
