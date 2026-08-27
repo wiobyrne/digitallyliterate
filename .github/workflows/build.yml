@@ -50,5 +50,29 @@ jobs:
           echo "::error::src/site/_includes/components/navbar.njk no longer contains 'garden-masthead'. Digital Garden template-update PRs periodically replace this file with the stock navbar, dropping the wordmark/regmark branding, Newsletter/Subscribe links, and the dark/light theme toggle. Restore the custom navbar (see git history around the v1.69.0 template update fix) before merging."
           exit 1
         fi
+    - name: Check tokens.css and custom fonts haven't been unlinked by a template sync
+      run: |
+        if ! grep -qF 'tokens.css' src/site/_includes/components/pageheader.njk; then
+          echo "::error::pageheader.njk no longer links /tokens.css. Digital Garden template-update PRs periodically drop this <link> tag along with its .eleventy.js passthrough copy, which silently undefines every --garden-* CSS variable (site-wide layout width, spacing, colors) without failing the build. Re-add the <link href=\"/tokens.css\"> tag before merging."
+          exit 1
+        fi
+        if ! grep -qF '"tokens.css": "/tokens.css"' .eleventy.js; then
+          echo "::error::.eleventy.js no longer copies tokens.css to the build output. See the pageheader.njk check above for why this breaks the site silently. Re-add addPassthroughCopy({ \"tokens.css\": \"/tokens.css\" }) before merging."
+          exit 1
+        fi
+        if ! grep -qF 'addPassthroughCopy("src/site/fonts")' .eleventy.js; then
+          echo "::error::.eleventy.js no longer copies src/site/fonts to the build output. Digital Garden template-update PRs periodically drop this passthrough copy, silently breaking the custom typefaces (Grenze Gotisch, Source Serif 4, JetBrains Mono) without failing the build. Re-add addPassthroughCopy(\"src/site/fonts\") before merging."
+          exit 1
+        fi
     - run: npm ci
     - run: npm run build --if-present
+    - name: Check the build actually emitted tokens.css and the custom fonts
+      run: |
+        if [ ! -s dist/tokens.css ]; then
+          echo "::error::dist/tokens.css is missing or empty after the build. Every --garden-* CSS variable (layout width, spacing, colors) is undefined without it, and pages will silently break without any build error. Check the passthrough-copy config in .eleventy.js."
+          exit 1
+        fi
+        if [ -z "$(ls -A dist/fonts 2>/dev/null)" ]; then
+          echo "::error::dist/fonts is missing or empty after the build. The custom typefaces (Grenze Gotisch, Source Serif 4, JetBrains Mono) will silently fall back to system fonts without any build error. Check the passthrough-copy config in .eleventy.js."
+          exit 1
+        fi
