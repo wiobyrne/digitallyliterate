@@ -34,5 +34,21 @@ jobs:
             exit 1
           fi
         done
+    - name: Check dl-home/dl-note body classes haven't been dropped by a template sync
+      run: |
+        if ! grep -qF "dl-home" src/site/_includes/layouts/index.njk; then
+          echo "::error::src/site/_includes/layouts/index.njk is missing the 'dl-home' body class. Digital Garden template-update PRs periodically rewrite this layout's <body> tag and drop it. Over 50 rules in custom-style.scss and styles/user/010-garden-slice.scss are scoped to .dl-home/body.dl-note and silently stop applying without it. Re-add 'dl-home' to the body class list before merging."
+          exit 1
+        fi
+        if ! grep -qF "dl-note" src/site/_includes/layouts/note.njk; then
+          echo "::error::src/site/_includes/layouts/note.njk is missing the 'dl-note' body class. Digital Garden template-update PRs periodically rewrite this layout's <body> tag and drop it. Over 50 rules in custom-style.scss and styles/user/010-garden-slice.scss are scoped to .dl-home/body.dl-note and silently stop applying without it. Re-add 'dl-note' to the body class list before merging."
+          exit 1
+        fi
+    - name: Check the custom navbar hasn't been reverted to the stock template
+      run: |
+        if ! grep -qF "garden-masthead" src/site/_includes/components/navbar.njk; then
+          echo "::error::src/site/_includes/components/navbar.njk no longer contains 'garden-masthead'. Digital Garden template-update PRs periodically replace this file with the stock navbar, dropping the wordmark/regmark branding, Newsletter/Subscribe links, and the dark/light theme toggle. Restore the custom navbar (see git history around the v1.69.0 template update fix) before merging."
+          exit 1
+        fi
     - run: npm ci
     - run: npm run build --if-present

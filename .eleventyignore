@@ -1,1 +1,5 @@
 netlify/functions
+# Superseded by .11ty.js versions (avoid Nunjucks stack overflow on large collections).
+# Plugin re-adds these on every publish; ignore them permanently here instead.
+src/site/search-index.njk
+src/site/sitemap.njk
