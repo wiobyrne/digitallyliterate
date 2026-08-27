@@ -149,8 +149,15 @@ and hidden below `42rem`.
 ### 2. Newsletter issue — `body.dl-note` + `.content.dl-newsletter`
 
 The Canopy archetype and the bulk of the site (445 issues). Long Document
-macrostructure: Grenze H1, mono metadata rule beneath, serif body at reading
-leading, green header rule to mark it as free/open. No card, no thumbnail.
+macrostructure: Grenze H1, mono secondary heading, serif body at reading
+leading, green links throughout. No card, no thumbnail.
+
+The archetype carries a green header rule to mark the issue as free and open,
+but it does not currently render: `dgShowInlineTitle` and `dgShowTags` are both
+off, so a note's `<header>` is empty and is collapsed rather than left to draw
+a stray line above the title. The rule activates if either setting is turned
+on. Whether the Canopy should get a green mark that does not depend on those
+settings is an open design decision — deliberately not invented here.
 
 ### 3. Newsletter archive — `.content.dl-newsletter-archive`
 
