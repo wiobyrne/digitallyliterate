@@ -520,6 +520,16 @@ body.dl-note table { border-radius: 0 !important; }
   border-top: var(--garden-rule-width) solid var(--garden-ink);
 }
 
+// Used when this section opens the page (before the written intro), where
+// .garden-hero-grove floats absolutely in the top-right corner. It doesn't
+// push sibling content down, so clear its footprint (inset-block-start +
+// rendered height) with padding instead of colliding with the heading.
+.garden-index--top {
+  margin-top: 0;
+  border-top: 0;
+  padding-top: clamp(11rem, 26vw, 17rem);
+}
+
 .garden-index__eyebrow {
   margin: 0;
   padding-top: 0.8rem;
