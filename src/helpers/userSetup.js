@@ -108,7 +108,36 @@ function userEleventySetup(eleventyConfig) {
       return hasCategory(item, "Newsletter");
     }).sort(function (a, b) {
       return issueNumber(b) - issueNumber(a);
-    }).slice(0, 8);
+    }).slice(0, 5);
+  });
+
+  // Homepage garden section: 5 most recently updated Evergreens/Groves/Forests.
+  eleventyConfig.addCollection("recentGardenUpdates", function (collectionApi) {
+    function gardenType(item) {
+      if (hasCategory(item, "Evergreen")) return "Evergreen";
+      if (hasCategory(item, "Grove")) return "Grove";
+      if (hasCategory(item, "Forest")) return "Forest";
+      return "";
+    }
+    function updateDate(item) {
+      var noteProperties = item.data["dg-note-properties"] || {};
+      var value = item.data.updated ||
+                  item.data.last_updated ||
+                  noteProperties.last_updated ||
+                  noteProperties.created ||
+                  item.date ||
+                  0;
+      var parsed = value instanceof Date ? value : new Date(value);
+      return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+    }
+    return collectionApi.getFilteredByTag("note").filter(function (item) {
+      return gardenType(item) !== "";
+    }).sort(function (a, b) {
+      return updateDate(b) - updateDate(a);
+    }).slice(0, 5).map(function (item) {
+      item.data.gardenType = gardenType(item);
+      return item;
+    });
   });
 
   // Recently updated: 10 most recent by update date
