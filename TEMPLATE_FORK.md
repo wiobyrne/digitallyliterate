@@ -25,6 +25,10 @@ Only these template-owned files should differ from Digital Garden 1.83.7:
 - `src/site/_includes/layouts/note.njk` adds the `dl-note` body hook.
 - `src/site/_includes/components/navbar.njk` provides the branded masthead,
   publication links, search control, and theme control.
+- `package.json` adds one `scripts` entry, `validate`, for the note validator.
+  This one is convenience only: CI invokes `node scripts/validate-notes.mjs`
+  directly, so an update that drops the script costs a local shortcut and
+  nothing else. Re-add it when convenient; it is not release-blocking.
 
 The two body hooks remain because they provide a clear, stable page contract.
 Replacing them with DOM-dependent selectors or client-side class injection

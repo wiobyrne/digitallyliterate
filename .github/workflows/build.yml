@@ -55,8 +55,10 @@ jobs:
     - run: npm ci
     - name: Unit tests
       run: npm test
+    # Invoked directly, not via `npm run validate`. A template update can
+    # rewrite package.json and drop the script; the check must survive that.
     - name: Validate note frontmatter and publishing metadata
-      run: npm run validate
+      run: node scripts/validate-notes.mjs
     - run: npm run build --if-present
     - name: Check the build emitted the user-owned design system
       run: |

@@ -239,13 +239,15 @@ rendering benefit.
 
 ## Template-owned divergences
 
-Exactly three template-owned files differ from Digital Garden 1.83.7. Keeping
-this list at three is a maintenance goal.
+Four template-owned files differ from Digital Garden 1.83.7. Keeping this list
+short is a maintenance goal; `TEMPLATE_FORK.md` is the authoritative record.
 
 - `src/site/_includes/layouts/index.njk` — adds the `dl-home` body hook
 - `src/site/_includes/layouts/note.njk` — adds the `dl-note` body hook
 - `src/site/_includes/components/navbar.njk` — branded masthead, publication
   links, search control, theme control
+- `package.json` — one `scripts` entry for the validator, convenience only;
+  CI does not depend on it
 
 The body hooks stay because they are a stable page contract. Replacing them
 with DOM-dependent selectors or client-side class injection would lower the diff
