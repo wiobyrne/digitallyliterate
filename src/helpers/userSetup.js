@@ -34,6 +34,25 @@ function byTitle(a, b) {
   return (a.data.title || "").localeCompare(b.data.title || "");
 }
 
+// Public page archetypes. The `categories` field selects the archetype; the
+// `status` field is private maturity and never selects one. See design.md.
+const PAGE_ARCHETYPES = {
+  newsletter: "dl-newsletter",
+  evergreen: "dl-evergreen",
+  grove: "dl-grove",
+  forest: "dl-forest",
+  page: "dl-page",
+};
+
+function archetypeClass(item) {
+  var categories = noteCategories(item);
+  for (var i = 0; i < categories.length; i++) {
+    var match = PAGE_ARCHETYPES[categories[i].toLowerCase()];
+    if (match) return match;
+  }
+  return "";
+}
+
 function userEleventySetup(eleventyConfig) {
   // Reading time filter — strips HTML, counts words, returns "X min read"
   eleventyConfig.addFilter("readingTime", function (content) {
@@ -167,6 +186,27 @@ function userEleventySetup(eleventyConfig) {
     }).slice(0, 10);
   });
 
+  // Assign the public page archetype class to every note, derived from its
+  // `categories` page type. Collections resolve before templates render, so
+  // mutating item.data here reaches `{{ contentClasses }}` in the layout —
+  // the same mechanism recentGardenUpdates uses for gardenType. Doing it here
+  // keeps the wiring in a user-owned file: eleventyComputed.js and the note
+  // layout are template-owned and must not be forked for this.
+  eleventyConfig.addCollection("pageArchetypes", function (collectionApi) {
+    return collectionApi.getFilteredByTag("note").map(function (item) {
+      var archetype = archetypeClass(item);
+      if (!archetype) return item;
+
+      var existing = String(item.data.contentClasses || "").trim();
+      if (existing.split(/\s+/).indexOf(archetype) === -1) {
+        item.data.contentClasses = existing
+          ? existing + " " + archetype
+          : archetype;
+      }
+      return item;
+    });
+  });
+
   // Strip wikilink syntax: "[[Note Title]]" → "Note Title"
   eleventyConfig.addFilter("stripWikilink", function (str) {
     if (!str) return "";
@@ -179,3 +219,4 @@ exports.userEleventySetup = userEleventySetup;
 exports.noteStatus = noteStatus;
 exports.noteCategories = noteCategories;
 exports.hasCategory = hasCategory;
+exports.archetypeClass = archetypeClass;
