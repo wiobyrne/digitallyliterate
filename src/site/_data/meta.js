@@ -26,6 +26,9 @@ module.exports = async (data) => {
     default: process.env.NOTE_ICON_DEFAULT,
   };
 
+  const styleSettingsCss = process.env.STYLE_SETTINGS_CSS || "";
+  const styleSettingsBodyClasses = process.env.STYLE_SETTINGS_BODY_CLASSES || "";
+
   if (process.env.NOTE_ICON_TITLE && process.env.NOTE_ICON_TITLE == "true") {
     bodyClasses.push("title-note-icon");
     noteIconsSettings.title = true;
@@ -51,8 +54,16 @@ module.exports = async (data) => {
     bodyClasses.push("backlinks-note-icon");
     noteIconsSettings.backlinks = true;
   }
+  if (styleSettingsCss) {
+    bodyClasses.push("css-settings-manager");
+  }
+  if (styleSettingsBodyClasses) {
+    bodyClasses.push(styleSettingsBodyClasses);
+  }
+
   let timestampSettings = {
     timestampFormat: process.env.TIMESTAMP_FORMAT || "MMM dd, yyyy h:mm a",
+    dateFormat: process.env.DATE_FORMAT || "MMM dd, yyyy",
     showCreated: process.env.SHOW_CREATED_TIMESTAMP == "true",
     showUpdated: process.env.SHOW_UPDATED_TIMESTAMP == "true",
   };
@@ -80,7 +91,7 @@ module.exports = async (data) => {
     env: process.env.ELEVENTY_ENV,
     theme: process.env.THEME,
     themeStyle,
-    noteIconBodyClasses: bodyClasses.join(" "),
+    bodyClasses: bodyClasses.join(" "),
     noteIconsSettings,
     timestampSettings,
     baseTheme: process.env.BASE_THEME || "dark",
@@ -88,6 +99,7 @@ module.exports = async (data) => {
     siteLogoPath: logoPath,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
+    styleSettingsCss,
     uiStrings,
     buildDate: new Date(),
   };
