@@ -1,7 +1,7 @@
+{% if collections.recentGardenUpdates | length %}
 <section class="garden-index" aria-labelledby="recent-garden-updates">
 <p class="garden-index__eyebrow">Growing now</p>
 <h2 id="recent-garden-updates">Recent updates to the garden</h2>
-{% if collections.recentGardenUpdates | length %}
 <ol class="recent-list">
 {%- for note in collections.recentGardenUpdates -%}
   <li>
@@ -10,7 +10,5 @@
   </li>
 {%- endfor -%}
 </ol>
-{% else %}
-<p>Evergreens, Groves, and Forests are still being cultivated for public view. Check back soon, or explore the <a href="/newsletter/">newsletter archive</a> in the meantime.</p>
-{% endif %}
 </section>
+{% endif %}
