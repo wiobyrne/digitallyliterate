@@ -220,32 +220,30 @@ It is the correct home for anything new.
 ## Branch state
 
 `design/dl-normalize` was **squash-merged into `main` via PR #23** (`cc3e52b3`,
-"Normalize the Digitally Literate design implementation"). All of its work — the
-repository design contract, the garden shell for utility pages, archetype
-classes derived from note category, the palette collapse into garden tokens, the
-retired-markup removal, the frontmatter validator and its rendering fixes — is
-**on `main` and live**. None of it is pending.
+"Normalize the Digitally Literate design implementation") and **deleted on
+2026-09-04**. Its work — the repository design contract, the garden shell for
+utility pages, archetype classes derived from note category, the palette
+collapse into garden tokens, the retired-markup removal, the frontmatter
+validator and its rendering fixes — is on `main` and live.
 
-Because the merge was a squash, none of those ten commits is an ancestor of
-`main`, so `git log origin/main..design/dl-normalize` still reports the branch as
-"11 commits ahead". That count is an ancestry artifact, not real divergence.
-Verify with a tree comparison, never a commit count:
+It is recorded here because it produced a trap worth not falling into twice.
+Because the merge was a squash, none of the branch's commits was an ancestor of
+`main`, so `git log origin/main..design/dl-normalize` reported it as "11 commits
+ahead" long after everything in it had shipped. That count read as unshipped
+work and nearly caused ten already-live commits to be treated as pending review.
+
+**Compare trees, not commit counts,** before concluding that work is
+outstanding:
 
 ```sh
-git diff --stat origin/main origin/design/dl-normalize
+git diff --stat origin/main origin/<branch>
 ```
 
-As of 2026-09-04 that diff is two `og.png` files, which `main` has *newer*
-versions of — the social cards regenerated at Grenze weight 500 (`2ce07aee`).
-The branch is behind `main`, not ahead of it, and carries nothing unique.
+For that branch the answer was two `og.png` files which `main` held newer
+versions of — it was behind `main`, not ahead, and carried nothing unique.
 
-One commit was cherry-picked from the branch to `main` before this was
-understood: the Apparatus finder mark and social card (`d3bd15e6` → `1f9d3e10`).
-That was harmless — it landed the mark cleanly — but the caution it was based on
-was unnecessary.
-
-`design/dl-normalize` is therefore **stale and safe to delete**. It is kept only
-until Ian confirms.
+The same squash-merge pattern applies to the other `design/*` and `agent/*`
+branches on the remote. Check them the same way.
 
 ## Cascade order
 
