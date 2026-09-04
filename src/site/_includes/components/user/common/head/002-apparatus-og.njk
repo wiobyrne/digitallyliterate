@@ -1,0 +1,20 @@
+{#
+  Apparatus finder-mark social card.
+
+  Lives in the user head slot (auto-discovered by src/site/_data/dynamics.js) so
+  it adds no template-owned divergence. See design.md "Template-owned divergences".
+
+  Per-note `metatags` in frontmatter already emit og:title / og:description /
+  og:type via pageheader.njk, but nothing sets an image. This supplies the
+  site-wide default card and only fills gaps — a note that sets its own
+  og:image in metatags wins.
+
+  The light card is deliberately the default: most social scrapers ignore
+  prefers-color-scheme, so og-dark.png ships as an available asset, unused here.
+#}
+{%- if not (metatags and metatags["og:image"]) -%}
+  {%- set apparatusCard = meta.siteBaseUrl + "/img/apparatus/og.png" if meta.siteBaseUrl else "/img/apparatus/og.png" -%}
+  <meta property="og:image" content="{{ apparatusCard }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ apparatusCard }}">
+{%- endif -%}
