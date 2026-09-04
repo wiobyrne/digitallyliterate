@@ -217,6 +217,36 @@ Design work belongs in the extension points it does not replace:
 `src/site/styles/user/` is loaded **last** in the cascade, via `dynamics.styles`.
 It is the correct home for anything new.
 
+## Branch state
+
+`design/dl-normalize` was **squash-merged into `main` via PR #23** (`cc3e52b3`,
+"Normalize the Digitally Literate design implementation"). All of its work — the
+repository design contract, the garden shell for utility pages, archetype
+classes derived from note category, the palette collapse into garden tokens, the
+retired-markup removal, the frontmatter validator and its rendering fixes — is
+**on `main` and live**. None of it is pending.
+
+Because the merge was a squash, none of those ten commits is an ancestor of
+`main`, so `git log origin/main..design/dl-normalize` still reports the branch as
+"11 commits ahead". That count is an ancestry artifact, not real divergence.
+Verify with a tree comparison, never a commit count:
+
+```sh
+git diff --stat origin/main origin/design/dl-normalize
+```
+
+As of 2026-09-04 that diff is two `og.png` files, which `main` has *newer*
+versions of — the social cards regenerated at Grenze weight 500 (`2ce07aee`).
+The branch is behind `main`, not ahead of it, and carries nothing unique.
+
+One commit was cherry-picked from the branch to `main` before this was
+understood: the Apparatus finder mark and social card (`d3bd15e6` → `1f9d3e10`).
+That was harmless — it landed the mark cleanly — but the caution it was based on
+was unnecessary.
+
+`design/dl-normalize` is therefore **stale and safe to delete**. It is kept only
+until Ian confirms.
+
 ## Cascade order
 
 Every page loads, in order:
