@@ -267,13 +267,22 @@ rendering benefit.
 
 ## Template-owned divergences
 
-Three template-owned files differ from Digital Garden 1.83.7. Keeping this list
+Four template-owned files differ from Digital Garden 1.83.7. Keeping this list
 short is a maintenance goal; `TEMPLATE_FORK.md` is the authoritative record.
 
 - `src/site/_includes/layouts/index.njk` — adds the `dl-home` body hook
 - `src/site/_includes/layouts/note.njk` — adds the `dl-note` body hook
 - `src/site/_includes/components/navbar.njk` — branded masthead, publication
   links, search control, theme control
+- `src/site/_includes/components/pageheader.njk` — favicon generator reads the
+  normalized finder mark; app-icon plate is DL's dark canvas
+
+`pageheader.njk` was already divergent and undocumented: its favicon argument
+moved to `./.cache/favicon.normalized.svg` on 2026-07-16. Recorded here
+2026-09-06, when its `appleIconBgColor` was corrected from the template's demo
+`#123` to `#08150b` — `--garden-paper` under `theme-dark`,
+`oklch(18% 0.028 152)`. Not `#1a1e1c`: that is wiobyrne.com's dark plate, and
+the two had been conflated in the shared mark documentation.
 
 The body hooks stay because they are a stable page contract. Replacing them
 with DOM-dependent selectors or client-side class injection would lower the diff
@@ -295,7 +304,10 @@ off. Any page that ships a second toggle or a second storage key is a bug.
 
 - `npm run build` — full production build
 - `npm test` — unit tests
-- `npm run validate` — frontmatter and publishing validator
+- `node scripts/validate-notes.mjs` — frontmatter and publishing validator.
+  Invoked directly, not through an npm script: a template update can rewrite
+  `package.json` and drop the script, and the check has to survive that. There
+  is no `npm run validate`; corrected here 2026-09-06.
 
 The validator parses notes with **the repository's own** frontmatter options
 (`.eleventy.js` rewrites `\|` to `|` before YAML parsing). A validator that uses

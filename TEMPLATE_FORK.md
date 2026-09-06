@@ -25,10 +25,20 @@ Only these template-owned files should differ from Digital Garden 1.83.7:
 - `src/site/_includes/layouts/note.njk` adds the `dl-note` body hook.
 - `src/site/_includes/components/navbar.njk` provides the branded masthead,
   publication links, search control, and theme control.
+- `src/site/_includes/components/pageheader.njk` points the favicon generator at
+  the normalized mark and sets the app-icon plate to DL's own dark canvas.
 
 The two body hooks remain because they provide a clear, stable page contract.
 Replacing them with DOM-dependent selectors or client-side class injection
 would reduce the diff count while making rendering more fragile.
+
+`pageheader.njk` has diverged since 2026-07-16, when its favicon argument moved
+from `./src/site/favicon.svg` to `./.cache/favicon.normalized.svg` so the
+generator reads the normalized finder mark built by `normalize-favicon.js`. That
+divergence went undocumented until 2026-09-06. Its `appleIconBgColor` was
+corrected at the same time from the template's demo `#123` to `#08150b` — DL's
+`--garden-paper` under `theme-dark`, `oklch(18% 0.028 152)`. It is deliberately
+**not** `#1a1e1c`, which is wiobyrne.com's dark plate, not this site's canvas.
 
 ## Template-update procedure
 

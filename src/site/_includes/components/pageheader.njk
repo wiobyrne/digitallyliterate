@@ -51,7 +51,10 @@
 <link href="{{style}}?v={{meta.buildDate|isoDate}}" rel="stylesheet">
 {%- endfor -%}
 
-{% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#123' %}
+{# appleIconBgColor is DL's dark canvas, --garden-paper in theme-dark:
+   oklch(18% 0.028 152) == #08150b. Not #1a1e1c, which is wiobyrne.com's dark
+   plate. See TEMPLATE_FORK.md — this file is an intentional divergence. #}
+{% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#08150b' %}
 
 {% if meta.styleSettingsCss %}
     <style>
