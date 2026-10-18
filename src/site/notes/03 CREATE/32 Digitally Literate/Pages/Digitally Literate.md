@@ -8,14 +8,6 @@
 
 Each week, I connect research with practice and share ideas for classrooms, schools, and organizations.
 
-[Read the newsletter](/newsletter/) · [Subscribe](/subscribe/)
+My work is grounded in a simple aim: helping educators understand and navigate the digital world so their students inherit power, not just access. [wiobyrne.com](https://wiobyrne.com) is the public record of my essays, book notes, publications, and longer-form writing; Digitally Literate is the ongoing stream.
 
----
-
-## The notebook
-
-Some ideas return across issues. This public notebook follows those threads through durable explainers and curated reading paths.
-
-[Start with the site guide](/start-here/) · [Browse the full archive](/newsletter/)
-
-Finished essays, book notes, publications, and professional information live at [wiobyrne.com](https://wiobyrne.com).
+All issues are free to read here. [Browse the full archive](/newsletter/) or [subscribe on Substack for weekly email](https://digitallyliterate.substack.com/).
