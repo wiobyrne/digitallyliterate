@@ -204,7 +204,27 @@ function extractBasesLinks(content, basesNotes) {
   return links;
 }
 
-async function getGraph(data) {
+// getGraph is called from eleventyComputed, i.e. once per rendered page, but
+// its result only depends on the note collection. Recomputing it per page made
+// the build O(notes²). Cache the in-flight promise keyed on the collection
+// array itself: each build (including watch-mode rebuilds) creates a fresh
+// collections array, so the cache self-invalidates and old entries get GC'd.
+const graphCache = new WeakMap();
+
+function getGraph(data) {
+  const notes = data.collections.note;
+  if (!notes) {
+    return computeGraph(data);
+  }
+  let cached = graphCache.get(notes);
+  if (!cached) {
+    cached = computeGraph(data);
+    graphCache.set(notes, cached);
+  }
+  return cached;
+}
+
+async function computeGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -286,6 +306,13 @@ async function getGraph(data) {
   // Now that we know all links and backlinks, inject them into the notes
   // so bases queries can access file.links and file.backlinks.
   const urlToNode = nodes;
+  const urlToPath = {};
+  for (const item of notes) {
+    urlToPath[item.url] = item.filePathStem.replace("/notes/", "");
+  }
+  // Vault paths let file.links.contains(link("x")) match by note name;
+  // unresolved links stay as their raw stem
+  const toPaths = (urls) => urls.map((u) => urlToPath[u] || String(u).replace(/^\/notes\//, ""));
   const basesNotes = notes.map((item) => {
     const url = (urlToNode[item.url] || {});
     return {
@@ -296,6 +323,8 @@ async function getGraph(data) {
       // Inject computed link data for bases queries
       _links: url.outBound || [],
       _backlinks: url.backLinks || [],
+      _linkPaths: toPaths(url.outBound || []),
+      _backlinkPaths: toPaths(url.backLinks || []),
     };
   });
 

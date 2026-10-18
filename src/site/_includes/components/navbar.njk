@@ -8,9 +8,7 @@
     <nav class="garden-masthead__nav" aria-label="Primary navigation">
       <a href="/newsletter/">Newsletter</a>
       <a class="garden-nav-subscribe" href="/subscribe/">Subscribe</a>
-      {% if settings.dgEnableSearch === true %}
-        {% include "components/searchButton.njk" %}
-      {% endif %}
+      {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
       <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
         <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
         <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
@@ -20,8 +18,6 @@
 </header>
 {% else %}
 <div class="empty-navbar">
-  {% if settings.dgEnableSearch === true %}
-    {% include "components/searchButton.njk" %}
-  {% endif %}
+  {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
 </div>
 {% endif %}

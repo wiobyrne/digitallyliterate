@@ -267,7 +267,7 @@ rendering benefit.
 
 ## Template-owned divergences
 
-Four template-owned files differ from Digital Garden 1.83.7. Keeping this list
+Four template-owned files differ from Digital Garden 1.93.0. Keeping this list
 short is a maintenance goal; `TEMPLATE_FORK.md` is the authoritative record.
 
 - `src/site/_includes/layouts/index.njk` — adds the `dl-home` body hook

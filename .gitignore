@@ -1,5 +1,7 @@
 node_modules
 dist
+# Generated copies of plugin slot templates, rebuilt during Eleventy builds.
+src/site/_includes/plugins/
 netlify/functions/search/data.json
 netlify/functions/search/index.json
 src/site/styles/theme.*.css

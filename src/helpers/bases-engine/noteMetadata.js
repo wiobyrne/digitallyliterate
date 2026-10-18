@@ -20,6 +20,8 @@ const CASCADE_KEYS = new Set([
 	"eleventyNavigation",
 	"content",
 	"templateContent",
+	"templateEngineOverride",
+	"eleventy",
 	// Global data files and computed data from this template
 	"basesNotes",
 	"settings",
@@ -29,6 +31,7 @@ const CASCADE_KEYS = new Set([
 	"noteProps",
 	"dynamics",
 	"meta",
+	"plugins",
 ]);
 
 function pickNoteMetadata(data) {

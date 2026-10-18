@@ -19,12 +19,14 @@ from upstream, even when the current template release has already been merged.
 
 ## Intentional upstream-file differences
 
-Only these template-owned files should differ from Digital Garden 1.83.7:
+After updating to Digital Garden 1.93.0, only these template-owned files
+should differ from upstream:
 
 - `src/site/_includes/layouts/index.njk` adds the `dl-home` body hook.
 - `src/site/_includes/layouts/note.njk` adds the `dl-note` body hook.
 - `src/site/_includes/components/navbar.njk` provides the branded masthead,
-  publication links, search control, and theme control.
+  publication links, search control, and theme control, while retaining the
+  new plugin action slot.
 - `src/site/_includes/components/pageheader.njk` points the favicon generator at
   the normalized mark and sets the app-icon plate to DL's own dark canvas.
 
@@ -43,7 +45,7 @@ corrected at the same time from the template's demo `#123` to `#08150b` — DL's
 ## Template-update procedure
 
 1. Let the plugin create its update pull request; do not merge it directly.
-2. Compare the three intentional fork files above against the proposed update.
+2. Compare the intentional fork files above against the proposed update.
 3. Restore or adapt the body hooks and masthead on the update branch.
 4. Run the production build and CI checks.
 5. Review the Netlify preview at desktop and mobile widths on the homepage and
