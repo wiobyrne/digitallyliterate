@@ -1,4 +1,4 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Illustrated Editorial Split + Notebook Index · theme: Garden · enrichment: Tier-B evergreen grove · nav: N9 utility bar · footer: Ft3 index-style columns (newsletter prose + Read-or-subscribe + Elsewhere) with an Ft4-style colophon line — corrected 2026-07-25, previously mislabeled Ft7 (newsletter-first/form-primary), which this footer has never been: there is no signup form, the subscribe action is a plain link */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: Text-led Editorial + Notebook Index · theme: Garden · enrichment: none · nav: N9 utility bar · footer: Ft3 index-style columns (newsletter prose + Read-or-subscribe + Elsewhere) with an Ft4-style colophon line */
 /* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
 /* Hallmark · type-system consolidation 2026-07-26: 3 font families now — Grenze Gotisch (display, every page H1 + masthead + footer), Source Serif 4 (body/reading), JetBrains Mono (meta, nav, all UI chrome — absorbed Inter's old role via --garden-font-ui). See tokens.css for the full stamp. */
 
@@ -260,61 +260,6 @@ body.dl-home .content {
   padding-top: var(--garden-space-lg);
 }
 
-.garden-hero-grove {
-  position: absolute;
-  inset-block-start: var(--garden-space-lg);
-  inset-inline-end: var(--garden-gutter);
-  width: clamp(10rem, 22vw, 14rem);
-  margin: 0;
-  color: var(--garden-leaf);
-  pointer-events: none;
-}
-
-.garden-hero-grove svg {
-  display: block;
-  width: 100%;
-  height: auto;
-  overflow: visible;
-}
-
-.garden-hero-grove path {
-  fill: none;
-  stroke: currentColor;
-  stroke-width: 2.2;
-  stroke-linecap: square;
-  stroke-linejoin: miter;
-  vector-effect: non-scaling-stroke;
-}
-
-.garden-hero-grove__tree {
-  transform-box: fill-box;
-  transform-origin: center bottom;
-  animation: garden-tree-sway var(--garden-duration-grove) var(--garden-ease-in-out) infinite alternate;
-}
-
-.garden-hero-grove__tree--left {
-  --garden-tree-sway: 0.28deg;
-  opacity: 0.48;
-  animation-direction: alternate-reverse;
-}
-
-.garden-hero-grove__tree--front {
-  --garden-tree-sway: 0.62deg;
-}
-
-.garden-hero-grove__tree--right {
-  --garden-tree-sway: 0.2deg;
-  opacity: 0.32;
-  animation-duration: var(--garden-duration-grove-secondary);
-}
-
-.garden-hero-grove__ground { opacity: 0.28; }
-
-@keyframes garden-tree-sway {
-  from { transform: rotate(calc(-1 * var(--garden-tree-sway))); }
-  to { transform: rotate(var(--garden-tree-sway)); }
-}
-
 body.dl-home .content > header > h1 {
   position: absolute;
   width: 1px;
@@ -345,14 +290,15 @@ body.dl-note .content h1 {
 
 body.dl-home .content > h1:first-of-type {
   /* font-family/weight/style now inherited from the shared h1 rule above */
-  max-width: none;
+  max-width: 100%;
   margin: 0 0 1rem;
   font-size: clamp(2rem, 6.3vw, 4rem);
-  white-space: nowrap;
+  white-space: normal;
+  text-wrap: balance;
 }
 
 body.dl-home .content > h1:first-of-type + p {
-  max-width: 29rem;
+  max-width: 40rem;
   margin-top: 0;
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
   line-height: 1.42;
@@ -371,16 +317,6 @@ body.dl-home .content > p:nth-of-type(3) a {
   white-space: nowrap;
 }
 
-body.dl-home .content > h2 {
-  font-size: clamp(1.15rem, 2.5vw, 1.35rem);
-  letter-spacing: -0.01em;
-  text-transform: none;
-}
-
-body.dl-home .content > hr:first-of-type + h2 {
-  margin-top: var(--garden-space-xl);
-}
-
 body.dl-home .content > h2,
 body.dl-note .content h2 {
   margin: clamp(var(--garden-space-xl), 6vw, var(--garden-space-2xl)) 0 var(--garden-space-md);
@@ -392,6 +328,21 @@ body.dl-note .content h2 {
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.2;
+}
+
+body.dl-home .content > h2,
+.garden-index h2 {
+  margin: clamp(var(--garden-space-xl), 6vw, var(--garden-space-2xl)) 0 var(--garden-space-md) !important;
+  padding: 0 !important;
+  border: 0 !important;
+  color: var(--garden-ink);
+  font-family: var(--garden-font-read) !important;
+  font-size: clamp(1.65rem, 3.8vw, 2.15rem) !important;
+  font-style: normal;
+  font-weight: 600 !important;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  text-transform: none;
 }
 
 body.dl-note .content h3,
@@ -551,12 +502,6 @@ body.dl-note table { border-radius: 0 !important; }
 
 .garden-index h2 {
   margin: 0.25rem 0 1.75rem !important;
-  padding: 0 !important;
-  border: 0 !important;
-  font-family: var(--garden-font-read) !important;
-  font-size: clamp(2rem, 6vw, 3.75rem) !important;
-  font-style: normal;
-  font-weight: 500 !important;
 }
 
 .recent-list {
@@ -749,11 +694,6 @@ body.dl-home .sidebar {
     transition-duration: 0.01ms !important;
   }
 
-  .garden-hero-grove__tree { animation: none; }
-}
-
-@media (max-width: 42rem) {
-  .garden-hero-grove { display: none; }
 }
 
 @media (max-width: 40rem) {

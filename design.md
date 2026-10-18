@@ -139,12 +139,10 @@ Evergreens. Public collections read `categories`, only.
 ### 1. Homepage — `body.dl-home`
 
 The front door. Leads with the writing, never with a "what is this site" block.
-Order: hero (Grenze H1, one-line statement) → Canopy, the newsletter as the
-most featured element → the garden index → footer. The template's inline `<h1>`
-is visually hidden; the authored H1 in the note carries the page.
-
-Decorative grove illustration is absolutely positioned, `pointer-events: none`,
-and hidden below `42rem`.
+Order: text-led hero (Grenze H1, concise statement of the newsletter and its
+connected notebook) → Canopy, the newsletter as the most featured element → the
+garden index → footer. The template's inline `<h1>` is visually hidden; the
+authored H1 in the note carries the page. The hero has no illustration.
 
 ### 2. Newsletter issue — `body.dl-note` + `.content.dl-newsletter`
 
