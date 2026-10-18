@@ -58,13 +58,7 @@
 <script defer src="{{script}}?v={{meta.buildDate|isoDate}}"></script>
 {%- endfor -%}
 
-{% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#123' %}
-
-{% if meta.styleSettingsCss %}
-    <style>
-        {{ meta.styleSettingsCss | safe }}
-    </style>
-{% endif %}
+{% favicons './.cache/favicon.normalized.svg', appleIconBgColor='#08150b' %}
 {% if meta.logoHeight %}
     <style>
         :root {

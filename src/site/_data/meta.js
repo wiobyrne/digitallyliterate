@@ -41,9 +41,6 @@ module.exports = async (data) => {
     default: process.env.NOTE_ICON_DEFAULT,
   };
 
-  const styleSettingsCss = process.env.STYLE_SETTINGS_CSS || "";
-  const styleSettingsBodyClasses = process.env.STYLE_SETTINGS_BODY_CLASSES || "";
-
   if (process.env.NOTE_ICON_TITLE && process.env.NOTE_ICON_TITLE == "true") {
     bodyClasses.push("title-note-icon");
     noteIconsSettings.title = true;
@@ -68,12 +65,6 @@ module.exports = async (data) => {
   ) {
     bodyClasses.push("backlinks-note-icon");
     noteIconsSettings.backlinks = true;
-  }
-  if (styleSettingsCss) {
-    bodyClasses.push("css-settings-manager");
-  }
-  if (styleSettingsBodyClasses) {
-    bodyClasses.push(styleSettingsBodyClasses);
   }
 
   // Deprecated: timestamps are rendered by the dg-timestamps plugin, which
@@ -120,7 +111,6 @@ module.exports = async (data) => {
     logoHeight,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
     siteBaseUrl: baseUrl,
-    styleSettingsCss,
     uiStrings,
     buildDate: new Date(),
   };
