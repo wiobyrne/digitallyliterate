@@ -4,13 +4,13 @@
 
 [[redirects]]
   from = "/books"
-  to = "https://wiobyrne.com/books/"
+  to = "https://wiobyrne.com/book-notes/"
   status = 301
   force = true
 
 [[redirects]]
   from = "/books/*"
-  to = "https://wiobyrne.com/books/:splat"
+  to = "https://wiobyrne.com/book-notes/:splat"
   status = 301
   force = true
 
