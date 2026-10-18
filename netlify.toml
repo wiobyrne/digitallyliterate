@@ -3,6 +3,18 @@
   command = "npm ci && npm run build"
 
 [[redirects]]
+  from = "/books"
+  to = "https://wiobyrne.com/books/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/books/*"
+  to = "https://wiobyrne.com/books/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/plants/*"
   to = "/start-here/"
   status = 301

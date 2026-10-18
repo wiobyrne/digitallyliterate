@@ -1,4 +1,4 @@
-// Provide settings to standalone pages (books.njk, 404.njk, landing pages)
+// Provide settings to standalone pages (404.njk, landing pages)
 // that don't inherit from the notes/ directory data cascade.
 require("dotenv").config();
 var constants = require("../helpers/constants");

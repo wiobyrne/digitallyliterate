@@ -10,7 +10,7 @@ write, learn, and live in digital spaces.
 Issues move across artificial intelligence, education, literacy, privacy,
 platforms, and the open web. I use the letter to share what I am reading, work through an argument, and connect current events to questions that deserve more time.
 
-It has run since 2015. This is issue 448 and counting.
+It has run since 2015. Read the complete archive of published issues below.
 
 ## Read it by email
 
