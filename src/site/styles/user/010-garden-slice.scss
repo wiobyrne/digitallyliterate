@@ -89,13 +89,13 @@ body.dl-note :focus-visible {
 .garden-masthead__inner {
   width: 100%;
   max-width: calc(var(--garden-shell) + 3rem);
-  min-height: 4.25rem;
+  min-height: 3.5rem;
   margin: 0 auto;
   padding: 0 var(--garden-gutter);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1.25rem;
+  gap: 1rem;
 }
 
 .garden-masthead__wordmark {
@@ -154,12 +154,9 @@ body.dl-note :focus-visible {
   mask-image: url("/img/regmarks/brackets.svg");
 }
 
-.garden-masthead__nav {
-  min-height: 44px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 0.5rem;
+.garden-menu {
+  position: relative;
+  margin-left: auto;
   font-family: var(--garden-font-ui);
   font-size: 0.69rem;
   font-weight: 600;
@@ -167,18 +164,58 @@ body.dl-note :focus-visible {
   text-transform: uppercase;
 }
 
-.garden-masthead__nav > a,
-.garden-masthead__nav > button,
-.garden-masthead__nav .search-button {
+.garden-menu__trigger {
   min-width: 44px;
   min-height: 44px;
-  padding: 0.65rem 0.5rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 0.4rem;
+  color: var(--garden-ink);
+  cursor: pointer;
+  list-style: none;
+}
+
+.garden-menu__trigger::-webkit-details-marker { display: none; }
+.garden-menu__trigger::marker { content: ""; }
+.garden-menu__trigger:hover { color: var(--garden-leaf); }
+.garden-menu__mark { font-family: var(--garden-font-read); font-size: 1.1rem; line-height: 1; }
+.garden-menu[open] .garden-menu__mark { transform: rotate(45deg); }
+
+.garden-menu__panel {
+  position: absolute;
+  top: calc(100% + 0.25rem);
+  right: 0;
+  z-index: 30;
+  width: min(18rem, calc(100vw - 2 * var(--garden-gutter)));
+  padding: 0.5rem 1rem;
+  background: var(--garden-paper-raised);
+  border: var(--garden-rule-width) solid var(--garden-rule);
+  box-shadow: 0 0.5rem 1.5rem color-mix(in oklch, var(--garden-ink) 12%, transparent);
+}
+
+.garden-menu__links,
+.garden-menu__tools {
+  font-family: var(--garden-font-ui);
+  font-size: inherit;
+  font-weight: inherit;
+  letter-spacing: inherit;
+  text-transform: uppercase;
+}
+
+.garden-menu__links a,
+.garden-menu__tools > button,
+.garden-menu__tools .search-button {
+  width: 100%;
+  min-height: 44px;
+  padding: 0.65rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
   color: var(--garden-ink) !important;
   background: transparent !important;
   border: 0 !important;
+  border-bottom: var(--garden-rule-width) solid var(--garden-rule) !important;
   border-radius: 0 !important;
   box-shadow: none !important;
   font: inherit;
@@ -187,20 +224,27 @@ body.dl-note :focus-visible {
   text-transform: inherit;
 }
 
-.garden-masthead__nav > a:hover,
-.garden-masthead__nav > button:hover,
-.garden-masthead__nav .search-button:hover {
+.garden-menu__links a:hover,
+.garden-menu__tools > button:hover,
+.garden-menu__tools .search-button:hover {
   color: var(--garden-leaf) !important;
 }
 
-.garden-masthead__nav > a:active,
-.garden-masthead__nav > button:active,
-.garden-masthead__nav .search-button:active {
+.garden-menu__links a:active,
+.garden-menu__tools > button:active,
+.garden-menu__tools .search-button:active {
   color: var(--garden-leaf-hover) !important;
 }
 
-.garden-masthead__nav > button:disabled,
-.garden-masthead__nav .search-button:disabled {
+.garden-menu__links a:last-child,
+.garden-menu__tools > :last-child { border-bottom: 0 !important; }
+
+.garden-menu__tools { border-top: var(--garden-rule-width) solid var(--garden-rule); }
+.garden-menu__tools .search-button { cursor: pointer; }
+.garden-menu__tools .search-button > * { pointer-events: none; }
+
+.garden-menu__tools > button:disabled,
+.garden-menu__tools .search-button:disabled {
   opacity: 0.55;
   cursor: not-allowed;
 }
@@ -733,8 +777,9 @@ body.dl-home .sidebar {
 
 .footer-links a:hover { color: var(--garden-leaf-hover) !important; }
 
-.garden-masthead__nav a,
-.garden-masthead__nav button { white-space: nowrap; }
+.garden-menu__trigger,
+.garden-menu__panel a,
+.garden-menu__panel button { white-space: nowrap; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
@@ -746,19 +791,10 @@ body.dl-home .sidebar {
 
 @media (max-width: 40rem) {
   .garden-masthead__inner {
-    min-height: 3.75rem;
-    padding-block: 0.4rem;
-    flex-wrap: wrap;
-    gap: 0;
+    min-height: 3.25rem;
   }
   .garden-masthead__wordmark { font-size: 0.96rem; gap: 0.5rem; }
-  .garden-masthead__nav {
-    width: 100%;
-    justify-content: flex-start;
-    gap: 0;
-  }
-  .garden-nav-subscribe { display: none !important; }
-  .garden-theme-toggle__label { display: none; }
+  .garden-menu__panel { right: 0; }
 
   body.dl-home .content,
   body.dl-note .content {

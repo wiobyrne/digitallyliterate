@@ -5,15 +5,24 @@
       <img class="garden-brand-mark" src="/favicon.svg" alt="" aria-hidden="true">
       <span>{{ meta.siteName }}</span>
     </a>
-    <nav class="garden-masthead__nav" aria-label="Primary navigation">
-      <a href="/newsletter/">Issues</a>
-      <a class="garden-nav-subscribe" href="/subscribe/">Subscribe</a>
-      {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
-      <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
-        <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
-        <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
-      </button>
-    </nav>
+    <details class="garden-menu">
+      <summary class="garden-menu__trigger">
+        <span>Menu</span><span class="garden-menu__mark" aria-hidden="true">+</span>
+      </summary>
+      <div class="garden-menu__panel">
+        <nav class="garden-menu__links" aria-label="Primary navigation">
+          <a href="/newsletter/">Issues</a>
+          <a href="/subscribe/">Subscribe</a>
+        </nav>
+        <div class="garden-menu__tools">
+          {% set slotName = "navbar.actions" %}{% include "components/pluginSlot.njk" %}
+          <button class="garden-theme-toggle" type="button" aria-pressed="false" aria-label="Use dark mode">
+            <span class="regmark regmark--quartered garden-theme-toggle__mark" aria-hidden="true"></span>
+            <span class="garden-theme-toggle__label" aria-hidden="true">Dark</span>
+          </button>
+        </div>
+      </div>
+    </details>
   </div>
 </header>
 {% else %}
