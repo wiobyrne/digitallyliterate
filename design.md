@@ -20,7 +20,7 @@ Two further vault notes are implementation records, not authority:
 `.../active/Garden Redesign.md` (what shipped) and `.../active/Current State.md`
 (what production currently does).
 
-Digitally Literate is the study/library surface of the Apparatus system.
+Digitally Literate is a weekly newsletter and its connected public notebook.
 `wiobyrne.com` is the portfolio surface. They share structural grammar —
 zero radius, narrow single reading column, restrained rules, serif reading
 voice — and deliberately diverge on identity. The divergence is the point;
@@ -66,7 +66,8 @@ Colour semantics are load-bearing, not decorative.
 
 - **Green** — open, free, ongoing, and the DL identity itself. It is the link
   colour and the primary identity signal.
-- **Coral** — paid or gated Understory content **only**. Never anything else.
+- **Coral** — reserved for paid or gated content if that model returns. Never
+  use it as a general accent.
 - **Clay** — non-semantic texture and detail only. Never interactive meaning.
   Clay never substitutes for coral (paid) or green (open).
 - **Neutral** — the garden itself.
@@ -90,10 +91,9 @@ with a light block on `:root` and a dark block on `html.theme-dark`. Raw hex or
 - No gradients, no card-grid listings, no hero banners, no stock photography,
   no marketing hero.
 
-**Content architecture** is a forest cross-section, and it is structural before
-it is chromatic: Canopy (free newsletter, most prominent) → Understory (paid,
-quieter, coral) → garden layer (always free, structurally separate from the
-newsletter funnel).
+**Content architecture** puts the newsletter first, with the public notebook
+following it. Newsletter issues are free to read; the notebook contains durable
+notes connected to recurring ideas in those issues.
 
 ## Texture
 
@@ -107,9 +107,10 @@ aesthetic lineage.
 
 ## Identity marks
 
-- **Regmark** — the structural family mark. Navigation, colophon, system chrome.
-  Three variants ship as CSS masks: `crosshair` (primary), `quartered`
-  (utility), `brackets` (section/frame).
+- **Finder** — the shared top-level mark for Digitally Literate and wiobyrne.com.
+  It is supplied by `/favicon.svg`.
+- **Regmark** — optional secondary mark for system chrome. Three variants ship
+  as CSS masks: `crosshair`, `quartered` (utility), `brackets` (section/frame).
 - **Avatar** — a DL personality asset, not the global logo. Welcome, sign-off,
   or authored illustration contexts only.
 - **Maturity marks** — plain mono labels or the established emoji shorthand.
@@ -138,11 +139,13 @@ Evergreens. Public collections read `categories`, only.
 
 ### 1. Homepage — `body.dl-home`
 
-The front door. Leads with the writing, never with a "what is this site" block.
-Order: text-led hero (Grenze H1, concise statement of the newsletter and its
-connected notebook) → Canopy, the newsletter as the most featured element → the
-garden index → footer. The template's inline `<h1>` is visually hidden; the
-authored H1 in the note carries the page. The hero has no illustration.
+The front door. Order: wordmark and concise deck, a clear Subscribe action and
+archive link → latest issue featured with its issue number, publication date,
+title, and description → four recent issues with the same metadata → recent
+Evergreens from the connected notebook and a link to Start Here → compact
+footer. The template's inline `<h1>` is visually hidden; the authored H1 in the
+note carries the page. The hero has no illustration. Keep the Garden taxonomy
+on Start Here until Groves and Forests are published.
 
 ### 2. Newsletter issue — `body.dl-note` + `.content.dl-newsletter`
 
@@ -160,8 +163,8 @@ settings is an open design decision — deliberately not invented here.
 ### 3. Newsletter archive — `.content.dl-newsletter-archive`
 
 Dense, scannable, text-first index of every issue. Title + date only — no
-descriptions, no cards, no images. Carries a filter input and a subscribe link
-styled as a mono action, not a marketing button.
+descriptions, no cards, no images. Carries a filter input and a Subscribe link
+that routes through `/subscribe/`.
 
 ### 4. Evergreen — `.content.dl-evergreen`
 
@@ -185,15 +188,14 @@ public format, not a deprecated one.
 
 ### 7. Utility pages — `.content.dl-page`
 
-About, Subscribe, Colophon, Start Here, `/books/`, `/evergreens/`, `/groves/`,
+About, Subscribe, Colophon, Start Here, `/evergreens/`, `/groves/`,
 404. Quieter than the homepage. Same shell, same masthead, same footer, same
 green links. A utility page that does not receive the garden shell is a bug,
 not a variant.
 
-**Evergreen, Grove, and Forest collections are currently empty.** The archetypes
-are defined and wired so that they activate when Ian publishes content with
-those categories. Do not fabricate content to populate them, and do not delete
-the archetypes because they are unused.
+Evergreen pages are published. Grove and Forest collections remain empty until
+Ian publishes content with those categories. Do not fabricate content to
+populate them, and do not delete the archetypes because they are unused.
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"subscribe","permalink":"/subscribe/","title":"Subscribe to Digitally Literate","metatags":{"description":"What Digitally Literate is, and every way to follow it — email, RSS, or the open web archive.","og:title":"Subscribe to Digitally Literate","og:description":"What Digitally Literate is, and every way to follow it — email, RSS, or the open web archive.","og:type":"website"},"contentClasses":"dl-note dl-page","tags":["digital-literacy","newsletter","subscribe"],"dg-note-properties":{"title":"Subscribe to Digitally Literate","categories":"Page","tags":["digital-literacy","newsletter","subscribe"],"created":"2026-07-20","last_updated":"2026-09-20","description":"What Digitally Literate is, and every way to follow it — email, RSS, or the open web archive."}}
+{"dg-publish":true,"dg-permalink":"subscribe","permalink":"/subscribe/","title":"Subscribe to Digitally Literate","metatags":{"description":"A weekly newsletter about AI, technology, and education—for educators making sense of a changing digital world.","og:title":"Subscribe to Digitally Literate","og:description":"A weekly newsletter about AI, technology, and education—for educators making sense of a changing digital world.","og:type":"website"},"contentClasses":"dl-note dl-page","tags":["digital-literacy","newsletter","subscribe"],"dg-note-properties":{"title":"Subscribe to Digitally Literate","categories":"Page","tags":["digital-literacy","newsletter","subscribe"],"created":"2026-07-20","last_updated":"2026-10-19","description":"A weekly newsletter about AI, technology, and education—for educators making sense of a changing digital world."}}
 ---
 
 # Subscribe
 
-Digitally Literate is a weekly letter about the forces shaping how we read,
-write, learn, and live in digital spaces.
+Digitally Literate is a weekly newsletter about AI, technology, and
+education—for educators making sense of a changing digital world.
 
 Issues move across artificial intelligence, education, literacy, privacy,
 platforms, and the open web. I use the letter to share what I am reading, work through an argument, and connect current events to questions that deserve more time.

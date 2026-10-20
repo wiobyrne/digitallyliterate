@@ -1,3 +1,6 @@
+const fs = require("fs");
+const path = require("path");
+
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
   // Feel free to add any plugin you want here instead of /.eleventy.js
@@ -32,6 +35,39 @@ function hasCategory(item, category) {
 
 function byTitle(a, b) {
   return (a.data.title || "").localeCompare(b.data.title || "");
+}
+
+function newsletterIssueNumber(item) {
+  var storedNumber = parseInt(noteProperties(item).issue, 10);
+  if (Number.isFinite(storedNumber) && storedNumber > 0) return storedNumber;
+  var match = (item.fileSlug || "").match(/(\d+)\s*$/);
+  return match ? parseInt(match[1], 10) : 0;
+}
+
+function newsletterIssueDate(item) {
+  var properties = noteProperties(item);
+  var published = properties.published || "";
+
+  // Newsletter source headings carry the published date. Note creation dates
+  // can precede publication, so prefer the date Ian authored for readers.
+  if (item.inputPath) {
+    try {
+      var source = fs.readFileSync(path.resolve(item.inputPath), "utf8");
+      var match = source.match(/^\*Issue\s+\d+\s*·\s*Published\s+([^*·]+)(?:·[^*]*)?\*/m);
+      if (match) published = match[1].trim();
+    } catch (error) {
+      // Use the available note metadata below if the source cannot be read.
+    }
+  }
+
+  if (!published) published = properties.created || "";
+  var parsed = published ? new Date(published) : null;
+  return {
+    display: published,
+    iso: parsed && !Number.isNaN(parsed.getTime())
+      ? parsed.toISOString().slice(0, 10)
+      : "",
+  };
 }
 
 // Public page archetypes. The `categories` field selects the archetype; the
@@ -119,25 +155,24 @@ function userEleventySetup(eleventyConfig) {
   });
 
   eleventyConfig.addCollection("latestNewsletter", function (collectionApi) {
-    function issueNumber(item) {
-      var match = (item.fileSlug || "").match(/(\d+)\s*$/);
-      return match ? parseInt(match[1], 10) : 0;
-    }
     return collectionApi.getFilteredByTag("note").filter(function (item) {
       return hasCategory(item, "Newsletter");
     }).sort(function (a, b) {
-      return issueNumber(b) - issueNumber(a);
-    }).slice(0, 5);
+      return newsletterIssueNumber(b) - newsletterIssueNumber(a);
+    }).slice(0, 5).map(function (item) {
+      var publishedDate = newsletterIssueDate(item);
+      var properties = noteProperties(item);
+      item.data.issueNumber = newsletterIssueNumber(item);
+      item.data.issueDate = publishedDate.display;
+      item.data.issueDateISO = publishedDate.iso;
+      item.data.issueDescription = properties.description ||
+        (item.data.metatags && item.data.metatags.description) || "";
+      return item;
+    });
   });
 
-  // Homepage garden section: 5 most recently updated Evergreens/Groves/Forests.
-  eleventyConfig.addCollection("recentGardenUpdates", function (collectionApi) {
-    function gardenType(item) {
-      if (hasCategory(item, "Evergreen")) return "Evergreen";
-      if (hasCategory(item, "Grove")) return "Grove";
-      if (hasCategory(item, "Forest")) return "Forest";
-      return "";
-    }
+  // Homepage notebook section: the three most recently updated Evergreens.
+  eleventyConfig.addCollection("recentEvergreens", function (collectionApi) {
     function updateDate(item) {
       var noteProperties = item.data["dg-note-properties"] || {};
       var value = item.data.updated ||
@@ -150,13 +185,10 @@ function userEleventySetup(eleventyConfig) {
       return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
     }
     return collectionApi.getFilteredByTag("note").filter(function (item) {
-      return gardenType(item) !== "";
+      return hasCategory(item, "Evergreen");
     }).sort(function (a, b) {
       return updateDate(b) - updateDate(a);
-    }).slice(0, 5).map(function (item) {
-      item.data.gardenType = gardenType(item);
-      return item;
-    });
+    }).slice(0, 3);
   });
 
   // Recently updated: 10 most recent by update date
