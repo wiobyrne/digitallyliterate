@@ -599,13 +599,15 @@ body.dl-note table { border-radius: 0 !important; }
 
 .latest-issue-date,
 .issue-list-meta {
-  margin: 0 0 0.2rem;
+  margin: 0 0 0.25rem;
   color: var(--garden-ink-muted);
   font-family: var(--garden-font-meta);
   font-size: 0.7rem;
   letter-spacing: 0.07em;
   text-transform: uppercase;
 }
+
+.latest-issue-date { margin-bottom: 0.5rem; }
 
 .latest-issue-feature h3 {
   min-width: 0;
@@ -662,21 +664,22 @@ body.dl-note table { border-radius: 0 !important; }
 .notebook-list li {
   min-width: 0;
   margin: 0;
-  padding: 0.9rem 0 1.2rem;
+  padding: 1rem 0;
   border-top: var(--garden-rule-width) solid var(--garden-rule);
 }
 
 .home-issues .issue-list-title,
 .notebook-section .notebook-list > li > a {
   display: inline-block;
+  margin: 0;
   color: var(--garden-ink) !important;
   text-decoration: none !important;
 }
 
 .issue-list-description,
 .notebook-list li p {
-  max-width: 42rem;
-  margin: 0.25rem 0 0;
+  max-width: 100%;
+  margin: 0.35rem 0 0;
   color: var(--garden-ink-muted);
   font-size: 0.94rem;
   line-height: 1.5;
@@ -695,9 +698,9 @@ body.dl-note table { border-radius: 0 !important; }
 .issue-subscribe { margin-top: 1rem; }
 
 .notebook-intro {
-  max-width: 60ch;
+  max-width: 100%;
   margin: 0.8rem 0 0.4rem;
-  font-size: inherit;
+  font-size: 0.94rem;
   line-height: 1.6;
 }
 
@@ -760,14 +763,15 @@ body.dl-home .sidebar {
   width: 100%;
   max-width: calc(80ch + 4rem);
   margin: 0 auto;
-  padding: var(--garden-space-xl) var(--garden-gutter) 2.5rem;
-  border-top: var(--garden-rule-width) solid var(--garden-rule);
+  padding: 0 var(--garden-gutter) 2.5rem;
   background: transparent;
   color: var(--garden-ink);
 }
 
 .site-footer-inner {
   padding: 0;
+  padding-top: var(--garden-space-xl);
+  border-top: var(--garden-rule-width) solid var(--garden-rule);
   text-align: left;
 }
 
@@ -794,7 +798,7 @@ body.dl-home .sidebar {
   align-items: center;
   flex-wrap: wrap;
   gap: 0.35rem 0.55rem;
-  margin-top: 0.35rem;
+  margin-top: 0.75rem;
 }
 
 .footer-links a {
