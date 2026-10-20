@@ -154,43 +154,6 @@ body.dl-note :focus-visible {
   mask-image: url("/img/regmarks/brackets.svg");
 }
 
-/* Apparatus “structural + special” rule:
- * ordinary chrome uses the clean mask-based regmarks above;
- * this ink-displaced mark is reserved for expressive placements at 48px+.
- */
-.regmark-expressive {
-  display: inline-grid;
-  width: var(--regmark-expressive-size, 64px);
-  height: var(--regmark-expressive-size, 64px);
-  flex: 0 0 auto;
-  color: currentColor;
-  place-items: center;
-}
-
-.regmark-expressive svg {
-  display: block;
-  width: 100%;
-  height: 100%;
-  overflow: visible;
-}
-
-.regmark-expressive circle,
-.regmark-expressive line {
-  fill: none;
-  stroke: currentColor;
-  stroke-linecap: square;
-  stroke-width: 0.98;
-}
-
-.regmark-expressive .regmark-expressive__dot {
-  fill: currentColor;
-  stroke: none;
-}
-
-.garden-brand-mark {
-  color: var(--garden-leaf);
-}
-
 .garden-masthead__nav {
   min-height: 44px;
   display: flex;
@@ -620,7 +583,7 @@ body.dl-home .content .latest-issue-feature > h3 {
 }
 
 .home-issues .issue-list-title,
-.notebook-section .notebook-list > li > a {
+.notebook-section .notebook-list-row > a {
   min-width: 0;
   overflow-wrap: anywhere;
   margin: 0;
@@ -637,7 +600,7 @@ body.dl-home .content .latest-issue-feature > h3 {
 
 .latest-issue-feature h3 a:hover,
 .home-issues .issue-list-title:hover,
-.notebook-section .notebook-list > li > a:hover {
+.notebook-section .notebook-list-row > a:hover {
   color: var(--garden-leaf-hover) !important;
   text-decoration: underline !important;
   text-underline-offset: 0.18em;
@@ -684,7 +647,7 @@ body.dl-home .content .notebook-list-row > p {
 }
 
 .issue-subscribe {
-  margin: 0.5rem 0 0;
+  margin: 1rem 0 0;
   color: var(--garden-ink-muted);
   font-family: var(--garden-font-ui);
   font-size: 0.82rem;
@@ -692,8 +655,6 @@ body.dl-home .content .notebook-list-row > p {
 }
 
 .issue-subscribe a { color: var(--garden-leaf) !important; }
-
-.issue-subscribe { margin-top: 1rem; }
 
 .notebook-intro {
   max-width: 100%;
@@ -705,47 +666,6 @@ body.dl-home .content .notebook-list-row > p {
 body.dl-home .content .home-issues h3,
 body.dl-home .content .notebook-section h3 {
   font-family: var(--garden-font-read) !important;
-}
-
-.recent-list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  border-bottom: var(--garden-rule-width) solid var(--garden-rule);
-}
-
-.recent-list li {
-  display: grid;
-  grid-template-columns: 2.5rem minmax(0, 1fr);
-  gap: 0.75rem;
-  align-items: baseline;
-  margin: 0;
-  padding: 0.9rem 0;
-  border-top: var(--garden-rule-width) solid var(--garden-rule);
-}
-
-.recent-list li:hover {
-  background-image: repeating-linear-gradient(
-    90deg,
-    transparent 0 5px,
-    color-mix(in oklch, var(--garden-leaf) 8%, transparent) 5px 6px
-  );
-}
-
-.recent-list__number {
-  color: var(--garden-clay);
-  font-family: var(--garden-font-meta);
-  font-size: 0.66rem;
-}
-
-/* color and text-decoration stay !important: they out-specify
- * `body.dl-home a`. The rest no longer competes with anything. */
-.recent-list a {
-  color: var(--garden-ink) !important;
-  font-family: var(--garden-font-read);
-  font-size: clamp(1.05rem, 2.5vw, 1.25rem);
-  font-weight: 500;
-  text-decoration: none !important;
 }
 
 /* The plugin renders its sidebar inline, after the content. On a note that
