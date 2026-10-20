@@ -14,11 +14,6 @@
     <p class="latest-issue-date">No. {{ featuredIssue.data.issueNumber }} <span aria-hidden="true">·</span> <time datetime="{{ featuredIssue.data.issueDateISO }}">{{ featuredIssue.data.issueDate }}</time></p>
     <h3><a href="{{ featuredIssue.url }}">{{ featuredIssue.data.title }}</a></h3>
     {% if featuredIssue.data.issueDescription %}<p class="latest-issue-description">{{ featuredIssue.data.issueDescription }}</p>{% endif %}
-    {% if featuredIssue.data.linkedEvergreens | length %}
-    <p class="issue-list-notebook">In the notebook:
-      {% for evergreen in featuredIssue.data.linkedEvergreens %}<a href="{{ evergreen.url }}">{{ evergreen.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
-    </p>
-    {% endif %}
   </article>
 
   {% if latestIssues | length > 2 %}
@@ -30,11 +25,6 @@
         <p class="issue-list-meta">No. {{ note.data.issueNumber }} <span aria-hidden="true">·</span> <time datetime="{{ note.data.issueDateISO }}">{{ note.data.issueDate }}</time></p>
         <a class="issue-list-title" href="{{ note.url }}">{{ note.data.title }}</a>
         {% if note.data.issueDescription %}<p class="issue-list-description">{{ note.data.issueDescription }}</p>{% endif %}
-        {% if note.data.linkedEvergreens | length %}
-        <p class="issue-list-notebook">In the notebook:
-          {% for evergreen in note.data.linkedEvergreens %}<a href="{{ evergreen.url }}">{{ evergreen.title }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
-        </p>
-        {% endif %}
       </li>
       {% endif %}
     {% endfor %}

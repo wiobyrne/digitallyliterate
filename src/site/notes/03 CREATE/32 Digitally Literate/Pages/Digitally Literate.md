@@ -6,8 +6,6 @@
 
 **A weekly newsletter about AI, technology, and education—for educators making sense of a changing digital world.**
 
-<p class="home-byline">by <a href="https://wiobyrne.com/about/">Ian O'Byrne</a></p>
-
-<p class="home-promise">450+ issues since 2015. Every issue is free to read here.</p>
+<p class="home-meta-line">By <a href="https://wiobyrne.com/about/">Ian O'Byrne</a> · 450+ issues since 2015 · Free to read</p>
 
 <p class="home-actions"><a class="home-action-primary" href="/subscribe/">Subscribe</a><a class="home-action-secondary" href="/newsletter/">Read all issues</a></p>
