@@ -19,8 +19,8 @@ from upstream, even when the current template release has already been merged.
 
 ## Intentional upstream-file differences
 
-After updating to Digital Garden 1.93.0, only these template-owned files
-should differ from upstream:
+After updating to Digital Garden 1.93.0, these template-owned files
+intentionally differ from upstream:
 
 - `src/site/_includes/layouts/index.njk` adds the `dl-home` body hook.
 - `src/site/_includes/layouts/note.njk` adds the `dl-note` body hook.
@@ -28,7 +28,12 @@ should differ from upstream:
   publication links, search control, and theme control, while retaining the
   new plugin action slot.
 - `src/site/_includes/components/pageheader.njk` points the favicon generator at
-  the normalized mark and sets the app-icon plate to DL's own dark canvas.
+  the normalized mark and sets the app-icon plate to DL's own dark canvas. It
+  always loads Obsidian's markdown-rendering base, then loads a third-party
+  theme only when `THEME` is configured. It must not fall back to the template
+  demo stylesheet when no external theme is set.
+- `src/site/404.njk` uses the same no-external-theme stylesheet stack as normal
+  pages and keeps the not-found page inside the DL design system.
 
 The two body hooks remain because they provide a clear, stable page contract.
 Replacing them with DOM-dependent selectors or client-side class injection

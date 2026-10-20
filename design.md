@@ -262,7 +262,8 @@ branches on the remote. Check them the same way.
 Every page loads, in order:
 
 1. `obsidian-base.css` — template-owned Obsidian markdown rendering (~485 KB)
-2. `_theme.<hash>.css` — third-party Obsidian theme, fetched at build time
+2. `_theme.<hash>.css` — optional third-party Obsidian theme, fetched at build
+   time only when `THEME` is set; Digitally Literate leaves this unset
 3. `digital-garden-base.css` — template-owned plugin layout
 4. `custom-style.css` — user-owned legacy layer, plugin-provided but never
    overwritten by the updater
@@ -273,13 +274,14 @@ Layers 5 and 6 are the design system. Layer 4 is legacy and is being reduced to
 generic element defaults only; do not add to it. Layers 1–3 are not ours.
 
 `style.scss` is template-owned and carries upstream's demo styling (yellow H1s,
-dark background). It is **not loaded in production** because `meta.themeStyle`
-is always set. Leave it untouched — editing it creates updater friction for no
-rendering benefit.
+dark background). It is **not loaded**: the page header and 404 template load
+`obsidian-base.css` directly, with an optional external theme after it. Do not
+restore the template's `style.css` fallback when no external theme is set; the
+Apparatus token and user-style layers provide the site's appearance.
 
 ## Template-owned divergences
 
-Four template-owned files differ from Digital Garden 1.93.0. Keeping this list
+Five template-owned files differ from Digital Garden 1.93.0. Keeping this list
 short is a maintenance goal; `TEMPLATE_FORK.md` is the authoritative record.
 
 - `src/site/_includes/layouts/index.njk` — adds the `dl-home` body hook
@@ -287,7 +289,10 @@ short is a maintenance goal; `TEMPLATE_FORK.md` is the authoritative record.
 - `src/site/_includes/components/navbar.njk` — branded masthead, publication
   links, search control, theme control
 - `src/site/_includes/components/pageheader.njk` — favicon generator reads the
-  normalized finder mark; app-icon plate is DL's dark canvas
+  normalized finder mark; app-icon plate is DL's dark canvas; the rendering
+  base loads without requiring an external theme
+- `src/site/404.njk` — uses the same no-external-theme stylesheet stack and DL
+  styles as normal pages
 
 `pageheader.njk` was already divergent and undocumented: its favicon argument
 moved to `./.cache/favicon.normalized.svg` on 2026-07-16. Recorded here
