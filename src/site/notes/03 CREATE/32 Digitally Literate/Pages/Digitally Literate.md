@@ -9,3 +9,5 @@
 <p class="home-meta-line">By <a href="https://wiobyrne.com/about/">Ian O'Byrne</a> · 450+ issues since 2015 · Free to read</p>
 
 <p class="home-actions"><a class="home-action-primary" href="/subscribe/">Subscribe</a><a class="home-action-secondary" href="/newsletter/">Read all issues</a></p>
+
+<p class="home-notebook-note">Alongside the newsletter, a connected notebook develops recurring ideas into durable notes. <a href="/start-here/">Explore the Garden →</a></p>
