@@ -2,17 +2,22 @@
 {% if latestIssues | length %}
 {% set featuredIssue = latestIssues[0] %}
 <section class="garden-index home-issues" aria-labelledby="latest-issue-heading">
-  <p class="garden-index__eyebrow">Issue No. {{ featuredIssue.data.issueNumber }}</p>
-  <h2 id="latest-issue-heading">Latest issue</h2>
+  <div class="home-section-head">
+    <div class="home-section-headcopy">
+      <p class="garden-index__eyebrow">Newsletter</p>
+      <h2 id="latest-issue-heading">Latest issue</h2>
+    </div>
+    <a class="home-section-more" href="/newsletter/">All issues <span aria-hidden="true">→</span></a>
+  </div>
 
   <article class="latest-issue-feature">
-    <p class="latest-issue-date"><time datetime="{{ featuredIssue.data.issueDateISO }}">{{ featuredIssue.data.issueDate }}</time></p>
+    <p class="latest-issue-date">No. {{ featuredIssue.data.issueNumber }} <span aria-hidden="true">·</span> <time datetime="{{ featuredIssue.data.issueDateISO }}">{{ featuredIssue.data.issueDate }}</time></p>
     <h3><a href="{{ featuredIssue.url }}">{{ featuredIssue.data.title }}</a></h3>
     {% if featuredIssue.data.issueDescription %}<p class="latest-issue-description">{{ featuredIssue.data.issueDescription }}</p>{% endif %}
   </article>
 
-  {% if latestIssues | length > 1 %}
-  <h3 class="recent-issues-heading">Recent issues</h3>
+  {% if latestIssues | length > 2 %}
+  <h3 class="home-subsection-heading">Recent issues</h3>
   <ol class="issue-list">
     {% for note in latestIssues %}
       {% if not loop.first %}
@@ -25,7 +30,5 @@
     {% endfor %}
   </ol>
   {% endif %}
-
-  <p class="all-issues-link"><a href="/newsletter/">All issues <span aria-hidden="true">→</span></a></p>
 </section>
 {% endif %}

@@ -1,6 +1,6 @@
-/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: latest issue + notebook index · theme: Garden · enrichment: none · nav: N9 utility bar · footer: compact description + site links */
-/* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V4 · contrast: pass (46–50) · slop: pass (1–69) · mobile: pass (36, 59, 61–69) */
-/* Hallmark · type-system consolidation 2026-07-26: 3 font families now — Grenze Gotisch (display, every page H1 + masthead + footer), Source Serif 4 (body/reading), JetBrains Mono (meta, nav, all UI chrome — absorbed Inter's old role via --garden-font-ui). See tokens.css for the full stamp. */
+/* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: editorial masthead + ruled issue feed + notebook index · theme: Garden · cues: wiobyrne.com section heads, column width, and text rhythm · enrichment: none · nav: N9 utility bar · footer: compact description + site links */
+/* Hallmark · pre-emit critique: P5 H5 E4 S5 R4 V4 */
+/* Hallmark · type system: Grenze Gotisch (page H1 + masthead), Source Serif 4 (body + editorial headings), JetBrains Mono (metadata + UI). */
 
 html {
   overflow-x: clip;
@@ -256,8 +256,9 @@ body.dl-note .content {
 
 body.dl-home .content {
   position: relative;
-  max-width: calc(var(--garden-shell) + 3rem);
-  padding-top: var(--garden-space-lg);
+  max-width: calc(80ch + 4rem);
+  padding-top: clamp(3rem, 7vw, 4.5rem);
+  padding-bottom: clamp(3rem, 7vw, 4.5rem);
 }
 
 body.dl-home .content > header > h1 {
@@ -291,22 +292,28 @@ body.dl-note .content h1 {
 body.dl-home .content > h1:first-of-type {
   /* font-family/weight/style now inherited from the shared h1 rule above */
   max-width: 100%;
-  margin: 0 0 1rem;
-  font-size: clamp(2rem, 6.3vw, 4rem);
+  margin: 0 0 1.1rem;
+  font-size: clamp(2.65rem, 7vw, 4.5rem);
   white-space: normal;
   text-wrap: balance;
+  letter-spacing: -0.015em;
 }
 
 body.dl-home .content > h1:first-of-type + p {
-  max-width: 40rem;
-  margin-top: 0;
-  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
-  line-height: 1.42;
+  max-width: 42rem;
+  margin: 0;
+  color: var(--garden-ink-muted);
+  font-size: clamp(1.18rem, 2.2vw, 1.35rem);
+  line-height: 1.55;
   text-wrap: balance;
 }
 
 body.dl-home .content > h1:first-of-type + p + p {
-  max-width: 29rem;
+  max-width: 42rem;
+  margin: 0.65rem 0 0;
+  color: var(--garden-ink-muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
 }
 
 .home-promise {
@@ -320,8 +327,8 @@ body.dl-home .content > h1:first-of-type + p + p {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.75rem 1.25rem;
-  margin: 1.5rem 0 0;
+  gap: 0.75rem 1.5rem;
+  margin: 1.3rem 0 0;
 }
 
 .home-actions a {
@@ -335,8 +342,8 @@ body.dl-home .content > h1:first-of-type + p + p {
 }
 
 .home-actions .home-action-primary {
-  padding: 0.6rem 0.9rem;
-  border: 1px solid var(--garden-leaf);
+  padding: 0.55rem 0.85rem;
+  border: 1px solid var(--garden-ink);
   background: var(--garden-leaf);
   color: var(--garden-paper-raised) !important;
   text-decoration: none;
@@ -367,12 +374,12 @@ body.dl-note .content h2 {
 
 body.dl-home .content > h2,
 .garden-index h2 {
-  margin: clamp(var(--garden-space-xl), 6vw, var(--garden-space-2xl)) 0 var(--garden-space-md) !important;
+  margin: 0 !important;
   padding: 0 !important;
   border: 0 !important;
   color: var(--garden-ink);
   font-family: var(--garden-font-read) !important;
-  font-size: clamp(1.65rem, 3.8vw, 2.15rem) !important;
+  font-size: clamp(1.55rem, 3vw, 1.9rem) !important;
   font-style: normal;
   font-weight: 600 !important;
   letter-spacing: -0.025em;
@@ -521,28 +528,71 @@ body.dl-note code,
 body.dl-note table { border-radius: 0 !important; }
 
 .garden-index {
-  margin-top: var(--garden-space-2xl);
-  border-top: var(--garden-rule-width) solid var(--garden-ink);
+  margin-top: clamp(3rem, 7vw, 4.5rem);
+  border-top: 0;
 }
 
 .garden-index__eyebrow {
   margin: 0;
-  padding-top: 0.8rem;
-  color: var(--garden-clay);
+  color: var(--garden-ink-muted);
   font-family: var(--garden-font-meta);
-  font-size: 0.66rem;
-  letter-spacing: 0.1em;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-.garden-index h2 {
-  margin: 0.25rem 0 1.75rem !important;
+.home-section-head {
+  position: relative;
+  display: block;
+  min-width: 0;
+  margin-bottom: 1rem;
+  padding: 0 0 0.7rem;
+  border-bottom: var(--garden-rule-width) solid var(--garden-rule);
+}
+
+.home-section-headcopy {
+  display: block;
+}
+
+.home-section-more {
+  display: inline-flex;
+  min-height: 36px;
+  align-items: center;
+  gap: 0.45rem;
+  position: absolute;
+  right: 0;
+  bottom: 0.55rem;
+  color: var(--garden-ink) !important;
+  font-family: var(--garden-font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.home-section-more:hover {
+  color: var(--garden-leaf-hover) !important;
+  text-decoration: underline !important;
+  text-underline-offset: 0.2em;
+}
+
+.home-subsection-heading {
+  margin: 1.2rem 0 0.25rem !important;
+  color: var(--garden-ink) !important;
+  font-family: var(--garden-font-read) !important;
+  font-size: 1.08rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.01em;
+  line-height: 1.4;
+  text-transform: none;
 }
 
 .latest-issue-feature {
-  max-width: 42rem;
-  margin: 0 0 var(--garden-space-xl);
-  padding: 0 0 var(--garden-space-lg);
+  max-width: 64ch;
+  margin: 0 0 1.4rem;
+  padding: 0.35rem 0 0.9rem;
   border-bottom: var(--garden-rule-width) solid var(--garden-rule);
 }
 
@@ -552,49 +602,47 @@ body.dl-note table { border-radius: 0 !important; }
   color: var(--garden-ink-muted);
   font-family: var(--garden-font-meta);
   font-size: 0.7rem;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
 }
 
-.latest-issue-feature h3 {
+.latest-issue-feature h3,
+.home-issues .issue-list-title,
+.notebook-section .notebook-list > li > a {
+  min-width: 0;
+  overflow-wrap: anywhere;
   margin: 0;
   font-family: var(--garden-font-read);
-  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-size: clamp(1.35rem, 2.5vw, 1.65rem);
   font-weight: 600;
-  line-height: 1.15;
+  line-height: 1.25;
 }
 
-.latest-issue-feature h3 a,
-.issue-list-title {
+.latest-issue-feature h3 a {
   color: var(--garden-ink) !important;
   text-decoration: none !important;
 }
 
 .latest-issue-feature h3 a:hover,
-.issue-list-title:hover {
+.home-issues .issue-list-title:hover,
+.notebook-section .notebook-list > li > a:hover {
   color: var(--garden-leaf-hover) !important;
   text-decoration: underline !important;
   text-underline-offset: 0.18em;
 }
 
 .latest-issue-description {
-  max-width: 38rem;
+  max-width: 60ch;
   margin: 0.65rem 0 0;
   color: var(--garden-ink-muted);
   font-size: 1.05rem;
   line-height: 1.55;
 }
 
-.recent-issues-heading {
-  margin: 0 0 var(--garden-space-sm) !important;
-  font-family: var(--garden-font-read);
-  font-size: 1.25rem;
-  font-weight: 600;
-}
-
 .issue-list,
 .notebook-list {
   margin: 0;
-  padding: 0;
+  padding: 0 !important;
   list-style: none;
   border-bottom: var(--garden-rule-width) solid var(--garden-rule);
 }
@@ -607,14 +655,11 @@ body.dl-note table { border-radius: 0 !important; }
   border-top: var(--garden-rule-width) solid var(--garden-rule);
 }
 
-.issue-list-title,
-.notebook-list > li > a {
+.home-issues .issue-list-title,
+.notebook-section .notebook-list > li > a {
   display: inline-block;
   color: var(--garden-ink) !important;
-  font-family: var(--garden-font-read);
-  font-size: clamp(1.1rem, 2.5vw, 1.3rem);
-  font-weight: 600;
-  line-height: 1.25;
+  text-decoration: none !important;
 }
 
 .issue-list-description,
@@ -626,18 +671,12 @@ body.dl-note table { border-radius: 0 !important; }
   line-height: 1.5;
 }
 
-.all-issues-link,
-.notebook-guide-link {
-  margin: 1rem 0 0;
-  font-family: var(--garden-font-ui);
-  font-size: 0.78rem;
-  font-weight: 600;
+.notebook-intro { max-width: 60ch; }
+
+body.dl-home .content .home-issues h3,
+body.dl-home .content .notebook-section h3 {
+  font-family: var(--garden-font-read) !important;
 }
-
-.all-issues-link a,
-.notebook-guide-link a { white-space: nowrap; }
-
-.notebook-intro { max-width: 42rem; }
 
 .recent-list {
   margin: 0;
@@ -767,6 +806,29 @@ body.dl-home .sidebar {
     padding-bottom: var(--garden-space-xl);
   }
 
+  body.dl-home .content {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 !important;
+  }
+
+  body.dl-home .content > * {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .home-section-head {
+    padding-bottom: 0;
+  }
+
+  .home-section-headcopy { min-width: 0; }
+
+  .home-section-more {
+    position: static;
+    min-height: 36px;
+    margin-top: 0.35rem;
+  }
+
   body.dl-note .content h1 { font-size: clamp(2.35rem, 13vw, 3.4rem); }
 
   .site-footer-inner {
@@ -782,5 +844,12 @@ body.dl-home .sidebar {
     font-size: 0.84rem;
   }
 
-  body.dl-home .content > h1:first-of-type { font-size: 1.65rem; }
+  body.dl-home .content > h1:first-of-type { font-size: 2.25rem; }
+
+  .home-section-head {
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .home-section-more { margin-top: 0; }
 }

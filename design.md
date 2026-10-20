@@ -45,7 +45,7 @@ These are settled. Treat them as fixed inputs, not open questions.
 
 | Role | Family | Applies to |
 |---|---|---|
-| Display / identity | `Grenze Gotisch` (500, upright) | every page-level H1, masthead and footer wordmarks |
+| Display / identity | `Grenze Gotisch` (500, upright) | page-level H1s and masthead wordmark |
 | Reading | `Source Serif 4` | body prose, long-form, secondary editorial headings |
 | Navigation / meta / UI | `JetBrains Mono` | nav, buttons, tags, dates, labels, code, eyebrows |
 
@@ -139,13 +139,16 @@ Evergreens. Public collections read `categories`, only.
 
 ### 1. Homepage — `body.dl-home`
 
-The front door. Order: wordmark and concise deck, a clear Subscribe action and
-archive link → latest issue featured with its issue number, publication date,
-title, and description → four recent issues with the same metadata → recent
-Evergreens from the connected notebook and a link to Start Here → compact
-footer. The template's inline `<h1>` is visually hidden; the authored H1 in the
-note carries the page. The hero has no illustration. Keep the Garden taxonomy
-on Start Here until Groves and Forests are published.
+The front door. Use the shared Apparatus cues from wiobyrne.com: a generous
+single column, distinctive Grenze page title, Source Serif deck and issue titles,
+quiet mono metadata, section heads with a small label and clear title, and ruled
+text rows. Keep each face in one role. Order: concise deck, clear Subscribe
+action and archive link → latest issue featured with its number, date, title,
+and description → four recent issues with the same metadata → recent Evergreens
+and a link to Start Here → compact footer. The template's inline `<h1>` is
+visually hidden; the authored H1 in the note carries the page. The hero has no
+illustration. Keep the Garden taxonomy on Start Here until Groves and Forests
+are published.
 
 ### 2. Newsletter issue — `body.dl-note` + `.content.dl-newsletter`
 
