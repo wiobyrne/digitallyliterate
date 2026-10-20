@@ -256,7 +256,7 @@ body.dl-note .content {
 
 body.dl-home .content {
   position: relative;
-  max-width: calc(80ch + 4rem);
+  max-width: calc(var(--garden-shell) + 3rem);
   padding-top: clamp(3rem, 7vw, 4.5rem);
   padding-bottom: clamp(3rem, 7vw, 4.5rem);
 }
@@ -609,7 +609,7 @@ body.dl-note table { border-radius: 0 !important; }
 
 .latest-issue-date { margin-bottom: 0.5rem; }
 
-.latest-issue-feature h3 {
+body.dl-home .content .latest-issue-feature > h3 {
   min-width: 0;
   overflow-wrap: anywhere;
   margin: 0;
@@ -651,33 +651,31 @@ body.dl-note table { border-radius: 0 !important; }
   line-height: 1.55;
 }
 
-.issue-list,
-.notebook-list {
+body.dl-home .content .issue-list,
+body.dl-home .content .notebook-list {
   width: 100%;
-  margin: 0 !important;
-  padding: 0 !important;
-  list-style: none;
+  margin: 0;
   border-bottom: var(--garden-rule-width) solid var(--garden-rule);
 }
 
-.issue-list li,
-.notebook-list li {
+body.dl-home .content .issue-list-row,
+body.dl-home .content .notebook-list-row {
   min-width: 0;
   margin: 0;
   padding: 1rem 0;
   border-top: var(--garden-rule-width) solid var(--garden-rule);
 }
 
-.home-issues .issue-list-title,
-.notebook-section .notebook-list > li > a {
+body.dl-home .content .home-issues .issue-list-title,
+body.dl-home .content .notebook-section .notebook-list-row > a {
   display: inline-block;
   margin: 0;
   color: var(--garden-ink) !important;
   text-decoration: none !important;
 }
 
-.issue-list-description,
-.notebook-list li p {
+body.dl-home .content .issue-list-description,
+body.dl-home .content .notebook-list-row > p {
   max-width: 100%;
   margin: 0.35rem 0 0;
   color: var(--garden-ink-muted);
@@ -761,7 +759,7 @@ body.dl-home .sidebar {
 
 .site-footer {
   width: 100%;
-  max-width: calc(80ch + 4rem);
+  max-width: calc(var(--garden-shell) + 3rem);
   margin: 0 auto;
   padding: 0 var(--garden-gutter) 2.5rem;
   background: transparent;
@@ -769,6 +767,7 @@ body.dl-home .sidebar {
 }
 
 .site-footer-inner {
+  display: block;
   padding: 0;
   padding-top: var(--garden-space-xl);
   border-top: var(--garden-rule-width) solid var(--garden-rule);
@@ -776,7 +775,7 @@ body.dl-home .sidebar {
 }
 
 .footer-line {
-  max-width: 48rem;
+  max-width: none;
   margin: 0;
   color: var(--garden-ink-muted);
   font-family: var(--garden-font-read);

@@ -18,17 +18,17 @@
 
   {% if latestIssues | length > 2 %}
   <h3 class="home-subsection-heading">Recent issues</h3>
-  <ol class="issue-list">
+  <div class="issue-list" role="list">
     {% for note in latestIssues %}
       {% if not loop.first %}
-      <li>
+      <article class="issue-list-row" role="listitem">
         <p class="issue-list-meta">No. {{ note.data.issueNumber }} <span aria-hidden="true">·</span> <time datetime="{{ note.data.issueDateISO }}">{{ note.data.issueDate }}</time></p>
         <a class="issue-list-title" href="{{ note.url }}">{{ note.data.title }}</a>
         {% if note.data.issueDescription %}<p class="issue-list-description">{{ note.data.issueDescription }}</p>{% endif %}
-      </li>
+      </article>
       {% endif %}
     {% endfor %}
-  </ol>
+  </div>
   {% endif %}
   <p class="issue-subscribe">New issues every Wednesday. <a href="/subscribe/">Subscribe <span aria-hidden="true">→</span></a></p>
 </section>

@@ -9,15 +9,15 @@
   <p class="notebook-intro">The Garden is a connected notebook of ideas that recur across the issues.</p>
   <h3 class="home-subsection-heading">Evergreens</h3>
   {% if collections.recentEvergreens | length %}
-  <ul class="notebook-list">
+  <div class="notebook-list" role="list">
     {% for note in collections.recentEvergreens %}
-    <li>
+    <article class="notebook-list-row" role="listitem">
       <a href="{{ note.url }}">{{ note.data.title }}</a>
       {% set description = note.data["dg-note-properties"].description or note.data.metatags.description %}
       {% if description %}<p>{{ description }}</p>{% endif %}
-    </li>
+    </article>
     {% endfor %}
-  </ul>
+  </div>
   {% else %}
   <p>Notebook pages will appear here as they are ready to share.</p>
   {% endif %}
