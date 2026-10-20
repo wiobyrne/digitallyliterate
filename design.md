@@ -150,6 +150,15 @@ visually hidden; the authored H1 in the note carries the page. The hero has no
 illustration. Keep the Garden taxonomy on Start Here until Groves and Forests
 are published.
 
+Section-head patterns currently differ across the two sites. wiobyrne.com uses
+a small square-marked label, an italic descriptor, and a right-aligned “View
+all” link. Digitally Literate uses a small label, a large section heading, and
+an uppercase right-aligned action such as “All issues.” Recommended shared
+Apparatus pattern: a small square-marked label, a clear upright section title,
+an optional short descriptor beneath it, and a right-aligned “View all” action.
+This records the proposal for review; the homepage section headers remain
+unchanged until the pattern is approved.
+
 ### 2. Newsletter issue — `body.dl-note` + `.content.dl-newsletter`
 
 The Canopy archetype and the bulk of the site (445 issues). Long Document

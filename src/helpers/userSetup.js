@@ -155,7 +155,31 @@ function userEleventySetup(eleventyConfig) {
   });
 
   eleventyConfig.addCollection("latestNewsletter", function (collectionApi) {
-    return collectionApi.getFilteredByTag("note").filter(function (item) {
+    var allNotes = collectionApi.getFilteredByTag("note");
+    var evergreenNotes = allNotes.filter(function (item) {
+      return hasCategory(item, "Evergreen");
+    });
+    function connectionValues(item) {
+      var values = noteProperties(item).connections || item.data.connections || [];
+      return (Array.isArray(values) ? values : [values]).map(function (value) {
+        return String(value).replace(/^\[\[/, "").replace(/\]\]$/, "").split("|")[0].toLowerCase();
+      });
+    }
+    function matchesIssue(reference, item, number) {
+      var slug = String(item.fileSlug || "").toLowerCase();
+      return reference.indexOf("dl " + number) !== -1 ||
+        reference.indexOf("dl-" + number) !== -1 ||
+        (!!slug && reference.endsWith(slug));
+    }
+    function matchesEvergreen(reference, item) {
+      var slug = String(item.fileSlug || "").toLowerCase();
+      var title = String(item.data.title || "").toLowerCase();
+      var url = String(item.url || "").replace(/^\//, "").replace(/\/$/, "").toLowerCase();
+      return (!!slug && (reference.endsWith("/" + slug) || reference === slug)) ||
+        (!!url && (reference.endsWith("/" + url) || reference === url)) ||
+        (!!title && reference.endsWith(title));
+    }
+    return allNotes.filter(function (item) {
       return hasCategory(item, "Newsletter");
     }).sort(function (a, b) {
       return newsletterIssueNumber(b) - newsletterIssueNumber(a);
@@ -167,20 +191,34 @@ function userEleventySetup(eleventyConfig) {
       item.data.issueDateISO = publishedDate.iso;
       item.data.issueDescription = properties.description ||
         (item.data.metatags && item.data.metatags.description) || "";
+      item.data.linkedEvergreens = evergreenNotes.filter(function (evergreen) {
+        var issueReferences = connectionValues(item);
+        var evergreenReferences = connectionValues(evergreen);
+        return issueReferences.some(function (reference) {
+          return matchesEvergreen(reference, evergreen);
+        }) || evergreenReferences.some(function (reference) {
+          return matchesIssue(reference, item, item.data.issueNumber);
+        });
+      }).map(function (evergreen) {
+        return { title: evergreen.data.title, url: evergreen.url };
+      });
       return item;
     });
   });
 
   // Homepage notebook section: the three most recently updated Evergreens.
   eleventyConfig.addCollection("recentEvergreens", function (collectionApi) {
-    function updateDate(item) {
+    function updateDateValue(item) {
       var noteProperties = item.data["dg-note-properties"] || {};
-      var value = item.data.updated ||
+      return item.data.updated ||
                   item.data.last_updated ||
                   noteProperties.last_updated ||
                   noteProperties.created ||
                   item.date ||
                   0;
+    }
+    function updateDate(item) {
+      var value = updateDateValue(item);
       var parsed = value instanceof Date ? value : new Date(value);
       return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
     }
@@ -188,7 +226,12 @@ function userEleventySetup(eleventyConfig) {
       return hasCategory(item, "Evergreen");
     }).sort(function (a, b) {
       return updateDate(b) - updateDate(a);
-    }).slice(0, 3);
+    }).slice(0, 3).map(function (item) {
+      var parsed = new Date(updateDateValue(item));
+      item.data.homepageUpdated = Number.isNaN(parsed.getTime()) ? "" :
+        parsed.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+      return item;
+    });
   });
 
   // Recently updated: 10 most recent by update date
