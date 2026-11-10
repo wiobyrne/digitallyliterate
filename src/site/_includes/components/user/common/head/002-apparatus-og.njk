@@ -12,9 +12,10 @@
   The card is fixed to DL's cream-paper palette regardless of the reader's
   theme preference. Social crawlers do not reliably follow theme preferences.
 #}
-{%- if not (metatags and metatags["og:image"]) -%}
-  {%- set apparatusCard = meta.siteBaseUrl + "/img/apparatus/og.png" if meta.siteBaseUrl else "/img/apparatus/og.png" -%}
+{%- set explicitOgImage = metatags["og:image"] if metatags and metatags["og:image"] else "" -%}
+{%- set apparatusCard = explicitOgImage | apparatusOgImage(noteProps, page.fileSlug, categories, meta.siteBaseUrl) -%}
+{%- if not explicitOgImage -%}
   <meta property="og:image" content="{{ apparatusCard }}">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="{{ apparatusCard }}">
 {%- endif -%}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ apparatusCard }}">

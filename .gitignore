@@ -11,5 +11,6 @@ src/site/styles/_theme.*.css
 .idea/
 .vercel
 .cache
+src/site/generated/og/issues/
 _site/
 **/.DS_Store
