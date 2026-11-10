@@ -1,20 +1,26 @@
 # Digitally Literate — repository design contract
 
-This file is the **repository-local** statement of the Digitally Literate design
-system. It exists so that work in this repository can be checked against the
-design without re-reading the vault.
+This file is the **repository-local implementation guide** for Digitally
+Literate. It records the surface contract and repository-specific behavior so
+work here can be checked without copying the shared Apparatus specification.
 
 ## Authority
 
-The **canonical** design contract is the vault note
-`04 META/47 Workbench/Digital Garden/design/Apparatus DL Design System.md`.
-That note governs. This file distills it for implementers and adds the
-repository-specific facts (cascade order, extension points, archetype wiring)
-that the vault note deliberately does not carry.
+Shared Apparatus decisions are authoritative in
+[`wiobyrne/apparatus`](https://github.com/wiobyrne/apparatus), principally
+`APPARATUS.md` and `SURFACES.md`. This repository owns its implementation
+details, CSS tokens, components, build behavior, and documented DL exceptions.
+The Obsidian note `04 META/47 Workbench/Digital Garden/design/Apparatus DL
+Design System.md` is a concise surface guide and navigation point; it does not
+override shared Apparatus decisions or this repository's implementation
+evidence. Exact values and behavior must be verified in the active code.
 
-Where this file and the canonical vault note disagree, **the vault note wins**
-and this file is the thing that gets corrected. Nothing in this repository
-edits the vault.
+**Rollout status (November 10, 2026):** Apparatus alignment Phase 1 (typography
+and default OG card) and Phase 2 (automatic issue-specific OG cards) are
+complete and deployed. The default OG card is live. Issue-specific OG cards are
+generated automatically during the Netlify build for issues 455 onward. DL
+retains its reader-controlled light/dark theme. Substack branding is a separate
+platform adaptation and is not governed by this site's implementation guide.
 
 Two further vault notes are implementation records, not authority:
 `.../active/Garden Redesign.md` (what shipped) and `.../active/Current State.md`
@@ -79,9 +85,11 @@ Colour semantics are load-bearing, not decorative.
 Do not invent a fourth accent role. Public page formats are distinguished
 typographically and structurally, not by minting new colours.
 
-All colour lives as tokens in `src/site/styles/user/000-tokens.scss`, in OKLCH,
-with a light block on `:root` and a dark block on `html.theme-dark`. Raw hex or
-`oklch()` values outside that file are drift.
+Website theme colors live as OKLCH tokens in
+`src/site/styles/user/000-tokens.scss`, with a light block on `:root` and a
+dark block on `html.theme-dark`. The OG generator has its own explicit card
+palette in `scripts/generate-og-card.js`; treat that file as implementation
+evidence for card rendering rather than duplicating those values here.
 
 ## Layout and depth
 
