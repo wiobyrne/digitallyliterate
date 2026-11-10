@@ -1,7 +1,15 @@
 import { describe, expect, test } from "vitest";
 import userSetup from "./userSetup.js";
 
-const { noteStatus, noteCategories, hasCategory, archetypeClass } = userSetup;
+const {
+  noteStatus,
+  noteCategories,
+  hasCategory,
+  archetypeClass,
+  newsletterIssueNumber,
+  newsletterIssueDate,
+  resolveOgImage,
+} = userSetup;
 
 function publishedNote(properties, topLevel = {}) {
   return {
@@ -71,5 +79,44 @@ describe("public page archetypes", () => {
     expect(archetypeClass(publishedNote({ status: "evergreen" }))).toBe("");
     expect(archetypeClass(publishedNote({ status: "seed", categories: "Newsletter" })))
       .toBe("dl-newsletter");
+  });
+});
+
+describe("newsletter card metadata", () => {
+  test("prefers the stored issue number and falls back to the filename", () => {
+    expect(newsletterIssueNumber({ data: { "dg-note-properties": { issue: 455 } }, fileSlug: "DL 454" })).toBe(455);
+    expect(newsletterIssueNumber({ data: { "dg-note-properties": {} }, fileSlug: "DL 456" })).toBe(456);
+    expect(newsletterIssueNumber({ data: { "dg-note-properties": {} }, fileSlug: "not-an-issue" })).toBe(0);
+  });
+
+  test("keeps date-only publication dates stable across local timezones", () => {
+    const previousTz = process.env.TZ;
+    try {
+      process.env.TZ = "America/Los_Angeles";
+      const losAngeles = newsletterIssueDate({
+        data: { "dg-note-properties": { published: "2026-11-04" } },
+      });
+      process.env.TZ = "Pacific/Honolulu";
+      const honolulu = newsletterIssueDate({
+        data: { "dg-note-properties": { published: "November 4, 2026" } },
+      });
+      expect(losAngeles.iso).toBe("2026-11-04");
+      expect(honolulu.iso).toBe("2026-11-04");
+    } finally {
+      if (previousTz === undefined) delete process.env.TZ;
+      else process.env.TZ = previousTz;
+    }
+  });
+
+  test("resolves explicit, generated issue, and default images in precedence order", () => {
+    const props = { categories: "Newsletter", issue: 455 };
+    expect(resolveOgImage("https://cdn.example.test/custom.png", props, "DL 455", undefined, "https://digitallyliterate.net"))
+      .toBe("https://cdn.example.test/custom.png");
+    expect(resolveOgImage("", props, "DL 455", undefined, "https://digitallyliterate.net"))
+      .toBe("https://digitallyliterate.net/og/issues/455.png");
+    expect(resolveOgImage("", { categories: "Newsletter", issue: 454 }, "DL 454", undefined, ""))
+      .toBe("https://digitallyliterate.net/img/apparatus/og.png");
+    expect(resolveOgImage("", props, "DL 455", "Page", "https://digitallyliterate.net"))
+      .toBe("https://digitallyliterate.net/img/apparatus/og.png");
   });
 });
