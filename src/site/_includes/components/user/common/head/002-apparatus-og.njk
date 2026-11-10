@@ -9,8 +9,8 @@
   site-wide default card and only fills gaps — a note that sets its own
   og:image in metatags wins.
 
-  The light card is deliberately the default: most social scrapers ignore
-  prefers-color-scheme, so og-dark.png ships as an available asset, unused here.
+  The card is fixed to DL's cream-paper palette regardless of the reader's
+  theme preference. Social crawlers do not reliably follow theme preferences.
 #}
 {%- if not (metatags and metatags["og:image"]) -%}
   {%- set apparatusCard = meta.siteBaseUrl + "/img/apparatus/og.png" if meta.siteBaseUrl else "/img/apparatus/og.png" -%}

@@ -33,29 +33,33 @@ These are settled. Treat them as fixed inputs, not open questions.
 - **Theme origin.** Hallmark **Garden** is the implementation starting point.
   It is not a superseding design authority, and it is not re-selected or blended
   with other catalog themes.
-- **Three font families, no fourth.** Inter is retired. Do not restore it.
+- **Two website font families.** Source Serif 4 for reading and all headings;
+  JetBrains Mono for navigation, labels, dates, metadata, tags, and interface
+  text. Grenze Gotisch, Inter, and Source Sans 3 are retired from the website.
 - **Green is the link colour.** On DL, green *is* the identity signal, not a
   sparing accent. Charcoal links are a `wiobyrne.com` rule and are wrong here.
 - **Zero border radius**, everywhere, no exceptions.
 - **Light is the default reading surface.** Dark is a deliberately designed
   alternative, not a mechanical inversion. An explicit reader choice persists.
+  OG cards use the fixed cream-paper palette in either theme.
 - **Single column, no sidebar**, ever.
 
 ## Type
 
 | Role | Family | Applies to |
 |---|---|---|
-| Display / identity | `Grenze Gotisch` (500, upright) | page-level H1s and masthead wordmark |
-| Reading | `Source Serif 4` | body prose, long-form, secondary editorial headings |
+| Reading and headings | `Source Serif 4` (headings 600) | body prose, page titles, masthead, editorial headings |
 | Navigation / meta / UI | `JetBrains Mono` | nav, buttons, tags, dates, labels, code, eyebrows |
 
-Grenze identifies, Source Serif helps readers linger, JetBrains Mono helps them
-navigate and interpret the system. Page-level H1s are Grenze upright at 500 —
-never Source Serif italic. No font size below `0.7rem`.
+Source Serif 4 carries the reading voice and headings; JetBrains Mono helps
+readers navigate and interpret the system. No font size below `0.7rem`.
 
-Fonts are self-hosted from `src/site/img/fonts/` and declared once, in
-`src/site/styles/user/000-tokens.scss`. There is no Google Fonts network
-dependency and no second `@font-face` block anywhere else.
+The site's Source Serif 4 and JetBrains Mono files are self-hosted from
+`src/site/img/fonts/` and declared in `src/site/styles/user/000-tokens.scss`.
+There is no Google Fonts dependency. The upstream Obsidian stylesheet retains
+legacy Avenir Next, Inter, and Source Code Pro declarations and fallbacks; the
+user-owned theme bridge maps the site's default, text, interface, and
+monospace roles to Source Serif 4 or JetBrains Mono.
 
 Prose leading is `1.8`–`1.85`, looser than the base Apparatus system. This is
 deliberate: DL is a place to linger, not a fast portfolio read.
@@ -140,8 +144,8 @@ Evergreens. Public collections read `categories`, only.
 ### 1. Homepage — `body.dl-home`
 
 The front door. Use the shared Apparatus cues from wiobyrne.com: a generous
-single column, distinctive Grenze page title, Source Serif deck and issue titles,
-quiet mono metadata, section heads with a small label and clear title, and ruled
+single column, Source Serif page title and issue titles, quiet mono metadata,
+section heads with a small label and clear title, and ruled
 text rows. Keep each face in one role. Order: concise deck, clear Subscribe
 action and archive link → latest issue featured with its number, date, title,
 and description → four recent issues with the same metadata → recent Evergreens
@@ -162,7 +166,7 @@ unchanged until the pattern is approved.
 ### 2. Newsletter issue — `body.dl-note` + `.content.dl-newsletter`
 
 The Canopy archetype and the bulk of the site (445 issues). Long Document
-macrostructure: Grenze H1, mono secondary heading, serif body at reading
+macrostructure: Source Serif headings, mono metadata, serif body at reading
 leading, green links throughout. No card, no thumbnail.
 
 The archetype carries a green header rule to mark the issue as free and open,

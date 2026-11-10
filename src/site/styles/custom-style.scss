@@ -33,7 +33,6 @@ body {
 
 /* Navigation, metadata and UI chrome → mono (--font-sans resolves to
  * JetBrains Mono; the name is historical, from before Inter was retired). */
-h1, h2, h3, h4, h5, h6,
 nav, button, label, small,
 .navbar, .search-button, .tag,
 .toc, .toc-title, .backlink-title,
@@ -46,7 +45,7 @@ nav, button, label, small,
 /* ── Prose headings ────────────────────────────
  * Generic fallbacks only. The page archetypes in
  * styles/user/010-garden-slice.scss govern headings on every real page:
- * page-level H1s are Grenze at 500, upright. See design.md. */
+ * page-level headings use Source Serif 4. See design.md. */
 .content h1 {
   font-family: var(--font-serif);
   font-size: 2rem;
@@ -58,9 +57,9 @@ nav, button, label, small,
   margin-bottom: 1rem;
 }
 
-/* h2 — small uppercase sans label, section waypoint not a heading competitor */
+/* h2 — small uppercase serif label, section waypoint not a heading competitor */
 .content h2 {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: 0.72rem;
   font-weight: 600;
   letter-spacing: 0.12em;
@@ -72,9 +71,9 @@ nav, button, label, small,
   padding-bottom: 0;
 }
 
-/* h3 — sans bold, readable sub-section */
+/* h3 — serif bold, readable sub-section */
 .content h3 {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: 1rem;
   font-weight: 600;
   margin-top: 2rem;
@@ -82,18 +81,20 @@ nav, button, label, small,
   color: var(--text-main);
 }
 
-/* h4 — sans muted, subordinate label */
+/* h4 — serif muted, subordinate heading */
 .content h4 {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: 0.875rem;
-  font-weight: 500;
+  font-weight: 600;
   margin-top: 1.5rem;
   margin-bottom: 0.375rem;
   color: var(--text-muted);
 }
 
 h5, h6 {
+  font-family: var(--font-serif);
   font-size: 0.875rem;
+  font-weight: 600;
   color: var(--text-muted);
   text-transform: uppercase;
   letter-spacing: 0.05em;

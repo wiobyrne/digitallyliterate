@@ -1,6 +1,6 @@
 /* Hallmark · genre: editorial · tone: warm + restrained · anchor: leaf-green 140deg · macrostructure: editorial masthead + ruled issue feed + notebook index · theme: Garden · cues: wiobyrne.com section heads, column width, and text rhythm · enrichment: none · nav: N9 utility bar · footer: compact description + site links */
 /* Hallmark · pre-emit critique: P5 H5 E4 S5 R4 V4 */
-/* Hallmark · type system: Grenze Gotisch (page H1 + masthead), Source Serif 4 (body + editorial headings), JetBrains Mono (metadata + UI). */
+/* Apparatus type system: Source Serif 4 (reading + headings), JetBrains Mono (metadata + UI). */
 
 html {
   overflow-x: clip;
@@ -33,6 +33,10 @@ html.theme-dark body {
   --font-serif: var(--garden-font-read);
   --font-sans: var(--garden-font-ui);
   --font-mono: var(--garden-font-meta);
+  --font-default: var(--garden-font-read);
+  --font-text: var(--garden-font-read);
+  --font-interface: var(--garden-font-ui);
+  --font-monospace: var(--garden-font-meta);
   --dg-content-max-width: var(--garden-prose);
   --dg-content-padding-top: clamp(2.75rem, 7vw, 5.5rem);
   --dg-content-padding-top-mobile: 2.5rem;
@@ -106,10 +110,11 @@ body.dl-note :focus-visible {
   color: var(--garden-ink) !important;
   font-family: var(--garden-font-identity);
   font-size: 1.15rem;
-  font-weight: 500;
+  font-weight: 600;
   font-style: normal;
-  letter-spacing: 0.01em;
-  line-height: 1;
+  font-optical-sizing: auto;
+  letter-spacing: -0.015em;
+  line-height: 1.05;
   text-decoration: none !important;
   white-space: nowrap;
   transition: color var(--garden-ease);
@@ -287,13 +292,11 @@ body.dl-note .content h1 {
   color: var(--garden-ink);
   font-family: var(--garden-font-identity);
   font-size: clamp(2.5rem, 8vw, 4.75rem);
-  font-weight: 500;
-  /* Grenze Gotisch ships no italic instance — see the homepage hero override
-     below for the same note. Every page-level H1 now shares this identity
-     treatment: subscribe, the newsletter archive, and every issue. */
+  font-weight: 600;
   font-style: normal;
-  letter-spacing: -0.045em;
-  line-height: 0.98;
+  font-optical-sizing: auto;
+  letter-spacing: -0.025em;
+  line-height: 1.04;
 }
 
 body.dl-home .content > h1:first-of-type {
@@ -415,7 +418,8 @@ body.dl-home .content > h2,
 body.dl-note .content h3,
 body.dl-note .content h4 {
   color: var(--garden-ink);
-  font-family: var(--garden-font-ui);
+  font-family: var(--garden-font-read);
+  font-weight: 600;
 }
 
 body.dl-home .content li::marker,

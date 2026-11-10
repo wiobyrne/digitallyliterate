@@ -10,6 +10,8 @@ Keep site-specific work in the extension points that upstream does not replace:
 - `src/site/_includes/components/user/` for injected markup and scripts
 - `src/site/styles/user/` for design tokens and site styling
 - `src/site/img/fonts/` for self-hosted type assets
+- `src/site/img/apparatus/` for site identity and Open Graph image assets
+- `scripts/` for repository-owned build helpers
 - `src/helpers/userSetup.js` and `src/helpers/userUtils.js` for collections,
   filters, and computed data
 

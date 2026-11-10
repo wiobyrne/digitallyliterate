@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
         "prebuild": "rimraf dist",
+        "generate:og": "node scripts/generate-og-card.js",
         "dev": "npm-run-all get-theme build:sass --parallel watch:*",
         "watch:sass": "sass --watch src/site/styles:dist/styles",
         "watch:eleventy": "cross-env ELEVENTY_ENV=dev eleventy --serve",
@@ -23,6 +24,7 @@
     "devDependencies": {
         "@11ty/eleventy": "^3.1.2",
         "@11ty/eleventy-plugin-rss": "^2.0.4",
+        "@resvg/resvg-js": "^2.6.2",
         "cross-env": "^10.1.0",
         "html-minifier-terser": "^7.2.0",
         "node-html-parser": "^7.0.2",
