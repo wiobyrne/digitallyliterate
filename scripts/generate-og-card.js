@@ -13,7 +13,13 @@ const {
 
 const WIDTH = 1200;
 const HEIGHT = 630;
-const MIN_ISSUE = 455;
+const MIN_ISSUE = 446;
+const SAFE_LEFT = 140;
+const SAFE_RIGHT = WIDTH - SAFE_LEFT;
+const SAFE_WIDTH = SAFE_RIGHT - SAFE_LEFT;
+const TITLE_INSET = 5;
+const TITLE_X = SAFE_LEFT + TITLE_INSET;
+const TITLE_WIDTH = SAFE_WIDTH - TITLE_INSET * 2;
 const ROOT = path.resolve(__dirname, "..");
 const DEFAULT_OUTPUT = path.join(ROOT, "src/site/img/apparatus/og.png");
 const ISSUE_NOTES = path.join(ROOT, "src/site/notes/03 CREATE/33 Newsletter");
@@ -54,6 +60,10 @@ function escapeXml(value) {
     };
     return entities[character];
   });
+}
+
+function typographicText(value) {
+  return String(value || "").replace(/'/g, "’");
 }
 
 function measureText(text, fontSize, family, weight) {
@@ -118,8 +128,8 @@ function makeDefaultSvg() {
 }
 
 function titleTokens(title, highlight) {
-  const words = String(title || "Untitled issue").trim().split(/\s+/).filter(Boolean);
-  const phrase = String(highlight || "").trim().split(/\s+/).filter(Boolean);
+  const words = typographicText(title || "Untitled issue").trim().split(/\s+/).filter(Boolean);
+  const phrase = typographicText(highlight || "").trim().split(/\s+/).filter(Boolean);
   if (!phrase.length) return words.map((text) => ({ text, highlight: false }));
 
   for (let start = 0; start <= words.length - phrase.length; start++) {
@@ -194,7 +204,7 @@ function truncateLines(lines, maxLines, fontSize, maxWidth) {
 }
 
 function wrapDescription(description, fontSize, maxWidth, maxLines = 2) {
-  const words = String(description || "").trim().split(/\s+/).filter(Boolean);
+  const words = typographicText(description).trim().split(/\s+/).filter(Boolean);
   if (!words.length) return [];
   const lines = [];
   let current = "";
@@ -251,10 +261,10 @@ function drawTitleLine(tokens, x, baseline, fontSize) {
 function makeIssueSvg(issue, options = {}) {
   const title = String(issue.title || `DL ${issue.number}`);
   const description = String(issue.description || "");
-  const titleWidth = 1008;
+  const titleWidth = TITLE_WIDTH;
   let titleSize = 68;
   let titleLines = [];
-  for (const candidate of [68, 62, 56, 50, 44, 38, 34]) {
+  for (const candidate of [96, 88, 80, 72, 68, 62, 56, 50, 44, 38, 34]) {
     const wrapped = wrapTokens(titleTokens(title, issue.highlight), candidate, titleWidth);
     if (wrapped.length <= 4 && wrapped.length * candidate * 1.12 <= 200) {
       titleSize = candidate;
@@ -269,33 +279,34 @@ function makeIssueSvg(issue, options = {}) {
 
   const titleLineHeight = Math.round(titleSize * 1.12);
   const firstTitleBaseline = 230;
-  const descriptionLines = wrapDescription(description, 26, 1008, 2);
+  const descriptionLines = wrapDescription(description, 26, SAFE_WIDTH, 2);
   const descriptionFirstBaseline = firstTitleBaseline + titleLines.length * titleLineHeight + 30;
   const metadata = `NO. ${issue.number} · DIGITALLY LITERATE · ${formatCardDate(issue.date || {})}`;
   const titleMarkup = titleLines.map((line, index) =>
-    drawTitleLine(line, 96, firstTitleBaseline + index * titleLineHeight, titleSize)
+    drawTitleLine(line, TITLE_X, firstTitleBaseline + index * titleLineHeight, titleSize)
   ).join("\n  ");
   const descriptionMarkup = descriptionLines.map((line, index) =>
-    `<text x="98" y="${descriptionFirstBaseline + index * 33}" fill="${colors.muted}" font-family="Source Serif 4" font-size="26" font-weight="400">${escapeXml(line)}</text>`
+    `<text x="${SAFE_LEFT}" y="${descriptionFirstBaseline + index * 33}" fill="${colors.muted}" font-family="Source Serif 4" font-size="26" font-weight="400">${escapeXml(line)}</text>`
   ).join("\n  ");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}">
   <rect width="${WIDTH}" height="${HEIGHT}" fill="${colors.paper}"/>
-  <text x="96" y="108" fill="${colors.leaf}" font-family="JetBrains Mono" font-size="20" font-weight="500" letter-spacing="1.7">${escapeXml(metadata)}</text>
+  <text x="${SAFE_LEFT}" y="108" fill="${colors.leaf}" font-family="JetBrains Mono" font-size="20" font-weight="500" letter-spacing="1.7">${escapeXml(metadata)}</text>
   ${titleMarkup}
   ${descriptionMarkup}
-  <g transform="translate(98 526)" fill="none" stroke="${colors.siblingGreen}" stroke-width="2" opacity="0.18">
+  <line x1="${SAFE_LEFT}" y1="500" x2="${SAFE_RIGHT}" y2="500" stroke="${colors.leaf}" stroke-width="1"/>
+  <g transform="translate(${SAFE_LEFT + 2} 524)" fill="none" stroke="${colors.siblingGreen}" stroke-width="2" opacity="0.18">
     <rect width="38" height="38"/>
     <rect x="9" y="9" width="20" height="20"/>
     <rect x="16" y="16" width="6" height="6" fill="${colors.siblingGreen}"/>
   </g>
-  <g transform="translate(96 524)" fill="none" stroke="${colors.ink}" stroke-width="2.2">
+  <g transform="translate(${SAFE_LEFT} 524)" fill="none" stroke="${colors.ink}" stroke-width="2.2">
     <rect width="38" height="38"/>
     <rect x="9" y="9" width="20" height="20"/>
     <rect x="16" y="16" width="6" height="6" fill="${colors.ink}"/>
   </g>
-  <text x="152" y="552" fill="${colors.ink}" font-family="JetBrains Mono" font-size="18" font-weight="500" letter-spacing="0.5">digitallyliterate.net</text>
+  <text x="${SAFE_LEFT + 56}" y="552" fill="${colors.ink}" font-family="JetBrains Mono" font-size="18" font-weight="500" letter-spacing="0.5">digitallyliterate.net</text>
 </svg>`;
 }
 
