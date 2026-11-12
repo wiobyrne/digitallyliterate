@@ -118,6 +118,18 @@ describe("issue OG-card rendering", () => {
     expect(png.readUInt32BE(20)).toBe(HEIGHT);
   });
 
+  test("keeps two-line descriptions clear of the rule under a two-line title", () => {
+    const svg = makeIssueSvg({
+      number: 446,
+      title: "Nobody Changes the Default",
+      date: { iso: "2026-09-02" },
+      description: "The largest child-safety settlement in tech history barely moved the defaults that matter. Here's what it actually changed, and what it didn't.",
+    });
+    const descriptionBaselines = [...svg.matchAll(/<text x="\d+" y="(\d+)"[^>]*font-size="26"/g)].map((m) => Number(m[1]));
+    expect(descriptionBaselines.length).toBe(2);
+    expect(Math.max(...descriptionBaselines)).toBeLessThanOrEqual(472);
+  });
+
   test("preserves explicit image precedence and absolute default/image URLs", () => {
     const issue = { categories: "Newsletter", issue: 455 };
     expect(resolveOgImage("https://images.example.test/cover.png", issue, "DL 455", undefined, "https://digitallyliterate.net"))

@@ -20,6 +20,13 @@ const SAFE_WIDTH = SAFE_RIGHT - SAFE_LEFT;
 const TITLE_INSET = 5;
 const TITLE_X = SAFE_LEFT + TITLE_INSET;
 const TITLE_WIDTH = SAFE_WIDTH - TITLE_INSET * 2;
+const RULE_Y = 500;
+const FIRST_TITLE_BASELINE = 230;
+const TITLE_DESCRIPTION_GAP = 30;
+const DESCRIPTION_SIZE = 26;
+const DESCRIPTION_LINE_HEIGHT = 33;
+// Lowest allowed description baseline: keeps descenders clear of the rule.
+const DESCRIPTION_MAX_BASELINE = RULE_Y - 28;
 const ROOT = path.resolve(__dirname, "..");
 const DEFAULT_OUTPUT = path.join(ROOT, "src/site/img/apparatus/og.png");
 const ISSUE_NOTES = path.join(ROOT, "src/site/notes/03 CREATE/33 Newsletter");
@@ -262,11 +269,21 @@ function makeIssueSvg(issue, options = {}) {
   const title = String(issue.title || `DL ${issue.number}`);
   const description = String(issue.description || "");
   const titleWidth = TITLE_WIDTH;
+  let descriptionLines = wrapDescription(description, DESCRIPTION_SIZE, SAFE_WIDTH, 2);
+  // Last description baseline for a title of `lineCount` lines at `size`.
+  const lastDescriptionBaseline = (lineCount, size, descriptionCount) =>
+    FIRST_TITLE_BASELINE + lineCount * Math.round(size * 1.12) + TITLE_DESCRIPTION_GAP +
+    Math.max(descriptionCount - 1, 0) * DESCRIPTION_LINE_HEIGHT;
   let titleSize = 68;
   let titleLines = [];
+  // Largest title size whose title block fits AND leaves the description clear of the rule.
   for (const candidate of [96, 88, 80, 72, 68, 62, 56, 50, 44, 38, 34]) {
     const wrapped = wrapTokens(titleTokens(title, issue.highlight), candidate, titleWidth);
-    if (wrapped.length <= 4 && wrapped.length * candidate * 1.12 <= 200) {
+    if (
+      wrapped.length <= 4 &&
+      wrapped.length * candidate * 1.12 <= 200 &&
+      lastDescriptionBaseline(wrapped.length, candidate, descriptionLines.length) <= DESCRIPTION_MAX_BASELINE
+    ) {
       titleSize = candidate;
       titleLines = wrapped;
       break;
@@ -275,18 +292,21 @@ function makeIssueSvg(issue, options = {}) {
   if (!titleLines.length) {
     titleSize = 34;
     titleLines = truncateLines(wrapTokens(titleTokens(title, issue.highlight), titleSize, titleWidth), 4, titleSize, titleWidth);
+    // Still too tall at the smallest size: keep one description line rather than touch the rule.
+    if (lastDescriptionBaseline(titleLines.length, titleSize, descriptionLines.length) > DESCRIPTION_MAX_BASELINE) {
+      descriptionLines = wrapDescription(description, DESCRIPTION_SIZE, SAFE_WIDTH, 1);
+    }
   }
 
   const titleLineHeight = Math.round(titleSize * 1.12);
-  const firstTitleBaseline = 230;
-  const descriptionLines = wrapDescription(description, 26, SAFE_WIDTH, 2);
-  const descriptionFirstBaseline = firstTitleBaseline + titleLines.length * titleLineHeight + 30;
+  const firstTitleBaseline = FIRST_TITLE_BASELINE;
+  const descriptionFirstBaseline = firstTitleBaseline + titleLines.length * titleLineHeight + TITLE_DESCRIPTION_GAP;
   const metadata = `NO. ${issue.number} · DIGITALLY LITERATE · ${formatCardDate(issue.date || {})}`;
   const titleMarkup = titleLines.map((line, index) =>
     drawTitleLine(line, TITLE_X, firstTitleBaseline + index * titleLineHeight, titleSize)
   ).join("\n  ");
   const descriptionMarkup = descriptionLines.map((line, index) =>
-    `<text x="${SAFE_LEFT}" y="${descriptionFirstBaseline + index * 33}" fill="${colors.muted}" font-family="Source Serif 4" font-size="26" font-weight="400">${escapeXml(line)}</text>`
+    `<text x="${SAFE_LEFT}" y="${descriptionFirstBaseline + index * DESCRIPTION_LINE_HEIGHT}" fill="${colors.muted}" font-family="Source Serif 4" font-size="${DESCRIPTION_SIZE}" font-weight="400">${escapeXml(line)}</text>`
   ).join("\n  ");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -295,7 +315,7 @@ function makeIssueSvg(issue, options = {}) {
   <text x="${SAFE_LEFT}" y="108" fill="${colors.leaf}" font-family="JetBrains Mono" font-size="20" font-weight="500" letter-spacing="1.7">${escapeXml(metadata)}</text>
   ${titleMarkup}
   ${descriptionMarkup}
-  <line x1="${SAFE_LEFT}" y1="500" x2="${SAFE_RIGHT}" y2="500" stroke="${colors.leaf}" stroke-width="1"/>
+  <line x1="${SAFE_LEFT}" y1="${RULE_Y}" x2="${SAFE_RIGHT}" y2="${RULE_Y}" stroke="${colors.leaf}" stroke-width="1"/>
   <g transform="translate(${SAFE_LEFT + 2} 524)" fill="none" stroke="${colors.siblingGreen}" stroke-width="2" opacity="0.18">
     <rect width="38" height="38"/>
     <rect x="9" y="9" width="20" height="20"/>
