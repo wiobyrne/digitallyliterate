@@ -151,3 +151,25 @@ describe("title highlighter (og_highlight)", () => {
     expect(await render("# Who Sets the Terms?", {})).toBe("<h1>Who Sets the Terms?</h1>\n");
   });
 });
+
+describe("issue chrome (label + closing block)", () => {
+  const { issueChrome, ISSUE_CHROME_FROM } = userSetup;
+  const props = (extra) => ({ categories: "Newsletter", ...extra });
+
+  test("starts at the configured issue and leaves the archive alone", () => {
+    expect(ISSUE_CHROME_FROM).toBe(457);
+    expect(issueChrome(props({ issue: 456, published: "2026-11-11" }), "DL 456")).toBeNull();
+    expect(issueChrome(props({ issue: 457, published: "2026-11-18" }), "DL 457")).toEqual({
+      number: 457,
+      date: "Nov 18, 2026",
+      substackUrl: "",
+    });
+  });
+
+  test("only applies to newsletter notes and only passes https Substack links", () => {
+    expect(issueChrome({ categories: "Evergreen", issue: 500 }, "Some Note")).toBeNull();
+    expect(issueChrome(props({ issue: 458, published: "2026-11-25", substack_url: "https://digitallyliterate.substack.com/p/x" }), "DL 458").substackUrl)
+      .toBe("https://digitallyliterate.substack.com/p/x");
+    expect(issueChrome(props({ issue: 458, substack_url: "javascript:alert(1)" }), "DL 458").substackUrl).toBe("");
+  });
+});

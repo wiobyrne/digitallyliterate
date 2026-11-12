@@ -1,0 +1,9 @@
+{#
+  Issue label above the note's own `# Title`, from issue 457 on (see
+  issueChrome in src/helpers/userSetup.js). Replaces the hand-typed
+  "*Issue N · Published …*" line, which new issue notes can drop.
+#}
+{%- set dlIssue = noteProps | dlIssueChrome(page.fileSlug, page.inputPath) -%}
+{%- if dlIssue -%}
+<p class="dl-issue-label">No. {{ dlIssue.number }}{% if dlIssue.date %} <span aria-hidden="true">·</span> {{ dlIssue.date }}{% endif %}</p>
+{%- endif -%}
