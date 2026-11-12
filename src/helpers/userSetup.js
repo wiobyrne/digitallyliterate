@@ -1,9 +1,67 @@
 const fs = require("fs");
 const path = require("path");
 
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, function (character) {
+    return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[character];
+  });
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// Apparatus highlighter: wrap at most one phrase of the page's first H1 in
+// <mark>, taken from the optional `og_highlight` frontmatter field (the same
+// field the issue OG card reads). Never touches body text. Matching ignores
+// case and treats straight and typographic apostrophes as equal; the phrase
+// must sit on word boundaries.
+function titleHighlightPattern(phrase) {
+  var words = String(phrase || "").trim().split(/\s+/).filter(Boolean);
+  if (!words.length) return null;
+  var body = words.map(function (word) {
+    return escapeRegExp(word).replace(/['’]/g, "['’]");
+  }).join("\\s+");
+  return new RegExp("(^|[^\\p{L}\\p{N}])(" + body + ")(?=$|[^\\p{L}\\p{N}])", "iu");
+}
+
+function titleHighlightRule(state) {
+  var env = state.env || {};
+  var properties = env["dg-note-properties"] || {};
+  var pattern = titleHighlightPattern(properties.og_highlight || properties.ogHighlight || env.og_highlight);
+  if (!pattern) return;
+  var tokens = state.tokens;
+  for (var i = 0; i < tokens.length - 1; i++) {
+    if (tokens[i].type !== "heading_open" || tokens[i].tag !== "h1") continue;
+    var inline = tokens[i + 1];
+    if (!inline || inline.type !== "inline" || !inline.children) return;
+    for (var c = 0; c < inline.children.length; c++) {
+      var child = inline.children[c];
+      if (child.type !== "text") continue;
+      var match = pattern.exec(child.content);
+      if (!match) continue;
+      var start = match.index + match[1].length;
+      var end = start + match[2].length;
+      var before = new state.Token("text", "", 0);
+      before.content = child.content.slice(0, start);
+      var open = new state.Token("html_inline", "", 0);
+      open.content = '<mark class="dl-title-highlight">';
+      var phrase = new state.Token("text", "", 0);
+      phrase.content = match[2];
+      var close = new state.Token("html_inline", "", 0);
+      close.content = "</mark>";
+      var after = new state.Token("text", "", 0);
+      after.content = child.content.slice(end);
+      inline.children.splice(c, 1, before, open, phrase, close, after);
+      return;
+    }
+    return; // only the first H1
+  }
+}
+
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
-  // Feel free to add any plugin you want here instead of /.eleventy.js
+  md.core.ruler.push("dl_title_highlight", titleHighlightRule);
 }
 
 const GARDEN_STATUSES = new Set(["seed", "sprout", "evergreen"]);
@@ -287,3 +345,4 @@ exports.newsletterIssueNumber = newsletterIssueNumber;
 exports.newsletterIssueDate = newsletterIssueDate;
 exports.newsletterIssueDescription = newsletterIssueDescription;
 exports.resolveOgImage = resolveOgImage;
+exports.titleHighlightPattern = titleHighlightPattern;

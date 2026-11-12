@@ -299,6 +299,17 @@ body.dl-note .content h1 {
   line-height: 1.04;
 }
 
+/* Apparatus highlighter — one optional title phrase set by `og_highlight`
+ * (see userSetup.js titleHighlightRule). Never used in body text. */
+body.dl-note .content h1 mark.dl-title-highlight {
+  padding: 0 0.08em;
+  margin: 0 -0.04em;
+  color: inherit;
+  background: var(--garden-leaf-tint);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
 body.dl-home .content > h1:first-of-type {
   /* font-family/weight/style now inherited from the shared h1 rule above */
   max-width: 100%;
