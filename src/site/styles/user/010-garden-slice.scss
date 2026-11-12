@@ -927,7 +927,7 @@ body.dl-note .content.dl-newsletter hr:first-of-type:not(:has(+ h1, + h2, + h3))
   .home-section-more { margin-top: 0; }
 }
 
-/* Issue chrome from user slots (issues 457+): a mono label above the title
+/* Issue chrome from user slots (issues 456+): a mono label above the title
  * and a closing block after the body. See components/user/notes/. */
 body.dl-note .content .dl-issue-label {
   margin: 0 0 0.6rem;

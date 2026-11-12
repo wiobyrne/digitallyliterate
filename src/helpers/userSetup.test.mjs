@@ -157,8 +157,8 @@ describe("issue chrome (label + closing block)", () => {
   const props = (extra) => ({ categories: "Newsletter", ...extra });
 
   test("starts at the configured issue and leaves the archive alone", () => {
-    expect(ISSUE_CHROME_FROM).toBe(457);
-    expect(issueChrome(props({ issue: 456, published: "2026-11-11" }), "DL 456")).toBeNull();
+    expect(ISSUE_CHROME_FROM).toBe(456);
+    expect(issueChrome(props({ issue: 455, published: "2026-11-04" }), "DL 455")).toBeNull();
     expect(issueChrome(props({ issue: 457, published: "2026-11-18" }), "DL 457")).toEqual({
       number: 457,
       date: "Nov 18, 2026",

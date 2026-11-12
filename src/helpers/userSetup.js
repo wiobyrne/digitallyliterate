@@ -161,7 +161,7 @@ function newsletterIssueDescription(item) {
 // rendered by user slot components, so it survives plugin template updates.
 // It starts at ISSUE_CHROME_FROM so the archive keeps its hand-written
 // masthead and sign-off lines exactly as published.
-const ISSUE_CHROME_FROM = 457;
+const ISSUE_CHROME_FROM = 456;
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
 function issueChrome(properties, fileSlug, inputPath) {
