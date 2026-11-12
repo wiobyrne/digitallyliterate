@@ -115,6 +115,8 @@ describe("newsletter card metadata", () => {
     expect(resolveOgImage("", props, "DL 455", undefined, "https://digitallyliterate.net"))
       .toBe("https://digitallyliterate.net/og/issues/455.png");
     expect(resolveOgImage("", { categories: "Newsletter", issue: 454 }, "DL 454", undefined, ""))
+      .toBe("https://digitallyliterate.net/og/issues/454.png");
+    expect(resolveOgImage("", { categories: "Newsletter", issue: 445 }, "DL 445", undefined, ""))
       .toBe("https://digitallyliterate.net/img/apparatus/og.png");
     expect(resolveOgImage("", props, "DL 455", "Page", "https://digitallyliterate.net"))
       .toBe("https://digitallyliterate.net/img/apparatus/og.png");

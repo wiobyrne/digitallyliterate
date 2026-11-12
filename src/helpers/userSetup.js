@@ -112,7 +112,7 @@ function resolveOgImage(explicitImage, properties, fileSlug, categories, baseUrl
 
   if (!imagePath && hasCategory(note, "Newsletter")) {
     var number = newsletterIssueNumber(note);
-    if (number >= 455) imagePath = "/og/issues/" + number + ".png";
+    if (number >= 446) imagePath = "/og/issues/" + number + ".png";
   }
   if (!imagePath) imagePath = "/img/apparatus/og.png";
 
