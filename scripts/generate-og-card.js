@@ -134,23 +134,42 @@ function makeDefaultSvg() {
 </svg>`;
 }
 
+// Title-edge punctuation (“ ” ? ! , . : ;) is ignored when matching, so a
+// phrase like "the Terms" still matches "Terms?". The punctuation stays
+// outside the tint and is glued to its neighbour without a space.
+const EDGE_PUNCTUATION = /^([^\p{L}\p{N}]*)(.*?)([^\p{L}\p{N}]*)$/u;
+
+function splitEdges(word) {
+  const [, lead, core, trail] = word.match(EDGE_PUNCTUATION);
+  return { lead, core, trail };
+}
+
 function titleTokens(title, highlight) {
   const words = typographicText(title || "Untitled issue").trim().split(/\s+/).filter(Boolean);
   const phrase = typographicText(highlight || "").trim().split(/\s+/).filter(Boolean);
-  if (!phrase.length) return words.map((text) => ({ text, highlight: false }));
+  const plain = (list) => list.map((text) => ({ text, highlight: false }));
+  if (!phrase.length) return plain(words);
+  const key = (word) => splitEdges(word).core.toLocaleLowerCase();
 
   for (let start = 0; start <= words.length - phrase.length; start++) {
-    const matches = phrase.every((word, index) =>
-      words[start + index].toLocaleLowerCase() === word.toLocaleLowerCase()
-    );
+    const matches = phrase.every((word, index) => key(words[start + index]) === key(word));
     if (!matches) continue;
-    return [
-      ...words.slice(0, start).map((text) => ({ text, highlight: false })),
-      { text: words.slice(start, start + phrase.length).join(" "), highlight: true },
-      ...words.slice(start + phrase.length).map((text) => ({ text, highlight: false })),
-    ];
+    const matched = words.slice(start, start + phrase.length);
+    const first = splitEdges(matched[0]);
+    const last = splitEdges(matched[matched.length - 1]);
+    const phraseFirst = splitEdges(phrase[0]);
+    const phraseLast = splitEdges(phrase[phrase.length - 1]);
+    // Keep punctuation the author wrote into the phrase; peel off the rest.
+    const lead = phraseFirst.lead ? "" : first.lead;
+    const trail = phraseLast.trail ? "" : last.trail;
+    const inner = matched.join(" ").slice(lead.length, matched.join(" ").length - trail.length);
+    const tokens = plain(words.slice(0, start));
+    if (lead) tokens.push({ text: lead, highlight: false });
+    tokens.push({ text: inner, highlight: true, glue: !!lead });
+    if (trail) tokens.push({ text: trail, highlight: false, glue: true });
+    return [...tokens, ...plain(words.slice(start + phrase.length))];
   }
-  return words.map((text) => ({ text, highlight: false }));
+  return plain(words);
 }
 
 function splitLongToken(token, fontSize, maxWidth) {
@@ -161,7 +180,7 @@ function splitLongToken(token, fontSize, maxWidth) {
     while (length > 1 && measureText(rest.slice(0, length), fontSize, "Source Serif 4", 600) > maxWidth) {
       length--;
     }
-    pieces.push({ text: rest.slice(0, length), highlight: token.highlight });
+    pieces.push({ text: rest.slice(0, length), highlight: token.highlight, glue: !pieces.length && token.glue });
     rest = rest.slice(length);
   }
   return pieces;
@@ -169,7 +188,7 @@ function splitLongToken(token, fontSize, maxWidth) {
 
 function tokenLineWidth(tokens, fontSize, weight = 600) {
   return measureText(
-    tokens.map((token) => token.text).join(" "),
+    tokens.map((token, index) => (index && !token.glue ? " " : "") + token.text).join(""),
     fontSize,
     "Source Serif 4",
     weight
@@ -186,7 +205,7 @@ function wrapTokens(tokens, fontSize, maxWidth, weight = 600) {
   let current = [];
   for (const token of expanded) {
     const candidate = [...current, token];
-    if (current.length && tokenLineWidth(candidate, fontSize, weight) > maxWidth) {
+    if (current.length && !token.glue && tokenLineWidth(candidate, fontSize, weight) > maxWidth) {
       lines.push(current);
       current = [token];
     } else {
@@ -254,7 +273,7 @@ function drawTitleLine(tokens, x, baseline, fontSize) {
   const spaceWidth = fontSize * 0.25;
   const elements = [];
   tokens.forEach((token, index) => {
-    if (index) cursor += spaceWidth;
+    if (index && !token.glue) cursor += spaceWidth;
     const width = measureText(token.text, fontSize, "Source Serif 4", 600);
     if (token.highlight) {
       elements.push(`<rect x="${cursor - 5}" y="${baseline - fontSize * 0.79}" width="${width + 10}" height="${fontSize * 0.96}" fill="${colors.leafTint}"/>`);

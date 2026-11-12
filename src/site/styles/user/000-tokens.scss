@@ -39,6 +39,8 @@
   --garden-ink-muted: oklch(43% 0.035 152);
   --garden-leaf: oklch(47% 0.13 140);
   --garden-leaf-hover: oklch(39% 0.12 140);
+  /* Apparatus highlighter: one optional title phrase, never body text. Matches the OG card leafTint. */
+  --garden-leaf-tint: #d9e4b5;
   --garden-clay: oklch(54% 0.14 46);
   --garden-coral: oklch(64% 0.19 28);
   --garden-rule: oklch(24% 0.052 152 / 18%);
@@ -120,6 +122,7 @@ html.theme-dark {
   --garden-ink-muted: oklch(72% 0.026 118);
   --garden-leaf: oklch(70% 0.13 140);
   --garden-leaf-hover: oklch(78% 0.12 140);
+  --garden-leaf-tint: oklch(70% 0.13 140 / 24%);
   --garden-clay: oklch(68% 0.13 46);
   --garden-coral: oklch(62% 0.11 32);
   --garden-rule: oklch(91% 0.025 105 / 18%);

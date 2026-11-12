@@ -17,6 +17,7 @@ const {
   makeDefaultSvg,
   makeIssueSvg,
   renderSvg,
+  titleTokens,
 } = require("./generate-og-card");
 
 const temporaryDirectories = [];
@@ -91,6 +92,24 @@ describe("issue OG-card rendering", () => {
     }
     expect(fs.existsSync(path.join(output, "445.png"))).toBe(false);
     expect(fs.existsSync(path.join(output, "457.png"))).toBe(false);
+  });
+
+  test("highlights a phrase that ends at title punctuation without tinting the punctuation", () => {
+    expect(titleTokens("Who Sets the Terms?", "the Terms")).toEqual([
+      { text: "Who", highlight: false },
+      { text: "Sets", highlight: false },
+      { text: "the Terms", highlight: true, glue: false },
+      { text: "?", highlight: false, glue: true },
+    ]);
+    const svg = makeIssueSvg({
+      number: 456,
+      title: "Who Sets the Terms?",
+      highlight: "the Terms",
+      date: { iso: "2026-11-11" },
+      description: "Knowing what AI can do isn’t the same as having a choice about it.",
+    });
+    expect(svg).toContain("fill=\"#d9e4b5\"");
+    expect(svg).toMatch(/>\?<\/text>/);
   });
 
   test("supports optional highlight metadata and clips long titles and descriptions safely", () => {

@@ -122,3 +122,32 @@ describe("newsletter card metadata", () => {
       .toBe("https://digitallyliterate.net/img/apparatus/og.png");
   });
 });
+
+describe("title highlighter (og_highlight)", () => {
+  async function render(markdown, env) {
+    const { default: MarkdownIt } = await import("markdown-it");
+    const md = new MarkdownIt({ html: true });
+    userSetup.userMarkdownSetup(md);
+    return md.render(markdown, env);
+  }
+
+  test("wraps the og_highlight phrase in the first H1 only, leaving punctuation outside", async () => {
+    const html = await render("# Who Sets the Terms?\n\nWho sets the terms in body text?\n\n# Who Sets the Terms?", {
+      "dg-note-properties": { og_highlight: "the Terms" },
+    });
+    expect(html).toContain('<h1>Who Sets <mark class="dl-title-highlight">the Terms</mark>?</h1>');
+    expect(html.match(/<mark/g)).toHaveLength(1);
+    expect(html).toContain("<p>Who sets the terms in body text?</p>");
+  });
+
+  test("matches case-insensitively on word boundaries and ignores partial words", async () => {
+    const env = (phrase) => ({ "dg-note-properties": { og_highlight: phrase } });
+    expect(await render("# Who Said No?", env("said no"))).toContain('<mark class="dl-title-highlight">Said No</mark>?');
+    expect(await render("# Who Sets the Terms?", env("the Term"))).not.toContain("<mark");
+    expect(await render("# Who’s Next", env("Who's"))).toContain('<mark class="dl-title-highlight">Who’s</mark>');
+  });
+
+  test("does nothing without og_highlight", async () => {
+    expect(await render("# Who Sets the Terms?", {})).toBe("<h1>Who Sets the Terms?</h1>\n");
+  });
+});
