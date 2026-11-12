@@ -18,7 +18,7 @@ evidence. Exact values and behavior must be verified in the active code.
 **Rollout status (November 10, 2026):** Apparatus alignment Phase 1 (typography
 and default OG card) and Phase 2 (automatic issue-specific OG cards) are
 complete and deployed. The default OG card is live. Issue-specific OG cards are
-generated automatically during the Netlify build for issues 455 onward. DL
+generated automatically during the Netlify build for issues 446 onward (extended from 455 on November 12, 2026). DL
 retains its reader-controlled light/dark theme. Substack branding is a separate
 platform adaptation and is not governed by this site's implementation guide.
 
