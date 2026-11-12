@@ -770,6 +770,25 @@ body.dl-home .sidebar {
   display: none;
 }
 
+/* Same problem on newsletter issues: the inline sidebar lands after the
+ * last paragraph as a boxed TOC that repeats the title (wide screens), or
+ * as an invisible bottom-sheet that still reserves ~400px of blank space
+ * (narrower screens). An issue's h2s are already its map, so drop it. */
+body.dl-note:has(.content.dl-newsletter) aside {
+  display: none;
+}
+
+/* custom-style.scss hides every <hr> ("No-Line Rule"). On an issue, restore
+ * only the first one, the break between the masthead intro and the essay,
+ * and skip it when a heading follows, since h2s already carry a top rule. */
+body.dl-note .content.dl-newsletter hr:first-of-type:not(:has(+ h1, + h2, + h3)) {
+  display: block;
+  height: 0;
+  margin: clamp(var(--garden-space-lg), 5vw, var(--garden-space-xl)) 0;
+  border: 0;
+  border-top: var(--garden-rule-width) solid var(--garden-rule);
+}
+
 .site-footer {
   width: 100%;
   max-width: calc(var(--garden-shell) + 3rem);
