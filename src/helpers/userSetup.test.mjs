@@ -173,3 +173,17 @@ describe("issue chrome (label + closing block)", () => {
     expect(issueChrome(props({ issue: 458, substack_url: "javascript:alert(1)" }), "DL 458").substackUrl).toBe("");
   });
 });
+
+describe("issue intro (all issues)", () => {
+  const { issueIntro } = userSetup;
+
+  test("applies to every newsletter issue, including the archive", () => {
+    expect(issueIntro({ categories: "Newsletter", issue: 120, published: "2018-03-04" }, "DL 120")).toMatchObject({ number: 120 });
+    expect(issueIntro({ categories: "Newsletter", issue: 456, substack_url: "https://digitallyliterate.substack.com/p/who-sets-the-terms" }, "DL 456").substackUrl)
+      .toBe("https://digitallyliterate.substack.com/p/who-sets-the-terms");
+  });
+
+  test("skips non-newsletter notes", () => {
+    expect(issueIntro({ categories: "Evergreen" }, "Some Note")).toBeNull();
+  });
+});

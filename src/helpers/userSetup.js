@@ -164,21 +164,32 @@ function newsletterIssueDescription(item) {
 const ISSUE_CHROME_FROM = 456;
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-function issueChrome(properties, fileSlug, inputPath) {
+function issueInfo(properties, fileSlug, inputPath) {
   properties = properties || {};
   var item = { data: { "dg-note-properties": properties }, fileSlug: fileSlug || "", inputPath: inputPath };
   if (!hasCategory(item, "Newsletter")) return null;
-  var number = newsletterIssueNumber(item);
-  if (number < ISSUE_CHROME_FROM) return null;
   var parsed = stableUtcDate(newsletterIssueDate(item).display);
   var substackUrl = String(properties.substack_url || "").trim();
   return {
-    number: number,
+    number: newsletterIssueNumber(item),
     date: parsed
       ? MONTHS[parsed.getUTCMonth()] + " " + parsed.getUTCDate() + ", " + parsed.getUTCFullYear()
       : "",
     substackUrl: /^https:\/\/[^\s]+$/.test(substackUrl) ? substackUrl : "",
   };
+}
+
+// Label + closing block: new-format issues only.
+function issueChrome(properties, fileSlug, inputPath) {
+  var info = issueInfo(properties, fileSlug, inputPath);
+  return info && info.number >= ISSUE_CHROME_FROM ? info : null;
+}
+
+// "About this letter" intro above the title: every newsletter issue, so a
+// first-time reader landing on any issue can see who writes it, subscribe,
+// get in touch, or find the main blog.
+function issueIntro(properties, fileSlug, inputPath) {
+  return issueInfo(properties, fileSlug, inputPath);
 }
 
 function resolveOgImage(explicitImage, properties, fileSlug, categories, baseUrl) {
@@ -227,6 +238,7 @@ function archetypeClass(item) {
 function userEleventySetup(eleventyConfig) {
   eleventyConfig.addFilter("apparatusOgImage", resolveOgImage);
   eleventyConfig.addFilter("dlIssueChrome", issueChrome);
+  eleventyConfig.addFilter("dlIssueIntro", issueIntro);
   eleventyConfig.addPassthroughCopy({
     "src/site/generated/og/issues": "/og/issues",
   });
@@ -373,3 +385,4 @@ exports.resolveOgImage = resolveOgImage;
 exports.titleHighlightPattern = titleHighlightPattern;
 exports.issueChrome = issueChrome;
 exports.ISSUE_CHROME_FROM = ISSUE_CHROME_FROM;
+exports.issueIntro = issueIntro;
