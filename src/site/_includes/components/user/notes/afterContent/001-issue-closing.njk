@@ -1,13 +1,15 @@
 {#
   Closing block after the issue body, from issue 456 on (see issueChrome in
-  src/helpers/userSetup.js). The masthead blurb lives in the intro above the
-  title (000-issue-intro.njk); this is the short sign-off for readers who
-  made it to the end.
+  src/helpers/userSetup.js). The masthead blurb lives in the intro after the
+  summary; this is the short sign-off for readers who made it to the end.
+  The Substack link falls back to the publication home page when the note
+  has no substack_url.
 #}
 {%- set dlIssue = noteProps | dlIssueChrome(page.fileSlug, page.inputPath) -%}
 {%- if dlIssue -%}
+{%- set substack = dlIssue | dlSubstackLink -%}
 <section class="dl-issue-closing" aria-label="Stay connected">
   <p class="dl-issue-closing__label">Stay connected</p>
-  <p>Questions, corrections, or ideas? Write to <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>.{% if dlIssue.substackUrl %} You can also <a href="{{ dlIssue.substackUrl }}">comment on this issue on Substack</a>.{% endif %} If someone sent you this, <a href="/subscribe/">subscribe</a> to get the next one by email.</p>
+  <p>Questions, corrections, or ideas? Write to <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>. You can also {% if substack.comment %}<a href="{{ substack.href }}">comment on this issue on Substack</a>{% else %}<a href="{{ substack.href }}">read Digitally Literate on Substack</a>{% endif %}. If someone sent you this, <a href="/subscribe/">subscribe</a> to get the next one by email.</p>
 </section>
 {%- endif -%}

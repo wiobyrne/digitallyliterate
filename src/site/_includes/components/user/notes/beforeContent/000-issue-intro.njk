@@ -1,13 +1,7 @@
 {#
-  "About this letter" intro above every newsletter issue (see issueIntro in
-  src/helpers/userSetup.js), so a first-time reader can see who writes it,
-  subscribe, get in touch, or find the main blog. Not an <aside>: issue
-  pages hide aside (the TOC panel).
+  "About this letter" intro above the title for archive issues (before
+  ISSUE_CHROME_FROM). Newer issues get the same block after their summary
+  from issueIntroRule. Both come from issueIntroHtml in
+  src/helpers/userSetup.js. Not an <aside>: issue pages hide aside.
 #}
-{%- set dlIntro = noteProps | dlIssueIntro(page.fileSlug, page.inputPath) -%}
-{%- if dlIntro -%}
-<section class="dl-issue-intro" aria-label="About Digitally Literate">
-  <p><strong>Digitally Literate</strong> is a weekly letter by <a href="https://wiobyrne.com/">Ian O'Byrne</a> about the forces shaping how we read, write, learn, and live in digital spaces.</p>
-  <p class="dl-issue-intro__links"><a href="/subscribe/">Subscribe</a> <span aria-hidden="true">·</span> <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a> <span aria-hidden="true">·</span> <a href="https://wiobyrne.com/">Main blog</a>{% if dlIntro.substackUrl %} <span aria-hidden="true">·</span> <a href="{{ dlIntro.substackUrl }}">Comment on Substack</a>{% endif %}</p>
-</section>
-{%- endif -%}
+{{- noteProps | dlIssueIntroTop(page.fileSlug, page.inputPath) | safe -}}
