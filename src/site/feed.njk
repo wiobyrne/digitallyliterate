@@ -8,6 +8,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="{{ meta.siteBaseUrl }}">
   <title>{{ meta.siteName}}</title>
+  <subtitle>{{ meta.siteDescription }}</subtitle>
   <link href="{{ meta.siteBaseUrl }}{{ permalink }}" rel="self"/>
   <link href="{{ meta.siteBaseUrl }}"/>
   <updated>{{ collections.notes | getNewestCollectionItemDate | dateToRfc3339 }}</updated>

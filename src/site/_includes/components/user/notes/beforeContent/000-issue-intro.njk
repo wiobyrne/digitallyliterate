@@ -1,7 +1,7 @@
 {#
-  "About this letter" intro above the title for archive issues (before
+  Shared identity intro above the title for archive issues (before
   ISSUE_CHROME_FROM). Newer issues get the same block after their summary
-  from issueIntroRule. Both come from issueIntroHtml in
+  from issueIntroRule. Both use dlCopy.js via issueIntroHtml in
   src/helpers/userSetup.js. Not an <aside>: issue pages hide aside.
 #}
 {{- noteProps | dlIssueIntroTop(page.fileSlug, page.inputPath) | safe -}}

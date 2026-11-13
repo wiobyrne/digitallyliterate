@@ -1,14 +1,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+{% set isDlHome = page.url == "/" %}
 {% if metatags %}
     {% for name, content in metatags %}
+        {% set renderedContent = meta.siteDescription if isDlHome and (name == "description" or name == "og:description") else content %}
         {% if name.includes("og:") %}
-          <meta property="{{ name }}" content="{{ content }}">
+          <meta property="{{ name }}" content="{{ renderedContent }}">
         {% else %}
-          <meta name="{{ name }}" content="{{ content }}">
+          <meta name="{{ name }}" content="{{ renderedContent }}">
         {% endif %}
     {% endfor %}
+{% elif isDlHome %}
+    <meta name="description" content="{{ meta.siteDescription }}">
+    <meta property="og:description" content="{{ meta.siteDescription }}">
 {% endif %}
 
 <script type="importmap">

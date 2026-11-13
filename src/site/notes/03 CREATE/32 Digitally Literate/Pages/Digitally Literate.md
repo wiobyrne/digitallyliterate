@@ -1,31 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/03-create/32-digitally-literate/pages/digitally-literate/","title":"Digitally Literate","metatags":{"description":"A newsletter and connected notebook about how we read, write, learn, and live in digital spaces.","og:title":"Digitally Literate","og:description":"A newsletter and connected notebook about how we read, write, learn, and live in digital spaces.","og:type":"website"},"contentClasses":"dl-note dl-page","tags":["digital-literacy","newsletter","digital-garden","gardenEntry"],"dg-note-properties":{"title":"Digitally Literate","categories":"Page","tags":["digital-literacy","newsletter","digital-garden","gardenEntry"],"created":"2024-11-16","last_updated":"2026-07-21","description":"A newsletter and connected notebook about how we read, write, learn, and live in digital spaces."}}
+{"dg-publish":true,"permalink":"/03-create/32-digitally-literate/pages/digitally-literate/","title":"Digitally Literate","metatags":{"description":"A newsletter and connected notebook about how we read, write, learn, and live in digital spaces.","og:title":"Digitally Literate","og:description":"A newsletter and connected notebook about how we read, write, learn, and live in digital spaces.","og:type":"website"},"contentClasses":"dl-note dl-page","tags":["digital-literacy","newsletter","digital-garden","gardenEntry"],"dg-note-properties":{"title":"Digitally Literate","categories":"Page","tags":["digital-literacy","newsletter","digital-garden","gardenEntry"],"created":"2024-11-16","last_updated":"2026-11-13","description":"A newsletter and connected notebook about how we read, write, learn, and live in digital spaces."}}
 ---
 
-# Digitally Literate
+## New here?
 
-**A weekly newsletter about AI, technology, and education—for educators making sense of a changing digital world.**
+Read the latest issue, browse the newsletter archive, or follow an idea into the connected notebook.
 
-Each week, I separate signal from noise, connect research with practice, and share ideas for classrooms, schools, and organizations.
+- **[Browse the archive](/newsletter/)** — every issue, from the early TL;DR years to the current newsletter.
+- **[Explore the garden](/start-here/)** — begin with durable ideas and guided paths through connected issues.
+- **[Visit wiobyrne.com](https://wiobyrne.com)** — essays, publications, book notes, and more from Ian O’Byrne.
 
-[Read the newsletter](/newsletter/) · [Subscribe](/subscribe/)
+The newsletter records what I’m thinking about now. The notebook gives ideas more room to develop:
 
----
-
-## Start here
-
-- **[Browse the archive](/newsletter/)** — explore every newsletter issue.
-- **[Explore the garden](/start-here/)** — follow ideas through Evergreens, Groves, and Forests.
-- **[Visit wiobyrne.com](https://wiobyrne.com)** — find finished essays, book notes, publications, and professional information.
-
----
-
-## Beyond the newsletter
-
-Some ideas need room to develop across issues rather than starting over each week. The connected notebook organizes those paths through three kinds of public notes:
-
-- **Evergreens** explain durable ideas and change as my thinking develops.
-- **Groves** connect notes and newsletter issues around a question or theme.
-- **Forests** index everything published here about a broader topic.
+- **Evergreens** explain a durable idea on its own.
+- **Groves** are guided paths through related Evergreens and newsletter issues.
+- **Forests** gather published work around a broader topic.
 
 [Learn how the site works](/start-here/)

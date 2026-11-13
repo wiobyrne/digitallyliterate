@@ -53,7 +53,10 @@
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | taggify | link | resolveMdLinks | safe}}
+      {% set isDlHome = tags and "gardenEntry" in tags %}
+      {% if not isDlHome %}
+        {{ content | hideDataview | taggify | link | resolveMdLinks | safe}}
+      {% endif %}
       {% set slotName = "common.afterContent" %}{% include "components/pluginSlot.njk" %}
       {% set slotName = "index.afterContent" %}{% include "components/pluginSlot.njk" %}
       {% for imp in dynamics.common.afterContent %}
@@ -62,6 +65,9 @@
       {% for imp in dynamics.index.afterContent %}
         {% include imp %}
       {% endfor %}
+      {% if isDlHome %}
+        {{ content | hideDataview | taggify | link | resolveMdLinks | safe}}
+      {% endif %}
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true or dynamics.sidebar.top.length > 0 or dynamics.sidebar.bottom.length > 0 or plugins.slots["sidebar.top"] or plugins.slots["sidebar.bottom"] %}

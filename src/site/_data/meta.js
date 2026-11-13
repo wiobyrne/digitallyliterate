@@ -1,5 +1,6 @@
 require("dotenv").config();
 const { globSync } = require("glob");
+const dlCopy = require("./dlCopy");
 
 module.exports = async (data) => {
   let baseUrl = process.env.SITE_BASE_URL || "";
@@ -107,6 +108,7 @@ module.exports = async (data) => {
     timestampSettings,
     baseTheme: process.env.BASE_THEME || "dark",
     siteName: process.env.SITE_NAME_HEADER || "Digital Garden",
+    siteDescription: dlCopy.tagline,
     siteLogoPath: logoPath,
     logoHeight,
     mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",

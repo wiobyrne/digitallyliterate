@@ -4,6 +4,7 @@ const { performance } = require("node:perf_hooks");
 const matter = require("gray-matter");
 const { Resvg } = require("@resvg/resvg-js");
 const matterOptions = require("../src/helpers/matterOptions");
+const dlCopy = require("../src/site/_data/dlCopy");
 const {
   hasCategory,
   newsletterIssueNumber,
@@ -106,6 +107,9 @@ function makeDefaultSvg() {
   const highlightX = secondPartX - 8;
   const highlightY = titleBaseline - 68;
   const highlightWidth = secondPartWidth + 18;
+  const descriptionMarkup = wrapDescription(dlCopy.tagline, 28, 1004, 3)
+    .map((line, index) => `<text x="98" y="${374 + index * 38}" fill="${colors.muted}" font-family="Source Serif 4" font-size="28" font-weight="400">${escapeXml(line)}</text>`)
+    .join("\n  ");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}">
@@ -117,8 +121,7 @@ function makeDefaultSvg() {
   <text x="${titleX}" y="${titleBaseline}" fill="${colors.ink}" font-family="Source Serif 4" font-size="${titleSize}" font-weight="600">${escapeXml(firstTitlePart)}</text>
   <text x="${secondPartX}" y="${titleBaseline}" fill="${colors.ink}" font-family="Source Serif 4" font-size="${titleSize}" font-weight="600">${secondTitlePart}</text>
 
-  <text x="98" y="374" fill="${colors.muted}" font-family="Source Serif 4" font-size="28" font-weight="400">A weekly newsletter and connected notebook</text>
-  <text x="98" y="416" fill="${colors.muted}" font-family="Source Serif 4" font-size="28" font-weight="400">on AI, technology, and education for educators.</text>
+  ${descriptionMarkup}
 
   <g transform="translate(98 526)" fill="none" stroke="${colors.siblingGreen}" stroke-width="2" opacity="0.18">
     <rect width="38" height="38"/>
