@@ -1,0 +1,8 @@
+{% if tags and "gardenEntry" in tags %}
+<section class="dl-home-intro" aria-labelledby="dl-home-title">
+  <h1 id="dl-home-title">{{ title or "Digitally Literate" }}</h1>
+  <p class="dl-home-tagline">{{ dlCopy.tagline }}</p>
+  <p class="dl-home-deck">{{ dlCopy.intro }}</p>
+  <p class="dl-home-actions"><a class="dl-home-read" href="#latest-issue-heading">Read the latest issue <span aria-hidden="true">↓</span></a><a class="dl-home-subscribe" href="{{ dlCopy.subscribeUrl }}">Subscribe <span aria-hidden="true">→</span></a></p>
+</section>
+{% endif %}

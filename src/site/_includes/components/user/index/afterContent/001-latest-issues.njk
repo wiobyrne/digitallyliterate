@@ -15,7 +15,6 @@
     <h3><a href="{{ featuredIssue.url }}">{{ featuredIssue.data.title }}</a></h3>
     {% if featuredIssue.data.issueDescription %}<p class="latest-issue-description">{{ featuredIssue.data.issueDescription }}</p>{% endif %}
   </article>
-
   {% if latestIssues | length > 2 %}
   <h3 class="home-subsection-heading">Recent issues</h3>
   <div class="issue-list" role="list">
@@ -30,6 +29,6 @@
     {% endfor %}
   </div>
   {% endif %}
-  <p class="issue-subscribe">New issues every Wednesday. <a href="/subscribe/">Subscribe <span aria-hidden="true">→</span></a></p>
+  <p class="issue-subscribe">New issues every Wednesday. <a href="{{ dlCopy.subscribeUrl }}">Subscribe <span aria-hidden="true">→</span></a></p>
 </section>
 {% endif %}

@@ -153,14 +153,17 @@ Evergreens. Public collections read `categories`, only.
 
 The front door. Use the shared Apparatus cues from wiobyrne.com: a generous
 single column, Source Serif page title and issue titles, quiet mono metadata,
-section heads with a small label and clear title, and ruled
-text rows. Keep each face in one role. Order: concise deck, clear Subscribe
-action and archive link → latest issue featured with its number, date, title,
-and description → four recent issues with the same metadata → recent Evergreens
-and a link to Start Here → compact footer. The template's inline `<h1>` is
-visually hidden; the authored H1 in the note carries the page. The hero has no
-illustration. Keep the Garden taxonomy on Start Here until Groves and Forests
-are published.
+section heads with a small label and clear title, and ruled text rows. Keep
+each face in one role. Order: the shared tagline and introduction with “Read
+the latest issue” and Subscribe actions → latest issue featured with its
+number, date, title, and description → four recent issues → recent Evergreens and up to two published Groves → the
+authored “New here?” pathways and short garden explainer → compact footer.
+Do not show a Forest listing until a Forest is published. The tagline, intro,
+author bio, avatar, and shared links live in `src/site/_data/dlCopy.js`; the
+“New here?” copy remains in the canonical Obsidian homepage note. The home
+intro is rendered by the site template before the generated content lists,
+while that authored note section is rendered after them. The hero has no
+illustration. Groves and Forests remain part of the garden's public structure.
 
 Section-head patterns currently differ across the two sites. wiobyrne.com uses
 a small square-marked label, an italic descriptor, and a right-aligned “View

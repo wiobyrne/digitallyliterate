@@ -20,4 +20,16 @@
   {% else %}
   <p>Notebook pages will appear here as they are ready to share.</p>
   {% endif %}
+  {% if collections.recentGroves | length %}
+  <h3 class="home-subsection-heading">Groves</h3>
+  <div class="notebook-list grove-list" role="list">
+    {% for note in collections.recentGroves %}
+    <article class="notebook-list-row" role="listitem">
+      <a href="{{ note.url }}">{{ note.data.title }}</a>
+      {% set description = note.data["dg-note-properties"].description or note.data.metatags.description %}
+      {% if description %}<p>{{ description }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
 </section>

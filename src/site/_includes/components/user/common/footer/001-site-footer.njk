@@ -1,12 +1,20 @@
 <footer class="site-footer">
   <div class="site-footer-inner">
-    <p class="footer-line">Ian O'Byrne <span aria-hidden="true">·</span> Essays, publications, and book notes live at <a href="https://wiobyrne.com">wiobyrne.com</a></p>
+    {% set footerIssue = noteProps | dlNewsletterInfo(page.fileSlug, page.inputPath) %}
+    {% if not footerIssue %}
+    <div class="footer-author">
+      <img class="footer-avatar" src="{{ dlCopy.avatar }}" alt="" width="40" height="40" loading="lazy">
+      <p class="footer-line">Written by {{ dlCopy.authorName }}, a literacy researcher and professor. Essays, publications, and more at <a href="https://wiobyrne.com/">wiobyrne.com</a>.</p>
+    </div>
+    {% endif %}
     <nav class="footer-links" aria-label="More from Ian">
-      <a href="https://wiobyrne.com/work-with-me/">Work with me</a>
+      <a href="{{ dlCopy.workWithMeUrl }}">Work with me</a>
+      <span aria-hidden="true">·</span>
+      <a href="{{ dlCopy.subscribeUrl }}">Subscribe</a>
       <span aria-hidden="true">·</span>
       <a href="/colophon/">Colophon</a>
       <span aria-hidden="true">·</span>
-      <a href="https://digitallyliterate.substack.com/feed">RSS</a>
+      <a href="/feed.xml">RSS</a>
     </nav>
   </div>
 </footer>

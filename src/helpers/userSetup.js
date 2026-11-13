@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const dlCopy = require("../site/_data/dlCopy");
 
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, function (character) {
@@ -216,6 +217,10 @@ function issueChrome(properties, fileSlug, inputPath) {
   return info && info.number >= ISSUE_CHROME_FROM ? info : null;
 }
 
+function newsletterInfo(properties, fileSlug, inputPath) {
+  return issueInfo(properties, fileSlug, inputPath);
+}
+
 const SUBSTACK_HOME = "https://digitallyliterate.substack.com/";
 
 // Substack link for an issue: the post itself when substack_url is set,
@@ -234,10 +239,10 @@ function issueIntroHtml(info) {
   var substack = substackLink(info);
   var dot = ' <span aria-hidden="true">·</span> ';
   return '<section class="dl-issue-intro" aria-label="About Digitally Literate">' +
-    '<p><strong>Digitally Literate</strong> is a weekly letter by <a href="https://wiobyrne.com/">Ian O\'Byrne</a> about the forces shaping how we read, write, learn, and live in digital spaces.</p>' +
-    '<p class="dl-issue-intro__links"><a href="/subscribe/">Subscribe</a>' + dot +
+    '<p><strong>Digitally Literate</strong>: ' + escapeHtml(dlCopy.tagline) + '</p>' +
+    '<p class="dl-issue-intro__links"><a href="' + dlCopy.subscribeUrl + '">Subscribe</a>' + dot +
     '<a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>' + dot +
-    '<a href="https://wiobyrne.com/">Main blog</a>' + dot +
+    '<a href="https://wiobyrne.com/">wiobyrne.com</a>' + dot +
     '<a href="' + escapeHtml(substack.href) + '">' + (substack.comment ? "Comment on Substack" : "Read on Substack") + '</a></p>' +
     '</section>';
 }
@@ -294,6 +299,7 @@ function archetypeClass(item) {
 function userEleventySetup(eleventyConfig) {
   eleventyConfig.addFilter("apparatusOgImage", resolveOgImage);
   eleventyConfig.addFilter("dlIssueChrome", issueChrome);
+  eleventyConfig.addFilter("dlNewsletterInfo", newsletterInfo);
   eleventyConfig.addFilter("dlIssueIntroTop", issueIntroTop);
   eleventyConfig.addFilter("dlSubstackLink", substackLink);
   eleventyConfig.addPassthroughCopy({
@@ -405,6 +411,21 @@ function userEleventySetup(eleventyConfig) {
     }).sort(function (a, b) {
       return updateDate(b) - updateDate(a);
     }).slice(0, 3);
+  });
+
+  // The homepage can surface up to two published Groves once they exist.
+  eleventyConfig.addCollection("recentGroves", function (collectionApi) {
+    function updateDate(item) {
+      var properties = noteProperties(item);
+      var value = item.data.updated || item.data.last_updated || properties.last_updated || properties.created || item.date || 0;
+      var parsed = value instanceof Date ? value : new Date(value);
+      return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+    }
+    return collectionApi.getFilteredByTag("note").filter(function (item) {
+      return hasCategory(item, "Grove");
+    }).sort(function (a, b) {
+      return updateDate(b) - updateDate(a);
+    }).slice(0, 2);
   });
 
   // Assign the public page archetype class to every note, derived from its
