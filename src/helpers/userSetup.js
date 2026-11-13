@@ -242,7 +242,7 @@ function issueIntroHtml(info) {
     '<p><strong>Digitally Literate</strong>: ' + escapeHtml(dlCopy.tagline) + '</p>' +
     '<p class="dl-issue-intro__links"><a href="' + dlCopy.subscribeUrl + '">Subscribe</a>' + dot +
     '<a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>' + dot +
-    '<a href="https://wiobyrne.com/">Main blog</a>' + dot +
+    '<a href="https://wiobyrne.com/">wiobyrne.com</a>' + dot +
     '<a href="' + escapeHtml(substack.href) + '">' + (substack.comment ? "Comment on Substack" : "Read on Substack") + '</a></p>' +
     '</section>';
 }

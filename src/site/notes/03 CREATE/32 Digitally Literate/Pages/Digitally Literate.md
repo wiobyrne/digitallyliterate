@@ -15,5 +15,3 @@ The newsletter records what I’m thinking about now. The notebook gives ideas m
 - **Evergreens** explain a durable idea on its own.
 - **Groves** are guided paths through related Evergreens and newsletter issues.
 - **Forests** gather published work around a broader topic.
-
-[Learn how the site works](/start-here/)

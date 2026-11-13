@@ -154,9 +154,9 @@ Evergreens. Public collections read `categories`, only.
 The front door. Use the shared Apparatus cues from wiobyrne.com: a generous
 single column, Source Serif page title and issue titles, quiet mono metadata,
 section heads with a small label and clear title, and ruled text rows. Keep
-each face in one role. Order: the shared tagline and introduction → latest
-issue featured with its number, date, title, description, and Subscribe action
-→ four recent issues → recent Evergreens and up to two published Groves → the
+each face in one role. Order: the shared tagline and introduction with “Read
+the latest issue” and Subscribe actions → latest issue featured with its
+number, date, title, and description → four recent issues → recent Evergreens and up to two published Groves → the
 authored “New here?” pathways and short garden explainer → compact footer.
 Do not show a Forest listing until a Forest is published. The tagline, intro,
 author bio, avatar, and shared links live in `src/site/_data/dlCopy.js`; the

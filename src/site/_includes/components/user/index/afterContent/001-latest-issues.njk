@@ -15,8 +15,6 @@
     <h3><a href="{{ featuredIssue.url }}">{{ featuredIssue.data.title }}</a></h3>
     {% if featuredIssue.data.issueDescription %}<p class="latest-issue-description">{{ featuredIssue.data.issueDescription }}</p>{% endif %}
   </article>
-  <p class="home-feature-subscribe"><a href="{{ dlCopy.subscribeUrl }}">Subscribe <span aria-hidden="true">→</span></a></p>
-
   {% if latestIssues | length > 2 %}
   <h3 class="home-subsection-heading">Recent issues</h3>
   <div class="issue-list" role="list">

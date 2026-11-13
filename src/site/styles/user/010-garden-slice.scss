@@ -426,6 +426,10 @@ body.dl-home .content > h2,
   text-transform: none;
 }
 
+body.dl-home .content > h2 {
+  margin-top: clamp(3rem, 7vw, 4.5rem) !important;
+}
+
 body.dl-note .content h3,
 body.dl-note .content h4 {
   color: var(--garden-ink);
@@ -602,6 +606,40 @@ body.dl-note table { border-radius: 0 !important; }
   line-height: 1.7;
 }
 
+.dl-home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7rem 1.1rem;
+  margin: 1.1rem 0 0;
+}
+
+.dl-home-actions a {
+  font-family: var(--garden-font-ui);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.dl-home-read { color: var(--garden-ink) !important; }
+
+.dl-home-subscribe {
+  display: inline-flex;
+  min-height: 2.5rem;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.4rem 0.85rem;
+  border: var(--garden-rule-width) solid var(--garden-rule);
+  color: var(--garden-ink) !important;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.dl-home-subscribe:hover {
+  border-color: var(--garden-leaf);
+  color: var(--garden-leaf) !important;
+}
+
 .garden-index__eyebrow {
   margin: 0;
   color: var(--garden-ink-muted);
@@ -733,31 +771,6 @@ body.dl-home .content .latest-issue-feature > h3 {
   color: var(--garden-ink-muted);
   font-size: 1.05rem;
   line-height: 1.55;
-}
-
-.home-feature-subscribe {
-  margin: -0.5rem 0 1.5rem;
-}
-
-.home-feature-subscribe a {
-  display: inline-flex;
-  min-height: 2.5rem;
-  align-items: center;
-  gap: 0.55rem;
-  padding: 0.4rem 0.85rem;
-  border: var(--garden-rule-width) solid var(--garden-rule);
-  color: var(--garden-ink) !important;
-  font-family: var(--garden-font-meta);
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.06em;
-  text-decoration: none !important;
-  text-transform: uppercase;
-}
-
-.home-feature-subscribe a:hover {
-  border-color: var(--garden-leaf);
-  color: var(--garden-leaf) !important;
 }
 
 body.dl-home .content .issue-list,
@@ -1044,28 +1057,6 @@ body.dl-note .content .dl-issue-label {
 
 body.dl-note .content .dl-issue-label + h1 {
   margin-top: 0;
-}
-
-body.dl-note .content .dl-issue-closing {
-  margin: clamp(var(--garden-space-xl), 6vw, var(--garden-space-2xl)) 0 0;
-  padding-top: var(--garden-space-md);
-  border-top: var(--garden-rule-width) solid var(--garden-rule);
-  color: var(--garden-ink-muted);
-}
-
-body.dl-note .content .dl-issue-closing p {
-  margin: 0 0 0.6rem;
-  font-size: 0.95em;
-}
-
-body.dl-note .content .dl-issue-closing .dl-issue-closing__label {
-  margin-bottom: 0.5rem;
-  color: var(--garden-leaf);
-  font-family: var(--font-sans);
-  font-size: 0.75rem;
-  font-weight: 500;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
 }
 
 body.dl-note .content .dl-issue-author {

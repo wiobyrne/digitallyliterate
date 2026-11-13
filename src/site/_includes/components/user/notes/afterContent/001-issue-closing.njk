@@ -1,16 +1,12 @@
-{# Shared author block after every published newsletter issue. #}
+{# One author and contact block after every published newsletter issue. #}
 {%- set dlIssue = noteProps | dlNewsletterInfo(page.fileSlug, page.inputPath) -%}
 {%- if dlIssue -%}
 {%- set substack = dlIssue | dlSubstackLink -%}
-<section class="dl-issue-closing" aria-label="Stay connected">
-  <p class="dl-issue-closing__label">Stay connected</p>
-  <p>Questions, corrections, or ideas? Write to <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>. You can also {% if substack.comment %}<a href="{{ substack.href }}">comment on this issue on Substack</a>{% else %}<a href="{{ substack.href }}">read Digitally Literate on Substack</a>{% endif %}. If someone sent you this, <a href="{{ dlCopy.subscribeUrl }}">subscribe</a> to get the next one by email.</p>
-</section>
 <section class="dl-issue-author" aria-label="About the author">
   <img src="{{ dlCopy.avatar }}" alt="" width="64" height="64" loading="lazy">
   <div>
     <p>{{ dlCopy.authorBio }}</p>
-    <p class="dl-issue-author__links"><a href="{{ dlCopy.subscribeUrl }}">Subscribe</a><span aria-hidden="true">·</span><a href="{{ dlCopy.workWithMeUrl }}">Work with me</a></p>
+    <p class="dl-issue-author__links">Questions or ideas? <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a><span aria-hidden="true">·</span><a href="{{ substack.href }}">{% if substack.comment %}Comment on Substack{% else %}Read on Substack{% endif %}</a><span aria-hidden="true">·</span><a href="{{ dlCopy.subscribeUrl }}">Subscribe</a><span aria-hidden="true">·</span><a href="{{ dlCopy.workWithMeUrl }}">Work with me</a></p>
   </div>
 </section>
 {%- endif -%}
