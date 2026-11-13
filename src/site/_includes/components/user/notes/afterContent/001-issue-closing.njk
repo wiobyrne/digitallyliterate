@@ -6,7 +6,7 @@
   <img src="{{ dlCopy.avatar }}" alt="" width="64" height="64" loading="lazy">
   <div>
     <p>{{ dlCopy.authorBio }}</p>
-    <p class="dl-issue-author__links">Questions or ideas? <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a><span aria-hidden="true">·</span><a href="{{ substack.href }}">{% if substack.comment %}Comment on Substack{% else %}Read on Substack{% endif %}</a><span aria-hidden="true">·</span><a href="{{ dlCopy.subscribeUrl }}">Subscribe</a><span aria-hidden="true">·</span><a href="{{ dlCopy.workWithMeUrl }}">Work with me</a></p>
+    <p class="dl-issue-author__links"><a href="{{ dlCopy.workWithMeUrl }}">Work with me</a><span aria-hidden="true">·</span><a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a><span aria-hidden="true">·</span><a href="{{ substack.href }}">{% if substack.comment %}Comment on Substack{% else %}Read on Substack{% endif %}</a><span aria-hidden="true">·</span><a href="{{ dlCopy.subscribeUrl }}">Subscribe</a></p>
   </div>
 </section>
 {%- endif -%}
