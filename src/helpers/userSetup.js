@@ -59,9 +59,40 @@ function titleHighlightRule(state) {
   }
 }
 
+// New-format issues (456+) get the "about this letter" intro inside the
+// body, after the title and summary: right before the first top-level rule
+// after the H1. With no rule, it goes after the first paragraph after the
+// H1. Older issues get it above the title from the user slot instead.
+function issueIntroRule(state) {
+  var env = state.env || {};
+  var page = env.page || {};
+  var info = issueChrome(env["dg-note-properties"], page.fileSlug, page.inputPath);
+  if (!info) return;
+  var tokens = state.tokens;
+  var h1 = -1;
+  var firstParagraphEnd = -1;
+  var at = -1;
+  for (var i = 0; i < tokens.length; i++) {
+    var token = tokens[i];
+    if (h1 < 0) {
+      if (token.type === "heading_close" && token.tag === "h1") h1 = i;
+      continue;
+    }
+    if (token.level !== 0) continue;
+    if (token.type === "hr") { at = i; break; }
+    if (firstParagraphEnd < 0 && token.type === "paragraph_close") firstParagraphEnd = i + 1;
+  }
+  if (at < 0) at = firstParagraphEnd >= 0 ? firstParagraphEnd : h1 + 1;
+  if (at <= 0) return;
+  var block = new state.Token("html_block", "", 0);
+  block.content = issueIntroHtml(info) + "\n";
+  tokens.splice(at, 0, block);
+}
+
 function userMarkdownSetup(md) {
   // The md parameter stands for the markdown-it instance used throughout the site generator.
   md.core.ruler.push("dl_title_highlight", titleHighlightRule);
+  md.core.ruler.push("dl_issue_intro", issueIntroRule);
 }
 
 const GARDEN_STATUSES = new Set(["seed", "sprout", "evergreen"]);
@@ -164,21 +195,57 @@ function newsletterIssueDescription(item) {
 const ISSUE_CHROME_FROM = 456;
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-function issueChrome(properties, fileSlug, inputPath) {
+function issueInfo(properties, fileSlug, inputPath) {
   properties = properties || {};
   var item = { data: { "dg-note-properties": properties }, fileSlug: fileSlug || "", inputPath: inputPath };
   if (!hasCategory(item, "Newsletter")) return null;
-  var number = newsletterIssueNumber(item);
-  if (number < ISSUE_CHROME_FROM) return null;
   var parsed = stableUtcDate(newsletterIssueDate(item).display);
   var substackUrl = String(properties.substack_url || "").trim();
   return {
-    number: number,
+    number: newsletterIssueNumber(item),
     date: parsed
       ? MONTHS[parsed.getUTCMonth()] + " " + parsed.getUTCDate() + ", " + parsed.getUTCFullYear()
       : "",
     substackUrl: /^https:\/\/[^\s]+$/.test(substackUrl) ? substackUrl : "",
   };
+}
+
+// Label + closing block: new-format issues only.
+function issueChrome(properties, fileSlug, inputPath) {
+  var info = issueInfo(properties, fileSlug, inputPath);
+  return info && info.number >= ISSUE_CHROME_FROM ? info : null;
+}
+
+const SUBSTACK_HOME = "https://digitallyliterate.substack.com/";
+
+// Substack link for an issue: the post itself when substack_url is set,
+// otherwise the publication's home page, so a missing paste costs nothing.
+function substackLink(info) {
+  return info.substackUrl
+    ? { href: info.substackUrl, comment: true }
+    : { href: SUBSTACK_HOME, comment: false };
+}
+
+// "About this letter" intro on every newsletter issue, so a first-time
+// reader can see who writes it, subscribe, get in touch, or find the main
+// blog. Issues before ISSUE_CHROME_FROM render it above the title (user
+// slot); newer ones render it after the summary (issueIntroRule).
+function issueIntroHtml(info) {
+  var substack = substackLink(info);
+  var dot = ' <span aria-hidden="true">·</span> ';
+  return '<section class="dl-issue-intro" aria-label="About Digitally Literate">' +
+    '<p><strong>Digitally Literate</strong> is a weekly letter by <a href="https://wiobyrne.com/">Ian O\'Byrne</a> about the forces shaping how we read, write, learn, and live in digital spaces.</p>' +
+    '<p class="dl-issue-intro__links"><a href="/subscribe/">Subscribe</a>' + dot +
+    '<a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>' + dot +
+    '<a href="https://wiobyrne.com/">Main blog</a>' + dot +
+    '<a href="' + escapeHtml(substack.href) + '">' + (substack.comment ? "Comment on Substack" : "Read on Substack") + '</a></p>' +
+    '</section>';
+}
+
+// Slot version: archive issues only (newer issues get it from the rule).
+function issueIntroTop(properties, fileSlug, inputPath) {
+  var info = issueInfo(properties, fileSlug, inputPath);
+  return info && info.number < ISSUE_CHROME_FROM ? issueIntroHtml(info) : "";
 }
 
 function resolveOgImage(explicitImage, properties, fileSlug, categories, baseUrl) {
@@ -227,6 +294,8 @@ function archetypeClass(item) {
 function userEleventySetup(eleventyConfig) {
   eleventyConfig.addFilter("apparatusOgImage", resolveOgImage);
   eleventyConfig.addFilter("dlIssueChrome", issueChrome);
+  eleventyConfig.addFilter("dlIssueIntroTop", issueIntroTop);
+  eleventyConfig.addFilter("dlSubstackLink", substackLink);
   eleventyConfig.addPassthroughCopy({
     "src/site/generated/og/issues": "/og/issues",
   });
@@ -373,3 +442,6 @@ exports.resolveOgImage = resolveOgImage;
 exports.titleHighlightPattern = titleHighlightPattern;
 exports.issueChrome = issueChrome;
 exports.ISSUE_CHROME_FROM = ISSUE_CHROME_FROM;
+exports.issueIntroTop = issueIntroTop;
+exports.issueIntroRule = issueIntroRule;
+exports.substackLink = substackLink;

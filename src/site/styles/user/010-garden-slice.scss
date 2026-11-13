@@ -927,6 +927,40 @@ body.dl-note .content.dl-newsletter hr:first-of-type:not(:has(+ h1, + h2, + h3))
   .home-section-more { margin-top: 0; }
 }
 
+/* "About this letter" intro above every issue's title (user slot, all
+ * issues). A quiet bracket: leaf rule on the left, muted sans text. */
+body.dl-note .content .dl-issue-intro {
+  margin: 0 0 var(--garden-space-lg);
+  padding: 0.15rem 0 0.15rem 0.9rem;
+  border-left: 3px solid var(--garden-leaf);
+  color: var(--garden-ink-muted);
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+body.dl-note .content .dl-issue-intro p {
+  margin: 0;
+}
+
+body.dl-note .content .dl-issue-intro strong {
+  color: var(--garden-ink);
+  font-weight: 600;
+}
+
+body.dl-note .content .dl-issue-intro .dl-issue-intro__links {
+  margin-top: 0.3rem;
+}
+
+body.dl-note .content .dl-issue-intro + h1 {
+  margin-top: 0;
+}
+
+/* New-format issues: the intro sits after the summary, inside the body. */
+body.dl-note .content h1 ~ .dl-issue-intro {
+  margin: var(--garden-space-lg) 0 0;
+}
+
 /* Issue chrome from user slots (issues 456+): a mono label above the title
  * and a closing block after the body. See components/user/notes/. */
 body.dl-note .content .dl-issue-label {

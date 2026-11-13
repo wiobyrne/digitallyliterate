@@ -173,3 +173,40 @@ describe("issue chrome (label + closing block)", () => {
     expect(issueChrome(props({ issue: 458, substack_url: "javascript:alert(1)" }), "DL 458").substackUrl).toBe("");
   });
 });
+
+describe("issue intro", () => {
+  const { issueIntroTop, issueIntroRule, substackLink } = userSetup;
+  const MarkdownIt = require("markdown-it");
+  const render = (src, props, slug) => {
+    const md = new MarkdownIt({ html: true });
+    md.core.ruler.push("dl_issue_intro", issueIntroRule);
+    return md.render(src, { "dg-note-properties": props, page: { fileSlug: slug } });
+  };
+
+  test("archive issues get it above the title from the slot; new issues don't", () => {
+    expect(issueIntroTop({ categories: "Newsletter", issue: 300 }, "DL 300")).toContain("dl-issue-intro");
+    expect(issueIntroTop({ categories: "Newsletter", issue: 456 }, "DL 456")).toBe("");
+    expect(issueIntroTop({ categories: "Evergreen" }, "Some Note")).toBe("");
+  });
+
+  test("new issues get it after the summary, right before the first rule", () => {
+    const html = render("# Title\n\nSummary.\n\n---\n\nEssay.\n\n---\n\nMore.", { categories: "Newsletter", issue: 456 }, "DL 456");
+    expect(html.indexOf("dl-issue-intro")).toBeGreaterThan(html.indexOf("Summary."));
+    expect(html.indexOf("dl-issue-intro")).toBeLessThan(html.indexOf("<hr>"));
+    expect(html.match(/dl-issue-intro"/g)).toHaveLength(1);
+  });
+
+  test("with no rule it follows the first paragraph; archive and non-issues untouched", () => {
+    const html = render("# Title\n\nSummary.\n\nEssay.", { categories: "Newsletter", issue: 457 }, "DL 457");
+    expect(html.indexOf("dl-issue-intro")).toBeGreaterThan(html.indexOf("Summary."));
+    expect(html.indexOf("dl-issue-intro")).toBeLessThan(html.indexOf("Essay."));
+    expect(render("# T\n\nA\n\n---\n", { categories: "Newsletter", issue: 300 }, "DL 300")).not.toContain("dl-issue-intro");
+    expect(render("# T\n\nA\n\n---\n", { categories: "Evergreen" }, "Note")).not.toContain("dl-issue-intro");
+  });
+
+  test("Substack link uses the post when set, else the publication home", () => {
+    expect(substackLink({ substackUrl: "https://digitallyliterate.substack.com/p/x" })).toEqual({ href: "https://digitallyliterate.substack.com/p/x", comment: true });
+    expect(substackLink({ substackUrl: "" })).toEqual({ href: "https://digitallyliterate.substack.com/", comment: false });
+    expect(issueIntroTop({ categories: "Newsletter", issue: 300 }, "DL 300")).toContain("Read on Substack");
+  });
+});
