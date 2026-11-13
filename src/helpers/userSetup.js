@@ -157,6 +157,30 @@ function newsletterIssueDescription(item) {
     (item.data.metatags && item.data.metatags.description) || "";
 }
 
+// Issue chrome (label above the title, closing block after the body) is
+// rendered by user slot components, so it survives plugin template updates.
+// It starts at ISSUE_CHROME_FROM so the archive keeps its hand-written
+// masthead and sign-off lines exactly as published.
+const ISSUE_CHROME_FROM = 456;
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+function issueChrome(properties, fileSlug, inputPath) {
+  properties = properties || {};
+  var item = { data: { "dg-note-properties": properties }, fileSlug: fileSlug || "", inputPath: inputPath };
+  if (!hasCategory(item, "Newsletter")) return null;
+  var number = newsletterIssueNumber(item);
+  if (number < ISSUE_CHROME_FROM) return null;
+  var parsed = stableUtcDate(newsletterIssueDate(item).display);
+  var substackUrl = String(properties.substack_url || "").trim();
+  return {
+    number: number,
+    date: parsed
+      ? MONTHS[parsed.getUTCMonth()] + " " + parsed.getUTCDate() + ", " + parsed.getUTCFullYear()
+      : "",
+    substackUrl: /^https:\/\/[^\s]+$/.test(substackUrl) ? substackUrl : "",
+  };
+}
+
 function resolveOgImage(explicitImage, properties, fileSlug, categories, baseUrl) {
   var canonicalBase = baseUrl || "https://digitallyliterate.net";
   var note = {
@@ -202,6 +226,7 @@ function archetypeClass(item) {
 
 function userEleventySetup(eleventyConfig) {
   eleventyConfig.addFilter("apparatusOgImage", resolveOgImage);
+  eleventyConfig.addFilter("dlIssueChrome", issueChrome);
   eleventyConfig.addPassthroughCopy({
     "src/site/generated/og/issues": "/og/issues",
   });
@@ -346,3 +371,5 @@ exports.newsletterIssueDate = newsletterIssueDate;
 exports.newsletterIssueDescription = newsletterIssueDescription;
 exports.resolveOgImage = resolveOgImage;
 exports.titleHighlightPattern = titleHighlightPattern;
+exports.issueChrome = issueChrome;
+exports.ISSUE_CHROME_FROM = ISSUE_CHROME_FROM;

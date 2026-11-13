@@ -1,0 +1,13 @@
+{#
+  Closing block after the issue body, from issue 456 on (see issueChrome in
+  src/helpers/userSetup.js). Replaces the hand-typed masthead blurb and
+  "As always, my email is…" lines, which new issue notes can drop.
+#}
+{%- set dlIssue = noteProps | dlIssueChrome(page.fileSlug, page.inputPath) -%}
+{%- if dlIssue -%}
+<section class="dl-issue-closing" aria-label="Stay connected">
+  <p class="dl-issue-closing__label">Stay connected</p>
+  <p>Send questions, corrections, or ideas to <a href="mailto:hello@wiobyrne.com">hello@wiobyrne.com</a>.</p>
+  <p>Digitally Literate is a weekly letter about the forces shaping how we read, write, learn, and live in digital spaces. <a href="/subscribe/">Subscribe</a> to get each issue by email.{% if dlIssue.substackUrl %} You can also <a href="{{ dlIssue.substackUrl }}">read and comment on this issue on Substack</a>.{% endif %}</p>
+</section>
+{%- endif -%}
