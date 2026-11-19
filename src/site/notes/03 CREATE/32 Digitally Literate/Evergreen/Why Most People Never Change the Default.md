@@ -59,6 +59,10 @@ Open questions:
 - [[03 CREATE/32 Digitally Literate/Evergreen/Privacy by Design\|Privacy by Design]]: why staying safe shouldn't depend on each person finding the right settings.
 - [[03 CREATE/32 Digitally Literate/Evergreen/What Can People Do About AI?\|What Can People Do About AI?]]: four questions for finding who decides, which is often the same as who set the default.
 
+## Appears in
+
+- [[03 CREATE/32 Digitally Literate/Groves/Privacy\|Privacy]]: the second stop, on why the default is the decision for most people.
+
 ## Sources and further reading
 
 - Eric J. Johnson and Daniel Goldstein, ["Do Defaults Save Lives?"](https://doi.org/10.1126/science.1091721) (*Science* 302, no. 5649, 2003).

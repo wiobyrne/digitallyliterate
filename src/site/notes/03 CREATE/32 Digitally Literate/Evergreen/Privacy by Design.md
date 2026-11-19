@@ -78,6 +78,10 @@ Open questions:
 - [[03 CREATE/32 Digitally Literate/Evergreen/Why Most People Never Change the Default\|Why Most People Never Change the Default]]: why whoever sets the default makes the decision for nearly everyone.
 - [[03 CREATE/32 Digitally Literate/Evergreen/Is It a Promise or a Guarantee?\|Is It a Promise or a Guarantee?]]: the difference between a company that promises not to look and a system that cannot.
 
+## Appears in
+
+- [[03 CREATE/32 Digitally Literate/Groves/Privacy\|Privacy]]: the first stop, the core idea the route builds on.
+
 ## Sources and further reading
 
 - Ann Cavoukian, *Privacy by Design: The 7 Foundational Principles* (Information and Privacy Commissioner of Ontario, 2009).

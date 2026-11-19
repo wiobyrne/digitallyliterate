@@ -58,6 +58,10 @@ Open questions:
 
 - [[03 CREATE/32 Digitally Literate/Evergreen/Privacy by Design\|Privacy by Design]]: why staying safe shouldn't depend on each person finding the right settings.
 
+## Appears in
+
+- [[03 CREATE/32 Digitally Literate/Groves/Privacy\|Privacy]]: the fourth stop, on what a privacy promise can and cannot protect.
+
 ## Sources and further reading
 
 - [NPR: Judge OKs sale of 23andMe, and its trove of DNA data, to a nonprofit led by its founder (June 30, 2025)](https://www.npr.org/2025/06/30/nx-s1-5451398/23andme-sale-approved-dna-data)
