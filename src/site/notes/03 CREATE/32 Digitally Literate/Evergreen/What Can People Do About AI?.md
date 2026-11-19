@@ -74,6 +74,10 @@ Open questions:
 - [[03 CREATE/32 Digitally Literate/Evergreen/The Hugging Face Incident\|The Hugging Face Incident]]: what happened when an AI system’s permissions and oversight failed together.
 - [[03 CREATE/32 Digitally Literate/Evergreen/Privacy by Design\|Privacy by Design]]: who sets the defaults, which is another way of asking who made the decision.
 
+## Appears in
+
+- [[03 CREATE/32 Digitally Literate/Groves/Privacy\|Privacy]]: the closing stop, with four questions for challenging a technology adopted around you.
+
 ## Sources and further reading
 
 - [Blueprint for an AI Bill of Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/) (White House Office of Science and Technology Policy, 2022), especially its principles on notice and explanation and on human alternatives and fallback.
